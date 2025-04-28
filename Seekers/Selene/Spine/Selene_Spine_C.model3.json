@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1fb0bb5cb7dff84ba400ab15a7879d4493a6dc0a2d30ec5c57fa3c017d901248
-size 417
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Selene_Spine_C.moc3",
+    "Textures": ["Selene_Spine_C_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 3": [
+        {
+          "File": "Selene_Spine_C_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 3": [
+        {
+          "File": "Selene_Spine_C_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

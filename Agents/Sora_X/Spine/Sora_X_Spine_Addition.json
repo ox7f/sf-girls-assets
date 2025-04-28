@@ -1,3 +1,141 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6ce4ecae5ab0212b6b6409c5f4da595c8de04392105462115be01e1c55097e8
-size 4077
+{
+  "skeleton": {
+    "hash": "jBS0gVAVQhWn63+04BB3kMMmkl4",
+    "spine": "3.8.99",
+    "x": -1077.73,
+    "y": 1369.24,
+    "width": 2355,
+    "height": 2364
+  },
+  "bones": [
+    { "name": "root" },
+    {
+      "name": "bone48",
+      "parent": "root",
+      "length": 1062.31,
+      "rotation": 90,
+      "x": 99.77,
+      "y": 2551.2,
+      "transform": "noScale"
+    },
+    { "name": "bone150", "parent": "bone48", "length": 500, "rotation": 90 },
+    { "name": "bone151", "parent": "bone48", "length": 500, "rotation": 180 }
+  ],
+  "slots": [
+    { "name": "back", "bone": "root", "attachment": "back_outer" },
+    { "name": "back2", "bone": "root", "attachment": "back_M" },
+    { "name": "back3", "bone": "root", "attachment": "back_f" }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "back": {
+          "back_outer": {
+            "type": "mesh",
+            "uvs": [1, 1, 0, 1, 0, 0, 1, 0],
+            "triangles": [1, 2, 3, 1, 3, 0],
+            "vertices": [
+              1, 3, 1181.96, 1177.5, 1, 1, 3, 1181.96, -1177.5, 1, 1, 3,
+              -1182.04, -1177.5, 1, 1, 3, -1182.04, 1177.5, 1
+            ],
+            "hull": 4,
+            "edges": [0, 2, 2, 4, 4, 6, 0, 6],
+            "width": 2355,
+            "height": 2364
+          }
+        },
+        "back2": {
+          "back_M": {
+            "type": "mesh",
+            "uvs": [1, 1, 0, 1, 0, 0, 1, 0],
+            "triangles": [1, 2, 3, 1, 3, 0],
+            "vertices": [
+              1, 2, -1177.5, 1181.96, 1, 1, 2, 1177.5, 1181.96, 1, 1, 2, 1177.5,
+              -1182.04, 1, 1, 2, -1177.5, -1182.04, 1
+            ],
+            "hull": 4,
+            "edges": [0, 2, 2, 4, 4, 6, 0, 6],
+            "width": 2355,
+            "height": 2364
+          }
+        },
+        "back3": {
+          "back_f": {
+            "type": "mesh",
+            "uvs": [1, 1, 0, 1, 0, 0, 1, 0],
+            "triangles": [1, 2, 3, 1, 3, 0],
+            "vertices": [
+              1, 1, -1181.96, -1177.5, 1, 1, 1, -1181.96, 1177.5, 1, 1, 1,
+              1182.04, 1177.5, 1, 1, 1, 1182.04, -1177.5, 1
+            ],
+            "hull": 4,
+            "edges": [0, 2, 2, 4, 4, 6, 0, 6],
+            "width": 2355,
+            "height": 2364
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "Idle 1": {
+      "slots": {
+        "back": {
+          "color": [
+            { "color": "ffffffff", "curve": "stepped" },
+            { "time": 5.2667, "color": "ffffffff" },
+            { "time": 5.7667, "color": "ffffff00", "curve": "stepped" },
+            { "time": 6, "color": "ffffffff" }
+          ]
+        },
+        "back2": {
+          "color": [
+            { "color": "ffffffff", "curve": "stepped" },
+            { "time": 2.2667, "color": "ffffffff" },
+            { "time": 2.7667, "color": "ffffff00", "curve": "stepped" },
+            { "time": 3, "color": "ffffffff", "curve": "stepped" },
+            { "time": 6, "color": "ffffffff" }
+          ]
+        }
+      },
+      "bones": {
+        "bone48": {
+          "translate": [
+            { "y": 61.03, "curve": 0.25, "c3": 0.75 },
+            { "time": 3, "curve": 0.25, "c3": 0.75 },
+            { "time": 6, "y": 61.03 }
+          ],
+          "scale": [
+            { "x": 0.998, "y": 0.998, "curve": 0.36, "c2": 0.64, "c3": 0.695 },
+            { "time": 0.3, "curve": 0.25, "c3": 0.75 },
+            {
+              "time": 3.3,
+              "x": 0.96,
+              "y": 0.96,
+              "curve": 0.245,
+              "c3": 0.711,
+              "c4": 0.83
+            },
+            { "time": 6, "x": 0.998, "y": 0.998 }
+          ]
+        },
+        "bone151": {
+          "scale": [
+            { "x": 0, "y": 0 },
+            { "time": 5.7667 },
+            { "time": 6, "x": 0, "y": 0 }
+          ]
+        },
+        "bone150": {
+          "scale": [
+            { "x": 0.783, "y": 0.783 },
+            { "time": 2.7667, "x": 1.5, "y": 1.5 },
+            { "time": 3, "x": 0, "y": 0 },
+            { "time": 6, "x": 0.783, "y": 0.783 }
+          ]
+        }
+      }
+    }
+  }
+}

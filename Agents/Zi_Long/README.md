@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a83dc2c50efcc76771b42b0e18070da93300d95abe69bf1849d57edb19dc0426
-size 276
+| Nr. | Name          | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ------------- | ----- | ---- | -------- | -------- | ----- |
+| 49  | Zi Long       | x     | x    | ?        | x        | x     |
+| 49  | Zi Long Skin1 | x     | x    | x        | x        | x     |

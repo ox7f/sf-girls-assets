@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:719cf01c2c284375e10140cd058e48c51fa19ea69180862601623916df290b81
-size 53
+Portrait 1, 2 and 3 miss the touch animation (live2d)

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf06b8f707b259d263da7e1759beefae9a297c26497566f376ec3f698b25978b
-size 272
+| Nr. | Name         | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ------------ | ----- | ---- | -------- | -------- | ----- |
+| 71  | Amikam       | x     | x    | ?        | x        | x     |
+| 71  | Amikam Skin1 | x     | x    | x        | x        | x     |

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1ae386a1f28743ff38b2c758503621695969930ba5c1ba4b3d0c908e783da1c3
-size 536
+| Nr. | Name        | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ----------- | ----- | ---- | -------- | -------- | ----- |
+| 32  | Noa         | x     | x    | ?        | x        | o     |
+| 32  | Noa Skin1   | x     | x    | ?        | x        | x     |
+| 32  | Noa Skin2   | x     | x    | ?        | x        | o     |
+| 32  | Noa Skin3   | x     | x    | x        | x        | x     |
+| 32  | Noa Skin4   | x     | x    | ?        | x        | o     |
+| 32  | Noa Wedding | x     | o    | x        | o        | x     |

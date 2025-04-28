@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ed1dd45cf8298f4ad92c642396033cc28add6caf036515aeaf04fc2113fa417
-size 645
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Gaia_Playroom_B.moc3",
+    "Textures": ["Gaia_Playroom_B_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 3": [
+        {
+          "File": "Gaia_Playroom_B_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 3": [
+        {
+          "File": "Gaia_Playroom_B_Motions/Touch.motion3.json"
+        }
+      ],
+      "Idle 4": [
+        {
+          "File": "Gaia_Playroom_B_Motions/Idle_2.motion3.json"
+        }
+      ],
+      "Touch 4": [
+        {
+          "File": "Gaia_Playroom_B_Motions/Touch_2.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

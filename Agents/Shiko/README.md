@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d2bfb194ec7cf8f2839bd92e771be78e7d51f8631aaf96cbd4a1838eecd7aba0
-size 414
+| Nr. | Name          | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ------------- | ----- | ---- | -------- | -------- | ----- |
+| 51  | Shiko         | x     | x    | ?        | x        | x     |
+| 51  | Shiko Skin1   | x     | x    | x        | x        | x     |
+| 51  | Shiko Skin2   | x     | x    | x        | x        | o     |
+| 51  | Shiko Wedding | x     | x    | x        | x        | x     |

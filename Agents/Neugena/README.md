@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:800f0da81415f77cb6c7484cc8dc3e552640c36c92806f20fb0b70bb46eef383
-size 276
+| Nr. | Name          | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ------------- | ----- | ---- | -------- | -------- | ----- |
+| 74  | Neugena       | x     | x    | ?        | x        | x     |
+| 74  | Neugena Skin1 | x     | x    | x        | x        | x     |

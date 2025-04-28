@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eea0e1b408b06e012b53c4e37c8b02813809ed62202185fb6e0bf63b2ce8347a
-size 420
+| Nr. | Name           | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | -------------- | ----- | ---- | -------- | -------- | ----- |
+| 41  | Riho X         | x     | x    | ?        | x        | o     |
+| 41  | Riho X Skin1   | x     | x    | ?        | x        | x     |
+| 41  | Riho X Skin2   | x     | x    | ?        | x        | o     |
+| 41  | Riho X Wedding | x     | x    | x        | x        | x     |

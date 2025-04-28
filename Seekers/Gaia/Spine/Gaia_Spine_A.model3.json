@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd5997b867f3eb708c2768498ecfbaba72d64966a614682f861c0d99d759bb96
-size 409
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Gaia_Spine_A.moc3",
+    "Textures": ["Gaia_Spine_A_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 1": [
+        {
+          "File": "Gaia_Spine_A_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 1": [
+        {
+          "File": "Gaia_Spine_A_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c9fe528a73ec8499c98b51f4eb212ad2021430c5440efca0232b7b9abc1fdb3
-size 345
+| Nr. | Name          | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ------------- | ----- | ---- | -------- | -------- | ----- |
+| 42  | Setsuna       | o     | x    | ?        | x        | o     |
+| 42  | Setsuna Skin1 | o     | x    | ?        | x        | o     |
+| 42  | Setsuna Skin2 | x     | x    | x        | x        | x     |

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75b207bd669c2a28452e0ea8ad5736dfd969ca52e4c41e4d8d7560ddc1166835
-size 330
+| Nr. | Name       | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ---------- | ----- | ---- | -------- | -------- | ----- |
+| 47  | Toki       | x     | x    | ?        | x        | x     |
+| 47  | Toki Skin1 | x     | x    | x        | x        | o     |
+| 47  | Toki Skin2 | x     | x    | x        | x        | x     |

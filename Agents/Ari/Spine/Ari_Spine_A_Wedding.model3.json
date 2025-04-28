@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d2a2dd539c2ec999acc34353fb1eaa47b8cd8bb6bd4cba8b5432f7f29f0e7564
-size 437
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Ari_Spine_A_Wedding.moc3",
+    "Textures": ["Ari_Spine_A_Wedding_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 1": [
+        {
+          "File": "Ari_Spine_A_Wedding_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 1": [
+        {
+          "File": "Ari_Spine_A_Wedding_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

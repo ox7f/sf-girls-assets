@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a34b8b3c4f7d2a26b22c40773b8270d15b101608abc2b62d33ec42d2f146aae
-size 456
+| Nr. | Name            | Chibi | Mini | Playroom | Portrait | Spine      |
+| --- | --------------- | ----- | ---- | -------- | -------- | ---------- |
+| 12  | Cadence         | x     | x    | ?        | x        | x          |
+| 12  | Cadence Skin1   | x     | x    | x        | x        | incomplete |
+| 12  | Cadence Skin2   | x     | x    | x        | x        | x          |
+| 12  | Cadence Wedding | x     | x    | x        | x        | x          |

@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:16a986952b80229f107d8fc174847efc07c3ff9d5e7a2c2b7a9f32b7039b9197
-size 445
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Cadence_Spine_B_Skin1.moc3",
+    "Textures": ["Cadence_Spine_B_Skin1_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 2": [
+        {
+          "File": "Cadence_Spine_B_Skin1_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 2": [
+        {
+          "File": "Cadence_Spine_B_Skin1_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

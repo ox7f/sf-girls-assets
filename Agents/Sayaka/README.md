@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:405df2439b1e764acf9ae0c7ac571d623e8e4e937dafdeec263b6aab43b2aac9
-size 350
+| Nr. | Name           | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | -------------- | ----- | ---- | -------- | -------- | ----- |
+| 9   | Sayaka         | x     | x    | ?        | x        | x     |
+| 9   | Sayaka Skin1   | x     | x    | x        | x        | x     |
+| 9   | Sayaka Wedding | x     | x    | x        | x        | o     |

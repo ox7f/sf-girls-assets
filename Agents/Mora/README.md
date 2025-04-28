@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:39a1f81a95dedcfc8c1f16db59a5f5f98151d489deb8a102dc6518f45de516c9
-size 396
+| Nr. | Name       | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ---------- | ----- | ---- | -------- | -------- | ----- |
+| 80  | Mora       | x     | x    | ?        | x        | x     |
+| 80  | Mora Skin1 | x     | x    | ?        | x        | ?     |
+| 80  | Mora Skin2 | x     | x    | x        | x        | x     |
+| 80  | Mora Skin3 | x     | x    | ?        | x        | x     |

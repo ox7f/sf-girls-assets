@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:239da09aaf6355c1710d218e3f7b7a4dfecfa55c782ea8c83cd19037c86269e8
-size 340
+| Nr. | Name         | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ------------ | ----- | ---- | -------- | -------- | ----- |
+| 55  | Kiyomi       | x     | x    | ?        | x        | o     |
+| 55  | Kiyomi Skin1 | x     | x    | ?        | x        | o     |
+| 55  | Kiyomi Skin2 | x     | x    | x        | x        | x     |

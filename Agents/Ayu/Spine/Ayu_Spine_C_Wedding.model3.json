@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:020de3de153ef7b48de794c1b1a05651b2dd1bb62f2a1454c183d388663fd5e4
-size 437
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Ayu_Spine_C_Wedding.moc3",
+    "Textures": ["Ayu_Spine_C_Wedding_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 3": [
+        {
+          "File": "Ayu_Spine_C_Wedding_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 3": [
+        {
+          "File": "Ayu_Spine_C_Wedding_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

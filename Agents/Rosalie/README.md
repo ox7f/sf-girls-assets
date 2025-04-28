@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9a795bd79f55f8a837485d8386c7151d21a854b47ca1397b2943e1a8863d26eb
-size 345
+| Nr. | Name          | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ------------- | ----- | ---- | -------- | -------- | ----- |
+| 46  | Rosalie       | x     | x    | ?        | x        | x     |
+| 46  | Rosalie Skin1 | x     | x    | x        | x        | x     |
+| 46  | Rosalie Skin2 | x     | x    | x        | x        | x     |

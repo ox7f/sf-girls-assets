@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6eb438a2b70def70b2d8087363867b403f839c219109a62c5efd438ae1cfbe8e
-size 360
+| Nr. | Name        | Chibi | Mini | Playroom | Portrait | Spine      |
+| --- | ----------- | ----- | ---- | -------- | -------- | ---------- |
+| 50  | Ari         | x     | x    | ?        | x        | x          |
+| 50  | Ari Skin1   | x     | x    | ?        | x        | x          |
+| 50  | Ari Wedding | x     | x    | x        | x        | incomplete |

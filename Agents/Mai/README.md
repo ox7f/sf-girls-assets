@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be8be4ad3b2f93e471d1f463dbe758c0ca5343a8ff1910f0f8acc421a2b9357d
-size 402
+| Nr. | Name        | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ----------- | ----- | ---- | -------- | -------- | ----- |
+| 33  | Mai         | x     | x    | ?        | x        | o     |
+| 33  | Mai Skin1   | x     | x    | x        | x        | x     |
+| 33  | Mai Skin2   | o     | x    | ?        | x        | o     |
+| 33  | Mai Wedding | x     | x    | x        | x        | x     |

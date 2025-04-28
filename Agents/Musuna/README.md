@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b3124992bef1bdcb931a5dae1ad4469a95ecbfcfc8e6224645ab620ecb146d47
-size 350
+| Nr. | Name           | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | -------------- | ----- | ---- | -------- | -------- | ----- |
+| 56  | Musuna         | x     | x    | ?        | x        | o     |
+| 56  | Musuna Skin1   | x     | x    | ?        | x        | x     |
+| 56  | Musuna Wedding | x     | x    | x        | x        | o     |

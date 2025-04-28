@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:499ffe3a1d927e55a666160af9799bdf31137a99324a98bdaebc9cfdb82f3332
-size 437
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Denka_Spine_A_Skin1.moc3",
+    "Textures": ["Denka_Spine_A_Skin1_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 1": [
+        {
+          "File": "Denka_Spine_A_Skin1_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 1": [
+        {
+          "File": "Denka_Spine_A_Skin1_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

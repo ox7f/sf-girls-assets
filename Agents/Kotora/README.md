@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f714dc595dfd355c0508885ff14ea605b1b332b17390447dc33ebd609db2d443
-size 272
+| Nr. | Name         | Chibi | Mini | Playroom | Portrait | Spine |
+| --- | ------------ | ----- | ---- | -------- | -------- | ----- |
+| 22  | Kotora       | x     | x    | ?        | x        | o     |
+| 22  | Kotora Skin1 | x     | x    | ?        | x        | o     |

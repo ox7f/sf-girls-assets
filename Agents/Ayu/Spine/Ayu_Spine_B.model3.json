@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70ef8fd91123de5f5697e776c48af7b93b2df544e93c38f425351ae5254c6bb2
-size 405
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Ayu_Spine_B.moc3",
+    "Textures": ["Ayu_Spine_B_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 2": [
+        {
+          "File": "Ayu_Spine_B_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 2": [
+        {
+          "File": "Ayu_Spine_B_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

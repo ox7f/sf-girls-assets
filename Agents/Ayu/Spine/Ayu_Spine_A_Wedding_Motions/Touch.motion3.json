@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85debea98ed9384c8eca97e7ed0f18992364c514f8dbec43fe212f877beba83e
-size 286
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 1.0,
+    "Fps": 60.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 0,
+    "TotalSegmentCount": 1,
+    "TotalPointCount": 1,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [],
+  "UserData": []
+}
