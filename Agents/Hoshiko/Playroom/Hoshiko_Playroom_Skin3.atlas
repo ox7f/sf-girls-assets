@@ -1,3 +1,397 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89ba3ea3f66b7debfd1dcccb70b89d58f522b8753bacae04a80cef68ca59a7af
-size 5736
+
+Hoshiko_Playroom_Skin3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_B
+  rotate: true
+  xy: 1152, 3351
+  size: 296, 586
+  orig: 296, 586
+  offset: 0, 0
+  index: -1
+bell
+  rotate: true
+  xy: 111, 3909
+  size: 71, 172
+  orig: 71, 172
+  offset: 0, 0
+  index: -1
+bell_mid
+  rotate: true
+  xy: 2355, 3621
+  size: 245, 350
+  orig: 245, 350
+  offset: 0, 0
+  index: -1
+bell_top
+  rotate: true
+  xy: 285, 3909
+  size: 71, 168
+  orig: 71, 168
+  offset: 0, 0
+  index: -1
+body_base
+  rotate: false
+  xy: 2, 2
+  size: 1823, 914
+  orig: 1823, 914
+  offset: 0, 0
+  index: -1
+boobaB1
+  rotate: false
+  xy: 437, 2934
+  size: 606, 451
+  orig: 606, 451
+  offset: 0, 0
+  index: -1
+boobaU1
+  rotate: false
+  xy: 1045, 2868
+  size: 586, 481
+  orig: 649, 481
+  offset: 60, 0
+  index: -1
+booba_B
+  rotate: false
+  xy: 1633, 2811
+  size: 688, 502
+  orig: 688, 502
+  offset: 0, 0
+  index: -1
+booba_BT
+  rotate: false
+  xy: 2323, 2733
+  size: 688, 502
+  orig: 688, 502
+  offset: 0, 0
+  index: -1
+booba_B_hand
+  rotate: false
+  xy: 3030, 3204
+  size: 460, 342
+  orig: 460, 342
+  offset: 0, 0
+  index: -1
+booba_B_nip
+  rotate: false
+  xy: 2751, 3841
+  size: 194, 139
+  orig: 194, 139
+  offset: 0, 0
+  index: -1
+booba_U
+  rotate: false
+  xy: 2, 2405
+  size: 628, 527
+  orig: 628, 527
+  offset: 0, 0
+  index: -1
+booba_U_hand
+  rotate: false
+  xy: 3534, 2402
+  size: 534, 602
+  orig: 534, 602
+  offset: 0, 0
+  index: -1
+booba_U_nip
+  rotate: true
+  xy: 988, 3894
+  size: 86, 94
+  orig: 86, 98
+  offset: 0, 0
+  index: -1
+booba_U_ring
+  rotate: true
+  xy: 3660, 3820
+  size: 160, 218
+  orig: 160, 218
+  offset: 0, 0
+  index: -1
+brow1
+  rotate: true
+  xy: 1533, 3885
+  size: 95, 304
+  orig: 95, 304
+  offset: 0, 0
+  index: -1
+brow2
+  rotate: true
+  xy: 693, 3898
+  size: 82, 293
+  orig: 82, 293
+  offset: 0, 0
+  index: -1
+butt
+  rotate: true
+  xy: 2329, 3237
+  size: 325, 699
+  orig: 325, 699
+  offset: 0, 0
+  index: -1
+desk
+  rotate: true
+  xy: 2594, 139
+  size: 1618, 1241
+  orig: 1618, 1241
+  offset: 0, 0
+  index: -1
+deskU
+  rotate: false
+  xy: 2, 1431
+  size: 1267, 772
+  orig: 1267, 772
+  offset: 0, 0
+  index: -1
+ear_B
+  rotate: true
+  xy: 3880, 3732
+  size: 248, 211
+  orig: 248, 211
+  offset: 0, 0
+  index: -1
+ear_U
+  rotate: false
+  xy: 1740, 3315
+  size: 587, 310
+  orig: 587, 310
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 1839, 3883
+  size: 97, 337
+  orig: 97, 337
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 1084, 3886
+  size: 94, 337
+  orig: 94, 337
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 3650, 3409
+  size: 439, 321
+  orig: 439, 321
+  offset: 0, 0
+  index: -1
+feet_U
+  rotate: true
+  xy: 2818, 1759
+  size: 641, 1244
+  orig: 650, 1255
+  offset: 0, 11
+  index: -1
+hair1
+  rotate: false
+  xy: 2, 3742
+  size: 316, 165
+  orig: 316, 165
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 1640, 3649
+  size: 357, 232
+  orig: 357, 232
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 572, 3706
+  size: 374, 190
+  orig: 374, 191
+  offset: 0, 1
+  index: -1
+hair_BB
+  rotate: false
+  xy: 3492, 3006
+  size: 559, 401
+  orig: 559, 401
+  offset: 0, 0
+  index: -1
+hair_BBBB
+  rotate: true
+  xy: 1271, 918
+  size: 1053, 1321
+  orig: 1053, 1321
+  offset: 0, 0
+  index: -1
+hair_BU
+  rotate: true
+  xy: 3013, 2489
+  size: 515, 519
+  orig: 515, 519
+  offset: 0, 0
+  index: -1
+hair_band
+  rotate: true
+  xy: 1208, 3656
+  size: 227, 430
+  orig: 227, 430
+  offset: 0, 0
+  index: -1
+hair_band_dai1
+  rotate: false
+  xy: 2178, 3877
+  size: 125, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1
+hair_band_dai2
+  rotate: false
+  xy: 2, 3924
+  size: 107, 56
+  orig: 107, 56
+  offset: 0, 0
+  index: -1
+hair_rib_B
+  rotate: false
+  xy: 3434, 3831
+  size: 224, 149
+  orig: 224, 149
+  offset: 0, 0
+  index: -1
+hair_rib_U
+  rotate: false
+  xy: 2305, 3869
+  size: 184, 111
+  orig: 184, 111
+  offset: 0, 0
+  index: -1
+hand_BBB
+  rotate: true
+  xy: 2947, 3837
+  size: 143, 485
+  orig: 143, 485
+  offset: 0, 0
+  index: -1
+leg_B
+  rotate: true
+  xy: 632, 2205
+  size: 604, 1223
+  orig: 604, 1223
+  offset: 0, 0
+  index: -1
+leg_U
+  rotate: false
+  xy: 1857, 1973
+  size: 959, 758
+  orig: 959, 758
+  offset: 0, 0
+  index: -1
+leg_dai_B
+  rotate: true
+  xy: 1999, 3627
+  size: 240, 354
+  orig: 240, 354
+  offset: 0, 0
+  index: -1
+leg_dai_BB
+  rotate: true
+  xy: 455, 3908
+  size: 72, 127
+  orig: 72, 127
+  offset: 0, 0
+  index: -1
+leg_dai_U
+  rotate: false
+  xy: 2, 3050
+  size: 433, 371
+  orig: 433, 371
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 584, 3904
+  size: 76, 107
+  orig: 76, 107
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 1423, 3886
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1
+pp1
+  rotate: false
+  xy: 320, 3713
+  size: 250, 193
+  orig: 250, 193
+  offset: 0, 0
+  index: -1
+pp2
+  rotate: false
+  xy: 2, 3423
+  size: 494, 288
+  orig: 494, 288
+  offset: 0, 0
+  index: -1
+rib_leg
+  rotate: false
+  xy: 3367, 3548
+  size: 281, 281
+  orig: 281, 281
+  offset: 0, 0
+  index: -1
+rib_legL
+  rotate: true
+  xy: 948, 3681
+  size: 203, 258
+  orig: 203, 258
+  offset: 0, 0
+  index: -1
+rib_legR
+  rotate: true
+  xy: 2491, 3868
+  size: 112, 258
+  orig: 112, 258
+  offset: 0, 0
+  index: -1
+sperm
+  rotate: true
+  xy: 498, 3387
+  size: 292, 652
+  orig: 292, 652
+  offset: 0, 0
+  index: -1
+west_B
+  rotate: false
+  xy: 2707, 3564
+  size: 328, 271
+  orig: 328, 271
+  offset: 0, 0
+  index: -1
+west_U
+  rotate: false
+  xy: 3037, 3564
+  size: 328, 271
+  orig: 328, 271
+  offset: 0, 0
+  index: -1
+
+Hoshiko_Playroom_Skin3_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2061
+  size: 2978, 1802
+  orig: 2980, 1804
+  offset: 1, 1
+  index: -1
+man_body
+  rotate: false
+  xy: 2, 2
+  size: 2192, 2057
+  orig: 2192, 2057
+  offset: 0, 0
+  index: -1

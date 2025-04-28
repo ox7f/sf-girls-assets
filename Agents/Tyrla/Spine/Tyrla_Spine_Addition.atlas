@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17007825f0f37439edb94227b5560160ffb0e80789ad17524fb073632e3e39a4
-size 522
+
+Tyrla_Spine_Addition.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ring_inner
+  rotate: false
+  xy: 2, 1479
+  size: 2027, 1836
+  orig: 2027, 1836
+  offset: 0, 0
+  index: -1
+ring_inner2
+  rotate: false
+  xy: 2, 2
+  size: 1603, 1475
+  orig: 1603, 1475
+  offset: 0, 0
+  index: -1
+ring_outer
+  rotate: false
+  xy: 2031, 2031
+  size: 1219, 1284
+  orig: 1219, 1284
+  offset: 0, 0
+  index: -1
+ring_outer2
+  rotate: false
+  xy: 2031, 745
+  size: 1219, 1284
+  orig: 1219, 1284
+  offset: 0, 0
+  index: -1

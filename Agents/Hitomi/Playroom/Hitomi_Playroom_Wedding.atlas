@@ -1,3 +1,279 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b7dc91a46c441b0e7317e632a6e25a5b0eff1f801fbffa769571d62def8cddc
-size 4152
+
+Hitomi_Playroom_Wedding.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GG_L1_L2
+  rotate: true
+  xy: 1043, 1131
+  size: 263, 138
+  orig: 263, 138
+  offset: 0, 0
+  index: -1
+GG_WATER
+  rotate: true
+  xy: 477, 965
+  size: 427, 353
+  orig: 544, 497
+  offset: 84, 144
+  index: -1
+GG_WATER03
+  rotate: true
+  xy: 1183, 1181
+  size: 101, 170
+  orig: 106, 176
+  offset: 5, 0
+  index: -1
+body
+  rotate: false
+  xy: 736, 457
+  size: 386, 408
+  orig: 1635, 658
+  offset: 421, 250
+  index: -1
+body_cloth_down
+  rotate: false
+  xy: 743, 49
+  size: 244, 406
+  orig: 1635, 700
+  offset: 721, 131
+  index: -1
+body_cloth_down2_OK
+  rotate: true
+  xy: 278, 406
+  size: 457, 456
+  orig: 1635, 552
+  offset: 985, 96
+  index: -1
+body_cloth_down_UP
+  rotate: true
+  xy: 477, 867
+  size: 96, 262
+  orig: 96, 263
+  offset: 0, 1
+  index: -1
+boob_cloth
+  rotate: false
+  xy: 826, 1396
+  size: 339, 259
+  orig: 1635, 644
+  offset: 553, 385
+  index: -1
+boobs_R_OK
+  rotate: false
+  xy: 606, 1394
+  size: 218, 261
+  orig: 1635, 444
+  offset: 497, 183
+  index: -1
+brow_02
+  rotate: true
+  xy: 1297, 1306
+  size: 159, 88
+  orig: 159, 88
+  offset: 0, 0
+  index: -1
+brow_idle
+  rotate: false
+  xy: 1339, 1730
+  size: 167, 74
+  orig: 167, 74
+  offset: 0, 0
+  index: -1
+cloth_OK
+  rotate: false
+  xy: 207, 896
+  size: 268, 496
+  orig: 1635, 544
+  offset: 672, 48
+  index: -1
+eyes_02
+  rotate: true
+  xy: 1130, 948
+  size: 181, 112
+  orig: 181, 112
+  offset: 0, 0
+  index: -1
+eyes_idle
+  rotate: true
+  xy: 1183, 1284
+  size: 181, 112
+  orig: 181, 112
+  offset: 0, 0
+  index: -1
+finger_R
+  rotate: false
+  xy: 262, 865
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+hair1_OK
+  rotate: false
+  xy: 1252, 485
+  size: 100, 187
+  orig: 1635, 769
+  offset: 322, 582
+  index: -1
+hair2_OK
+  rotate: true
+  xy: 991, 872
+  size: 216, 137
+  orig: 1635, 785
+  offset: 337, 648
+  index: -1
+hair_BK
+  rotate: true
+  xy: 989, 66
+  size: 389, 352
+  orig: 1635, 750
+  offset: 197, 398
+  index: -1
+hair_BK2
+  rotate: true
+  xy: 606, 1657
+  size: 389, 352
+  orig: 1635, 750
+  offset: 197, 398
+  index: -1
+hair_up_L
+  rotate: true
+  xy: 1354, 1813
+  size: 233, 171
+  orig: 1635, 809
+  offset: 364, 638
+  index: -1
+hair_up_L02
+  rotate: true
+  xy: 741, 870
+  size: 93, 186
+  orig: 1635, 809
+  offset: 522, 564
+  index: -1
+hand_L
+  rotate: true
+  xy: 960, 1718
+  size: 328, 221
+  orig: 1635, 791
+  offset: 591, 570
+  index: -1
+hand_L_2_2
+  rotate: true
+  xy: 330, 2
+  size: 402, 119
+  orig: 410, 119
+  offset: 8, 0
+  index: -1
+hand_L_2_2_02
+  rotate: false
+  xy: 1183, 1726
+  size: 154, 78
+  orig: 154, 78
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 832, 1090
+  size: 304, 209
+  orig: 1635, 282
+  offset: 529, 73
+  index: -1
+hand_R01
+  rotate: true
+  xy: 1130, 873
+  size: 73, 100
+  orig: 1635, 181
+  offset: 501, 81
+  index: -1
+hand_Rcloth_BK
+  rotate: true
+  xy: 2, 848
+  size: 544, 203
+  orig: 1635, 207
+  offset: 388, 2
+  index: -1
+hand_cloth
+  rotate: false
+  xy: 832, 968
+  size: 157, 120
+  orig: 157, 121
+  offset: 0, 1
+  index: -1
+hand_cloth_down_idle
+  rotate: true
+  xy: 1183, 1806
+  size: 240, 169
+  orig: 240, 169
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1167, 1467
+  size: 249, 223
+  orig: 1635, 752
+  offset: 327, 529
+  index: -1
+leg_L01_OK
+  rotate: false
+  xy: 2, 326
+  size: 274, 520
+  orig: 1635, 801
+  offset: 969, 277
+  index: -1
+leg_L02_OK
+  rotate: false
+  xy: 2, 1394
+  size: 602, 652
+  orig: 1635, 854
+  offset: 979, 202
+  index: -1
+leg_R_OK
+  rotate: true
+  xy: 451, 5
+  size: 399, 290
+  orig: 1635, 290
+  offset: 806, 0
+  index: -1
+meme
+  rotate: false
+  xy: 2, 3
+  size: 326, 321
+  orig: 1635, 530
+  offset: 854, 202
+  index: -1
+mouth_02
+  rotate: false
+  xy: 207, 850
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+mouth_idle
+  rotate: true
+  xy: 312, 867
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+nose_idle
+  rotate: false
+  xy: 335, 871
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+red_02
+  rotate: true
+  xy: 1124, 480
+  size: 192, 126
+  orig: 198, 135
+  offset: 6, 9
+  index: -1
+red_idle
+  rotate: true
+  xy: 1124, 674
+  size: 196, 131
+  orig: 198, 135
+  offset: 2, 4
+  index: -1

@@ -1,3 +1,265 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f6afe1cdb74a54078d0eb9e72c71b985927c7ceee39a0278f24db18748577e5
-size 3701
+
+Midori_Chibi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 576, 358
+  size: 105, 147
+  orig: 105, 147
+  offset: 0, 0
+  index: -1
+breast_L_1
+  rotate: false
+  xy: 965, 171
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+breast_L_2
+  rotate: false
+  xy: 965, 225
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+breast_R_1
+  rotate: true
+  xy: 970, 333
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+breast_R_2
+  rotate: false
+  xy: 965, 279
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+cloth_1_1
+  rotate: false
+  xy: 683, 358
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+eye_R_1
+  rotate: true
+  xy: 923, 391
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+eye_R_2
+  rotate: false
+  xy: 854, 340
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+eyebrow_L_1
+  rotate: false
+  xy: 854, 326
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+eyebrow_R_1
+  rotate: false
+  xy: 879, 381
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 284, 317
+  size: 177, 188
+  orig: 177, 188
+  offset: 0, 0
+  index: -1
+foot_L_1
+  rotate: true
+  xy: 748, 394
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+foot_L_2
+  rotate: false
+  xy: 683, 391
+  size: 63, 114
+  orig: 63, 114
+  offset: 0, 0
+  index: -1
+foot_R_1
+  rotate: true
+  xy: 797, 249
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+foot_R_2
+  rotate: true
+  xy: 875, 448
+  size: 57, 95
+  orig: 57, 95
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 463, 330
+  size: 175, 111
+  orig: 175, 111
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 748, 448
+  size: 57, 125
+  orig: 57, 125
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 284, 184
+  size: 72, 184
+  orig: 72, 184
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 576, 318
+  size: 38, 88
+  orig: 38, 88
+  offset: 0, 0
+  index: -1
+hair_B_1
+  rotate: true
+  xy: 2, 2
+  size: 177, 363
+  orig: 177, 363
+  offset: 0, 0
+  index: -1
+hand_L_1_1
+  rotate: true
+  xy: 906, 341
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+hand_L_1_2
+  rotate: true
+  xy: 813, 324
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+hand_L_1_3
+  rotate: false
+  xy: 972, 453
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+hand_L_1_4
+  rotate: false
+  xy: 896, 197
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+hand_R_1_1
+  rotate: true
+  xy: 833, 364
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+hand_R_1_2
+  rotate: true
+  xy: 904, 272
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+hand_R_1_3
+  rotate: false
+  xy: 972, 392
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+hand_R_1_4
+  rotate: true
+  xy: 739, 358
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+hand_R_1_5
+  rotate: true
+  xy: 846, 402
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+hand_R_2_1
+  rotate: false
+  xy: 788, 361
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+hand_R_2_2
+  rotate: false
+  xy: 742, 324
+  size: 69, 32
+  orig: 69, 32
+  offset: 0, 0
+  index: -1
+hand_R_2_3
+  rotate: false
+  xy: 666, 322
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: true
+  xy: 470, 221
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 923, 368
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 883, 325
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 181
+  size: 280, 324
+  orig: 286, 330
+  offset: 3, 3
+  index: -1
+weapon_2
+  rotate: false
+  xy: 284, 258
+  size: 511, 57
+  orig: 514, 61
+  offset: 3, 1
+  index: -1

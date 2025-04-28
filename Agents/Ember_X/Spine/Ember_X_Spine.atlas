@@ -1,3 +1,481 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:858c4604141a4620d6ed61013af0006c44c4f240c7cc6becc1f414417e52d98b
-size 7202
+
+Ember_X_Spine.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L arm finger
+  rotate: false
+  xy: 510, 3483
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+L arm wrist
+  rotate: false
+  xy: 704, 3472
+  size: 212, 199
+  orig: 212, 199
+  offset: 0, 0
+  index: -1
+L boob
+  rotate: false
+  xy: 1483, 3126
+  size: 360, 322
+  orig: 360, 322
+  offset: 0, 0
+  index: -1
+L leg 1
+  rotate: true
+  xy: 520, 1803
+  size: 520, 1027
+  orig: 520, 1027
+  offset: 0, 0
+  index: -1
+L leg 2
+  rotate: true
+  xy: 3509, 3300
+  size: 284, 401
+  orig: 284, 401
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 3417, 1837
+  size: 516, 614
+  orig: 516, 614
+  offset: 0, 0
+  index: -1
+L_arm 2
+  rotate: false
+  xy: 2, 1813
+  size: 516, 614
+  orig: 516, 614
+  offset: 0, 0
+  index: -1
+L_boob V2 lin
+  rotate: false
+  xy: 2125, 3641
+  size: 158, 120
+  orig: 158, 120
+  offset: 0, 0
+  index: -1
+R arm 1 finger
+  rotate: false
+  xy: 2508, 3637
+  size: 158, 124
+  orig: 158, 124
+  offset: 0, 0
+  index: -1
+R arm 3
+  rotate: true
+  xy: 3639, 2355
+  size: 567, 454
+  orig: 567, 454
+  offset: 0, 0
+  index: -1
+R arm 3 finger
+  rotate: true
+  xy: 3158, 3625
+  size: 136, 159
+  orig: 136, 159
+  offset: 0, 0
+  index: -1
+R boob
+  rotate: true
+  xy: 1963, 2722
+  size: 379, 382
+  orig: 379, 382
+  offset: 0, 0
+  index: -1
+R_arm_1
+  rotate: false
+  xy: 2194, 2176
+  size: 616, 467
+  orig: 616, 467
+  offset: 0, 0
+  index: -1
+R_hair_tail_1
+  rotate: true
+  xy: 1478, 3450
+  size: 196, 420
+  orig: 196, 420
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 2121, 3416
+  size: 658, 215
+  orig: 658, 215
+  offset: 0, 0
+  index: -1
+belt shirt 1
+  rotate: false
+  xy: 2812, 2026
+  size: 603, 487
+  orig: 603, 487
+  offset: 0, 0
+  index: -1
+belt shirt 2
+  rotate: false
+  xy: 2, 2429
+  size: 603, 446
+  orig: 603, 446
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2235, 1410
+  size: 614, 1088
+  orig: 614, 1088
+  offset: 0, 0
+  index: -1
+body 2
+  rotate: true
+  xy: 2, 1187
+  size: 614, 1088
+  orig: 614, 1088
+  offset: 0, 0
+  index: -1
+coat back 2
+  rotate: false
+  xy: 2, 2
+  size: 1722, 903
+  orig: 1722, 903
+  offset: 0, 0
+  index: -1
+face 1 eyebrows
+  rotate: false
+  xy: 2285, 3641
+  size: 221, 120
+  orig: 221, 120
+  offset: 0, 0
+  index: -1
+face 1 eyes
+  rotate: false
+  xy: 1492, 3648
+  size: 190, 113
+  orig: 190, 113
+  offset: 0, 0
+  index: -1
+face 1 eyes down
+  rotate: false
+  xy: 306, 3677
+  size: 207, 84
+  orig: 207, 84
+  offset: 0, 0
+  index: -1
+face 1 eyes up
+  rotate: false
+  xy: 3557, 3617
+  size: 306, 144
+  orig: 306, 144
+  offset: 0, 0
+  index: -1
+face 1 eyewhite
+  rotate: false
+  xy: 2668, 3633
+  size: 243, 128
+  orig: 243, 128
+  offset: 0, 0
+  index: -1
+face 1 highlight
+  rotate: false
+  xy: 515, 3677
+  size: 191, 84
+  orig: 191, 84
+  offset: 0, 0
+  index: -1
+face 1 mouth 1
+  rotate: false
+  xy: 708, 3675
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+face 2 eyebrows
+  rotate: false
+  xy: 3319, 3625
+  size: 236, 136
+  orig: 236, 136
+  offset: 0, 0
+  index: -1
+face 2 eyes
+  rotate: false
+  xy: 1684, 3648
+  size: 189, 113
+  orig: 189, 113
+  offset: 0, 0
+  index: -1
+face 2 eyes down
+  rotate: false
+  xy: 1007, 3667
+  size: 206, 94
+  orig: 206, 94
+  offset: 0, 0
+  index: -1
+face 2 eyes up
+  rotate: false
+  xy: 2, 3531
+  size: 306, 144
+  orig: 306, 144
+  offset: 0, 0
+  index: -1
+face 2 eyewhite
+  rotate: false
+  xy: 2913, 3633
+  size: 243, 128
+  orig: 243, 128
+  offset: 0, 0
+  index: -1
+face 2 highlight
+  rotate: false
+  xy: 817, 3673
+  size: 188, 88
+  orig: 188, 88
+  offset: 0, 0
+  index: -1
+face 2 mouth
+  rotate: false
+  xy: 2, 3698
+  size: 105, 63
+  orig: 105, 63
+  offset: 0, 0
+  index: -1
+face 3 eyebrows
+  rotate: false
+  xy: 1875, 3648
+  size: 248, 113
+  orig: 248, 113
+  offset: 0, 0
+  index: -1
+face 3 mouth
+  rotate: false
+  xy: 195, 3680
+  size: 109, 81
+  orig: 109, 81
+  offset: 0, 0
+  index: -1
+face 3 tongue
+  rotate: true
+  xy: 109, 3690
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+forehair L
+  rotate: true
+  xy: 918, 3466
+  size: 189, 558
+  orig: 189, 558
+  offset: 0, 0
+  index: -1
+forehair R
+  rotate: true
+  xy: 481, 3178
+  size: 286, 549
+  orig: 286, 549
+  offset: 0, 0
+  index: -1
+forehair_1
+  rotate: true
+  xy: 1215, 3657
+  size: 104, 275
+  orig: 104, 275
+  offset: 0, 0
+  index: -1
+hair tail L 2
+  rotate: false
+  xy: 2781, 3374
+  size: 277, 257
+  orig: 277, 257
+  offset: 0, 0
+  index: -1
+hair tail R 2
+  rotate: true
+  xy: 2, 3203
+  size: 284, 477
+  orig: 284, 477
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 1032, 3151
+  size: 449, 297
+  orig: 449, 297
+  offset: 0, 0
+  index: -1
+head 1
+  rotate: true
+  xy: 2347, 2660
+  size: 387, 421
+  orig: 387, 421
+  offset: 0, 0
+  index: -1
+head 2
+  rotate: true
+  xy: 2770, 2645
+  size: 387, 421
+  orig: 387, 421
+  offset: 0, 0
+  index: -1
+panty
+  rotate: true
+  xy: 3193, 2515
+  size: 407, 444
+  orig: 407, 444
+  offset: 0, 0
+  index: -1
+shirt 1
+  rotate: true
+  xy: 3325, 1053
+  size: 782, 751
+  orig: 782, 751
+  offset: 0, 0
+  index: -1
+shirt 2
+  rotate: true
+  xy: 1092, 907
+  size: 732, 797
+  orig: 732, 797
+  offset: 0, 0
+  index: -1
+shirt back
+  rotate: false
+  xy: 310, 3489
+  size: 198, 186
+  orig: 198, 186
+  offset: 0, 0
+  index: -1
+shirt_1 Knot
+  rotate: false
+  xy: 1900, 3431
+  size: 219, 215
+  orig: 219, 215
+  offset: 0, 0
+  index: -1
+shirt_2
+  rotate: false
+  xy: 1549, 1641
+  size: 684, 533
+  orig: 684, 533
+  offset: 0, 0
+  index: -1
+weapon barrel L
+  rotate: true
+  xy: 973, 2782
+  size: 319, 988
+  orig: 319, 988
+  offset: 0, 0
+  index: -1
+weapon barrel L buttom
+  rotate: false
+  xy: 3008, 3034
+  size: 339, 329
+  orig: 339, 329
+  offset: 0, 0
+  index: -1
+weapon barrel R
+  rotate: true
+  xy: 2, 2877
+  size: 299, 969
+  orig: 299, 969
+  offset: 0, 0
+  index: -1
+weapon barrel R buttom
+  rotate: false
+  xy: 2680, 3049
+  size: 326, 323
+  orig: 326, 323
+  offset: 0, 0
+  index: -1
+weapon body
+  rotate: true
+  xy: 1891, 386
+  size: 1022, 1143
+  orig: 1022, 1143
+  offset: 0, 0
+  index: -1
+weapon handle
+  rotate: false
+  xy: 3349, 2924
+  size: 500, 374
+  orig: 500, 374
+  offset: 0, 0
+  index: -1
+weapon handle R
+  rotate: true
+  xy: 3060, 3365
+  size: 258, 447
+  orig: 258, 447
+  offset: 0, 0
+  index: -1
+whip
+  rotate: true
+  xy: 1845, 3103
+  size: 311, 833
+  orig: 311, 833
+  offset: 0, 0
+  index: -1
+whip  handle
+  rotate: false
+  xy: 3865, 3586
+  size: 184, 175
+  orig: 184, 175
+  offset: 0, 0
+  index: -1
+whip_3
+  rotate: true
+  xy: 607, 2325
+  size: 395, 1585
+  orig: 395, 1585
+  offset: 0, 0
+  index: -1
+
+Ember_X_Spine_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R leg 1
+  rotate: false
+  xy: 1971, 1084
+  size: 1270, 1071
+  orig: 1270, 1071
+  offset: 0, 0
+  index: -1
+R leg 2
+  rotate: false
+  xy: 2, 66
+  size: 1270, 1071
+  orig: 1270, 1071
+  offset: 0, 0
+  index: -1
+R_arm_2
+  rotate: true
+  xy: 2065, 2157
+  size: 909, 1698
+  orig: 909, 1698
+  offset: 0, 0
+  index: -1
+coat back 1
+  rotate: false
+  xy: 2, 2163
+  size: 2061, 903
+  orig: 2061, 903
+  offset: 0, 0
+  index: -1
+hair tail L 1
+  rotate: true
+  xy: 1274, 2
+  size: 1080, 2151
+  orig: 1080, 2151
+  offset: 0, 0
+  index: -1
+hair tail R 1
+  rotate: true
+  xy: 2, 1139
+  size: 1022, 1967
+  orig: 1022, 1967
+  offset: 0, 0
+  index: -1

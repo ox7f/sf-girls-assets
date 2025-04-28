@@ -1,3 +1,418 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9f301a3fca6b239f260e1ea0dbaf7ad8a5161aea375b0ef333d38500e6c00199
-size 6148
+
+Chloe_Spine_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L_1
+  rotate: true
+  xy: 1585, 3339
+  size: 317, 503
+  orig: 317, 503
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 634, 1858
+  size: 587, 865
+  orig: 587, 865
+  offset: 0, 0
+  index: -1
+boob L
+  rotate: false
+  xy: 2090, 3304
+  size: 365, 319
+  orig: 365, 319
+  offset: 0, 0
+  index: -1
+boob R
+  rotate: false
+  xy: 996, 3014
+  size: 418, 350
+  orig: 418, 350
+  offset: 0, 0
+  index: -1
+boobs 1
+  rotate: false
+  xy: 2676, 2806
+  size: 585, 444
+  orig: 585, 444
+  offset: 0, 0
+  index: -1
+brotop
+  rotate: false
+  xy: 2137, 2860
+  size: 537, 415
+  orig: 537, 415
+  offset: 0, 0
+  index: -1
+cloth_up
+  rotate: false
+  xy: 3140, 2220
+  size: 633, 534
+  orig: 633, 534
+  offset: 0, 0
+  index: -1
+coat_L_hair_shaodw
+  rotate: false
+  xy: 1089, 3366
+  size: 494, 301
+  orig: 494, 301
+  offset: 0, 0
+  index: -1
+coat_R_back
+  rotate: true
+  xy: 1416, 2930
+  size: 372, 719
+  orig: 372, 719
+  offset: 0, 0
+  index: -1
+coat_arm_L
+  rotate: true
+  xy: 694, 3404
+  size: 293, 393
+  orig: 293, 393
+  offset: 0, 0
+  index: -1
+coat_arm_L_back
+  rotate: false
+  xy: 387, 3721
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+coat_arm_R
+  rotate: false
+  xy: 2, 2050
+  size: 630, 534
+  orig: 630, 534
+  offset: 0, 0
+  index: -1
+coat_back
+  rotate: false
+  xy: 2, 1139
+  size: 1183, 717
+  orig: 1183, 717
+  offset: 0, 0
+  index: -1
+dress_L_back
+  rotate: false
+  xy: 2365, 1605
+  size: 1466, 613
+  orig: 1466, 613
+  offset: 0, 0
+  index: -1
+dress_L_front
+  rotate: true
+  xy: 2, 331
+  size: 806, 892
+  orig: 806, 892
+  offset: 0, 0
+  index: -1
+dress_front
+  rotate: false
+  xy: 2059, 2
+  size: 1481, 845
+  orig: 1481, 845
+  offset: 0, 0
+  index: -1
+dress_front 2
+  rotate: false
+  xy: 506, 2586
+  size: 887, 426
+  orig: 887, 426
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 1395, 2447
+  size: 411, 968
+  orig: 411, 968
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 931, 3708
+  size: 122, 91
+  orig: 122, 91
+  offset: 0, 0
+  index: -1
+eye1_highlight
+  rotate: false
+  xy: 2, 3775
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+eye_ball
+  rotate: false
+  xy: 189, 3729
+  size: 101, 70
+  orig: 101, 70
+  offset: 0, 0
+  index: -1
+eye_brows
+  rotate: false
+  xy: 807, 3710
+  size: 122, 89
+  orig: 122, 89
+  offset: 0, 0
+  index: -1
+eye_brows-2
+  rotate: false
+  xy: 93, 3755
+  size: 94, 44
+  orig: 94, 44
+  offset: 0, 0
+  index: -1
+eye_ring
+  rotate: false
+  xy: 53, 3764
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+eye_white
+  rotate: false
+  xy: 292, 3729
+  size: 93, 70
+  orig: 93, 70
+  offset: 0, 0
+  index: -1
+face1_red
+  rotate: false
+  xy: 2550, 3601
+  size: 289, 198
+  orig: 289, 198
+  offset: 0, 0
+  index: -1
+face2_red
+  rotate: false
+  xy: 2841, 3601
+  size: 289, 198
+  orig: 289, 198
+  offset: 0, 0
+  index: -1
+face_mask
+  rotate: true
+  xy: 3786, 3463
+  size: 336, 290
+  orig: 336, 290
+  offset: 0, 0
+  index: -1
+fingers_R
+  rotate: false
+  xy: 1055, 3699
+  size: 129, 100
+  orig: 129, 100
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 2666
+  size: 502, 486
+  orig: 502, 486
+  offset: 0, 0
+  index: -1
+hair_bang_1
+  rotate: true
+  xy: 2457, 3277
+  size: 322, 406
+  orig: 322, 406
+  offset: 0, 0
+  index: -1
+hair_bang_2
+  rotate: true
+  xy: 3432, 3558
+  size: 241, 352
+  orig: 241, 352
+  offset: 0, 0
+  index: -1
+hair_bang_2_shadow
+  rotate: true
+  xy: 2290, 3625
+  size: 174, 258
+  orig: 174, 258
+  offset: 0, 0
+  index: -1
+hair_bang_3
+  rotate: true
+  xy: 2099, 3643
+  size: 156, 189
+  orig: 156, 189
+  offset: 0, 0
+  index: -1
+hair_side_L_doc
+  rotate: true
+  xy: 1378, 3669
+  size: 130, 337
+  orig: 130, 337
+  offset: 0, 0
+  index: -1
+hair_side_R
+  rotate: true
+  xy: 1501, 1806
+  size: 639, 862
+  orig: 639, 862
+  offset: 0, 0
+  index: -1
+hair_side_R_doc
+  rotate: true
+  xy: 471, 3718
+  size: 81, 334
+  orig: 81, 334
+  offset: 0, 0
+  index: -1
+hand_L_1
+  rotate: true
+  xy: 2365, 2360
+  size: 444, 773
+  orig: 444, 773
+  offset: 0, 0
+  index: -1
+hand_L_2
+  rotate: true
+  xy: 2, 3494
+  size: 222, 690
+  orig: 222, 690
+  offset: 0, 0
+  index: -1
+hand_L_3
+  rotate: false
+  xy: 2, 3154
+  size: 628, 338
+  orig: 628, 338
+  offset: 0, 0
+  index: -1
+head 1
+  rotate: false
+  xy: 3385, 3212
+  size: 362, 344
+  orig: 362, 344
+  offset: 0, 0
+  index: -1
+head 2
+  rotate: true
+  xy: 3749, 3099
+  size: 362, 344
+  orig: 362, 344
+  offset: 0, 0
+  index: -1
+head 3
+  rotate: false
+  xy: 632, 3058
+  size: 362, 344
+  orig: 362, 344
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 2350, 849
+  size: 754, 1591
+  orig: 754, 1591
+  offset: 0, 0
+  index: -1
+pants_L
+  rotate: true
+  xy: 3263, 2756
+  size: 454, 474
+  orig: 454, 474
+  offset: 0, 0
+  index: -1
+pussy
+  rotate: false
+  xy: 1186, 3674
+  size: 190, 125
+  orig: 190, 125
+  offset: 0, 0
+  index: -1
+pussy_pants
+  rotate: false
+  xy: 1717, 3662
+  size: 199, 137
+  orig: 199, 137
+  offset: 0, 0
+  index: -1
+rabbit_body
+  rotate: false
+  xy: 2865, 3252
+  size: 518, 330
+  orig: 518, 330
+  offset: 0, 0
+  index: -1
+rabbit_ear
+  rotate: false
+  xy: 3132, 3584
+  size: 298, 215
+  orig: 298, 215
+  offset: 0, 0
+  index: -1
+thigh_L_1
+  rotate: false
+  xy: 896, 194
+  size: 1161, 826
+  orig: 1161, 826
+  offset: 0, 0
+  index: -1
+thigh_L_2
+  rotate: false
+  xy: 1187, 1022
+  size: 1161, 782
+  orig: 1161, 782
+  offset: 0, 0
+  index: -1
+thumb_R
+  rotate: true
+  xy: 1918, 3658
+  size: 141, 179
+  orig: 141, 179
+  offset: 0, 0
+  index: -1
+
+Chloe_Spine_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1730, 1574
+  size: 948, 1102
+  orig: 948, 1102
+  offset: 0, 0
+  index: -1
+coat_L
+  rotate: false
+  xy: 891, 2678
+  size: 1204, 987
+  orig: 1204, 987
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 1636
+  size: 887, 2029
+  orig: 887, 2029
+  offset: 0, 0
+  index: -1
+hair_side_L
+  rotate: true
+  xy: 2, 2
+  size: 1632, 1726
+  orig: 1632, 1726
+  offset: 0, 0
+  index: -1
+hair_side_R_tail
+  rotate: false
+  xy: 1730, 704
+  size: 1233, 868
+  orig: 1233, 868
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 2097, 2775
+  size: 1504, 890
+  orig: 1504, 890
+  offset: 0, 0
+  index: -1

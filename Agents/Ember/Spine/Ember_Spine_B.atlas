@@ -1,3 +1,146 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c1d083157c85238b744c14bfd6b8728228f7d8d5a421644ebca6fd2bfed089cf
-size 2070
+
+Ember_Spine_B.png
+size: 1981,1817
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: true
+  xy: 1051, 27
+  size: 129, 272
+  orig: 129, 272
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: true
+  xy: 1791, 1266
+  size: 231, 172
+  orig: 231, 172
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1284, 1059
+  size: 505, 756
+  orig: 790, 971
+  offset: 285, 18
+  index: -1
+Boin L
+  rotate: false
+  xy: 1764, 91
+  size: 201, 238
+  orig: 201, 238
+  offset: 0, 0
+  index: -1
+Boin R
+  rotate: true
+  xy: 1338, 163
+  size: 202, 251
+  orig: 207, 251
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1610, 13
+  size: 167, 131
+  orig: 167, 148
+  offset: 0, 3
+  index: -1
+Finger
+  rotate: true
+  xy: 1591, 182
+  size: 147, 171
+  orig: 180, 171
+  offset: 0, 0
+  index: -1
+Hair BK
+  rotate: true
+  xy: 1656, 331
+  size: 230, 299
+  orig: 230, 299
+  offset: 0, 0
+  index: -1
+Hair BK L
+  rotate: true
+  xy: 2, 2
+  size: 689, 1047
+  orig: 689, 1071
+  offset: 0, 24
+  index: -1
+Hair BK R
+  rotate: false
+  xy: 2, 693
+  size: 695, 1122
+  orig: 695, 1127
+  offset: 0, 0
+  index: -1
+Hair F
+  rotate: false
+  xy: 1414, 367
+  size: 240, 377
+  orig: 240, 377
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: true
+  xy: 1051, 158
+  size: 263, 285
+  orig: 263, 285
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 1791, 1499
+  size: 156, 316
+  orig: 166, 316
+  offset: 10, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1791, 1062
+  size: 188, 202
+  orig: 242, 208
+  offset: 0, 6
+  index: -1
+Layer7
+  rotate: false
+  xy: 699, 1030
+  size: 583, 785
+  orig: 701, 785
+  offset: 118, 0
+  index: -1
+Leg L
+  rotate: true
+  xy: 699, 746
+  size: 282, 1019
+  orig: 282, 1019
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 1720, 563
+  size: 233, 494
+  orig: 233, 494
+  offset: 0, 0
+  index: -1
+Leg R2
+  rotate: true
+  xy: 1051, 423
+  size: 321, 361
+  orig: 321, 361
+  offset: 0, 0
+  index: -1
+Part2
+  rotate: false
+  xy: 699, 694
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+part1
+  rotate: true
+  xy: 1338, 26
+  size: 135, 270
+  orig: 135, 270
+  offset: 0, 0
+  index: -1

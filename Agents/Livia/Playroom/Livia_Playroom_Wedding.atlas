@@ -1,3 +1,354 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:80fcb9ed1ee37a525453225ededcef2384c8ea4fd03150a22bc77727ff3f9d06
-size 5223
+
+Livia_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_skirt
+  rotate: true
+  xy: 2, 2183
+  size: 524, 1033
+  orig: 524, 1033
+  offset: 0, 0
+  index: -1
+booba_L
+  rotate: true
+  xy: 1824, 1823
+  size: 632, 887
+  orig: 692, 887
+  offset: 60, 0
+  index: -1
+booba_R
+  rotate: true
+  xy: 3117, 2390
+  size: 559, 636
+  orig: 559, 646
+  offset: 0, 0
+  index: -1
+booba_bling
+  rotate: false
+  xy: 943, 3807
+  size: 201, 151
+  orig: 201, 151
+  offset: 0, 0
+  index: -1
+booba_gem
+  rotate: false
+  xy: 710, 3821
+  size: 231, 137
+  orig: 231, 137
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 1146, 3765
+  size: 193, 414
+  orig: 193, 414
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: true
+  xy: 3519, 3692
+  size: 266, 456
+  orig: 274, 456
+  offset: 8, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 1535
+  size: 674, 646
+  orig: 674, 646
+  offset: 0, 0
+  index: -1
+foot_R
+  rotate: true
+  xy: 3162, 802
+  size: 946, 695
+  orig: 946, 695
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 1562, 3752
+  size: 476, 206
+  orig: 476, 206
+  offset: 0, 0
+  index: -1
+hair_LLB
+  rotate: true
+  xy: 1037, 1964
+  size: 597, 785
+  orig: 597, 785
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 315, 3837
+  size: 393, 121
+  orig: 393, 121
+  offset: 0, 0
+  index: -1
+hair_RRB
+  rotate: false
+  xy: 3026, 3716
+  size: 491, 242
+  orig: 491, 242
+  offset: 0, 0
+  index: -1
+hair_RRF
+  rotate: false
+  xy: 2, 2709
+  size: 1150, 446
+  orig: 1150, 446
+  offset: 0, 0
+  index: -1
+hair_RRR
+  rotate: true
+  xy: 1365, 1136
+  size: 685, 692
+  orig: 685, 692
+  offset: 0, 0
+  index: -1
+hair_rib_B
+  rotate: true
+  xy: 140, 3891
+  size: 67, 173
+  orig: 67, 173
+  offset: 0, 0
+  index: -1
+hair_rib_pearl
+  rotate: true
+  xy: 423, 3157
+  size: 325, 995
+  orig: 325, 995
+  offset: 0, 0
+  index: -1
+hair_rib_rose
+  rotate: true
+  xy: 2, 3567
+  size: 252, 822
+  orig: 252, 822
+  offset: 0, 0
+  index: -1
+hair_rib_top
+  rotate: true
+  xy: 2, 570
+  size: 743, 1054
+  orig: 743, 1054
+  offset: 0, 0
+  index: -1
+hair_rib_top2
+  rotate: true
+  xy: 1058, 311
+  size: 743, 1054
+  orig: 743, 1054
+  offset: 0, 0
+  index: -1
+hair_tail
+  rotate: false
+  xy: 2114, 2
+  size: 846, 1052
+  orig: 846, 1061
+  offset: 0, 9
+  index: -1
+hand_L1
+  rotate: false
+  xy: 2059, 1056
+  size: 1101, 692
+  orig: 1101, 692
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 2713, 1750
+  size: 1065, 638
+  orig: 1065, 638
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 2812, 2951
+  size: 1142, 413
+  orig: 1142, 413
+  offset: 0, 0
+  index: -1
+hand_armL
+  rotate: false
+  xy: 2958, 3366
+  size: 984, 324
+  orig: 984, 345
+  offset: 0, 21
+  index: -1
+hand_armR
+  rotate: false
+  xy: 1420, 3055
+  size: 810, 385
+  orig: 810, 385
+  offset: 0, 0
+  index: -1
+head_rib_blings
+  rotate: true
+  xy: 2040, 3743
+  size: 215, 984
+  orig: 215, 984
+  offset: 0, 0
+  index: -1
+juice_legL
+  rotate: true
+  xy: 1154, 2563
+  size: 490, 975
+  orig: 490, 975
+  offset: 0, 0
+  index: -1
+juice_legR
+  rotate: false
+  xy: 2131, 2457
+  size: 984, 492
+  orig: 984, 492
+  offset: 0, 0
+  index: -1
+juicer1
+  rotate: true
+  xy: 678, 1315
+  size: 647, 685
+  orig: 647, 685
+  offset: 0, 0
+  index: -1
+leg_clothes_under
+  rotate: false
+  xy: 2482, 3439
+  size: 474, 302
+  orig: 474, 302
+  offset: 0, 0
+  index: -1
+mouth_close
+  rotate: true
+  xy: 48, 3900
+  size: 58, 90
+  orig: 58, 90
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: true
+  xy: 2, 3919
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+pp1
+  rotate: false
+  xy: 2, 3186
+  size: 419, 379
+  orig: 431, 402
+  offset: 12, 23
+  index: -1
+pp2
+  rotate: false
+  xy: 826, 3484
+  size: 758, 266
+  orig: 758, 266
+  offset: 0, 0
+  index: -1
+sperm_clothes
+  rotate: true
+  xy: 2232, 2985
+  size: 452, 578
+  orig: 452, 578
+  offset: 0, 0
+  index: -1
+west_base
+  rotate: false
+  xy: 1586, 3451
+  size: 446, 299
+  orig: 511, 363
+  offset: 0, 10
+  index: -1
+west_top
+  rotate: false
+  xy: 2034, 3442
+  size: 446, 299
+  orig: 511, 363
+  offset: 0, 10
+  index: -1
+
+Livia_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foot_L
+  rotate: false
+  xy: 1720, 2
+  size: 1618, 1102
+  orig: 1638, 1121
+  offset: 20, 0
+  index: -1
+hair_LLF
+  rotate: true
+  xy: 2, 1427
+  size: 894, 1232
+  orig: 894, 1232
+  offset: 0, 0
+  index: -1
+hair_rib_2
+  rotate: true
+  xy: 2, 2323
+  size: 799, 1318
+  orig: 799, 1318
+  offset: 0, 0
+  index: -1
+hair_rib_base
+  rotate: true
+  xy: 1236, 1287
+  size: 948, 1522
+  orig: 948, 1522
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 2760, 1106
+  size: 1129, 1302
+  orig: 1129, 1302
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 2, 251
+  size: 1716, 1034
+  orig: 1716, 1034
+  offset: 0, 0
+  index: -1
+man_hand
+  rotate: false
+  xy: 2577, 2237
+  size: 1133, 885
+  orig: 1133, 885
+  offset: 0, 0
+  index: -1
+sperm
+  rotate: false
+  xy: 1322, 2251
+  size: 1253, 871
+  orig: 1253, 871
+  offset: 0, 0
+  index: -1
+
+Livia_Playroom_Wedding_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 2124, 1433
+  orig: 2124, 1433
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 2, 1437
+  size: 1501, 2613
+  orig: 1501, 2613
+  offset: 0, 0
+  index: -1

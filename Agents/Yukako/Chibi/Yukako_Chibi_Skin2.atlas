@@ -1,3 +1,391 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0ec75a16c8cf062f921b5b2bced22efe04b52ecea1471f63363682a9d59c88a
-size 5466
+
+Yukako_Chibi_Skin2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 2
+  size: 105, 126
+  orig: 105, 126
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 109, 2
+  size: 105, 126
+  orig: 105, 126
+  offset: 0, 0
+  index: -1
+bottle_1
+  rotate: true
+  xy: 1075, 267
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+bottle_2
+  rotate: true
+  xy: 148, 135
+  size: 375, 272
+  orig: 375, 272
+  offset: 0, 0
+  index: -1
+breast_L_1
+  rotate: false
+  xy: 1157, 53
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+breast_L_2
+  rotate: true
+  xy: 1119, 50
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+breast_R_1
+  rotate: false
+  xy: 1114, 137
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+breast_R_2
+  rotate: true
+  xy: 1084, 3
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+cloth_1_1
+  rotate: true
+  xy: 980, 3
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+cloth_1_10
+  rotate: true
+  xy: 1069, 152
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+cloth_1_11
+  rotate: true
+  xy: 624, 12
+  size: 195, 167
+  orig: 195, 167
+  offset: 0, 0
+  index: -1
+cloth_1_2
+  rotate: false
+  xy: 376, 6
+  size: 55, 127
+  orig: 55, 127
+  offset: 0, 0
+  index: -1
+cloth_1_3
+  rotate: false
+  xy: 1063, 370
+  size: 36, 140
+  orig: 36, 140
+  offset: 0, 0
+  index: -1
+cloth_1_4
+  rotate: false
+  xy: 558, 209
+  size: 136, 301
+  orig: 136, 301
+  offset: 0, 0
+  index: -1
+cloth_1_5
+  rotate: true
+  xy: 1025, 137
+  size: 87, 42
+  orig: 87, 42
+  offset: 0, 0
+  index: -1
+cloth_1_6
+  rotate: true
+  xy: 494, 2
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+cloth_1_7
+  rotate: true
+  xy: 960, 217
+  size: 109, 59
+  orig: 109, 59
+  offset: 0, 0
+  index: -1
+cloth_1_8
+  rotate: false
+  xy: 1144, 91
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+cloth_1_9
+  rotate: true
+  xy: 1055, 49
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+cloth_2_1
+  rotate: false
+  xy: 422, 206
+  size: 134, 304
+  orig: 134, 304
+  offset: 0, 0
+  index: -1
+cloth_2_2
+  rotate: false
+  xy: 696, 268
+  size: 155, 242
+  orig: 155, 242
+  offset: 0, 0
+  index: -1
+cloth_2_3
+  rotate: true
+  xy: 793, 17
+  size: 190, 81
+  orig: 190, 81
+  offset: 0, 0
+  index: -1
+eye_L_1
+  rotate: false
+  xy: 1124, 5
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+eye_L_2
+  rotate: true
+  xy: 537, 2
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+eye_R_1
+  rotate: true
+  xy: 1114, 176
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+eye_R_2
+  rotate: true
+  xy: 1119, 89
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+eyebow_L_1
+  rotate: true
+  xy: 564, 2
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+eyebow_R_1
+  rotate: false
+  xy: 933, 4
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 853, 328
+  size: 151, 182
+  orig: 151, 182
+  offset: 0, 0
+  index: -1
+foot_L_1_1
+  rotate: false
+  xy: 967, 25
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+foot_L_1_2
+  rotate: false
+  xy: 877, 211
+  size: 81, 115
+  orig: 81, 115
+  offset: 0, 0
+  index: -1
+foot_R_1_1
+  rotate: false
+  xy: 967, 114
+  size: 56, 101
+  orig: 56, 101
+  offset: 0, 0
+  index: -1
+foot_R_1_2
+  rotate: true
+  xy: 1021, 226
+  size: 101, 52
+  orig: 101, 52
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 834, 209
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1075, 228
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 448, 138
+  size: 66, 174
+  orig: 66, 174
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 216, 4
+  size: 129, 158
+  orig: 129, 158
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 433, 8
+  size: 59, 126
+  orig: 59, 126
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1006, 359
+  size: 55, 151
+  orig: 55, 151
+  offset: 0, 0
+  index: -1
+hair_B_1
+  rotate: false
+  xy: 2, 130
+  size: 144, 380
+  orig: 144, 380
+  offset: 0, 0
+  index: -1
+hand_L_1_1
+  rotate: false
+  xy: 853, 303
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+hand_L_1_2
+  rotate: false
+  xy: 1101, 478
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+hand_L_1_3
+  rotate: false
+  xy: 1083, 330
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+hand_L_1_4
+  rotate: false
+  xy: 585, 4
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hand_L_1_5
+  rotate: false
+  xy: 1162, 9
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+hand_L_1_6
+  rotate: true
+  xy: 773, 209
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+hand_R_1_1
+  rotate: true
+  xy: 696, 209
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+hand_R_1_2
+  rotate: true
+  xy: 1006, 329
+  size: 28, 75
+  orig: 28, 75
+  offset: 0, 0
+  index: -1
+hand_R_1_3
+  rotate: true
+  xy: 1055, 2
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+hand_R_1_4
+  rotate: false
+  xy: 422, 136
+  size: 24, 68
+  orig: 24, 68
+  offset: 0, 0
+  index: -1
+mask_1
+  rotate: false
+  xy: 876, 20
+  size: 89, 187
+  orig: 89, 187
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 876, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: true
+  xy: 853, 271
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 910, 2
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 494, 38
+  size: 98, 119
+  orig: 98, 119
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,564 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:501dd7b2d9c611da7605e9e6eb9e4b44ffecedfb2ff4d30426ed21e202625ac5
-size 8096
+
+Rosalie_Spine_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_Face
+  rotate: false
+  xy: 1672, 1740
+  size: 124, 85
+  orig: 124, 85
+  offset: 0, 0
+  index: -1
+01_02_cloth
+  rotate: false
+  xy: 2, 1677
+  size: 141, 114
+  orig: 141, 114
+  offset: 0, 0
+  index: -1
+01_02_cloth_1
+  rotate: false
+  xy: 758, 1626
+  size: 263, 139
+  orig: 263, 139
+  offset: 0, 0
+  index: -1
+01_BALL
+  rotate: false
+  xy: 1241, 1831
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+01_Bottom
+  rotate: false
+  xy: 1394, 1830
+  size: 112, 43
+  orig: 112, 43
+  offset: 0, 0
+  index: -1
+01_F_Eyebow
+  rotate: false
+  xy: 1592, 1829
+  size: 112, 44
+  orig: 112, 44
+  offset: 0, 0
+  index: -1
+01_F_light
+  rotate: false
+  xy: 785, 1836
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+01_Hand_L
+  rotate: true
+  xy: 734, 1772
+  size: 62, 93
+  orig: 62, 93
+  offset: 0, 0
+  index: -1
+01_Hand_L_1
+  rotate: true
+  xy: 145, 1659
+  size: 129, 152
+  orig: 129, 152
+  offset: 0, 0
+  index: -1
+01_Lash
+  rotate: false
+  xy: 1817, 1826
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1
+01_Musical
+  rotate: false
+  xy: 1284, 998
+  size: 456, 292
+  orig: 456, 292
+  offset: 0, 0
+  index: -1
+01_cloth_shadow
+  rotate: true
+  xy: 852, 708
+  size: 288, 615
+  orig: 288, 615
+  offset: 0, 0
+  index: -1
+01_lid
+  rotate: false
+  xy: 904, 1835
+  size: 89, 38
+  orig: 89, 38
+  offset: 0, 0
+  index: -1
+01_mouth
+  rotate: false
+  xy: 2, 1859
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+02_03_F_Eyebow
+  rotate: false
+  xy: 1706, 1827
+  size: 109, 46
+  orig: 109, 46
+  offset: 0, 0
+  index: -1
+02_Hand_L
+  rotate: false
+  xy: 1587, 1749
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+02_Hand_L_1
+  rotate: false
+  xy: 1204, 1759
+  size: 171, 70
+  orig: 171, 70
+  offset: 0, 0
+  index: -1
+02_Hand_L_shadow
+  rotate: false
+  xy: 329, 1786
+  size: 118, 55
+  orig: 118, 55
+  offset: 0, 0
+  index: -1
+02_Musical
+  rotate: false
+  xy: 2, 1445
+  size: 502, 191
+  orig: 502, 191
+  offset: 0, 0
+  index: -1
+02_cloth_shadow
+  rotate: true
+  xy: 2, 1212
+  size: 231, 438
+  orig: 231, 438
+  offset: 0, 0
+  index: -1
+02_mouth
+  rotate: false
+  xy: 32, 1858
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+03_Eyeball
+  rotate: false
+  xy: 1508, 1830
+  size: 82, 43
+  orig: 82, 43
+  offset: 0, 0
+  index: -1
+03_F_Light
+  rotate: false
+  xy: 631, 1837
+  size: 81, 36
+  orig: 81, 36
+  offset: 0, 0
+  index: -1
+03_F_Tear
+  rotate: false
+  xy: 995, 1835
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+03_Lid
+  rotate: false
+  xy: 1149, 1833
+  size: 90, 40
+  orig: 90, 40
+  offset: 0, 0
+  index: -1
+03_Mouth
+  rotate: true
+  xy: 264, 1847
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+03_eyebottom
+  rotate: false
+  xy: 1377, 1756
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+03_lash
+  rotate: false
+  xy: 2, 1800
+  size: 105, 51
+  orig: 105, 51
+  offset: 0, 0
+  index: -1
+Bird_A_Body
+  rotate: false
+  xy: 449, 1780
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+Bird_A_Tail
+  rotate: false
+  xy: 339, 1845
+  size: 76, 28
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+Bird_A_Wing
+  rotate: false
+  xy: 1489, 1755
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+Bird_A_Wing_2
+  rotate: false
+  xy: 109, 1793
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+Bird_A_head
+  rotate: false
+  xy: 1978, 1823
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+Bird_B_Body
+  rotate: false
+  xy: 538, 1777
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+Bird_B_Tail
+  rotate: false
+  xy: 61, 1853
+  size: 79, 20
+  orig: 79, 20
+  offset: 0, 0
+  index: -1
+Bird_B_Wing
+  rotate: false
+  xy: 625, 1775
+  size: 107, 60
+  orig: 107, 60
+  offset: 0, 0
+  index: -1
+Bird_B_Wing_2
+  rotate: false
+  xy: 829, 1769
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+Bird_B_head
+  rotate: true
+  xy: 195, 1792
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1758, 1074
+  size: 253, 446
+  orig: 253, 446
+  offset: 0, 0
+  index: -1
+Breast_L
+  rotate: true
+  xy: 299, 1654
+  size: 130, 144
+  orig: 130, 144
+  offset: 0, 0
+  index: -1
+Breast_R
+  rotate: true
+  xy: 445, 1638
+  size: 137, 148
+  orig: 137, 148
+  offset: 0, 0
+  index: -1
+Crutch_1
+  rotate: false
+  xy: 442, 1166
+  size: 486, 236
+  orig: 486, 236
+  offset: 0, 0
+  index: -1
+Crutch_2
+  rotate: true
+  xy: 1571, 1522
+  size: 213, 306
+  orig: 213, 306
+  offset: 0, 0
+  index: -1
+Crutch_3
+  rotate: false
+  xy: 1469, 621
+  size: 517, 375
+  orig: 517, 375
+  offset: 0, 0
+  index: -1
+Flower1
+  rotate: false
+  xy: 201, 1848
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+Flower2
+  rotate: false
+  xy: 579, 1838
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+Flower3
+  rotate: false
+  xy: 255, 1790
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+Flower4
+  rotate: false
+  xy: 505, 1839
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Flower5
+  rotate: false
+  xy: 1085, 1834
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+Flower6
+  rotate: false
+  xy: 142, 1849
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+Flower7
+  rotate: false
+  xy: 295, 1846
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+Flower8
+  rotate: false
+  xy: 417, 1843
+  size: 86, 30
+  orig: 86, 30
+  offset: 0, 0
+  index: -1
+Flower9
+  rotate: false
+  xy: 1324, 1831
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+Hair_01
+  rotate: false
+  xy: 1355, 1574
+  size: 214, 179
+  orig: 214, 179
+  offset: 0, 0
+  index: -1
+Hair_02
+  rotate: false
+  xy: 1023, 1622
+  size: 168, 140
+  orig: 168, 140
+  offset: 0, 0
+  index: -1
+Hair_03
+  rotate: false
+  xy: 1353, 2
+  size: 654, 617
+  orig: 654, 617
+  offset: 0, 0
+  index: -1
+Hair_04
+  rotate: true
+  xy: 595, 1631
+  size: 139, 161
+  orig: 139, 161
+  offset: 0, 0
+  index: -1
+Hair_5
+  rotate: true
+  xy: 2, 98
+  size: 533, 556
+  orig: 533, 556
+  offset: 0, 0
+  index: -1
+Hair_6
+  rotate: true
+  xy: 640, 327
+  size: 379, 711
+  orig: 379, 711
+  offset: 0, 0
+  index: -1
+Hair_7
+  rotate: true
+  xy: 2, 633
+  size: 289, 636
+  orig: 289, 636
+  offset: 0, 0
+  index: -1
+Hair_8
+  rotate: false
+  xy: 1287, 1292
+  size: 469, 228
+  orig: 469, 228
+  offset: 0, 0
+  index: -1
+Hairwear
+  rotate: false
+  xy: 865, 1836
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 908, 1767
+  size: 66, 143
+  orig: 66, 143
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 1926, 1825
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+Hand_R_1
+  rotate: false
+  xy: 714, 1837
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+Hand_R_2
+  rotate: true
+  xy: 930, 1095
+  size: 307, 352
+  orig: 307, 352
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1193, 1606
+  size: 151, 160
+  orig: 151, 160
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 1053, 1764
+  size: 67, 149
+  orig: 67, 149
+  offset: 0, 0
+  index: -1
+Leg_L_1
+  rotate: true
+  xy: 2, 924
+  size: 240, 848
+  orig: 240, 848
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 1798, 1737
+  size: 86, 148
+  orig: 86, 148
+  offset: 0, 0
+  index: -1
+Leg_R_1
+  rotate: true
+  xy: 506, 1404
+  size: 200, 779
+  orig: 200, 779
+  offset: 0, 0
+  index: -1
+
+Rosalie_Spine_Skin1_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Crutch
+  rotate: false
+  xy: 2, 2
+  size: 803, 1360
+  orig: 803, 1360
+  offset: 0, 0
+  index: -1
+Crutch_5
+  rotate: false
+  xy: 807, 38
+  size: 780, 1324
+  orig: 780, 1324
+  offset: 0, 0
+  index: -1
+Riibbon
+  rotate: false
+  xy: 2, 1364
+  size: 1563, 433
+  orig: 1563, 433
+  offset: 0, 0
+  index: -1
+
+Rosalie_Spine_Skin1_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_cloth
+  rotate: false
+  xy: 2, 2
+  size: 1289, 836
+  orig: 1289, 836
+  offset: 0, 0
+  index: -1
+02_cloth_2
+  rotate: false
+  xy: 2, 840
+  size: 1291, 807
+  orig: 1291, 807
+  offset: 0, 0
+  index: -1
+Cloth_1
+  rotate: true
+  xy: 1295, 938
+  size: 709, 635
+  orig: 709, 635
+  offset: 0, 0
+  index: -1
+Crutch_4
+  rotate: true
+  xy: 1295, 117
+  size: 819, 503
+  orig: 819, 503
+  offset: 0, 0
+  index: -1

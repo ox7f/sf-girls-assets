@@ -1,3 +1,614 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3db5f7e92aa23297e1f985b7379a04f1ccf8e46ce23199007ff06f1d7e5d7b7e
-size 9169
+
+Vanessa_Spine_Skin2.png
+size: 4021,4021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt
+  rotate: false
+  xy: 723, 3939
+  size: 363, 81
+  orig: 363, 81
+  offset: 0, 0
+  index: -1
+Body_up
+  rotate: true
+  xy: 1, 667
+  size: 701, 800
+  orig: 701, 800
+  offset: 0, 0
+  index: -1
+Boobs L
+  rotate: false
+  xy: 3135, 2773
+  size: 381, 359
+  orig: 381, 359
+  offset: 0, 0
+  index: -1
+Boobs L 2
+  rotate: false
+  xy: 3518, 2749
+  size: 394, 359
+  orig: 394, 359
+  offset: 0, 0
+  index: -1
+Boobs R
+  rotate: false
+  xy: 2393, 2782
+  size: 369, 358
+  orig: 369, 358
+  offset: 0, 0
+  index: -1
+Boobs R 2
+  rotate: false
+  xy: 2764, 2774
+  size: 369, 358
+  orig: 369, 358
+  offset: 0, 0
+  index: -1
+Bra cloth
+  rotate: false
+  xy: 1, 2577
+  size: 667, 372
+  orig: 667, 372
+  offset: 0, 0
+  index: -1
+Clothes 1 - 1
+  rotate: false
+  xy: 1741, 336
+  size: 934, 716
+  orig: 934, 716
+  offset: 0, 0
+  index: -1
+Clothes 1 - 2
+  rotate: false
+  xy: 2677, 75
+  size: 1019, 808
+  orig: 1019, 808
+  offset: 0, 0
+  index: -1
+Clothes 1 - 3
+  rotate: true
+  xy: 2744, 2309
+  size: 462, 594
+  orig: 462, 594
+  offset: 0, 0
+  index: -1
+Clothes 1 - 4
+  rotate: true
+  xy: 1, 3556
+  size: 209, 377
+  orig: 209, 377
+  offset: 0, 0
+  index: -1
+Clothes 1 - 5
+  rotate: false
+  xy: 1581, 2439
+  size: 566, 386
+  orig: 566, 386
+  offset: 0, 0
+  index: -1
+Clothes 2 - 1
+  rotate: false
+  xy: 803, 483
+  size: 936, 715
+  orig: 936, 715
+  offset: 0, 0
+  index: -1
+Clothes 2 - 3
+  rotate: true
+  xy: 2149, 2320
+  size: 460, 593
+  orig: 460, 593
+  offset: 0, 0
+  index: -1
+Clothes 2 - 4
+  rotate: true
+  xy: 2369, 3668
+  size: 198, 357
+  orig: 198, 357
+  offset: 0, 0
+  index: -1
+Ear L
+  rotate: false
+  xy: 1564, 3891
+  size: 145, 129
+  orig: 145, 129
+  offset: 0, 0
+  index: -1
+Ear L Doc
+  rotate: true
+  xy: 1, 3965
+  size: 55, 113
+  orig: 55, 113
+  offset: 0, 0
+  index: -1
+Ear R
+  rotate: false
+  xy: 1088, 3911
+  size: 154, 109
+  orig: 154, 109
+  offset: 0, 0
+  index: -1
+Face 1
+  rotate: false
+  xy: 983, 3719
+  size: 219, 190
+  orig: 219, 190
+  offset: 0, 0
+  index: -1
+Face 2
+  rotate: false
+  xy: 3776, 3843
+  size: 217, 177
+  orig: 217, 177
+  offset: 0, 0
+  index: -1
+Face 3
+  rotate: false
+  xy: 412, 3764
+  size: 225, 180
+  orig: 225, 180
+  offset: 0, 0
+  index: -1
+Face Red
+  rotate: false
+  xy: 3514, 3856
+  size: 260, 164
+  orig: 260, 164
+  offset: 0, 0
+  index: -1
+Flame 1
+  rotate: true
+  xy: 380, 3549
+  size: 208, 482
+  orig: 208, 482
+  offset: 0, 0
+  index: -1
+Flame 2
+  rotate: true
+  xy: 1991, 3682
+  size: 190, 376
+  orig: 190, 376
+  offset: 0, 0
+  index: -1
+Flame 3
+  rotate: true
+  xy: 1, 3767
+  size: 177, 409
+  orig: 177, 409
+  offset: 0, 0
+  index: -1
+Flame 4
+  rotate: true
+  xy: 3530, 3110
+  size: 280, 449
+  orig: 280, 449
+  offset: 0, 0
+  index: -1
+Flame 5
+  rotate: false
+  xy: 2641, 3142
+  size: 334, 277
+  orig: 334, 277
+  offset: 0, 0
+  index: -1
+Flame 6
+  rotate: true
+  xy: 3611, 3392
+  size: 238, 282
+  orig: 238, 282
+  offset: 0, 0
+  index: -1
+Flame Eye
+  rotate: true
+  xy: 864, 3495
+  size: 214, 606
+  orig: 214, 606
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: true
+  xy: 1136, 2460
+  size: 437, 443
+  orig: 437, 443
+  offset: 0, 0
+  index: -1
+Hair Bang 1
+  rotate: true
+  xy: 2944, 3421
+  size: 236, 286
+  orig: 236, 286
+  offset: 0, 0
+  index: -1
+Hair Bang 2
+  rotate: false
+  xy: 343, 3301
+  size: 250, 246
+  orig: 250, 246
+  offset: 0, 0
+  index: -1
+Hair Bang 3
+  rotate: true
+  xy: 3012, 3866
+  size: 154, 271
+  orig: 154, 271
+  offset: 0, 0
+  index: -1
+Hair Bang 4
+  rotate: true
+  xy: 2069, 3874
+  size: 146, 234
+  orig: 146, 234
+  offset: 0, 0
+  index: -1
+Hair Bow
+  rotate: false
+  xy: 1034, 2899
+  size: 584, 307
+  orig: 584, 307
+  offset: 0, 0
+  index: -1
+Hair Doc
+  rotate: false
+  xy: 2728, 3666
+  size: 342, 198
+  orig: 342, 198
+  offset: 0, 0
+  index: -1
+Hair Fan Doc
+  rotate: true
+  xy: 1, 3313
+  size: 241, 340
+  orig: 241, 340
+  offset: 0, 0
+  index: -1
+Hair Side 1
+  rotate: true
+  xy: 639, 3759
+  size: 178, 342
+  orig: 178, 342
+  offset: 0, 0
+  index: -1
+Hair Side 2
+  rotate: true
+  xy: 2305, 3874
+  size: 146, 240
+  orig: 146, 240
+  offset: 0, 0
+  index: -1
+Hair Side 3
+  rotate: true
+  xy: 3072, 3659
+  size: 200, 226
+  orig: 200, 226
+  offset: 0, 0
+  index: -1
+Hair_Tail
+  rotate: false
+  xy: 1471, 3208
+  size: 353, 264
+  orig: 353, 264
+  offset: 0, 0
+  index: -1
+Hairpin
+  rotate: true
+  xy: 1, 3019
+  size: 292, 293
+  orig: 292, 293
+  offset: 0, 0
+  index: -1
+Hand L 1
+  rotate: true
+  xy: 1857, 3452
+  size: 228, 258
+  orig: 228, 258
+  offset: 0, 0
+  index: -1
+Hand L 1 Finger
+  rotate: true
+  xy: 1879, 3882
+  size: 138, 188
+  orig: 138, 188
+  offset: 0, 0
+  index: -1
+Hand L 2 - 1
+  rotate: true
+  xy: 1204, 3711
+  size: 183, 292
+  orig: 183, 292
+  offset: 0, 0
+  index: -1
+Hand L 2 - 2
+  rotate: true
+  xy: 595, 3251
+  size: 242, 560
+  orig: 242, 560
+  offset: 0, 0
+  index: -1
+Hand L 2 - 3
+  rotate: true
+  xy: 3773, 3632
+  size: 209, 247
+  orig: 209, 247
+  offset: 0, 0
+  index: -1
+Hand R 1 - 1
+  rotate: true
+  xy: 2265, 3160
+  size: 272, 374
+  orig: 272, 374
+  offset: 0, 0
+  index: -1
+Hand R 1 - 2
+  rotate: true
+  xy: 1620, 2838
+  size: 325, 343
+  orig: 325, 343
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 296, 2959
+  size: 290, 356
+  orig: 290, 356
+  offset: 0, 0
+  index: -1
+Headband
+  rotate: false
+  xy: 1157, 3219
+  size: 312, 274
+  orig: 312, 274
+  offset: 0, 0
+  index: -1
+L Arm 1
+  rotate: false
+  xy: 3285, 3861
+  size: 227, 159
+  orig: 227, 159
+  offset: 0, 0
+  index: -1
+Leg Accessories 1
+  rotate: true
+  xy: 2776, 3867
+  size: 153, 234
+  orig: 153, 234
+  offset: 0, 0
+  index: -1
+Leg Accessories 2
+  rotate: true
+  xy: 1711, 3886
+  size: 134, 166
+  orig: 134, 166
+  offset: 0, 0
+  index: -1
+Leg Accessories 3
+  rotate: true
+  xy: 1244, 3897
+  size: 123, 166
+  orig: 123, 166
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 527, 1953
+  size: 484, 1343
+  orig: 484, 1343
+  offset: 0, 0
+  index: -1
+Skirt Front 1
+  rotate: false
+  xy: 1, 2093
+  size: 524, 482
+  orig: 524, 482
+  offset: 0, 0
+  index: -1
+Skirt Front 2
+  rotate: false
+  xy: 670, 2516
+  size: 464, 381
+  orig: 464, 381
+  offset: 0, 0
+  index: -1
+Skirt Front 2 - 1
+  rotate: false
+  xy: 3340, 2269
+  size: 531, 478
+  orig: 531, 478
+  offset: 0, 0
+  index: -1
+Skirt Front 2 - 2
+  rotate: false
+  xy: 1965, 2827
+  size: 426, 331
+  orig: 426, 331
+  offset: 0, 0
+  index: -1
+Skirt Front 3
+  rotate: true
+  xy: 1412, 3896
+  size: 124, 150
+  orig: 124, 150
+  offset: 0, 0
+  index: -1
+Skirt Front 4
+  rotate: false
+  xy: 2117, 3436
+  size: 425, 230
+  orig: 425, 230
+  offset: 0, 0
+  index: -1
+Skirt Front 5
+  rotate: true
+  xy: 2547, 3868
+  size: 152, 227
+  orig: 152, 227
+  offset: 0, 0
+  index: -1
+Tongue Ghost L
+  rotate: true
+  xy: 1, 1370
+  size: 581, 1189
+  orig: 581, 1189
+  offset: 0, 0
+  index: -1
+Tongue Ghost R 1
+  rotate: true
+  xy: 1872, 1805
+  size: 502, 1108
+  orig: 502, 1108
+  offset: 0, 0
+  index: -1
+Tongue Ghost R 2
+  rotate: false
+  xy: 3232, 3414
+  size: 377, 234
+  orig: 377, 234
+  offset: 0, 0
+  index: -1
+lamtern
+  rotate: true
+  xy: 1192, 1200
+  size: 603, 1394
+  orig: 603, 1394
+  offset: 0, 0
+  index: -1
+lamtern Flame 1
+  rotate: true
+  xy: 2977, 3134
+  size: 278, 551
+  orig: 278, 551
+  offset: 0, 0
+  index: -1
+lamtern Flame 2
+  rotate: true
+  xy: 1472, 3474
+  size: 219, 383
+  orig: 219, 383
+  offset: 0, 0
+  index: -1
+lamtern Flame 3
+  rotate: true
+  xy: 3300, 3650
+  size: 204, 471
+  orig: 204, 471
+  offset: 0, 0
+  index: -1
+lamtern Flame 4
+  rotate: true
+  xy: 1498, 3695
+  size: 185, 491
+  orig: 185, 491
+  offset: 0, 0
+  index: -1
+lamtern Flame 5
+  rotate: true
+  xy: 2544, 3434
+  size: 230, 398
+  orig: 230, 398
+  offset: 0, 0
+  index: -1
+lamtern_leaf
+  rotate: true
+  xy: 116, 3946
+  size: 74, 605
+  orig: 74, 605
+  offset: 0, 0
+  index: -1
+skirt_1
+  rotate: false
+  xy: 654, 2951
+  size: 378, 298
+  orig: 378, 298
+  offset: 0, 0
+  index: -1
+skirt_2 - 1
+  rotate: false
+  xy: 3361, 885
+  size: 658, 799
+  orig: 658, 799
+  offset: 0, 0
+  index: -1
+skirt_2 - 2
+  rotate: true
+  xy: 2588, 1054
+  size: 630, 771
+  orig: 630, 771
+  offset: 0, 0
+  index: -1
+skirt_3
+  rotate: false
+  xy: 1826, 3165
+  size: 437, 269
+  orig: 437, 269
+  offset: 0, 0
+  index: -1
+skirt_4
+  rotate: true
+  xy: 2982, 1686
+  size: 581, 712
+  orig: 581, 712
+  offset: 0, 0
+  index: -1
+
+Vanessa_Spine_Skin2_2.png
+size: 3808,3808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clothes 1 - 6
+  rotate: true
+  xy: 1580, 1654
+  size: 1073, 818
+  orig: 1073, 818
+  offset: 0, 0
+  index: -1
+Clothes 2 - 6
+  rotate: false
+  xy: 1819, 1
+  size: 1061, 822
+  orig: 1061, 822
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 1, 95
+  size: 907, 1534
+  orig: 907, 1534
+  offset: 0, 0
+  index: -1
+Leg_L 2
+  rotate: false
+  xy: 910, 95
+  size: 907, 1534
+  orig: 907, 1534
+  offset: 0, 0
+  index: -1
+saliva
+  rotate: false
+  xy: 1, 1631
+  size: 1577, 2176
+  orig: 1577, 2176
+  offset: 0, 0
+  index: -1
+skirt_5 - 1
+  rotate: false
+  xy: 2400, 1777
+  size: 1187, 950
+  orig: 1187, 950
+  offset: 0, 0
+  index: -1
+skirt_5 - 2
+  rotate: false
+  xy: 2400, 825
+  size: 1186, 950
+  orig: 1186, 950
+  offset: 0, 0
+  index: -1
+umbrella
+  rotate: false
+  xy: 1819, 2729
+  size: 1953, 1078
+  orig: 1953, 1078
+  offset: 0, 0
+  index: -1

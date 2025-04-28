@@ -1,3 +1,321 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed1367b35381f561341a679b5ccd515112e86f93cf43f8f30f66582b36b817ea
-size 4678
+
+Coco_Playroom_Skin2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: false
+  xy: 2535, 2944
+  size: 394, 394
+  orig: 394, 394
+  offset: 0, 0
+  index: -1
+Arm L 2
+  rotate: false
+  xy: 1838, 16
+  size: 614, 274
+  orig: 614, 274
+  offset: 0, 0
+  index: -1
+Arm R 1
+  rotate: false
+  xy: 2, 261
+  size: 1192, 767
+  orig: 1192, 767
+  offset: 0, 0
+  index: -1
+Arm R 1 - 2
+  rotate: true
+  xy: 1076, 2650
+  size: 182, 365
+  orig: 182, 365
+  offset: 0, 0
+  index: -1
+Arm R 2 - 1
+  rotate: true
+  xy: 949, 1063
+  size: 314, 874
+  orig: 314, 874
+  offset: 0, 0
+  index: -1
+Arm R 2 - 2
+  rotate: false
+  xy: 1076, 2834
+  size: 767, 406
+  orig: 767, 406
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1076, 3242
+  size: 850, 804
+  orig: 850, 804
+  offset: 0, 0
+  index: -1
+Boob L
+  rotate: false
+  xy: 2347, 2316
+  size: 396, 443
+  orig: 396, 443
+  offset: 0, 0
+  index: -1
+Boob R
+  rotate: true
+  xy: 2755, 711
+  size: 459, 406
+  orig: 459, 406
+  offset: 0, 0
+  index: -1
+Butt L
+  rotate: false
+  xy: 2, 1030
+  size: 945, 1550
+  orig: 945, 1550
+  offset: 0, 0
+  index: -1
+Butt R
+  rotate: false
+  xy: 2, 2582
+  size: 1072, 1510
+  orig: 1072, 1510
+  offset: 0, 0
+  index: -1
+Condom
+  rotate: true
+  xy: 2191, 3259
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+Face 1
+  rotate: true
+  xy: 2873, 3418
+  size: 294, 428
+  orig: 294, 428
+  offset: 0, 0
+  index: -1
+Face 2
+  rotate: true
+  xy: 2454, 8
+  size: 310, 430
+  orig: 310, 430
+  offset: 0, 0
+  index: -1
+Face 2 Tear
+  rotate: true
+  xy: 1766, 292
+  size: 97, 267
+  orig: 97, 267
+  offset: 0, 0
+  index: -1
+Face Red
+  rotate: true
+  xy: 2304, 1172
+  size: 281, 471
+  orig: 281, 471
+  offset: 0, 0
+  index: -1
+Face Red 1
+  rotate: true
+  xy: 2886, 44
+  size: 278, 470
+  orig: 278, 470
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: false
+  xy: 2298, 597
+  size: 455, 510
+  orig: 455, 510
+  offset: 0, 0
+  index: -1
+Hair Bang 1
+  rotate: false
+  xy: 1443, 2678
+  size: 424, 154
+  orig: 424, 154
+  offset: 0, 0
+  index: -1
+Hair Bang 2
+  rotate: false
+  xy: 1869, 2736
+  size: 413, 143
+  orig: 413, 143
+  offset: 0, 0
+  index: -1
+Hair Bang 3
+  rotate: false
+  xy: 944, 33
+  size: 402, 226
+  orig: 402, 226
+  offset: 0, 0
+  index: -1
+Hair Bang 4
+  rotate: false
+  xy: 1825, 1109
+  size: 477, 282
+  orig: 477, 282
+  offset: 0, 0
+  index: -1
+Hair Bang 5
+  rotate: true
+  xy: 1882, 3461
+  size: 631, 485
+  orig: 631, 485
+  offset: 0, 0
+  index: -1
+Hair Bang 6
+  rotate: false
+  xy: 2, 35
+  size: 450, 224
+  orig: 450, 224
+  offset: 0, 0
+  index: -1
+Hair Bang 7
+  rotate: true
+  xy: 2005, 2079
+  size: 655, 340
+  orig: 655, 340
+  offset: 0, 0
+  index: -1
+Hair Doc L
+  rotate: true
+  xy: 2788, 324
+  size: 385, 382
+  orig: 385, 382
+  offset: 0, 0
+  index: -1
+Hair Doc L Ribbon
+  rotate: true
+  xy: 1882, 3256
+  size: 203, 307
+  orig: 203, 307
+  offset: 0, 0
+  index: -1
+Hair Doc R
+  rotate: true
+  xy: 2020, 1603
+  size: 474, 416
+  orig: 474, 416
+  offset: 0, 0
+  index: -1
+Hair Doc R Ribbon
+  rotate: true
+  xy: 2020, 1394
+  size: 207, 265
+  orig: 207, 265
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: true
+  xy: 1595, 1393
+  size: 615, 423
+  orig: 615, 423
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2369, 3518
+  size: 574, 502
+  orig: 574, 502
+  offset: 0, 0
+  index: -1
+JJ 1
+  rotate: false
+  xy: 1845, 2881
+  size: 688, 359
+  orig: 688, 359
+  offset: 0, 0
+  index: -1
+JJ 2
+  rotate: true
+  xy: 1595, 2010
+  size: 666, 408
+  orig: 666, 408
+  offset: 0, 0
+  index: -1
+JJ 2 Sperm
+  rotate: true
+  xy: 3218, 3716
+  size: 376, 309
+  orig: 376, 309
+  offset: 0, 0
+  index: -1
+Sperm
+  rotate: false
+  xy: 949, 1379
+  size: 644, 1201
+  orig: 644, 1201
+  offset: 0, 0
+  index: -1
+Sweat 1
+  rotate: false
+  xy: 1196, 275
+  size: 568, 786
+  orig: 568, 786
+  offset: 0, 0
+  index: -1
+Sweat 2
+  rotate: false
+  xy: 1766, 391
+  size: 530, 670
+  orig: 530, 670
+  offset: 0, 0
+  index: -1
+Sweat 3
+  rotate: true
+  xy: 2287, 1455
+  size: 146, 255
+  orig: 146, 255
+  offset: 0, 0
+  index: -1
+Sweat 4
+  rotate: true
+  xy: 2501, 3340
+  size: 176, 342
+  orig: 176, 342
+  offset: 0, 0
+  index: -1
+Sweat 5
+  rotate: false
+  xy: 454, 5
+  size: 424, 62
+  orig: 424, 62
+  offset: 0, 0
+  index: -1
+Sweat 6
+  rotate: true
+  xy: 2284, 2761
+  size: 118, 160
+  orig: 118, 160
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 2873, 3714
+  size: 378, 343
+  orig: 378, 343
+  offset: 0, 0
+  index: -1
+pussy 1
+  rotate: true
+  xy: 2298, 320
+  size: 275, 488
+  orig: 275, 488
+  offset: 0, 0
+  index: -1
+pussy 2 - 1
+  rotate: true
+  xy: 454, 69
+  size: 190, 488
+  orig: 190, 488
+  offset: 0, 0
+  index: -1
+pussy 2 - 2
+  rotate: true
+  xy: 1348, 2
+  size: 271, 488
+  orig: 271, 488
+  offset: 0, 0
+  index: -1

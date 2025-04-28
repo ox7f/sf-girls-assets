@@ -1,3 +1,580 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a5eaffcc32d3c6091b3ed483e20e1ff065daefd23d791324e0a9cb47c82a05f
-size 8500
+
+Sera_Spine.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A Arm L
+  rotate: false
+  xy: 776, 249
+  size: 330, 146
+  orig: 330, 146
+  offset: 0, 0
+  index: -1
+A Body
+  rotate: false
+  xy: 3685, 5
+  size: 267, 391
+  orig: 267, 391
+  offset: 0, 0
+  index: -1
+A Body Shadow
+  rotate: true
+  xy: 1318, 799
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+A Boobs
+  rotate: false
+  xy: 1440, 258
+  size: 240, 137
+  orig: 240, 137
+  offset: 0, 0
+  index: -1
+A Brush
+  rotate: false
+  xy: 2067, 271
+  size: 176, 127
+  orig: 176, 127
+  offset: 0, 0
+  index: -1
+A Eyes
+  rotate: false
+  xy: 2245, 288
+  size: 199, 110
+  orig: 199, 110
+  offset: 0, 0
+  index: -1
+A Hand R
+  rotate: true
+  xy: 2943, 1926
+  size: 119, 131
+  orig: 119, 131
+  offset: 0, 0
+  index: -1
+A Headwear
+  rotate: false
+  xy: 2844, 2
+  size: 446, 299
+  orig: 446, 299
+  offset: 0, 0
+  index: -1
+A Leg L
+  rotate: true
+  xy: 846, 21
+  size: 226, 775
+  orig: 226, 775
+  offset: 0, 0
+  index: -1
+A Leg R
+  rotate: false
+  xy: 474, 1233
+  size: 383, 812
+  orig: 383, 812
+  offset: 0, 0
+  index: -1
+A Mouth
+  rotate: false
+  xy: 1636, 1244
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+A Ribbon Skirt b
+  rotate: false
+  xy: 2612, 1067
+  size: 374, 227
+  orig: 374, 227
+  offset: 0, 0
+  index: -1
+A Shoe L a
+  rotate: true
+  xy: 2496, 1296
+  size: 278, 388
+  orig: 278, 388
+  offset: 0, 0
+  index: -1
+A Shoe R a
+  rotate: true
+  xy: 2886, 1386
+  size: 266, 398
+  orig: 266, 398
+  offset: 0, 0
+  index: -1
+A Shoe R b
+  rotate: false
+  xy: 1288, 877
+  size: 271, 113
+  orig: 271, 113
+  offset: 0, 0
+  index: -1
+A Skirt a
+  rotate: false
+  xy: 1288, 992
+  size: 660, 242
+  orig: 660, 242
+  offset: 0, 0
+  index: -1
+A Skirt b
+  rotate: false
+  xy: 3292, 62
+  size: 391, 274
+  orig: 391, 274
+  offset: 0, 0
+  index: -1
+A Skirt back R
+  rotate: false
+  xy: 1769, 1241
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+A Skirt e
+  rotate: true
+  xy: 859, 1464
+  size: 581, 458
+  orig: 581, 458
+  offset: 0, 0
+  index: -1
+A Skirt f
+  rotate: false
+  xy: 1779, 1576
+  size: 442, 469
+  orig: 442, 469
+  offset: 0, 0
+  index: -1
+AB Eyebrows
+  rotate: false
+  xy: 474, 780
+  size: 163, 66
+  orig: 163, 66
+  offset: 0, 0
+  index: -1
+AB Leg R Ribbon
+  rotate: true
+  xy: 1395, 799
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+AB Ribbon Hand L
+  rotate: false
+  xy: 2400, 19
+  size: 442, 267
+  orig: 442, 267
+  offset: 0, 0
+  index: -1
+AB Ribbon Hand R
+  rotate: true
+  xy: 1590, 400
+  size: 439, 550
+  orig: 439, 550
+  offset: 0, 0
+  index: -1
+AB Ribbon Skirt a
+  rotate: false
+  xy: 2995, 306
+  size: 235, 153
+  orig: 235, 153
+  offset: 0, 0
+  index: -1
+AB Ribbon Skirt c
+  rotate: true
+  xy: 3275, 528
+  size: 359, 291
+  orig: 359, 291
+  offset: 0, 0
+  index: -1
+AB Ribbon Skirt d
+  rotate: true
+  xy: 2029, 841
+  size: 200, 349
+  orig: 200, 349
+  offset: 0, 0
+  index: -1
+AB Ribbon Skirt e
+  rotate: true
+  xy: 3495, 895
+  size: 241, 339
+  orig: 241, 339
+  offset: 0, 0
+  index: -1
+AB Sholder
+  rotate: false
+  xy: 2, 9
+  size: 420, 211
+  orig: 420, 211
+  offset: 0, 0
+  index: -1
+AB Skirt back L
+  rotate: false
+  xy: 1711, 1241
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+AB Skirt c
+  rotate: false
+  xy: 3388, 1138
+  size: 365, 280
+  orig: 365, 280
+  offset: 0, 0
+  index: -1
+AB Skirt d
+  rotate: false
+  xy: 1636, 1287
+  size: 414, 175
+  orig: 414, 175
+  offset: 0, 0
+  index: -1
+AB Skirt g
+  rotate: false
+  xy: 1447, 841
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: false
+  xy: 1682, 279
+  size: 204, 119
+  orig: 204, 119
+  offset: 0, 0
+  index: -1
+B Body
+  rotate: true
+  xy: 3286, 1420
+  size: 267, 391
+  orig: 267, 391
+  offset: 0, 0
+  index: -1
+B Boob L
+  rotate: false
+  xy: 3557, 398
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+B Boob R
+  rotate: true
+  xy: 3209, 1919
+  size: 126, 113
+  orig: 126, 113
+  offset: 0, 0
+  index: -1
+B Brush
+  rotate: false
+  xy: 1888, 271
+  size: 177, 127
+  orig: 177, 127
+  offset: 0, 0
+  index: -1
+B Eyes
+  rotate: false
+  xy: 2446, 297
+  size: 199, 101
+  orig: 199, 101
+  offset: 0, 0
+  index: -1
+B Leg L
+  rotate: true
+  xy: 1623, 30
+  size: 226, 775
+  orig: 226, 775
+  offset: 0, 0
+  index: -1
+B Leg R
+  rotate: true
+  xy: 474, 848
+  size: 383, 812
+  orig: 383, 812
+  offset: 0, 0
+  index: -1
+B Mouth
+  rotate: false
+  xy: 1518, 792
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+B Ribbon Skirt b
+  rotate: false
+  xy: 3119, 889
+  size: 374, 227
+  orig: 374, 227
+  offset: 0, 0
+  index: -1
+B Skirt a
+  rotate: false
+  xy: 1950, 1043
+  size: 660, 242
+  orig: 660, 242
+  offset: 0, 0
+  index: -1
+B Skirt b
+  rotate: true
+  xy: 2667, 1654
+  size: 391, 274
+  orig: 391, 274
+  offset: 0, 0
+  index: -1
+B Skirt e
+  rotate: true
+  xy: 1319, 1464
+  size: 581, 458
+  orig: 581, 458
+  offset: 0, 0
+  index: -1
+B Skirt f
+  rotate: false
+  xy: 2223, 1576
+  size: 442, 469
+  orig: 442, 469
+  offset: 0, 0
+  index: -1
+BC Arm L
+  rotate: false
+  xy: 1108, 249
+  size: 330, 146
+  orig: 330, 146
+  offset: 0, 0
+  index: -1
+BC Boob R Shadow
+  rotate: false
+  xy: 1555, 841
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+BC Hand R
+  rotate: true
+  xy: 3076, 1926
+  size: 119, 131
+  orig: 119, 131
+  offset: 0, 0
+  index: -1
+BC Headwear
+  rotate: true
+  xy: 2694, 400
+  size: 446, 299
+  orig: 446, 299
+  offset: 0, 0
+  index: -1
+BC Shoe L a
+  rotate: false
+  xy: 2995, 461
+  size: 278, 388
+  orig: 278, 388
+  offset: 0, 0
+  index: -1
+BC Shoe R a
+  rotate: true
+  xy: 2988, 1118
+  size: 266, 398
+  orig: 266, 398
+  offset: 0, 0
+  index: -1
+BC Shoe R b
+  rotate: false
+  xy: 1561, 877
+  size: 271, 113
+  orig: 271, 113
+  offset: 0, 0
+  index: -1
+BC Sholder Shadow
+  rotate: false
+  xy: 1207, 802
+  size: 109, 44
+  orig: 109, 44
+  offset: 0, 0
+  index: -1
+C Body
+  rotate: true
+  xy: 3523, 1778
+  size: 267, 391
+  orig: 267, 391
+  offset: 0, 0
+  index: -1
+C Boob L
+  rotate: true
+  xy: 3954, 1918
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+C Boob R
+  rotate: true
+  xy: 3324, 1919
+  size: 126, 113
+  orig: 126, 113
+  offset: 0, 0
+  index: -1
+C Brush
+  rotate: false
+  xy: 1834, 863
+  size: 193, 127
+  orig: 193, 127
+  offset: 0, 0
+  index: -1
+C Eyebrows
+  rotate: false
+  xy: 639, 782
+  size: 167, 64
+  orig: 167, 64
+  offset: 0, 0
+  index: -1
+C Eyes
+  rotate: false
+  xy: 2647, 303
+  size: 199, 95
+  orig: 199, 95
+  offset: 0, 0
+  index: -1
+C Leg L
+  rotate: true
+  xy: 859, 1236
+  size: 226, 775
+  orig: 226, 775
+  offset: 0, 0
+  index: -1
+C Leg R
+  rotate: true
+  xy: 776, 397
+  size: 383, 812
+  orig: 383, 812
+  offset: 0, 0
+  index: -1
+C Mouth
+  rotate: false
+  xy: 1447, 791
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+C Ribbon Hand L
+  rotate: false
+  xy: 2052, 1307
+  size: 442, 267
+  orig: 442, 267
+  offset: 0, 0
+  index: -1
+C Ribbon Hand R
+  rotate: true
+  xy: 2142, 400
+  size: 439, 550
+  orig: 439, 550
+  offset: 0, 0
+  index: -1
+C Ribbon Skirt b
+  rotate: false
+  xy: 2943, 1689
+  size: 374, 227
+  orig: 374, 227
+  offset: 0, 0
+  index: -1
+C Sholder
+  rotate: false
+  xy: 424, 9
+  size: 420, 211
+  orig: 420, 211
+  offset: 0, 0
+  index: -1
+C Tear
+  rotate: false
+  xy: 808, 783
+  size: 166, 63
+  orig: 166, 63
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 976, 797
+  size: 100, 49
+  orig: 100, 49
+  offset: 0, 0
+  index: -1
+Diamond a
+  rotate: true
+  xy: 3836, 869
+  size: 269, 235
+  orig: 269, 235
+  offset: 0, 0
+  index: -1
+Diamond b
+  rotate: true
+  xy: 2641, 848
+  size: 217, 269
+  orig: 217, 269
+  offset: 0, 0
+  index: -1
+Diamond c
+  rotate: false
+  xy: 3415, 383
+  size: 140, 143
+  orig: 140, 143
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 2912, 851
+  size: 205, 214
+  orig: 205, 214
+  offset: 0, 0
+  index: -1
+Face Glow
+  rotate: false
+  xy: 1078, 808
+  size: 127, 38
+  orig: 127, 38
+  offset: 0, 0
+  index: -1
+GroundFX
+  rotate: true
+  xy: 2, 774
+  size: 1271, 470
+  orig: 1271, 470
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 3679, 1433
+  size: 343, 302
+  orig: 343, 302
+  offset: 0, 0
+  index: -1
+Hair Shadow
+  rotate: true
+  xy: 3319, 1712
+  size: 205, 202
+  orig: 205, 202
+  offset: 0, 0
+  index: -1
+Hair b
+  rotate: false
+  xy: 2, 222
+  size: 772, 550
+  orig: 772, 550
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: false
+  xy: 3755, 1140
+  size: 254, 291
+  orig: 254, 291
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 3232, 338
+  size: 181, 121
+  orig: 181, 121
+  offset: 0, 0
+  index: -1
+Shoe L b
+  rotate: false
+  xy: 2380, 863
+  size: 259, 178
+  orig: 259, 178
+  offset: 0, 0
+  index: -1

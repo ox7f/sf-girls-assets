@@ -1,3 +1,502 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6421f1402baa8b1444a34c1da27d198916f371ec1125a25e67573c3031dbeb7
-size 7295
+
+Selene_Playroom_A.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blush_B
+  rotate: false
+  xy: 2550, 3600
+  size: 272, 124
+  orig: 272, 124
+  offset: 0, 0
+  index: -1
+Calf2_L
+  rotate: false
+  xy: 2125, 3627
+  size: 170, 97
+  orig: 170, 97
+  offset: 0, 0
+  index: -1
+Calf_R
+  rotate: false
+  xy: 2, 2
+  size: 1437, 571
+  orig: 1437, 571
+  offset: 0, 0
+  index: -1
+Labia1_A
+  rotate: true
+  xy: 605, 1516
+  size: 572, 685
+  orig: 572, 685
+  offset: 0, 0
+  index: -1
+Labia1_B
+  rotate: true
+  xy: 1292, 1335
+  size: 572, 685
+  orig: 572, 685
+  offset: 0, 0
+  index: -1
+Labia2
+  rotate: true
+  xy: 2947, 1280
+  size: 572, 685
+  orig: 572, 685
+  offset: 0, 0
+  index: -1
+Penis
+  rotate: false
+  xy: 3638, 2958
+  size: 403, 466
+  orig: 403, 466
+  offset: 0, 0
+  index: -1
+Saliva_B
+  rotate: true
+  xy: 1235, 3663
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+Skull1
+  rotate: true
+  xy: 1979, 1059
+  size: 595, 775
+  orig: 595, 775
+  offset: 0, 0
+  index: -1
+Skull1_tentacle1
+  rotate: false
+  xy: 3515, 2400
+  size: 563, 556
+  orig: 563, 556
+  offset: 0, 0
+  index: -1
+Skull1_tentacle2
+  rotate: true
+  xy: 744, 3399
+  size: 268, 462
+  orig: 268, 462
+  offset: 0, 0
+  index: -1
+Skull1_tentacle3
+  rotate: true
+  xy: 2, 3112
+  size: 303, 628
+  orig: 303, 628
+  offset: 0, 0
+  index: -1
+Skull1_tentacle4
+  rotate: true
+  xy: 2859, 2703
+  size: 421, 654
+  orig: 421, 654
+  offset: 0, 0
+  index: -1
+Skull2
+  rotate: true
+  xy: 606, 2587
+  size: 478, 491
+  orig: 478, 491
+  offset: 0, 0
+  index: -1
+Skull2_VFX
+  rotate: false
+  xy: 864, 575
+  size: 851, 758
+  orig: 851, 758
+  offset: 0, 0
+  index: -1
+Skull2_tentacle1
+  rotate: false
+  xy: 1739, 2428
+  size: 616, 490
+  orig: 616, 490
+  offset: 0, 0
+  index: -1
+Skull2_tentacle2
+  rotate: true
+  xy: 1873, 2920
+  size: 409, 513
+  orig: 409, 513
+  offset: 0, 0
+  index: -1
+Skull2_tentacle3
+  rotate: true
+  xy: 2104, 3331
+  size: 276, 434
+  orig: 276, 434
+  offset: 0, 0
+  index: -1
+Skull2_tentacle4
+  rotate: false
+  xy: 3257, 3126
+  size: 379, 370
+  orig: 379, 370
+  offset: 0, 0
+  index: -1
+W1
+  rotate: true
+  xy: 1976, 3633
+  size: 91, 147
+  orig: 91, 147
+  offset: 0, 0
+  index: -1
+W2
+  rotate: true
+  xy: 2297, 3617
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+W3
+  rotate: true
+  xy: 3346, 3536
+  size: 188, 223
+  orig: 188, 223
+  offset: 0, 0
+  index: -1
+W4
+  rotate: true
+  xy: 1874, 3636
+  size: 88, 100
+  orig: 88, 100
+  offset: 0, 0
+  index: -1
+body_A
+  rotate: true
+  xy: 1717, 275
+  size: 782, 978
+  orig: 782, 978
+  offset: 0, 0
+  index: -1
+chest_L
+  rotate: false
+  xy: 2, 3433
+  size: 426, 240
+  orig: 426, 240
+  offset: 0, 0
+  index: -1
+chest_R_A
+  rotate: false
+  xy: 2344, 1656
+  size: 601, 559
+  orig: 601, 559
+  offset: 0, 0
+  index: -1
+chest_R_B
+  rotate: false
+  xy: 2, 1529
+  size: 601, 559
+  orig: 601, 559
+  offset: 0, 0
+  index: -1
+earring
+  rotate: true
+  xy: 2, 3704
+  size: 20, 64
+  orig: 20, 64
+  offset: 0, 0
+  index: -1
+eye_A
+  rotate: false
+  xy: 486, 3669
+  size: 265, 55
+  orig: 265, 55
+  offset: 0, 0
+  index: -1
+eye_A_VFX
+  rotate: false
+  xy: 1448, 3648
+  size: 268, 76
+  orig: 268, 76
+  offset: 0, 0
+  index: -1
+eye_B
+  rotate: false
+  xy: 753, 3669
+  size: 257, 55
+  orig: 257, 55
+  offset: 0, 0
+  index: -1
+eye_B_VFX
+  rotate: false
+  xy: 285, 3680
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+eyebrow_A
+  rotate: false
+  xy: 68, 3684
+  size: 215, 40
+  orig: 215, 40
+  offset: 0, 0
+  index: -1
+eyebrow_B
+  rotate: false
+  xy: 1012, 3669
+  size: 221, 55
+  orig: 221, 55
+  offset: 0, 0
+  index: -1
+face_A
+  rotate: true
+  xy: 2, 2098
+  size: 544, 589
+  orig: 544, 589
+  offset: 0, 0
+  index: -1
+face_B
+  rotate: true
+  xy: 3501, 1854
+  size: 544, 589
+  orig: 544, 589
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 2388, 2855
+  size: 421, 469
+  orig: 421, 469
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 1785, 3357
+  size: 274, 317
+  orig: 274, 317
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 1313, 3651
+  size: 73, 133
+  orig: 73, 133
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 1718, 3638
+  size: 86, 154
+  orig: 86, 154
+  offset: 0, 0
+  index: -1
+hand1_L
+  rotate: true
+  xy: 2540, 3278
+  size: 302, 363
+  orig: 302, 363
+  offset: 0, 0
+  index: -1
+hand1_R_A
+  rotate: true
+  xy: 1099, 2576
+  size: 450, 638
+  orig: 450, 638
+  offset: 0, 0
+  index: -1
+hand1_R_B
+  rotate: true
+  xy: 632, 3067
+  size: 304, 598
+  orig: 304, 598
+  offset: 0, 0
+  index: -1
+hand2_L
+  rotate: true
+  xy: 1208, 3373
+  size: 263, 575
+  orig: 263, 575
+  offset: 0, 0
+  index: -1
+hand2_R_A
+  rotate: true
+  xy: 430, 3417
+  size: 250, 312
+  orig: 250, 312
+  offset: 0, 0
+  index: -1
+hand2_R_B
+  rotate: true
+  xy: 1232, 3028
+  size: 327, 639
+  orig: 327, 639
+  offset: 0, 0
+  index: -1
+mouth_A
+  rotate: false
+  xy: 352, 3680
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+mouth_B
+  rotate: false
+  xy: 416, 3675
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+nipple_L
+  rotate: false
+  xy: 2408, 3609
+  size: 140, 115
+  orig: 140, 115
+  offset: 0, 0
+  index: -1
+nipple_R
+  rotate: false
+  xy: 3571, 3498
+  size: 230, 226
+  orig: 230, 226
+  offset: 0, 0
+  index: -1
+semen1
+  rotate: true
+  xy: 2824, 3582
+  size: 142, 253
+  orig: 142, 253
+  offset: 0, 0
+  index: -1
+semen2
+  rotate: false
+  xy: 3079, 3570
+  size: 265, 154
+  orig: 265, 154
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: true
+  xy: 2, 2644
+  size: 466, 602
+  orig: 466, 602
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: false
+  xy: 1737, 1909
+  size: 605, 517
+  orig: 605, 517
+  offset: 0, 0
+  index: -1
+tail_VFX
+  rotate: true
+  xy: 2905, 3237
+  size: 331, 350
+  orig: 331, 350
+  offset: 0, 0
+  index: -1
+tail_head
+  rotate: true
+  xy: 2, 861
+  size: 653, 860
+  orig: 653, 860
+  offset: 0, 0
+  index: -1
+tail_tongue
+  rotate: true
+  xy: 3803, 3426
+  size: 298, 256
+  orig: 298, 256
+  offset: 0, 0
+  index: -1
+thigh_L_A
+  rotate: true
+  xy: 2357, 2217
+  size: 484, 1142
+  orig: 484, 1142
+  offset: 0, 0
+  index: -1
+thigh_L_B
+  rotate: true
+  xy: 593, 2090
+  size: 484, 1142
+  orig: 484, 1142
+  offset: 0, 0
+  index: -1
+thigh_R_A
+  rotate: true
+  xy: 2756, 686
+  size: 592, 1331
+  orig: 592, 1331
+  offset: 0, 0
+  index: -1
+thigh_R_B
+  rotate: true
+  xy: 2697, 92
+  size: 592, 1331
+  orig: 592, 1331
+  offset: 0, 0
+  index: -1
+
+Selene_Playroom_A_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Calf1_L_A
+  rotate: false
+  xy: 2, 1900
+  size: 1329, 914
+  orig: 1329, 914
+  offset: 0, 0
+  index: -1
+Calf1_L_B
+  rotate: false
+  xy: 1333, 1900
+  size: 1329, 914
+  orig: 1329, 914
+  offset: 0, 0
+  index: -1
+Skull1_VFX1
+  rotate: true
+  xy: 2, 2
+  size: 804, 891
+  orig: 804, 891
+  offset: 0, 0
+  index: -1
+Skull1_VFX2
+  rotate: true
+  xy: 2664, 1858
+  size: 956, 1229
+  orig: 956, 1229
+  offset: 0, 0
+  index: -1
+Skull1_VFX3
+  rotate: true
+  xy: 2, 808
+  size: 1090, 1214
+  orig: 1090, 1214
+  offset: 0, 0
+  index: -1
+body_B
+  rotate: true
+  xy: 2372, 228
+  size: 782, 978
+  orig: 782, 978
+  offset: 0, 0
+  index: -1
+semen3
+  rotate: true
+  xy: 1218, 962
+  size: 936, 1152
+  orig: 936, 1152
+  offset: 0, 0
+  index: -1
+tail_feather1
+  rotate: true
+  xy: 1218, 143
+  size: 817, 932
+  orig: 817, 932
+  offset: 0, 0
+  index: -1
+tail_feather2
+  rotate: false
+  xy: 2372, 1012
+  size: 1071, 844
+  orig: 1071, 844
+  offset: 0, 0
+  index: -1

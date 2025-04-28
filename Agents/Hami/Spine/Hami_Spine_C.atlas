@@ -1,3 +1,139 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:417f96850fe71e52e2a44d16a7d2b094ca785c2acec74753316cac30e97ac0c2
-size 1978
+
+Hami_Spine_C.png
+size: 1928,1796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boin2
+  rotate: true
+  xy: 958, 444
+  size: 174, 126
+  orig: 195, 195
+  offset: 17, 34
+  index: -1
+L_arm
+  rotate: false
+  xy: 1549, 253
+  size: 219, 526
+  orig: 245, 655
+  offset: 9, 108
+  index: -1
+L_leg
+  rotate: true
+  xy: 2, 620
+  size: 718, 1085
+  orig: 720, 1085
+  offset: 2, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 429, 21
+  size: 366, 279
+  orig: 366, 280
+  offset: 0, 1
+  index: -1
+bee_body
+  rotate: false
+  xy: 429, 302
+  size: 527, 316
+  orig: 527, 318
+  offset: 0, 0
+  index: -1
+bee_hand
+  rotate: true
+  xy: 1549, 781
+  size: 268, 242
+  orig: 268, 242
+  offset: 0, 0
+  index: -1
+bee_head
+  rotate: true
+  xy: 1504, 1332
+  size: 462, 410
+  orig: 462, 410
+  offset: 0, 0
+  index: -1
+bee_wing
+  rotate: false
+  xy: 2, 250
+  size: 425, 368
+  orig: 425, 368
+  offset: 0, 0
+  index: -1
+bee_wing_2
+  rotate: false
+  xy: 1770, 379
+  size: 156, 400
+  orig: 156, 400
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 1340
+  size: 454, 1500
+  orig: 475, 1500
+  offset: 21, 0
+  index: -1
+breast
+  rotate: false
+  xy: 278, 97
+  size: 149, 151
+  orig: 264, 175
+  offset: 112, 15
+  index: -1
+eyebrow
+  rotate: false
+  xy: 278, 54
+  size: 114, 41
+  orig: 116, 45
+  offset: 2, 4
+  index: -1
+face
+  rotate: true
+  xy: 958, 302
+  size: 140, 108
+  orig: 143, 110
+  offset: 2, 0
+  index: -1
+gun
+  rotate: true
+  xy: 1089, 28
+  size: 1302, 458
+  orig: 1305, 458
+  offset: 0, 0
+  index: -1
+gun_panel
+  rotate: true
+  xy: 2, 2
+  size: 246, 274
+  orig: 246, 274
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1549, 1051
+  size: 279, 257
+  orig: 279, 257
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 797, 3
+  size: 297, 239
+  orig: 297, 239
+  offset: 0, 0
+  index: -1
+shoulder_1
+  rotate: false
+  xy: 1549, 44
+  size: 236, 207
+  orig: 262, 246
+  offset: 17, 28
+  index: -1
+shoulder_1_back
+  rotate: false
+  xy: 1770, 291
+  size: 151, 86
+  orig: 172, 112
+  offset: 0, 0
+  index: -1

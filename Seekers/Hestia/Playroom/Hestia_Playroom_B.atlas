@@ -1,3 +1,216 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d5263e0a05d657376dcc0469aacb1b1125c21b3f8a4cd6a4b98444d037cc97b
-size 3145
+
+Hestia_Playroom_B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 3241, 2181
+  size: 761, 1057
+  orig: 761, 1057
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 2, 2435
+  size: 1704, 1651
+  orig: 1705, 1651
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1708, 1421
+  size: 1471, 1404
+  orig: 1484, 1484
+  offset: 13, 0
+  index: -1
+Breasts
+  rotate: false
+  xy: 3181, 1475
+  size: 888, 704
+  orig: 888, 704
+  offset: 0, 0
+  index: -1
+Earring
+  rotate: true
+  xy: 1448, 1442
+  size: 145, 128
+  orig: 146, 129
+  offset: 0, 0
+  index: -1
+F1_Facial
+  rotate: true
+  xy: 1448, 1756
+  size: 317, 248
+  orig: 317, 248
+  offset: 0, 0
+  index: -1
+F2_Facial
+  rotate: false
+  xy: 2196, 27
+  size: 329, 270
+  orig: 329, 270
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 1178, 2075
+  size: 526, 358
+  orig: 526, 358
+  offset: 0, 0
+  index: -1
+Fire_01
+  rotate: true
+  xy: 2, 2079
+  size: 354, 192
+  orig: 386, 205
+  offset: 20, 13
+  index: -1
+Fire_02
+  rotate: true
+  xy: 1178, 853
+  size: 575, 515
+  orig: 621, 545
+  offset: 28, 30
+  index: -1
+Fire_03
+  rotate: true
+  xy: 2, 1424
+  size: 649, 309
+  orig: 662, 328
+  offset: 13, 0
+  index: -1
+Fire_04
+  rotate: true
+  xy: 1171, 1430
+  size: 643, 140
+  orig: 643, 151
+  offset: 0, 0
+  index: -1
+Fire_05
+  rotate: true
+  xy: 1695, 114
+  size: 1305, 499
+  orig: 1315, 499
+  offset: 0, 0
+  index: -1
+Fire_06
+  rotate: false
+  xy: 3241, 3782
+  size: 808, 304
+  orig: 811, 305
+  offset: 1, 0
+  index: -1
+Hair_B
+  rotate: true
+  xy: 313, 1426
+  size: 647, 557
+  orig: 647, 557
+  offset: 0, 0
+  index: -1
+Hair_F
+  rotate: true
+  xy: 872, 1975
+  size: 458, 297
+  orig: 458, 297
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 872, 1815
+  size: 158, 279
+  orig: 158, 279
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 2196, 299
+  size: 583, 1078
+  orig: 583, 1078
+  offset: 0, 0
+  index: -1
+Legchain_01
+  rotate: false
+  xy: 196, 2150
+  size: 661, 283
+  orig: 661, 283
+  offset: 0, 0
+  index: -1
+Legchain_02
+  rotate: false
+  xy: 2527, 83
+  size: 554, 214
+  orig: 554, 214
+  offset: 0, 0
+  index: -1
+Liquid_01
+  rotate: false
+  xy: 1708, 2827
+  size: 1531, 1259
+  orig: 1575, 1259
+  offset: 44, 0
+  index: -1
+Liquid_01-2
+  rotate: true
+  xy: 1448, 1589
+  size: 165, 183
+  orig: 166, 185
+  offset: 1, 1
+  index: -1
+Liquid_01-3
+  rotate: true
+  xy: 1178, 289
+  size: 562, 422
+  orig: 565, 423
+  offset: 0, 0
+  index: -1
+Liquid_02
+  rotate: false
+  xy: 1178, 118
+  size: 416, 169
+  orig: 416, 169
+  offset: 0, 0
+  index: -1
+Liquid_03
+  rotate: true
+  xy: 3181, 884
+  size: 589, 724
+  orig: 589, 724
+  offset: 0, 0
+  index: -1
+Liquid_04
+  rotate: true
+  xy: 2, 71
+  size: 1348, 1174
+  orig: 1498, 1306
+  offset: 150, 132
+  index: -1
+Penis
+  rotate: false
+  xy: 3241, 3240
+  size: 762, 540
+  orig: 762, 552
+  offset: 0, 12
+  index: -1
+Rope_L
+  rotate: false
+  xy: 1313, 1482
+  size: 133, 591
+  orig: 133, 591
+  offset: 0, 0
+  index: -1
+Rope_R
+  rotate: false
+  xy: 1178, 2
+  size: 475, 110
+  orig: 495, 110
+  offset: 0, 0
+  index: -1
+Vaginal
+  rotate: true
+  xy: 872, 1550
+  size: 263, 271
+  orig: 263, 271
+  offset: 0, 0
+  index: -1

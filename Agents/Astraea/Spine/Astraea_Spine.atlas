@@ -1,3 +1,559 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:309a72f5d8e1fc69a04fd854f0024f6651365f91c0710ebd59cdd6f7e5fa46d7
-size 7904
+
+Astraea_Spine.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: true
+  xy: 3565, 402
+  size: 141, 244
+  orig: 141, 244
+  offset: 0, 0
+  index: -1
+armL2
+  rotate: false
+  xy: 3916, 3200
+  size: 171, 255
+  orig: 171, 255
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 2099, 2443
+  size: 102, 197
+  orig: 102, 197
+  offset: 0, 0
+  index: -1
+beltL1
+  rotate: true
+  xy: 1491, 626
+  size: 523, 286
+  orig: 523, 286
+  offset: 0, 0
+  index: -1
+beltL2
+  rotate: true
+  xy: 1491, 101
+  size: 523, 286
+  orig: 523, 286
+  offset: 0, 0
+  index: -1
+beltL3
+  rotate: false
+  xy: 3161, 91
+  size: 523, 286
+  orig: 523, 286
+  offset: 0, 0
+  index: -1
+beltM1
+  rotate: true
+  xy: 3016, 170
+  size: 250, 143
+  orig: 250, 143
+  offset: 0, 0
+  index: -1
+beltM2
+  rotate: true
+  xy: 3916, 2689
+  size: 250, 143
+  orig: 250, 143
+  offset: 0, 0
+  index: -1
+beltR1
+  rotate: true
+  xy: 2, 8
+  size: 186, 268
+  orig: 186, 268
+  offset: 0, 0
+  index: -1
+beltR2
+  rotate: true
+  xy: 272, 8
+  size: 186, 268
+  orig: 186, 268
+  offset: 0, 0
+  index: -1
+beltR3
+  rotate: false
+  xy: 2696, 100
+  size: 186, 268
+  orig: 186, 268
+  offset: 0, 0
+  index: -1
+bgtower
+  rotate: false
+  xy: 2, 2412
+  size: 934, 1681
+  orig: 934, 1681
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 708, 1281
+  size: 329, 315
+  orig: 329, 315
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 708, 950
+  size: 329, 315
+  orig: 329, 315
+  offset: 0, 0
+  index: -1
+bodyU
+  rotate: false
+  xy: 2898, 753
+  size: 272, 315
+  orig: 272, 315
+  offset: 0, 0
+  index: -1
+boobaL1
+  rotate: false
+  xy: 3828, 1875
+  size: 184, 230
+  orig: 184, 230
+  offset: 0, 0
+  index: -1
+boobaL2
+  rotate: false
+  xy: 3828, 1643
+  size: 184, 230
+  orig: 184, 230
+  offset: 0, 0
+  index: -1
+boobaR1
+  rotate: false
+  xy: 3839, 3457
+  size: 163, 257
+  orig: 163, 257
+  offset: 0, 0
+  index: -1
+boobaR2
+  rotate: false
+  xy: 3916, 2941
+  size: 163, 257
+  orig: 163, 257
+  offset: 0, 0
+  index: -1
+brL1
+  rotate: false
+  xy: 1025, 1568
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+brR1
+  rotate: false
+  xy: 2000, 3364
+  size: 69, 11
+  orig: 69, 11
+  offset: 0, 0
+  index: -1
+cableB1
+  rotate: true
+  xy: 2727, 1275
+  size: 698, 720
+  orig: 698, 720
+  offset: 0, 0
+  index: -1
+cableB2
+  rotate: true
+  xy: 2175, 370
+  size: 698, 721
+  orig: 698, 721
+  offset: 0, 0
+  index: -1
+cableB3
+  rotate: true
+  xy: 708, 243
+  size: 705, 781
+  orig: 705, 781
+  offset: 0, 0
+  index: -1
+cableF1
+  rotate: true
+  xy: 2, 1612
+  size: 798, 1060
+  orig: 798, 1060
+  offset: 0, 0
+  index: -1
+cableF2
+  rotate: true
+  xy: 938, 3360
+  size: 733, 1060
+  orig: 733, 1060
+  offset: 0, 0
+  index: -1
+cableF3
+  rotate: false
+  xy: 3526, 2782
+  size: 388, 646
+  orig: 388, 646
+  offset: 0, 0
+  index: -1
+cableM1
+  rotate: false
+  xy: 2043, 192
+  size: 128, 443
+  orig: 128, 443
+  offset: 0, 0
+  index: -1
+cableM2
+  rotate: true
+  xy: 2727, 1145
+  size: 128, 443
+  orig: 128, 443
+  offset: 0, 0
+  index: -1
+cableM3
+  rotate: false
+  xy: 1779, 17
+  size: 262, 618
+  orig: 262, 618
+  offset: 0, 0
+  index: -1
+damage2
+  rotate: false
+  xy: 2206, 1975
+  size: 623, 1400
+  orig: 623, 1400
+  offset: 0, 0
+  index: -1
+damage3
+  rotate: false
+  xy: 2, 196
+  size: 704, 1414
+  orig: 704, 1414
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: true
+  xy: 2126, 142
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: true
+  xy: 3129, 1075
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1025, 957
+  size: 192, 235
+  orig: 192, 235
+  offset: 0, 0
+  index: -1
+fingerL2
+  rotate: true
+  xy: 645, 70
+  size: 124, 61
+  orig: 124, 61
+  offset: 0, 0
+  index: -1
+fingerR
+  rotate: false
+  xy: 1679, 2
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+fire
+  rotate: true
+  xy: 2831, 2093
+  size: 584, 621
+  orig: 584, 621
+  offset: 0, 0
+  index: -1
+gun1
+  rotate: true
+  xy: 938, 2642
+  size: 716, 1266
+  orig: 716, 1266
+  offset: 0, 0
+  index: -1
+gun2
+  rotate: true
+  xy: 2000, 3377
+  size: 716, 1266
+  orig: 716, 1266
+  offset: 0, 0
+  index: -1
+gun3
+  rotate: false
+  xy: 1064, 1151
+  size: 716, 1266
+  orig: 716, 1266
+  offset: 0, 0
+  index: -1
+gunfire
+  rotate: false
+  xy: 2175, 1070
+  size: 550, 903
+  orig: 550, 903
+  offset: 0, 0
+  index: -1
+gunhandle
+  rotate: true
+  xy: 542, 15
+  size: 179, 101
+  orig: 179, 101
+  offset: 0, 0
+  index: -1
+hairBB
+  rotate: false
+  xy: 2831, 2679
+  size: 693, 696
+  orig: 693, 696
+  offset: 0, 0
+  index: -1
+hairBL
+  rotate: false
+  xy: 2173, 68
+  size: 432, 300
+  orig: 432, 300
+  offset: 0, 0
+  index: -1
+hairBR
+  rotate: false
+  xy: 949, 38
+  size: 506, 203
+  orig: 506, 203
+  offset: 0, 0
+  index: -1
+hairBTR
+  rotate: true
+  xy: 3072, 1990
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+hairLL
+  rotate: true
+  xy: 2727, 1070
+  size: 73, 334
+  orig: 73, 334
+  offset: 0, 0
+  index: -1
+hairLLS
+  rotate: false
+  xy: 2043, 9
+  size: 81, 181
+  orig: 81, 181
+  offset: 0, 0
+  index: -1
+hairM
+  rotate: false
+  xy: 1556, 2429
+  size: 326, 211
+  orig: 326, 211
+  offset: 0, 0
+  index: -1
+hairML
+  rotate: false
+  xy: 1262, 980
+  size: 190, 169
+  orig: 190, 169
+  offset: 0, 0
+  index: -1
+hairMR
+  rotate: true
+  xy: 1566, 11
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+hairRL
+  rotate: true
+  xy: 3016, 5
+  size: 84, 340
+  orig: 84, 340
+  offset: 0, 0
+  index: -1
+hairRLS
+  rotate: false
+  xy: 2607, 10
+  size: 87, 358
+  orig: 87, 358
+  offset: 0, 0
+  index: -1
+hairS
+  rotate: false
+  xy: 1884, 2439
+  size: 213, 201
+  orig: 213, 201
+  offset: 0, 0
+  index: -1
+hairTL
+  rotate: false
+  xy: 3686, 127
+  size: 274, 273
+  orig: 274, 273
+  offset: 0, 0
+  index: -1
+hairTR
+  rotate: false
+  xy: 708, 10
+  size: 239, 231
+  orig: 239, 231
+  offset: 0, 0
+  index: -1
+handL
+  rotate: true
+  xy: 3811, 405
+  size: 138, 242
+  orig: 138, 242
+  offset: 0, 0
+  index: -1
+handL2
+  rotate: true
+  xy: 2898, 422
+  size: 329, 254
+  orig: 329, 254
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 3176, 1991
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+legL1
+  rotate: false
+  xy: 1782, 1533
+  size: 391, 894
+  orig: 391, 894
+  offset: 0, 0
+  index: -1
+legL2
+  rotate: false
+  xy: 1782, 637
+  size: 391, 894
+  orig: 391, 894
+  offset: 0, 0
+  index: -1
+legL3
+  rotate: false
+  xy: 3172, 379
+  size: 391, 894
+  orig: 391, 894
+  offset: 0, 0
+  index: -1
+legR1
+  rotate: true
+  xy: 3268, 3716
+  size: 377, 772
+  orig: 377, 772
+  offset: 0, 0
+  index: -1
+legR2
+  rotate: false
+  xy: 3449, 1319
+  size: 377, 772
+  orig: 377, 772
+  offset: 0, 0
+  index: -1
+legR3
+  rotate: false
+  xy: 3565, 545
+  size: 377, 772
+  orig: 377, 772
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 645, 2
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 3063, 1091
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 2829, 33
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 3016, 92
+  size: 76, 106
+  orig: 76, 106
+  offset: 0, 0
+  index: -1
+neckring1
+  rotate: false
+  xy: 3268, 3430
+  size: 569, 284
+  orig: 569, 284
+  offset: 0, 0
+  index: -1
+neckring2
+  rotate: false
+  xy: 3454, 2393
+  size: 569, 284
+  orig: 569, 284
+  offset: 0, 0
+  index: -1
+neckring3
+  rotate: false
+  xy: 3454, 2107
+  size: 569, 284
+  orig: 569, 284
+  offset: 0, 0
+  index: -1
+neckringB
+  rotate: false
+  xy: 2831, 1982
+  size: 239, 109
+  orig: 239, 109
+  offset: 0, 0
+  index: -1
+neckringS
+  rotate: true
+  xy: 2898, 3
+  size: 417, 116
+  orig: 417, 116
+  offset: 0, 0
+  index: -1
+palmL
+  rotate: false
+  xy: 2696, 15
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1
+palmR
+  rotate: false
+  xy: 1457, 2
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1
+rope
+  rotate: false
+  xy: 938, 2419
+  size: 226, 221
+  orig: 226, 221
+  offset: 0, 0
+  index: -1
+rope2
+  rotate: true
+  xy: 1166, 2426
+  size: 214, 388
+  orig: 214, 388
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,486 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d2fa7d9895afaec7641b796f8445b4b3e5727a9df6058a19fd57da48246abe42
-size 7203
+
+Neve_X_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue Skirt R 1
+  rotate: false
+  xy: 2552, 1695
+  size: 1259, 516
+  orig: 1259, 516
+  offset: 0, 0
+  index: -1
+Blue Skirt R 2
+  rotate: false
+  xy: 2, 812
+  size: 944, 601
+  orig: 944, 601
+  offset: 0, 0
+  index: -1
+Blush
+  rotate: true
+  xy: 583, 3647
+  size: 243, 366
+  orig: 243, 366
+  offset: 0, 0
+  index: -1
+Boobs L
+  rotate: false
+  xy: 827, 1415
+  size: 690, 574
+  orig: 690, 574
+  offset: 0, 0
+  index: -1
+Boobs L 2
+  rotate: false
+  xy: 2258, 3231
+  size: 477, 309
+  orig: 477, 309
+  offset: 0, 0
+  index: -1
+Boobs R
+  rotate: false
+  xy: 1519, 1244
+  size: 787, 585
+  orig: 787, 585
+  offset: 0, 0
+  index: -1
+Boobs Shadow
+  rotate: true
+  xy: 1765, 1831
+  size: 524, 785
+  orig: 524, 785
+  offset: 0, 0
+  index: -1
+Charm L
+  rotate: false
+  xy: 951, 3628
+  size: 261, 245
+  orig: 261, 245
+  offset: 0, 0
+  index: -1
+Charm R
+  rotate: false
+  xy: 1573, 3856
+  size: 344, 148
+  orig: 344, 148
+  offset: 0, 0
+  index: -1
+Crown
+  rotate: true
+  xy: 3472, 3800
+  size: 204, 402
+  orig: 204, 402
+  offset: 0, 0
+  index: -1
+Crown2
+  rotate: true
+  xy: 2575, 349
+  size: 764, 802
+  orig: 764, 802
+  offset: 0, 0
+  index: -1
+Face 1
+  rotate: true
+  xy: 2, 3369
+  size: 299, 352
+  orig: 299, 352
+  offset: 0, 0
+  index: -1
+Face 2
+  rotate: true
+  xy: 3527, 3144
+  size: 357, 379
+  orig: 357, 379
+  offset: 0, 0
+  index: -1
+Front Skirt L
+  rotate: true
+  xy: 2, 1443
+  size: 546, 823
+  orig: 546, 823
+  offset: 0, 0
+  index: -1
+Gas Mouth
+  rotate: true
+  xy: 948, 517
+  size: 725, 834
+  orig: 725, 834
+  offset: 0, 0
+  index: -1
+Hair Bang 1
+  rotate: false
+  xy: 2, 3695
+  size: 312, 217
+  orig: 312, 217
+  offset: 0, 0
+  index: -1
+Hair Bang 2
+  rotate: false
+  xy: 1919, 3856
+  size: 307, 148
+  orig: 307, 148
+  offset: 0, 0
+  index: -1
+Hair Bang 3
+  rotate: false
+  xy: 3177, 3806
+  size: 293, 198
+  orig: 293, 198
+  offset: 0, 0
+  index: -1
+Hair Bang 4
+  rotate: false
+  xy: 356, 3899
+  size: 330, 105
+  orig: 330, 105
+  offset: 0, 0
+  index: -1
+Hair Bang 5
+  rotate: false
+  xy: 2412, 3542
+  size: 487, 286
+  orig: 487, 286
+  offset: 0, 0
+  index: -1
+Hair Bang 6
+  rotate: false
+  xy: 2901, 3514
+  size: 513, 290
+  orig: 513, 290
+  offset: 0, 0
+  index: -1
+Hair side L
+  rotate: false
+  xy: 1349, 2910
+  size: 815, 368
+  orig: 815, 368
+  offset: 0, 0
+  index: -1
+Hair side R
+  rotate: false
+  xy: 2852, 2213
+  size: 970, 510
+  orig: 970, 510
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1072, 2467
+  size: 481, 441
+  orig: 481, 441
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: true
+  xy: 3419, 834
+  size: 859, 628
+  orig: 859, 628
+  offset: 0, 0
+  index: -1
+L hand Finger
+  rotate: true
+  xy: 1214, 3601
+  size: 272, 286
+  orig: 272, 286
+  offset: 0, 0
+  index: -1
+Man JJ
+  rotate: false
+  xy: 2737, 3194
+  size: 788, 307
+  orig: 788, 307
+  offset: 0, 0
+  index: -1
+Man L hand
+  rotate: false
+  xy: 1157, 3875
+  size: 414, 129
+  orig: 414, 129
+  offset: 0, 0
+  index: -1
+Man R hand
+  rotate: true
+  xy: 3102, 2725
+  size: 417, 647
+  orig: 417, 647
+  offset: 0, 0
+  index: -1
+Necklace
+  rotate: false
+  xy: 624, 2502
+  size: 446, 438
+  orig: 446, 438
+  offset: 0, 0
+  index: -1
+Nick
+  rotate: true
+  xy: 316, 3670
+  size: 227, 265
+  orig: 227, 265
+  offset: 0, 0
+  index: -1
+Pink Skirt L
+  rotate: true
+  xy: 1784, 365
+  size: 748, 789
+  orig: 748, 789
+  offset: 0, 0
+  index: -1
+R Arm 1
+  rotate: false
+  xy: 2125, 2357
+  size: 725, 446
+  orig: 725, 446
+  offset: 0, 0
+  index: -1
+R Arm 2
+  rotate: false
+  xy: 863, 3292
+  size: 722, 305
+  orig: 722, 305
+  offset: 0, 0
+  index: -1
+R Front Arm
+  rotate: false
+  xy: 1914, 3587
+  size: 496, 264
+  orig: 496, 264
+  offset: 0, 0
+  index: -1
+R Front Arm 2
+  rotate: false
+  xy: 2308, 1115
+  size: 1109, 578
+  orig: 1109, 578
+  offset: 0, 0
+  index: -1
+R Front Arm 2 Left
+  rotate: false
+  xy: 648, 2942
+  size: 699, 348
+  orig: 699, 348
+  offset: 0, 0
+  index: -1
+R Hand
+  rotate: true
+  xy: 1555, 2438
+  size: 470, 568
+  orig: 470, 568
+  offset: 0, 0
+  index: -1
+Sperm 1 drop
+  rotate: true
+  xy: 2, 2
+  size: 808, 811
+  orig: 808, 811
+  offset: 0, 0
+  index: -1
+Sperm 2
+  rotate: false
+  xy: 2166, 2848
+  size: 406, 381
+  orig: 406, 381
+  offset: 0, 0
+  index: -1
+Sperm 3
+  rotate: true
+  xy: 2, 3925
+  size: 79, 212
+  orig: 79, 212
+  offset: 0, 0
+  index: -1
+Sperm 4
+  rotate: false
+  xy: 2816, 3830
+  size: 359, 174
+  orig: 359, 174
+  offset: 0, 0
+  index: -1
+Sperm 6 Drop 1
+  rotate: false
+  xy: 1587, 3280
+  size: 669, 305
+  orig: 669, 305
+  offset: 0, 0
+  index: -1
+Sperm 6 Drop 2
+  rotate: false
+  xy: 216, 3914
+  size: 138, 90
+  orig: 138, 90
+  offset: 0, 0
+  index: -1
+Sperm 6 Drop 3
+  rotate: false
+  xy: 2228, 3853
+  size: 280, 151
+  orig: 280, 151
+  offset: 0, 0
+  index: -1
+Sperm 6 Drop 4
+  rotate: false
+  xy: 957, 3881
+  size: 198, 123
+  orig: 198, 123
+  offset: 0, 0
+  index: -1
+Sweat Body
+  rotate: false
+  xy: 3416, 3503
+  size: 393, 295
+  orig: 393, 295
+  offset: 0, 0
+  index: -1
+Sweat L Leg
+  rotate: false
+  xy: 2510, 3839
+  size: 304, 165
+  orig: 304, 165
+  offset: 0, 0
+  index: -1
+Sweat R Leg
+  rotate: false
+  xy: 688, 3892
+  size: 267, 112
+  orig: 267, 112
+  offset: 0, 0
+  index: -1
+Veil
+  rotate: false
+  xy: 2, 1991
+  size: 1761, 445
+  orig: 1761, 445
+  offset: 0, 0
+  index: -1
+belt
+  rotate: true
+  xy: 2, 2575
+  size: 433, 620
+  orig: 433, 620
+  offset: 0, 0
+  index: -1
+bow
+  rotate: false
+  xy: 2574, 2805
+  size: 526, 387
+  orig: 526, 387
+  offset: 0, 0
+  index: -1
+flower L
+  rotate: false
+  xy: 2, 3010
+  size: 644, 328
+  orig: 644, 328
+  offset: 0, 0
+  index: -1
+flower R
+  rotate: false
+  xy: 1502, 3599
+  size: 410, 255
+  orig: 410, 255
+  offset: 0, 0
+  index: -1
+flower R Leaf
+  rotate: false
+  xy: 356, 3340
+  size: 505, 305
+  orig: 505, 305
+  offset: 0, 0
+  index: -1
+
+Neve_X_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2529, 1506
+  size: 1288, 1022
+  orig: 1288, 1022
+  offset: 0, 0
+  index: -1
+Gas Down
+  rotate: false
+  xy: 1632, 2546
+  size: 916, 837
+  orig: 916, 837
+  offset: 0, 0
+  index: -1
+Leg L
+  rotate: false
+  xy: 2, 2598
+  size: 1628, 785
+  orig: 1628, 785
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 2, 428
+  size: 1355, 1250
+  orig: 1355, 1250
+  offset: 0, 0
+  index: -1
+Pink Skirt R
+  rotate: false
+  xy: 2, 1680
+  size: 1506, 916
+  orig: 1506, 916
+  offset: 0, 0
+  index: -1
+Sperm 1
+  rotate: false
+  xy: 2550, 2530
+  size: 1329, 853
+  orig: 1329, 853
+  offset: 0, 0
+  index: -1
+Sperm 6
+  rotate: false
+  xy: 1510, 1623
+  size: 1017, 921
+  orig: 1017, 921
+  offset: 0, 0
+  index: -1
+skirt Back
+  rotate: false
+  xy: 1359, 2
+  size: 1693, 1502
+  orig: 1693, 1502
+  offset: 0, 0
+  index: -1
+
+Neve_X_Playroom_Wedding_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PonyTail 1
+  rotate: false
+  xy: 2, 1636
+  size: 3101, 1310
+  orig: 3101, 1310
+  offset: 0, 0
+  index: -1
+PonyTail 2
+  rotate: false
+  xy: 2, 2
+  size: 1643, 1632
+  orig: 1643, 1632
+  offset: 0, 0
+  index: -1
+
+Neve_X_Playroom_Wedding_4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Veil Back
+  rotate: false
+  xy: 2, 2
+  size: 2846, 2167
+  orig: 2846, 2167
+  offset: 0, 0
+  index: -1

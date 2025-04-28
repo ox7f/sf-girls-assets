@@ -1,3 +1,307 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff9ef99cd28763a430857590da6f002a16e99245b4e75deebf92e05cc8dcb1ec
-size 4246
+
+Musuna_Chibi_Wedding.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 525, 23
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 589, 25
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+cloth_1_1
+  rotate: true
+  xy: 870, 142
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+cloth_1_2
+  rotate: true
+  xy: 392, 107
+  size: 147, 139
+  orig: 147, 139
+  offset: 0, 0
+  index: -1
+cloth_1_3
+  rotate: false
+  xy: 242, 97
+  size: 148, 157
+  orig: 148, 157
+  offset: 0, 0
+  index: -1
+cloth_1_4
+  rotate: true
+  xy: 525, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+cloth_2_1
+  rotate: false
+  xy: 927, 144
+  size: 71, 110
+  orig: 71, 110
+  offset: 0, 0
+  index: -1
+cloth_2_2
+  rotate: false
+  xy: 415, 3
+  size: 74, 102
+  orig: 74, 102
+  offset: 0, 0
+  index: -1
+cloth_2_3
+  rotate: true
+  xy: 281, 4
+  size: 91, 132
+  orig: 91, 132
+  offset: 0, 0
+  index: -1
+cloth_2_4
+  rotate: true
+  xy: 653, 29
+  size: 79, 118
+  orig: 79, 118
+  offset: 0, 0
+  index: -1
+cloth_2_5
+  rotate: false
+  xy: 648, 110
+  size: 110, 144
+  orig: 110, 144
+  offset: 0, 0
+  index: -1
+cloth_2_6
+  rotate: false
+  xy: 533, 109
+  size: 113, 145
+  orig: 113, 145
+  offset: 0, 0
+  index: -1
+eye_L_1
+  rotate: false
+  xy: 1017, 128
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+eye_L_2
+  rotate: false
+  xy: 557, 5
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+eye_R_1
+  rotate: true
+  xy: 1036, 222
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+eye_R_2
+  rotate: false
+  xy: 641, 9
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+eyebow_L_1
+  rotate: false
+  xy: 2, 2
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+eyebow_L_2
+  rotate: false
+  xy: 760, 118
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+eyebow_R_1
+  rotate: false
+  xy: 491, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+eyebow_R_2
+  rotate: false
+  xy: 20, 2
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 760, 134
+  size: 108, 120
+  orig: 108, 120
+  offset: 0, 0
+  index: -1
+foot_L_1
+  rotate: true
+  xy: 785, 2
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+foot_L_2
+  rotate: false
+  xy: 964, 4
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+foot_R_1
+  rotate: false
+  xy: 981, 70
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+foot_R_2
+  rotate: false
+  xy: 930, 3
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 886, 28
+  size: 42, 112
+  orig: 42, 112
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 930, 65
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 845, 12
+  size: 39, 120
+  orig: 39, 120
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1000, 199
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+hand_L_1_1
+  rotate: false
+  xy: 242, 2
+  size: 37, 93
+  orig: 37, 93
+  offset: 0, 0
+  index: -1
+hand_L_1_2
+  rotate: false
+  xy: 1007, 12
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+hand_L_1_3
+  rotate: true
+  xy: 617, 3
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+hand_L_1_4
+  rotate: false
+  xy: 712, 4
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+hand_L_1_5
+  rotate: true
+  xy: 736, 5
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+hand_R_1_1
+  rotate: false
+  xy: 491, 17
+  size: 32, 88
+  orig: 32, 88
+  offset: 0, 0
+  index: -1
+hand_R_1_2
+  rotate: true
+  xy: 580, 7
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+hand_R_1_3
+  rotate: true
+  xy: 671, 4
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+hand_R_1_4
+  rotate: false
+  xy: 1000, 156
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 57, 5
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 38, 3
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 76, 6
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 773, 39
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 2, 16
+  size: 238, 238
+  orig: 238, 238
+  offset: 0, 0
+  index: -1

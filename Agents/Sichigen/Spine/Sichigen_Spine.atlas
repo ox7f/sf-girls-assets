@@ -1,3 +1,216 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f25b7b420065bf5b35b4a79706b3b87fea935d83ad2ac6606beaf32db05c7b12
-size 3207
+
+Sichigen_Spine.png
+size: 4049,1870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 1146, 894
+  size: 974, 772
+  orig: 974, 772
+  offset: 0, 0
+  index: -1
+lv123_earring
+  rotate: false
+  xy: 3912, 324
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+lv123_hair
+  rotate: false
+  xy: 3734, 1003
+  size: 293, 362
+  orig: 334, 457
+  offset: 41, 90
+  index: -1
+lv123_hair_B
+  rotate: true
+  xy: 2641, 28
+  size: 98, 162
+  orig: 117, 162
+  offset: 0, 0
+  index: -1
+lv123_head
+  rotate: true
+  xy: 3763, 467
+  size: 175, 221
+  orig: 182, 295
+  offset: 7, 70
+  index: -1
+lv123_leg_L
+  rotate: false
+  xy: 3734, 1367
+  size: 301, 501
+  orig: 301, 501
+  offset: 0, 0
+  index: -1
+lv123_leg_R
+  rotate: false
+  xy: 3006, 167
+  size: 352, 475
+  orig: 352, 475
+  offset: 0, 0
+  index: -1
+lv123_weapon
+  rotate: false
+  xy: 2, 703
+  size: 1142, 1165
+  orig: 1177, 1772
+  offset: 35, 586
+  index: -1
+lv12_zipper
+  rotate: false
+  xy: 1452, 733
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+lv1_arm_L
+  rotate: true
+  xy: 3449, 628
+  size: 272, 276
+  orig: 287, 302
+  offset: 15, 0
+  index: -1
+lv1_body
+  rotate: true
+  xy: 1588, 5
+  size: 887, 779
+  orig: 991, 1218
+  offset: 104, 289
+  index: -1
+lv1_breast_L
+  rotate: true
+  xy: 3588, 287
+  size: 170, 169
+  orig: 170, 169
+  offset: 0, 0
+  index: -1
+lv1_breast_R
+  rotate: false
+  xy: 3759, 305
+  size: 151, 152
+  orig: 169, 164
+  offset: 0, 12
+  index: -1
+lv1_face
+  rotate: false
+  xy: 2369, 8
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+lv1_hand_L
+  rotate: true
+  xy: 3006, 3
+  size: 162, 142
+  orig: 162, 142
+  offset: 0, 0
+  index: -1
+lv1_hand_R
+  rotate: false
+  xy: 3150, 4
+  size: 213, 161
+  orig: 213, 161
+  offset: 0, 0
+  index: -1
+lv1_ribbon_L
+  rotate: false
+  xy: 1920, 902
+  size: 905, 966
+  orig: 905, 966
+  offset: 0, 0
+  index: -1
+lv1_ribbon_R
+  rotate: true
+  xy: 2, 8
+  size: 693, 791
+  orig: 693, 791
+  offset: 0, 0
+  index: -1
+lv1_thigh_R
+  rotate: false
+  xy: 3360, 230
+  size: 226, 396
+  orig: 226, 408
+  offset: 0, 0
+  index: -1
+lv23_arm_L
+  rotate: false
+  xy: 3734, 644
+  size: 290, 357
+  orig: 290, 357
+  offset: 0, 0
+  index: -1
+lv23_breast_L
+  rotate: true
+  xy: 3588, 459
+  size: 167, 173
+  orig: 167, 173
+  offset: 0, 0
+  index: -1
+lv23_breast_R
+  rotate: true
+  xy: 3763, 157
+  size: 146, 149
+  orig: 169, 167
+  offset: 0, 0
+  index: -1
+lv23_ribbon_L
+  rotate: false
+  xy: 2827, 902
+  size: 905, 966
+  orig: 905, 966
+  offset: 0, 0
+  index: -1
+lv23_ribbon_R
+  rotate: true
+  xy: 795, 8
+  size: 693, 791
+  orig: 693, 791
+  offset: 0, 0
+  index: -1
+lv2_face
+  rotate: false
+  xy: 2508, 8
+  size: 131, 118
+  orig: 131, 130
+  offset: 0, 12
+  index: -1
+lv2_thigh_R
+  rotate: true
+  xy: 3365, 2
+  size: 226, 396
+  orig: 226, 403
+  offset: 0, 0
+  index: -1
+lv3_body
+  rotate: false
+  xy: 2369, 128
+  size: 635, 772
+  orig: 973, 772
+  offset: 338, 0
+  index: -1
+lv3_face
+  rotate: false
+  xy: 1452, 764
+  size: 133, 128
+  orig: 133, 128
+  offset: 0, 0
+  index: -1
+lv3_forearm_R
+  rotate: true
+  xy: 1146, 708
+  size: 184, 304
+  orig: 184, 304
+  offset: 0, 0
+  index: -1
+lv3_thigh_R
+  rotate: true
+  xy: 3006, 674
+  size: 226, 441
+  orig: 226, 468
+  offset: 0, 27
+  index: -1

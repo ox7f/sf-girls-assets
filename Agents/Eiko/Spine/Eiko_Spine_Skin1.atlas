@@ -1,3 +1,391 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:56e66ceb99409dd20f41524ea6a3b022818bb746cdaf9891f2ee5d855aa33675
-size 5684
+
+Eiko_Spine_Skin1.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Cloth L AB
+  rotate: false
+  xy: 255, 1134
+  size: 591, 912
+  orig: 591, 912
+  offset: 0, 0
+  index: -1
+Arm Cloth L C
+  rotate: false
+  xy: 255, 220
+  size: 591, 912
+  orig: 591, 912
+  offset: 0, 0
+  index: -1
+Arm L
+  rotate: false
+  xy: 775, 11
+  size: 264, 207
+  orig: 265, 207
+  offset: 0, 0
+  index: -1
+Ass
+  rotate: true
+  xy: 1673, 307
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Belly A
+  rotate: false
+  xy: 1288, 2
+  size: 248, 244
+  orig: 251, 244
+  offset: 0, 0
+  index: -1
+Belly B
+  rotate: true
+  xy: 1538, 12
+  size: 248, 244
+  orig: 251, 244
+  offset: 0, 0
+  index: -1
+Belly C
+  rotate: true
+  xy: 2290, 1279
+  size: 248, 244
+  orig: 251, 244
+  offset: 0, 0
+  index: -1
+Blush B
+  rotate: false
+  xy: 1572, 488
+  size: 153, 75
+  orig: 153, 75
+  offset: 0, 0
+  index: -1
+Blush C
+  rotate: true
+  xy: 1286, 248
+  size: 170, 99
+  orig: 170, 99
+  offset: 0, 0
+  index: -1
+Boobs L
+  rotate: true
+  xy: 2, 5
+  size: 185, 168
+  orig: 186, 168
+  offset: 0, 0
+  index: -1
+Boobs R
+  rotate: false
+  xy: 1139, 239
+  size: 145, 175
+  orig: 145, 175
+  offset: 0, 0
+  index: -1
+Boobs cover
+  rotate: true
+  xy: 2305, 1623
+  size: 62, 58
+  orig: 71, 70
+  offset: 9, 4
+  index: -1
+Card
+  rotate: false
+  xy: 2617, 712
+  size: 61, 75
+  orig: 61, 75
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: true
+  xy: 1784, 3
+  size: 260, 313
+  orig: 260, 313
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: false
+  xy: 2269, 305
+  size: 246, 391
+  orig: 246, 391
+  offset: 0, 0
+  index: -1
+Cloth Boobs A
+  rotate: false
+  xy: 172, 11
+  size: 289, 179
+  orig: 289, 179
+  offset: 0, 0
+  index: -1
+Cloth Boobs B
+  rotate: false
+  xy: 848, 235
+  size: 289, 179
+  orig: 289, 179
+  offset: 0, 0
+  index: -1
+Cloth line
+  rotate: false
+  xy: 1572, 565
+  size: 153, 92
+  orig: 616, 211
+  offset: 463, 119
+  index: -1
+ClothH
+  rotate: true
+  xy: 463, 2
+  size: 216, 310
+  orig: 216, 311
+  offset: 0, 1
+  index: -1
+ClothHH A
+  rotate: true
+  xy: 2482, 21
+  size: 282, 359
+  orig: 282, 359
+  offset: 0, 0
+  index: -1
+ClothHH B
+  rotate: false
+  xy: 2517, 343
+  size: 282, 359
+  orig: 282, 359
+  offset: 0, 0
+  index: -1
+ClothHH C
+  rotate: false
+  xy: 2305, 1687
+  size: 282, 359
+  orig: 282, 359
+  offset: 0, 0
+  index: -1
+ClothHHH A
+  rotate: false
+  xy: 1494, 693
+  size: 426, 537
+  orig: 426, 538
+  offset: 0, 1
+  index: -1
+ClothHHH B
+  rotate: true
+  xy: 1730, 265
+  size: 426, 537
+  orig: 426, 538
+  offset: 0, 1
+  index: -1
+ClothHHH C
+  rotate: false
+  xy: 1524, 1509
+  size: 426, 537
+  orig: 426, 538
+  offset: 0, 1
+  index: -1
+Ears AB
+  rotate: true
+  xy: 1922, 789
+  size: 457, 355
+  orig: 457, 355
+  offset: 0, 0
+  index: -1
+Ears C
+  rotate: true
+  xy: 2279, 789
+  size: 457, 355
+  orig: 457, 355
+  offset: 0, 0
+  index: -1
+Eyes A
+  rotate: false
+  xy: 1990, 695
+  size: 146, 92
+  orig: 149, 92
+  offset: 0, 0
+  index: -1
+Eyes B
+  rotate: false
+  xy: 2138, 698
+  size: 147, 89
+  orig: 149, 90
+  offset: 0, 0
+  index: -1
+Eyes C
+  rotate: false
+  xy: 1572, 408
+  size: 149, 78
+  orig: 149, 90
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: true
+  xy: 1952, 1529
+  size: 517, 351
+  orig: 517, 351
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: true
+  xy: 1422, 262
+  size: 156, 148
+  orig: 156, 148
+  offset: 0, 0
+  index: -1
+Hair L
+  rotate: true
+  xy: 2287, 704
+  size: 83, 328
+  orig: 83, 328
+  offset: 0, 0
+  index: -1
+Hair PonyTail
+  rotate: false
+  xy: 1186, 659
+  size: 306, 571
+  orig: 306, 571
+  offset: 0, 0
+  index: -1
+Hair R
+  rotate: true
+  xy: 1186, 420
+  size: 237, 384
+  orig: 237, 384
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: false
+  xy: 1572, 263
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+Hand Shadow
+  rotate: true
+  xy: 1922, 694
+  size: 93, 66
+  orig: 104, 66
+  offset: 9, 0
+  index: -1
+Head AB
+  rotate: true
+  xy: 1041, 8
+  size: 225, 245
+  orig: 225, 245
+  offset: 0, 0
+  index: -1
+Head C
+  rotate: false
+  xy: 2636, 826
+  size: 225, 245
+  orig: 225, 245
+  offset: 0, 0
+  index: -1
+Leg L AB
+  rotate: false
+  xy: 2, 1120
+  size: 251, 926
+  orig: 251, 926
+  offset: 0, 0
+  index: -1
+Leg L C
+  rotate: false
+  xy: 2, 192
+  size: 251, 926
+  orig: 251, 926
+  offset: 0, 0
+  index: -1
+Leg R A
+  rotate: false
+  xy: 848, 1232
+  size: 336, 814
+  orig: 336, 814
+  offset: 0, 0
+  index: -1
+Leg R B
+  rotate: false
+  xy: 848, 416
+  size: 336, 814
+  orig: 336, 814
+  offset: 0, 0
+  index: -1
+Leg R C
+  rotate: false
+  xy: 1186, 1232
+  size: 336, 814
+  orig: 336, 814
+  offset: 0, 0
+  index: -1
+Rabbit Body A
+  rotate: true
+  xy: 2099, 4
+  size: 259, 381
+  orig: 259, 381
+  offset: 0, 0
+  index: -1
+Rabbit Body B
+  rotate: true
+  xy: 1524, 1248
+  size: 259, 381
+  orig: 259, 381
+  offset: 0, 0
+  index: -1
+Rabbit Body C
+  rotate: true
+  xy: 1907, 1248
+  size: 259, 381
+  orig: 259, 381
+  offset: 0, 0
+  index: -1
+Rabbit Head A
+  rotate: false
+  xy: 2536, 1380
+  size: 196, 305
+  orig: 196, 306
+  offset: 0, 1
+  index: -1
+Rabbit Head B
+  rotate: false
+  xy: 2589, 1741
+  size: 196, 305
+  orig: 196, 306
+  offset: 0, 1
+  index: -1
+Rabbit Head C
+  rotate: false
+  xy: 2636, 1073
+  size: 196, 305
+  orig: 196, 306
+  offset: 0, 1
+  index: -1
+Rabbit Propeller Base
+  rotate: true
+  xy: 255, 194
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Rabbit Propeller1
+  rotate: false
+  xy: 1494, 659
+  size: 234, 32
+  orig: 234, 32
+  offset: 0, 0
+  index: -1
+Rabbit Propeller2
+  rotate: true
+  xy: 1387, 260
+  size: 158, 33
+  orig: 158, 33
+  offset: 0, 0
+  index: -1
+Rabbit Propeller3
+  rotate: false
+  xy: 1673, 266
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Rabbit Propeller4
+  rotate: false
+  xy: 1572, 355
+  size: 149, 51
+  orig: 149, 51
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,595 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f8041e8bbb6ee03d7eb28fe0e1c229a3a31d100277dad50bcbd56c229ff2aea8
-size 8629
+
+Irina_Playroom_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bow
+  rotate: false
+  xy: 2, 85
+  size: 447, 303
+  orig: 447, 303
+  offset: 0, 0
+  index: -1
+JJ
+  rotate: false
+  xy: 1105, 276
+  size: 662, 300
+  orig: 662, 315
+  offset: 0, 15
+  index: -1
+air
+  rotate: true
+  xy: 1296, 1715
+  size: 192, 350
+  orig: 202, 359
+  offset: 2, 7
+  index: -1
+air_2
+  rotate: true
+  xy: 1164, 1460
+  size: 253, 416
+  orig: 269, 420
+  offset: 8, 2
+  index: -1
+arm_l
+  rotate: false
+  xy: 1648, 1705
+  size: 279, 196
+  orig: 279, 196
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 2, 390
+  size: 1101, 272
+  orig: 1101, 272
+  offset: 0, 0
+  index: -1
+belt2
+  rotate: true
+  xy: 939, 1927
+  size: 92, 182
+  orig: 92, 182
+  offset: 0, 0
+  index: -1
+breast_l
+  rotate: false
+  xy: 989, 1734
+  size: 305, 182
+  orig: 305, 182
+  offset: 0, 0
+  index: -1
+breast_l2
+  rotate: false
+  xy: 167, 1963
+  size: 90, 56
+  orig: 94, 59
+  offset: 2, 2
+  index: -1
+breast_r
+  rotate: true
+  xy: 443, 1267
+  size: 260, 305
+  orig: 268, 305
+  offset: 0, 0
+  index: -1
+breast_r2
+  rotate: true
+  xy: 320, 1945
+  size: 74, 87
+  orig: 76, 92
+  offset: 0, 3
+  index: -1
+eye_b
+  rotate: true
+  xy: 750, 1201
+  size: 257, 446
+  orig: 257, 446
+  offset: 0, 0
+  index: -1
+eye_b2
+  rotate: true
+  xy: 2, 1339
+  size: 255, 439
+  orig: 258, 442
+  offset: 2, 1
+  index: -1
+eye_f
+  rotate: true
+  xy: 1198, 1190
+  size: 257, 446
+  orig: 257, 446
+  offset: 0, 0
+  index: -1
+eye_f2
+  rotate: true
+  xy: 1582, 1449
+  size: 254, 437
+  orig: 258, 442
+  offset: 3, 2
+  index: -1
+flower_1
+  rotate: false
+  xy: 2, 733
+  size: 320, 315
+  orig: 320, 315
+  offset: 0, 0
+  index: -1
+flower_2
+  rotate: false
+  xy: 2, 1837
+  size: 156, 131
+  orig: 157, 133
+  offset: 1, 1
+  index: -1
+hair accessories_r1
+  rotate: true
+  xy: 259, 1963
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+hair accessories_r2
+  rotate: false
+  xy: 113, 1970
+  size: 52, 49
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+hair10
+  rotate: false
+  xy: 2, 1596
+  size: 442, 206
+  orig: 442, 206
+  offset: 0, 0
+  index: -1
+hair12
+  rotate: false
+  xy: 1456, 840
+  size: 433, 292
+  orig: 433, 292
+  offset: 0, 0
+  index: -1
+hair14
+  rotate: false
+  xy: 912, 913
+  size: 542, 275
+  orig: 542, 275
+  offset: 0, 0
+  index: -1
+hair3_line1
+  rotate: true
+  xy: 409, 1942
+  size: 77, 316
+  orig: 77, 316
+  offset: 0, 0
+  index: -1
+hair3_line2
+  rotate: true
+  xy: 160, 1808
+  size: 132, 268
+  orig: 133, 269
+  offset: 1, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 451, 66
+  size: 380, 322
+  orig: 380, 322
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 435, 942
+  size: 475, 257
+  orig: 475, 257
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: false
+  xy: 2, 1050
+  size: 431, 287
+  orig: 431, 287
+  offset: 0, 0
+  index: -1
+hair8
+  rotate: false
+  xy: 1180, 578
+  size: 742, 260
+  orig: 742, 260
+  offset: 0, 0
+  index: -1
+hair_accessories_l1
+  rotate: false
+  xy: 727, 1933
+  size: 102, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+hair_accessories_l2
+  rotate: false
+  xy: 1123, 1924
+  size: 111, 95
+  orig: 112, 95
+  offset: 1, 0
+  index: -1
+hair_lb
+  rotate: true
+  xy: 446, 1529
+  size: 236, 320
+  orig: 236, 321
+  offset: 0, 1
+  index: -1
+hand_l
+  rotate: true
+  xy: 768, 1482
+  size: 250, 394
+  orig: 250, 394
+  offset: 0, 0
+  index: -1
+handshadow_l
+  rotate: true
+  xy: 1646, 1134
+  size: 313, 352
+  orig: 313, 352
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: false
+  xy: 1830, 1903
+  size: 125, 116
+  orig: 132, 118
+  offset: 1, 1
+  index: -1
+leg_r3
+  rotate: false
+  xy: 324, 664
+  size: 854, 247
+  orig: 854, 249
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 1236, 1918
+  size: 101, 123
+  orig: 102, 125
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: true
+  xy: 430, 1804
+  size: 136, 159
+  orig: 137, 160
+  offset: 0, 1
+  index: -1
+swimsuit_l
+  rotate: true
+  xy: 817, 1758
+  size: 167, 170
+  orig: 168, 171
+  offset: 0, 0
+  index: -1
+swimsuit_line
+  rotate: false
+  xy: 1530, 1909
+  size: 298, 110
+  orig: 299, 110
+  offset: 1, 0
+  index: -1
+swimsuit_line2
+  rotate: false
+  xy: 1361, 1910
+  size: 167, 109
+  orig: 167, 109
+  offset: 0, 0
+  index: -1
+swimsuit_line3
+  rotate: false
+  xy: 831, 1930
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+swimsuit_line4
+  rotate: false
+  xy: 591, 1767
+  size: 224, 164
+  orig: 224, 164
+  offset: 0, 0
+  index: -1
+swimsuit_r2
+  rotate: true
+  xy: 2, 1978
+  size: 41, 109
+  orig: 41, 109
+  offset: 0, 0
+  index: -1
+
+Irina_Playroom_Skin1_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair_2_b
+  rotate: false
+  xy: 1640, 26
+  size: 354, 453
+  orig: 354, 464
+  offset: 0, 10
+  index: -1
+leg_l2
+  rotate: true
+  xy: 2, 45
+  size: 434, 1636
+  orig: 434, 1636
+  offset: 0, 0
+  index: -1
+liquid3
+  rotate: false
+  xy: 2, 481
+  size: 1964, 1513
+  orig: 1964, 1513
+  offset: 0, 0
+  index: -1
+
+Irina_Playroom_Skin1_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_r2
+  rotate: false
+  xy: 2, 32
+  size: 1230, 467
+  orig: 1237, 467
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 1234, 2
+  size: 497, 554
+  orig: 497, 554
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 2, 501
+  size: 1261, 1540
+  orig: 1261, 1582
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 1265, 638
+  size: 656, 1403
+  orig: 706, 1403
+  offset: 44, 0
+  index: -1
+
+Irina_Playroom_Skin1_4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bow2
+  rotate: true
+  xy: 1598, 896
+  size: 486, 422
+  orig: 492, 422
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 864
+  size: 1594, 1177
+  orig: 1729, 1181
+  offset: 135, 4
+  index: -1
+hair9
+  rotate: false
+  xy: 2, 191
+  size: 1683, 671
+  orig: 1684, 679
+  offset: 0, 0
+  index: -1
+handshadow_r2
+  rotate: true
+  xy: 1598, 1384
+  size: 657, 357
+  orig: 664, 361
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 1687, 271
+  size: 354, 623
+  orig: 354, 623
+  offset: 0, 0
+  index: -1
+
+Irina_Playroom_Skin1_5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair7
+  rotate: false
+  xy: 1126, 188
+  size: 881, 489
+  orig: 883, 489
+  offset: 2, 0
+  index: -1
+leg_r1
+  rotate: true
+  xy: 1337, 679
+  size: 1328, 608
+  orig: 1345, 608
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: false
+  xy: 2, 1400
+  size: 1333, 607
+  orig: 1345, 612
+  offset: 0, 1
+  index: -1
+liquid2-2
+  rotate: false
+  xy: 2, 243
+  size: 1122, 1155
+  orig: 1868, 1512
+  offset: 439, 155
+  index: -1
+
+Irina_Playroom_Skin1_6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_r
+  rotate: false
+  xy: 2, 1226
+  size: 1175, 815
+  orig: 1175, 841
+  offset: 0, 0
+  index: -1
+belt
+  rotate: true
+  xy: 1179, 1510
+  size: 531, 537
+  orig: 531, 537
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1159, 626
+  size: 598, 565
+  orig: 623, 565
+  offset: 0, 0
+  index: -1
+liquid1
+  rotate: false
+  xy: 1159, 109
+  size: 747, 515
+  orig: 749, 613
+  offset: 0, 98
+  index: -1
+liquid2-1
+  rotate: true
+  xy: 2, 115
+  size: 1109, 1155
+  orig: 1868, 1512
+  offset: 452, 155
+  index: -1
+ribbon2
+  rotate: false
+  xy: 1718, 1518
+  size: 323, 523
+  orig: 323, 523
+  offset: 0, 0
+  index: -1
+
+Irina_Playroom_Skin1_7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blush
+  rotate: false
+  xy: 1698, 1072
+  size: 330, 541
+  orig: 409, 676
+  offset: 68, 20
+  index: -1
+blush2
+  rotate: false
+  xy: 1366, 1050
+  size: 330, 547
+  orig: 409, 676
+  offset: 68, 20
+  index: -1
+hair1
+  rotate: false
+  xy: 1351, 694
+  size: 337, 354
+  orig: 337, 390
+  offset: 0, 0
+  index: -1
+hair11
+  rotate: false
+  xy: 1296, 296
+  size: 323, 393
+  orig: 323, 393
+  offset: 0, 0
+  index: -1
+hair13
+  rotate: false
+  xy: 587, 2
+  size: 338, 382
+  orig: 338, 382
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 2, 374
+  size: 514, 566
+  orig: 514, 566
+  offset: 0, 0
+  index: -1
+hair_3_b
+  rotate: false
+  xy: 975, 691
+  size: 374, 359
+  orig: 376, 362
+  offset: 1, 1
+  index: -1
+hair_l
+  rotate: false
+  xy: 1518, 1615
+  size: 491, 413
+  orig: 491, 413
+  offset: 0, 0
+  index: -1
+hair_r
+  rotate: false
+  xy: 975, 1052
+  size: 389, 545
+  orig: 389, 545
+  offset: 0, 0
+  index: -1
+handshadow_r1
+  rotate: false
+  xy: 2, 35
+  size: 583, 337
+  orig: 592, 344
+  offset: 0, 7
+  index: -1
+panties2
+  rotate: false
+  xy: 2, 942
+  size: 971, 1086
+  orig: 971, 1086
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 975, 1599
+  size: 541, 429
+  orig: 541, 429
+  offset: 0, 0
+  index: -1
+swimsuit_r
+  rotate: true
+  xy: 518, 386
+  size: 554, 407
+  orig: 554, 487
+  offset: 0, 80
+  index: -1
+vaginal
+  rotate: true
+  xy: 927, 258
+  size: 431, 367
+  orig: 431, 367
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,677 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:93968482740d2c92e1665476cea38727c9a80aef2d5757588599e7fedb026e2a
-size 10041
+
+Sara_Spine_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_base
+  rotate: true
+  xy: 3107, 1799
+  size: 442, 488
+  orig: 442, 488
+  offset: 0, 0
+  index: -1
+booba_L
+  rotate: false
+  xy: 2869, 3260
+  size: 173, 152
+  orig: 199, 176
+  offset: 0, 1
+  index: -1
+booba_R
+  rotate: false
+  xy: 2180, 3100
+  size: 205, 179
+  orig: 205, 179
+  offset: 0, 0
+  index: -1
+clothes1
+  rotate: true
+  xy: 1625, 1983
+  size: 412, 739
+  orig: 412, 739
+  offset: 0, 0
+  index: -1
+clothes2
+  rotate: true
+  xy: 2366, 1896
+  size: 412, 739
+  orig: 412, 739
+  offset: 0, 0
+  index: -1
+clothes_back
+  rotate: true
+  xy: 968, 2560
+  size: 349, 374
+  orig: 349, 374
+  offset: 0, 0
+  index: -1
+clothes_ball
+  rotate: true
+  xy: 3721, 3404
+  size: 89, 157
+  orig: 89, 157
+  offset: 0, 0
+  index: -1
+clothes_ball2
+  rotate: true
+  xy: 1683, 3439
+  size: 54, 107
+  orig: 55, 107
+  offset: 0, 0
+  index: -1
+clothes_booba_L
+  rotate: false
+  xy: 3799, 3240
+  size: 175, 160
+  orig: 175, 160
+  offset: 0, 0
+  index: -1
+clothes_booba_L2
+  rotate: false
+  xy: 228, 3465
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+clothes_booba_R
+  rotate: false
+  xy: 2620, 3061
+  size: 327, 197
+  orig: 339, 198
+  offset: 0, 0
+  index: -1
+clothes_booba_R2
+  rotate: false
+  xy: 1792, 3436
+  size: 143, 57
+  orig: 143, 57
+  offset: 0, 0
+  index: -1
+clothes_ear_L
+  rotate: true
+  xy: 2023, 3431
+  size: 62, 270
+  orig: 70, 270
+  offset: 0, 0
+  index: -1
+clothes_ear_R
+  rotate: true
+  xy: 1209, 3450
+  size: 43, 181
+  orig: 43, 181
+  offset: 0, 0
+  index: -1
+clothes_mid1
+  rotate: true
+  xy: 2718, 2310
+  size: 394, 542
+  orig: 394, 542
+  offset: 0, 0
+  index: -1
+clothes_mid2
+  rotate: true
+  xy: 3262, 2243
+  size: 394, 542
+  orig: 394, 542
+  offset: 0, 0
+  index: -1
+clothes_mid3
+  rotate: true
+  xy: 490, 2164
+  size: 394, 542
+  orig: 394, 542
+  offset: 0, 0
+  index: -1
+clothes_underwear
+  rotate: true
+  xy: 3409, 2639
+  size: 338, 531
+  orig: 338, 531
+  offset: 0, 0
+  index: -1
+clothes_underwear2
+  rotate: true
+  xy: 2, 2629
+  size: 338, 531
+  orig: 338, 531
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 1152, 3332
+  size: 296, 112
+  orig: 296, 112
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 179, 3367
+  size: 296, 94
+  orig: 296, 94
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 628, 3360
+  size: 296, 99
+  orig: 296, 99
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2052, 2833
+  size: 265, 272
+  orig: 265, 272
+  offset: 0, 0
+  index: -1
+facered12
+  rotate: false
+  xy: 1377, 3142
+  size: 377, 169
+  orig: 377, 169
+  offset: 0, 0
+  index: -1
+facered3
+  rotate: false
+  xy: 998, 3161
+  size: 377, 169
+  orig: 377, 169
+  offset: 0, 0
+  index: -1
+hair_L1
+  rotate: true
+  xy: 3571, 3244
+  size: 158, 226
+  orig: 158, 226
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: true
+  xy: 1593, 3313
+  size: 124, 173
+  orig: 124, 173
+  offset: 0, 0
+  index: -1
+hair_L3
+  rotate: true
+  xy: 3329, 3407
+  size: 86, 163
+  orig: 86, 163
+  offset: 0, 0
+  index: -1
+hair_LB
+  rotate: true
+  xy: 3255, 3249
+  size: 154, 314
+  orig: 154, 314
+  offset: 0, 0
+  index: -1
+hair_LM1
+  rotate: true
+  xy: 2193, 3297
+  size: 132, 157
+  orig: 132, 157
+  offset: 0, 0
+  index: -1
+hair_LM2
+  rotate: true
+  xy: 3880, 3402
+  size: 91, 187
+  orig: 91, 187
+  offset: 0, 0
+  index: -1
+hair_M
+  rotate: true
+  xy: 2937, 3414
+  size: 79, 170
+  orig: 80, 170
+  offset: 1, 0
+  index: -1
+hair_R1
+  rotate: true
+  xy: 815, 3175
+  size: 178, 181
+  orig: 178, 181
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: true
+  xy: 477, 3362
+  size: 98, 149
+  orig: 98, 149
+  offset: 0, 0
+  index: -1
+hair_RB
+  rotate: true
+  xy: 3192, 3032
+  size: 210, 515
+  orig: 211, 515
+  offset: 1, 0
+  index: -1
+hair_RM1
+  rotate: false
+  xy: 2, 3207
+  size: 169, 162
+  orig: 169, 162
+  offset: 0, 0
+  index: -1
+hair_RM2
+  rotate: true
+  xy: 2, 3371
+  size: 93, 175
+  orig: 97, 175
+  offset: 4, 0
+  index: -1
+hair_base
+  rotate: false
+  xy: 1619, 2858
+  size: 431, 264
+  orig: 431, 264
+  offset: 0, 0
+  index: -1
+hair_cover
+  rotate: false
+  xy: 1756, 3124
+  size: 422, 175
+  orig: 422, 175
+  offset: 0, 0
+  index: -1
+hair_misc
+  rotate: false
+  xy: 2700, 3424
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+hair_momo_L1
+  rotate: true
+  xy: 1392, 3446
+  size: 47, 197
+  orig: 47, 197
+  offset: 0, 0
+  index: -1
+hair_momo_L2
+  rotate: true
+  xy: 2387, 3083
+  size: 193, 231
+  orig: 194, 232
+  offset: 1, 1
+  index: -1
+hair_momo_L3
+  rotate: true
+  xy: 2487, 3428
+  size: 65, 211
+  orig: 65, 211
+  offset: 0, 0
+  index: -1
+hair_momo_M1
+  rotate: true
+  xy: 3109, 3413
+  size: 80, 218
+  orig: 80, 218
+  offset: 0, 0
+  index: -1
+hair_momo_M2
+  rotate: true
+  xy: 1011, 3457
+  size: 36, 196
+  orig: 36, 196
+  offset: 0, 0
+  index: -1
+hair_momo_R1
+  rotate: true
+  xy: 926, 3355
+  size: 100, 224
+  orig: 100, 224
+  offset: 0, 0
+  index: -1
+hair_momo_R2
+  rotate: true
+  xy: 2522, 3278
+  size: 148, 150
+  orig: 148, 150
+  offset: 0, 0
+  index: -1
+hair_momo_R3
+  rotate: true
+  xy: 274, 3463
+  size: 30, 271
+  orig: 31, 271
+  offset: 1, 0
+  index: -1
+hair_momo_R4
+  rotate: true
+  xy: 753, 3461
+  size: 32, 127
+  orig: 32, 127
+  offset: 0, 0
+  index: -1
+hair_rib
+  rotate: false
+  xy: 2326, 2748
+  size: 556, 311
+  orig: 556, 311
+  offset: 0, 0
+  index: -1
+hair_rib_main
+  rotate: false
+  xy: 598, 3185
+  size: 215, 173
+  orig: 215, 173
+  offset: 0, 0
+  index: -1
+hair_rib_snake_L
+  rotate: false
+  xy: 1450, 3318
+  size: 141, 123
+  orig: 141, 123
+  offset: 0, 0
+  index: -1
+hair_rib_snake_R
+  rotate: false
+  xy: 2295, 3431
+  size: 190, 62
+  orig: 194, 62
+  offset: 0, 0
+  index: -1
+hair_rib_snake_down_R
+  rotate: false
+  xy: 933, 3458
+  size: 76, 35
+  orig: 76, 36
+  offset: 0, 1
+  index: -1
+hair_rib_snake_tongue_L
+  rotate: true
+  xy: 547, 3462
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+hair_rib_snake_tongue_R
+  rotate: false
+  xy: 151, 3466
+  size: 75, 27
+  orig: 75, 27
+  offset: 0, 0
+  index: -1
+hair_snake_L
+  rotate: false
+  xy: 801, 2930
+  size: 407, 229
+  orig: 407, 229
+  offset: 0, 0
+  index: -1
+hair_snake_Lsha
+  rotate: false
+  xy: 1210, 2911
+  size: 407, 229
+  orig: 407, 229
+  offset: 0, 0
+  index: -1
+hair_snake_R
+  rotate: true
+  xy: 535, 2588
+  size: 340, 431
+  orig: 340, 431
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: true
+  xy: 2771, 3419
+  size: 74, 164
+  orig: 74, 164
+  offset: 0, 0
+  index: -1
+hand_L23
+  rotate: false
+  xy: 1768, 3304
+  size: 179, 128
+  orig: 184, 128
+  offset: 5, 0
+  index: -1
+hand_base
+  rotate: true
+  xy: 2, 2969
+  size: 214, 797
+  orig: 214, 797
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 2719, 1136
+  size: 661, 779
+  orig: 661, 779
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 2, 907
+  size: 661, 779
+  orig: 661, 779
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: true
+  xy: 783, 787
+  size: 661, 779
+  orig: 661, 779
+  offset: 0, 0
+  index: -1
+leg_balls
+  rotate: false
+  xy: 3709, 2979
+  size: 301, 259
+  orig: 301, 259
+  offset: 0, 0
+  index: -1
+lv3_bedsheet
+  rotate: false
+  xy: 1564, 2
+  size: 1874, 1132
+  orig: 1874, 1132
+  offset: 0, 0
+  index: -1
+lv3_cusion1
+  rotate: true
+  xy: 1034, 2081
+  size: 400, 589
+  orig: 400, 589
+  offset: 0, 0
+  index: -1
+lv3_cusion2
+  rotate: false
+  xy: 2, 1713
+  size: 603, 449
+  orig: 603, 449
+  offset: 0, 0
+  index: -1
+lv3_cusion3
+  rotate: false
+  xy: 1344, 2483
+  size: 609, 373
+  orig: 609, 373
+  offset: 0, 0
+  index: -1
+lv3_cusion4
+  rotate: false
+  xy: 2884, 2706
+  size: 523, 324
+  orig: 523, 324
+  offset: 0, 0
+  index: -1
+lv3_pointer
+  rotate: true
+  xy: 2352, 3281
+  size: 145, 168
+  orig: 145, 168
+  offset: 0, 0
+  index: -1
+lv3_pointer_shadow
+  rotate: true
+  xy: 2674, 3271
+  size: 146, 193
+  orig: 146, 193
+  offset: 0, 0
+  index: -1
+lv3_yes
+  rotate: false
+  xy: 1349, 1450
+  size: 683, 531
+  orig: 683, 531
+  offset: 0, 0
+  index: -1
+lv3_yes_up
+  rotate: false
+  xy: 2034, 1363
+  size: 683, 531
+  orig: 683, 531
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 1937, 3434
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 882, 3461
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 1591, 3443
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+mouth3_lowerlip
+  rotate: false
+  xy: 109, 3477
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+mouth3_tongue
+  rotate: false
+  xy: 595, 3462
+  size: 64, 31
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+mouth3_upperlip
+  rotate: false
+  xy: 661, 3462
+  size: 90, 31
+  orig: 90, 31
+  offset: 0, 0
+  index: -1
+mouth3before
+  rotate: false
+  xy: 48, 3481
+  size: 59, 12
+  orig: 59, 12
+  offset: 0, 0
+  index: -1
+mouth3before2
+  rotate: false
+  xy: 2, 3483
+  size: 44, 10
+  orig: 44, 10
+  offset: 0, 0
+  index: -1
+snake_eye1
+  rotate: false
+  xy: 3494, 3405
+  size: 225, 88
+  orig: 225, 88
+  offset: 0, 0
+  index: -1
+snake_head1
+  rotate: true
+  xy: 1955, 2397
+  size: 349, 761
+  orig: 349, 761
+  offset: 0, 0
+  index: -1
+snake_head2
+  rotate: false
+  xy: 607, 1570
+  size: 740, 509
+  orig: 740, 590
+  offset: 0, 81
+  index: -1
+snake_tongue1
+  rotate: true
+  xy: 1949, 3301
+  size: 128, 242
+  orig: 129, 242
+  offset: 0, 0
+  index: -1
+snake_tongue2
+  rotate: true
+  xy: 3044, 3257
+  size: 154, 209
+  orig: 154, 209
+  offset: 0, 0
+  index: -1
+tail_rib_L
+  rotate: false
+  xy: 388, 3191
+  size: 208, 169
+  orig: 208, 169
+  offset: 0, 0
+  index: -1
+tail_rib_R
+  rotate: true
+  xy: 173, 3198
+  size: 167, 213
+  orig: 167, 213
+  offset: 0, 0
+  index: -1
+tail_rib_main
+  rotate: false
+  xy: 2949, 3041
+  size: 241, 214
+  orig: 241, 214
+  offset: 0, 0
+  index: -1
+v3_cusion5
+  rotate: true
+  xy: 2, 2205
+  size: 422, 486
+  orig: 422, 486
+  offset: 0, 0
+  index: -1
+
+Sara_Spine_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv3_ground
+  rotate: false
+  xy: 2, 1637
+  size: 2068, 1557
+  orig: 2068, 1557
+  offset: 0, 0
+  index: -1
+snake_base_bright
+  rotate: false
+  xy: 2, 2
+  size: 1906, 1633
+  orig: 1906, 1633
+  offset: 0, 0
+  index: -1
+snake_base_dark
+  rotate: false
+  xy: 2072, 1561
+  size: 1906, 1633
+  orig: 1906, 1633
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,474 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2eb1a5b7005745c5aedf834238856f14c8e4c598afac656bacd50e2528c130de
-size 6929
+
+Victoria_Playroom_Skin2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Blush
+  rotate: true
+  xy: 1017, 3695
+  size: 203, 288
+  orig: 203, 288
+  offset: 0, 0
+  index: -1
+A_Body
+  rotate: false
+  xy: 1428, 688
+  size: 758, 624
+  orig: 758, 624
+  offset: 0, 0
+  index: -1
+A_Boob_R
+  rotate: false
+  xy: 3714, 3481
+  size: 333, 332
+  orig: 333, 332
+  offset: 0, 0
+  index: -1
+A_Expression
+  rotate: true
+  xy: 2132, 3616
+  size: 233, 258
+  orig: 233, 258
+  offset: 0, 0
+  index: -1
+A_Penis
+  rotate: true
+  xy: 1291, 1941
+  size: 483, 549
+  orig: 483, 549
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 1842, 1918
+  size: 680, 482
+  orig: 680, 482
+  offset: 0, 0
+  index: -1
+BG 1
+  rotate: false
+  xy: 1916, 2402
+  size: 799, 455
+  orig: 799, 455
+  offset: 0, 0
+  index: -1
+BG 2
+  rotate: false
+  xy: 2, 2600
+  size: 677, 435
+  orig: 677, 435
+  offset: 0, 0
+  index: -1
+BG 3
+  rotate: false
+  xy: 3265, 2458
+  size: 691, 447
+  orig: 691, 447
+  offset: 0, 0
+  index: -1
+BG 4
+  rotate: false
+  xy: 1349, 2885
+  size: 656, 413
+  orig: 656, 413
+  offset: 0, 0
+  index: -1
+BG 5
+  rotate: true
+  xy: 3681, 2907
+  size: 572, 393
+  orig: 572, 393
+  offset: 0, 0
+  index: -1
+BG 6
+  rotate: true
+  xy: 1443, 1314
+  size: 602, 769
+  orig: 602, 769
+  offset: 0, 0
+  index: -1
+B_Arm_L a
+  rotate: false
+  xy: 2717, 2277
+  size: 515, 466
+  orig: 515, 466
+  offset: 0, 0
+  index: -1
+B_Arm_L c
+  rotate: false
+  xy: 800, 3900
+  size: 302, 112
+  orig: 302, 112
+  offset: 0, 0
+  index: -1
+B_Arm_L d
+  rotate: false
+  xy: 214, 3903
+  size: 239, 109
+  orig: 239, 109
+  offset: 0, 0
+  index: -1
+B_Blush
+  rotate: true
+  xy: 1307, 3681
+  size: 203, 288
+  orig: 203, 288
+  offset: 0, 0
+  index: -1
+B_Body
+  rotate: true
+  xy: 2188, 413
+  size: 758, 624
+  orig: 758, 624
+  offset: 0, 0
+  index: -1
+B_Boob_L
+  rotate: false
+  xy: 1479, 3300
+  size: 557, 335
+  orig: 557, 335
+  offset: 0, 0
+  index: -1
+B_Boob_R
+  rotate: false
+  xy: 1144, 3346
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+B_Expression
+  rotate: true
+  xy: 2392, 3616
+  size: 233, 288
+  orig: 233, 288
+  offset: 0, 0
+  index: -1
+B_ManHand_R
+  rotate: false
+  xy: 2434, 3261
+  size: 412, 349
+  orig: 412, 349
+  offset: 0, 0
+  index: -1
+B_Penis
+  rotate: true
+  xy: 2, 1539
+  size: 500, 751
+  orig: 500, 751
+  offset: 0, 0
+  index: -1
+B_Penis shadow A
+  rotate: true
+  xy: 3733, 3815
+  size: 197, 319
+  orig: 197, 319
+  offset: 0, 0
+  index: -1
+B_Penis shadow B
+  rotate: false
+  xy: 3012, 3568
+  size: 314, 249
+  orig: 314, 249
+  offset: 0, 0
+  index: -1
+B_Shot a
+  rotate: true
+  xy: 2160, 3854
+  size: 158, 189
+  orig: 158, 189
+  offset: 0, 0
+  index: -1
+B_Shot b
+  rotate: false
+  xy: 2, 3982
+  size: 134, 30
+  orig: 134, 30
+  offset: 0, 0
+  index: -1
+B_Shot c
+  rotate: true
+  xy: 1837, 3637
+  size: 232, 293
+  orig: 232, 293
+  offset: 0, 0
+  index: -1
+B_Shot d
+  rotate: true
+  xy: 2038, 3278
+  size: 336, 394
+  orig: 336, 394
+  offset: 0, 0
+  index: -1
+B_Shot e
+  rotate: false
+  xy: 1654, 3874
+  size: 251, 138
+  orig: 251, 138
+  offset: 0, 0
+  index: -1
+B_Shot f
+  rotate: true
+  xy: 1907, 3871
+  size: 141, 251
+  orig: 141, 251
+  offset: 0, 0
+  index: -1
+B_Shot g
+  rotate: true
+  xy: 1449, 3886
+  size: 126, 203
+  orig: 126, 203
+  offset: 0, 0
+  index: -1
+B_Shot h
+  rotate: true
+  xy: 2682, 3612
+  size: 234, 328
+  orig: 234, 328
+  offset: 0, 0
+  index: -1
+B_Shot i
+  rotate: true
+  xy: 2214, 1173
+  size: 607, 705
+  orig: 607, 705
+  offset: 0, 0
+  index: -1
+B_Sperm A
+  rotate: true
+  xy: 697, 779
+  size: 636, 729
+  orig: 636, 729
+  offset: 0, 0
+  index: -1
+B_Sperm B
+  rotate: true
+  xy: 3514, 3817
+  size: 195, 217
+  orig: 195, 217
+  offset: 0, 0
+  index: -1
+Bg shade A
+  rotate: false
+  xy: 2814, 357
+  size: 1195, 546
+  orig: 1195, 546
+  offset: 0, 0
+  index: -1
+Bg shade B
+  rotate: false
+  xy: 2, 3710
+  size: 1013, 188
+  orig: 1013, 188
+  offset: 0, 0
+  index: -1
+Breath
+  rotate: false
+  xy: 3231, 3162
+  size: 448, 376
+  orig: 448, 376
+  offset: 0, 0
+  index: -1
+Food A
+  rotate: true
+  xy: 455, 3903
+  size: 109, 343
+  orig: 109, 343
+  offset: 0, 0
+  index: -1
+Food B
+  rotate: false
+  xy: 2, 2
+  size: 832, 775
+  orig: 832, 775
+  offset: 0, 0
+  index: -1
+Food C a
+  rotate: false
+  xy: 138, 3967
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+Food C b
+  rotate: true
+  xy: 1104, 3900
+  size: 112, 343
+  orig: 112, 343
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: false
+  xy: 2, 3037
+  size: 708, 383
+  orig: 708, 383
+  offset: 0, 0
+  index: -1
+Hair_Front a
+  rotate: true
+  xy: 3328, 3540
+  size: 275, 384
+  orig: 275, 384
+  offset: 0, 0
+  index: -1
+Hair_Front b
+  rotate: false
+  xy: 2, 903
+  size: 693, 634
+  orig: 693, 634
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 2, 3422
+  size: 718, 286
+  orig: 718, 286
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2802, 2745
+  size: 461, 415
+  orig: 461, 415
+  offset: 0, 0
+  index: -1
+Head Belt shadow
+  rotate: true
+  xy: 3193, 3819
+  size: 193, 319
+  orig: 193, 319
+  offset: 0, 0
+  index: -1
+Head FLower A
+  rotate: false
+  xy: 1597, 3647
+  size: 238, 225
+  orig: 238, 225
+  offset: 0, 0
+  index: -1
+Head FLower B
+  rotate: true
+  xy: 2351, 3851
+  size: 161, 502
+  orig: 161, 502
+  offset: 0, 0
+  index: -1
+Head FLower C
+  rotate: true
+  xy: 2855, 3848
+  size: 164, 336
+  orig: 164, 336
+  offset: 0, 0
+  index: -1
+Head FLower D
+  rotate: true
+  xy: 2848, 3193
+  size: 373, 381
+  orig: 373, 381
+  offset: 0, 0
+  index: -1
+Head FLower E
+  rotate: true
+  xy: 722, 3404
+  size: 289, 420
+  orig: 289, 420
+  offset: 0, 0
+  index: -1
+ManHand_L
+  rotate: false
+  xy: 3154, 1475
+  size: 607, 505
+  orig: 607, 505
+  offset: 0, 0
+  index: -1
+Table
+  rotate: false
+  xy: 1325, 2426
+  size: 589, 457
+  orig: 589, 457
+  offset: 0, 0
+  index: -1
+Table 1
+  rotate: false
+  xy: 2, 2127
+  size: 606, 471
+  orig: 606, 471
+  offset: 0, 0
+  index: -1
+Table 2
+  rotate: false
+  xy: 2524, 1782
+  size: 628, 493
+  orig: 628, 493
+  offset: 0, 0
+  index: -1
+Table 3
+  rotate: false
+  xy: 3234, 1982
+  size: 610, 474
+  orig: 610, 474
+  offset: 0, 0
+  index: -1
+Table 4
+  rotate: false
+  xy: 755, 1417
+  size: 686, 522
+  orig: 686, 522
+  offset: 0, 0
+  index: -1
+Table 5
+  rotate: false
+  xy: 610, 2041
+  size: 679, 472
+  orig: 679, 472
+  offset: 0, 0
+  index: -1
+Table 6
+  rotate: false
+  xy: 681, 2515
+  size: 642, 439
+  orig: 642, 439
+  offset: 0, 0
+  index: -1
+Table 7
+  rotate: false
+  xy: 712, 2956
+  size: 635, 388
+  orig: 635, 388
+  offset: 0, 0
+  index: -1
+chair A
+  rotate: true
+  xy: 2921, 905
+  size: 568, 1144
+  orig: 568, 1144
+  offset: 0, 0
+  index: -1
+chair B
+  rotate: true
+  xy: 2007, 2859
+  size: 400, 793
+  orig: 400, 793
+  offset: 0, 0
+  index: -1
+
+Victoria_Playroom_Skin2_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Arm_L
+  rotate: false
+  xy: 2, 2
+  size: 1222, 929
+  orig: 1222, 929
+  offset: 0, 0
+  index: -1
+A_Butt
+  rotate: false
+  xy: 2, 933
+  size: 1772, 1072
+  orig: 1772, 1072
+  offset: 0, 0
+  index: -1

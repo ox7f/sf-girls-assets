@@ -1,3 +1,529 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a7df0214ef1b0d1ba9327ae3c67f85d66af89d0663b490bf5696f34cba517a5
-size 7856
+
+Rei_JK_Spine_Skin3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_1
+  rotate: true
+  xy: 1984, 2561
+  size: 381, 803
+  orig: 381, 803
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: true
+  xy: 2789, 2546
+  size: 381, 803
+  orig: 381, 803
+  offset: 0, 0
+  index: -1
+Body_3
+  rotate: true
+  xy: 2, 2315
+  size: 381, 803
+  orig: 381, 803
+  offset: 0, 0
+  index: -1
+Boobs_L 1
+  rotate: true
+  xy: 1705, 3349
+  size: 261, 279
+  orig: 261, 279
+  offset: 0, 0
+  index: -1
+Boobs_L 2
+  rotate: true
+  xy: 1986, 3336
+  size: 261, 276
+  orig: 261, 276
+  offset: 0, 0
+  index: -1
+Boobs_L 3
+  rotate: true
+  xy: 2561, 3296
+  size: 261, 276
+  orig: 261, 276
+  offset: 0, 0
+  index: -1
+Boobs_R 1
+  rotate: false
+  xy: 2839, 3278
+  size: 268, 267
+  orig: 268, 267
+  offset: 0, 0
+  index: -1
+Boobs_R 2
+  rotate: false
+  xy: 3109, 3273
+  size: 288, 267
+  orig: 288, 267
+  offset: 0, 0
+  index: -1
+Coat L
+  rotate: true
+  xy: 3308, 1328
+  size: 669, 759
+  orig: 669, 759
+  offset: 0, 0
+  index: -1
+Coat L 2
+  rotate: true
+  xy: 2634, 1372
+  size: 625, 672
+  orig: 625, 672
+  offset: 0, 0
+  index: -1
+Coat R 2
+  rotate: true
+  xy: 2924, 330
+  size: 996, 1118
+  orig: 996, 1118
+  offset: 0, 0
+  index: -1
+Coat R Arm
+  rotate: false
+  xy: 913, 3380
+  size: 790, 233
+  orig: 790, 233
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 2, 991
+  size: 1314, 730
+  orig: 1314, 730
+  offset: 0, 0
+  index: -1
+Collar_fur
+  rotate: true
+  xy: 1808, 2058
+  size: 501, 622
+  orig: 501, 622
+  offset: 0, 0
+  index: -1
+Face_1
+  rotate: false
+  xy: 1528, 3615
+  size: 260, 171
+  orig: 260, 171
+  offset: 0, 0
+  index: -1
+Face_2
+  rotate: false
+  xy: 1996, 3599
+  size: 266, 182
+  orig: 266, 182
+  offset: 0, 0
+  index: -1
+Face_3 tear
+  rotate: false
+  xy: 518, 3828
+  size: 143, 62
+  orig: 143, 62
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: true
+  xy: 2, 3173
+  size: 294, 300
+  orig: 294, 300
+  offset: 0, 0
+  index: -1
+Hair Bangs 1
+  rotate: true
+  xy: 263, 3833
+  size: 57, 185
+  orig: 57, 185
+  offset: 0, 0
+  index: -1
+Hair Bangs 2
+  rotate: true
+  xy: 976, 3813
+  size: 77, 180
+  orig: 77, 180
+  offset: 0, 0
+  index: -1
+Hair Bangs 3
+  rotate: true
+  xy: 1535, 3791
+  size: 99, 173
+  orig: 99, 173
+  offset: 0, 0
+  index: -1
+Hair Bangs 4
+  rotate: true
+  xy: 71, 3837
+  size: 53, 190
+  orig: 53, 190
+  offset: 0, 0
+  index: -1
+Hair Bangs L1
+  rotate: true
+  xy: 1158, 3810
+  size: 80, 375
+  orig: 80, 375
+  offset: 0, 0
+  index: -1
+Hair Bangs L2
+  rotate: true
+  xy: 2456, 3772
+  size: 118, 269
+  orig: 118, 269
+  offset: 0, 0
+  index: -1
+Hair Bangs L3
+  rotate: true
+  xy: 729, 3820
+  size: 70, 245
+  orig: 70, 245
+  offset: 0, 0
+  index: -1
+Hair Bangs R1
+  rotate: true
+  xy: 2264, 3580
+  size: 190, 391
+  orig: 190, 391
+  offset: 0, 0
+  index: -1
+Hair Bangs R2
+  rotate: true
+  xy: 3099, 3547
+  size: 194, 286
+  orig: 194, 286
+  offset: 0, 0
+  index: -1
+Head 1
+  rotate: true
+  xy: 3399, 3272
+  size: 268, 284
+  orig: 268, 284
+  offset: 0, 0
+  index: -1
+Head 2
+  rotate: true
+  xy: 3685, 3272
+  size: 268, 284
+  orig: 268, 284
+  offset: 0, 0
+  index: -1
+L_Hand_2_Hair
+  rotate: true
+  xy: 394, 3657
+  size: 169, 320
+  orig: 169, 320
+  offset: 0, 0
+  index: -1
+L_hand 2
+  rotate: true
+  xy: 1710, 3788
+  size: 102, 393
+  orig: 102, 393
+  offset: 0, 0
+  index: -1
+L_hand_2 Finger
+  rotate: true
+  xy: 2, 3845
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+L_hand_bracelet_back
+  rotate: false
+  xy: 450, 3830
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+L_hand_bracelet_front
+  rotate: true
+  xy: 663, 3828
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+L_sleeve 2
+  rotate: true
+  xy: 1318, 505
+  size: 865, 1604
+  orig: 865, 1604
+  offset: 0, 0
+  index: -1
+Leg_L_1
+  rotate: true
+  xy: 523, 2698
+  size: 331, 1459
+  orig: 331, 1459
+  offset: 0, 0
+  index: -1
+Leg_R_1
+  rotate: true
+  xy: 2432, 1999
+  size: 545, 1314
+  orig: 545, 1314
+  offset: 0, 0
+  index: -1
+Leg_R_2
+  rotate: true
+  xy: 2, 1723
+  size: 545, 1314
+  orig: 545, 1314
+  offset: 0, 0
+  index: -1
+Leg_R_3
+  rotate: true
+  xy: 1318, 1452
+  size: 545, 1314
+  orig: 545, 1314
+  offset: 0, 0
+  index: -1
+R_hand 1
+  rotate: false
+  xy: 2628, 2944
+  size: 448, 332
+  orig: 448, 332
+  offset: 0, 0
+  index: -1
+R_hand 2
+  rotate: true
+  xy: 304, 3151
+  size: 286, 327
+  orig: 286, 327
+  offset: 0, 0
+  index: -1
+R_sleeve_back 1
+  rotate: true
+  xy: 1496, 3031
+  size: 303, 634
+  orig: 303, 634
+  offset: 0, 0
+  index: -1
+_L_hand 1
+  rotate: true
+  xy: 2727, 3751
+  size: 139, 398
+  orig: 139, 398
+  offset: 0, 0
+  index: -1
+backdrop Gold 1
+  rotate: false
+  xy: 3387, 3542
+  size: 565, 196
+  orig: 565, 196
+  offset: 0, 0
+  index: -1
+backdrop Gold 2
+  rotate: false
+  xy: 3127, 3743
+  size: 443, 147
+  orig: 443, 147
+  offset: 0, 0
+  index: -1
+backdrop Gold 3
+  rotate: false
+  xy: 2, 3669
+  size: 390, 162
+  orig: 390, 162
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 2, 3469
+  size: 324, 198
+  orig: 324, 198
+  offset: 0, 0
+  index: -1
+chest_cloth 1
+  rotate: false
+  xy: 2132, 2969
+  size: 494, 325
+  orig: 494, 325
+  offset: 0, 0
+  index: -1
+chest_cloth 2
+  rotate: false
+  xy: 633, 3086
+  size: 523, 292
+  orig: 523, 292
+  offset: 0, 0
+  index: -1
+face_3
+  rotate: false
+  xy: 1790, 3612
+  size: 204, 174
+  orig: 204, 174
+  offset: 0, 0
+  index: -1
+fur_drop L
+  rotate: true
+  xy: 1158, 3075
+  size: 303, 336
+  orig: 303, 336
+  offset: 0, 0
+  index: -1
+fur_drop R
+  rotate: true
+  xy: 2105, 3783
+  size: 107, 212
+  orig: 107, 212
+  offset: 0, 0
+  index: -1
+head_Doc
+  rotate: true
+  xy: 716, 3646
+  size: 162, 452
+  orig: 162, 452
+  offset: 0, 0
+  index: -1
+leg_string_2
+  rotate: true
+  xy: 2657, 3559
+  size: 190, 440
+  orig: 190, 440
+  offset: 0, 0
+  index: -1
+pantsu
+  rotate: true
+  xy: 2264, 3319
+  size: 259, 295
+  orig: 259, 295
+  offset: 0, 0
+  index: -1
+side tail_L
+  rotate: true
+  xy: 2, 2
+  size: 987, 1236
+  orig: 987, 1236
+  offset: 0, 0
+  index: -1
+side tail_L 2
+  rotate: true
+  xy: 807, 2270
+  size: 426, 999
+  orig: 426, 999
+  offset: 0, 0
+  index: -1
+side tail_L 3
+  rotate: false
+  xy: 328, 3439
+  size: 583, 205
+  orig: 583, 205
+  offset: 0, 0
+  index: -1
+side tail_R 2
+  rotate: false
+  xy: 3608, 2766
+  size: 481, 504
+  orig: 481, 504
+  offset: 0, 0
+  index: -1
+skirt 1
+  rotate: false
+  xy: 2, 2794
+  size: 519, 355
+  orig: 519, 355
+  offset: 0, 0
+  index: -1
+skirt 2
+  rotate: false
+  xy: 3078, 2929
+  size: 528, 341
+  orig: 528, 341
+  offset: 0, 0
+  index: -1
+skirt_back
+  rotate: false
+  xy: 3572, 3740
+  size: 508, 150
+  orig: 508, 150
+  offset: 0, 0
+  index: -1
+sweat_Boobs
+  rotate: false
+  xy: 1170, 3640
+  size: 356, 168
+  orig: 356, 168
+  offset: 0, 0
+  index: -1
+sweat_body
+  rotate: false
+  xy: 2319, 3781
+  size: 135, 109
+  orig: 135, 109
+  offset: 0, 0
+  index: -1
+
+Rei_JK_Spine_Skin3_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coat R
+  rotate: true
+  xy: 1608, 1119
+  size: 1008, 1118
+  orig: 1008, 1118
+  offset: 0, 0
+  index: -1
+L_sleeve 1
+  rotate: true
+  xy: 2, 2184
+  size: 885, 1609
+  orig: 885, 1609
+  offset: 0, 0
+  index: -1
+R_sleeve 1
+  rotate: true
+  xy: 1613, 2129
+  size: 940, 1616
+  orig: 940, 1616
+  offset: 0, 0
+  index: -1
+R_sleeve 2
+  rotate: true
+  xy: 2, 1242
+  size: 940, 1604
+  orig: 940, 1604
+  offset: 0, 0
+  index: -1
+backdrop flowers
+  rotate: false
+  xy: 2, 2
+  size: 2580, 1115
+  orig: 2580, 1115
+  offset: 0, 0
+  index: -1
+side tail_R 1
+  rotate: false
+  xy: 2728, 605
+  size: 1199, 1522
+  orig: 1199, 1522
+  offset: 0, 0
+  index: -1
+
+Rei_JK_Spine_Skin3_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coat Back
+  rotate: true
+  xy: 2, 2
+  size: 1952, 1169
+  orig: 1952, 1169
+  offset: 0, 0
+  index: -1
+Coat Back 2
+  rotate: true
+  xy: 1173, 2
+  size: 1952, 1169
+  orig: 1952, 1169
+  offset: 0, 0
+  index: -1
+backdrop Sun
+  rotate: false
+  xy: 2, 1956
+  size: 1896, 1896
+  orig: 1896, 1896
+  offset: 0, 0
+  index: -1

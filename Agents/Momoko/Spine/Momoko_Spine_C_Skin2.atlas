@@ -1,3 +1,160 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:228f41cbdaa3001557e757ca08c513d06f51b0fbba3919a5b2ba2b0f4298b1e6
-size 2256
+
+Momoko_Spine_C_Skin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_R
+  rotate: false
+  xy: 1277, 439
+  size: 354, 232
+  orig: 354, 232
+  offset: 0, 0
+  index: -1
+Effect1
+  rotate: false
+  xy: 449, 1352
+  size: 271, 137
+  orig: 271, 137
+  offset: 0, 0
+  index: -1
+Effect2
+  rotate: false
+  xy: 734, 345
+  size: 541, 420
+  orig: 541, 420
+  offset: 0, 0
+  index: -1
+Effect3
+  rotate: false
+  xy: 1224, 980
+  size: 315, 252
+  orig: 315, 252
+  offset: 0, 0
+  index: -1
+Gun_L
+  rotate: true
+  xy: 2, 725
+  size: 585, 730
+  orig: 585, 730
+  offset: 0, 0
+  index: -1
+Gun_Parts_R
+  rotate: true
+  xy: 277, 1327
+  size: 162, 170
+  orig: 162, 170
+  offset: 0, 0
+  index: -1
+Gun_R
+  rotate: true
+  xy: 2, 327
+  size: 396, 507
+  orig: 396, 507
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: false
+  xy: 1277, 673
+  size: 245, 305
+  orig: 245, 305
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: false
+  xy: 511, 416
+  size: 195, 307
+  orig: 195, 307
+  offset: 0, 0
+  index: -1
+Layer22
+  rotate: false
+  xy: 2, 1312
+  size: 273, 732
+  orig: 273, 732
+  offset: 0, 0
+  index: -1
+Layer23
+  rotate: false
+  xy: 734, 767
+  size: 488, 722
+  orig: 488, 722
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 1177, 1557
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 836, 1523
+  size: 95, 118
+  orig: 95, 118
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 277, 1491
+  size: 553, 557
+  orig: 553, 557
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 511, 153
+  size: 261, 140
+  orig: 261, 140
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 836, 1620
+  size: 447, 424
+  orig: 447, 501
+  offset: 0, 77
+  index: -1
+hand_L
+  rotate: true
+  xy: 1524, 737
+  size: 241, 331
+  orig: 328, 376
+  offset: 21, 26
+  index: -1
+hand_R
+  rotate: true
+  xy: 1285, 1788
+  size: 256, 359
+  orig: 1062, 422
+  offset: 0, 63
+  index: -1
+hat1
+  rotate: true
+  xy: 1224, 1234
+  size: 321, 401
+  orig: 321, 402
+  offset: 0, 1
+  index: -1
+hat2
+  rotate: true
+  xy: 352, 161
+  size: 164, 128
+  orig: 164, 128
+  offset: 0, 0
+  index: -1
+hat3
+  rotate: false
+  xy: 956, 1532
+  size: 219, 86
+  orig: 219, 86
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 323, 348
+  orig: 323, 348
+  offset: 0, 0
+  index: -1

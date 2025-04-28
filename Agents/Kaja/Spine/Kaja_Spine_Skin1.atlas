@@ -1,3 +1,307 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec0add04cc279afcec03f5cb57be1d2cfadde257c6204991c97afdc71c153f07
-size 4440
+
+Kaja_Spine_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1071, 541
+  size: 573, 1646
+  orig: 573, 1646
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 355, 48
+  size: 530, 215
+  orig: 533, 223
+  offset: 1, 6
+  index: -1
+Eye_Ex01
+  rotate: true
+  xy: 2431, 50
+  size: 203, 122
+  orig: 206, 124
+  offset: 2, 1
+  index: -1
+Eye_Ex02
+  rotate: true
+  xy: 2601, 333
+  size: 206, 115
+  orig: 209, 121
+  offset: 1, 2
+  index: -1
+Eye_Ex03
+  rotate: false
+  xy: 1739, 37
+  size: 206, 97
+  orig: 208, 99
+  offset: 1, 0
+  index: -1
+Eyebrow_Ex01
+  rotate: false
+  xy: 1947, 64
+  size: 164, 70
+  orig: 168, 72
+  offset: 2, 1
+  index: -1
+Eyebrow_Ex02
+  rotate: false
+  xy: 3512, 13
+  size: 140, 65
+  orig: 143, 66
+  offset: 2, 1
+  index: -1
+Eyebrow_Ex03
+  rotate: false
+  xy: 2014, 4
+  size: 143, 58
+  orig: 151, 62
+  offset: 3, 3
+  index: -1
+MagicWand
+  rotate: true
+  xy: 2719, 305
+  size: 809, 872
+  orig: 1039, 1078
+  offset: 230, 206
+  index: -1
+MagicWand_01
+  rotate: true
+  xy: 878, 457
+  size: 177, 175
+  orig: 182, 178
+  offset: 4, 2
+  index: -1
+RightFoot
+  rotate: true
+  xy: 2, 388
+  size: 625, 874
+  orig: 637, 883
+  offset: 12, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 1569, 32
+  size: 168, 102
+  orig: 172, 106
+  offset: 4, 3
+  index: -1
+Tea_Difference01
+  rotate: false
+  xy: 2, 1015
+  size: 1067, 1045
+  orig: 1069, 1049
+  offset: 0, 2
+  index: -1
+Wolf
+  rotate: false
+  xy: 2, 41
+  size: 351, 345
+  orig: 356, 353
+  offset: 2, 7
+  index: -1
+bangs
+  rotate: false
+  xy: 2165, 255
+  size: 434, 284
+  orig: 469, 321
+  offset: 1, 30
+  index: -1
+cloak
+  rotate: false
+  xy: 1569, 136
+  size: 594, 403
+  orig: 617, 468
+  offset: 2, 11
+  index: -1
+clothing_01
+  rotate: false
+  xy: 2842, 3353
+  size: 579, 739
+  orig: 579, 758
+  offset: 0, 13
+  index: -1
+clothing_02
+  rotate: true
+  xy: 1337, 30
+  size: 71, 107
+  orig: 82, 118
+  offset: 7, 6
+  index: -1
+clothing_03
+  rotate: true
+  xy: 1034, 32
+  size: 69, 301
+  orig: 74, 311
+  offset: 0, 9
+  index: -1
+clothing_04
+  rotate: false
+  xy: 2165, 3
+  size: 264, 250
+  orig: 270, 261
+  offset: 1, 9
+  index: -1
+clothing_05
+  rotate: true
+  xy: 2601, 2
+  size: 301, 313
+  orig: 321, 315
+  offset: 12, 1
+  index: -1
+clothing_06
+  rotate: false
+  xy: 624, 280
+  size: 247, 106
+  orig: 254, 116
+  offset: 6, 1
+  index: -1
+cup
+  rotate: false
+  xy: 2, 2062
+  size: 2014, 2030
+  orig: 2014, 2030
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 2018, 3546
+  size: 822, 546
+  orig: 826, 547
+  offset: 3, 1
+  index: -1
+hair_01
+  rotate: true
+  xy: 355, 271
+  size: 115, 267
+  orig: 121, 274
+  offset: 1, 1
+  index: -1
+hair_02
+  rotate: false
+  xy: 2333, 2405
+  size: 156, 356
+  orig: 182, 387
+  offset: 16, 1
+  index: -1
+hair_03
+  rotate: false
+  xy: 887, 35
+  size: 145, 228
+  orig: 165, 250
+  offset: 0, 7
+  index: -1
+hair_04
+  rotate: false
+  xy: 2566, 2709
+  size: 195, 309
+  orig: 198, 315
+  offset: 1, 4
+  index: -1
+hair_05
+  rotate: false
+  xy: 878, 636
+  size: 176, 377
+  orig: 180, 401
+  offset: 3, 7
+  index: -1
+hat_01
+  rotate: false
+  xy: 1055, 103
+  size: 512, 436
+  orig: 549, 465
+  offset: 30, 11
+  index: -1
+hat_02
+  rotate: true
+  xy: 2018, 2184
+  size: 577, 313
+  orig: 582, 316
+  offset: 4, 1
+  index: -1
+hat_03
+  rotate: false
+  xy: 878, 265
+  size: 158, 190
+  orig: 162, 192
+  offset: 1, 1
+  index: -1
+head_DF01
+  rotate: true
+  xy: 3237, 78
+  size: 225, 273
+  orig: 243, 280
+  offset: 12, 6
+  index: -1
+head_DF02
+  rotate: true
+  xy: 3512, 80
+  size: 223, 272
+  orig: 243, 278
+  offset: 13, 5
+  index: -1
+head_DF03
+  rotate: false
+  xy: 2566, 3271
+  size: 222, 273
+  orig: 241, 278
+  offset: 14, 5
+  index: -1
+horns
+  rotate: true
+  xy: 2018, 2763
+  size: 781, 546
+  orig: 790, 562
+  offset: 2, 16
+  index: -1
+left_hand
+  rotate: false
+  xy: 2916, 7
+  size: 319, 296
+  orig: 346, 317
+  offset: 6, 1
+  index: -1
+mouth_Ex01
+  rotate: true
+  xy: 1947, 2
+  size: 60, 65
+  orig: 62, 73
+  offset: 1, 1
+  index: -1
+mouth_Ex02
+  rotate: true
+  xy: 1038, 424
+  size: 31, 15
+  orig: 41, 25
+  offset: 9, 2
+  index: -1
+mouth_Ex03
+  rotate: false
+  xy: 355, 26
+  size: 25, 20
+  orig: 34, 26
+  offset: 7, 2
+  index: -1
+right_hand
+  rotate: true
+  xy: 2790, 2949
+  size: 402, 411
+  orig: 403, 412
+  offset: 0, 0
+  index: -1
+sheep
+  rotate: false
+  xy: 1071, 1116
+  size: 1888, 944
+  orig: 1894, 944
+  offset: 5, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 2566, 3020
+  size: 200, 249
+  orig: 212, 260
+  offset: 1, 5
+  index: -1

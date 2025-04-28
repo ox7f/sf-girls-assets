@@ -1,3 +1,341 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac8d4020ef5d97fe8f4d54829288e71de993f1dc4dfd607a43fa8aa4f07b67dc
-size 5060
+
+Rei_JK_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JJ1
+  rotate: false
+  xy: 2, 2636
+  size: 497, 333
+  orig: 497, 333
+  offset: 0, 0
+  index: -1
+JJ1_sperm
+  rotate: true
+  xy: 192, 3281
+  size: 96, 244
+  orig: 96, 244
+  offset: 0, 0
+  index: -1
+JJ2
+  rotate: false
+  xy: 418, 2182
+  size: 472, 424
+  orig: 472, 424
+  offset: 0, 0
+  index: -1
+JJ2_sperm
+  rotate: true
+  xy: 2859, 3149
+  size: 228, 509
+  orig: 228, 509
+  offset: 0, 0
+  index: -1
+JJ2_sperm2
+  rotate: false
+  xy: 1076, 3200
+  size: 228, 177
+  orig: 228, 177
+  offset: 0, 0
+  index: -1
+body_lower1
+  rotate: true
+  xy: 2275, 2
+  size: 1139, 1499
+  orig: 1139, 1499
+  offset: 0, 0
+  index: -1
+body_lower1_sup
+  rotate: true
+  xy: 2591, 3150
+  size: 227, 266
+  orig: 227, 266
+  offset: 0, 0
+  index: -1
+body_lower2
+  rotate: true
+  xy: 876, 284
+  size: 1023, 1397
+  orig: 1023, 1397
+  offset: 0, 0
+  index: -1
+body_lower2_sup
+  rotate: false
+  xy: 899, 3214
+  size: 175, 163
+  orig: 175, 163
+  offset: 0, 0
+  index: -1
+body_lower_sweat
+  rotate: true
+  xy: 1533, 1309
+  size: 640, 1387
+  orig: 640, 1387
+  offset: 0, 0
+  index: -1
+body_upper_sweat
+  rotate: true
+  xy: 801, 1313
+  size: 710, 730
+  orig: 710, 730
+  offset: 0, 0
+  index: -1
+chest_L
+  rotate: false
+  xy: 580, 3231
+  size: 317, 146
+  orig: 317, 146
+  offset: 0, 0
+  index: -1
+chest_L_sweat
+  rotate: false
+  xy: 2, 3022
+  size: 309, 257
+  orig: 309, 257
+  offset: 0, 0
+  index: -1
+chest_R
+  rotate: false
+  xy: 3370, 3146
+  size: 461, 231
+  orig: 461, 231
+  offset: 0, 0
+  index: -1
+chest_R_sweat
+  rotate: false
+  xy: 1745, 2887
+  size: 637, 275
+  orig: 637, 275
+  offset: 0, 0
+  index: -1
+dress
+  rotate: true
+  xy: 1935, 1951
+  size: 484, 1092
+  orig: 484, 1092
+  offset: 0, 0
+  index: -1
+dress_shadow
+  rotate: true
+  xy: 2994, 2437
+  size: 380, 1085
+  orig: 380, 1085
+  offset: 0, 0
+  index: -1
+dress_sup1
+  rotate: true
+  xy: 438, 3276
+  size: 101, 140
+  orig: 101, 140
+  offset: 0, 0
+  index: -1
+dress_sup2
+  rotate: false
+  xy: 72, 3291
+  size: 118, 86
+  orig: 118, 86
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2678, 2852
+  size: 301, 295
+  orig: 301, 295
+  offset: 0, 0
+  index: -1
+eye1_tongue
+  rotate: true
+  xy: 2, 3310
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 2384, 2857
+  size: 291, 292
+  orig: 291, 292
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1429, 2025
+  size: 504, 502
+  orig: 504, 502
+  offset: 0, 0
+  index: -1
+face_cheek
+  rotate: false
+  xy: 1450, 2902
+  size: 293, 290
+  orig: 293, 290
+  offset: 0, 0
+  index: -1
+face_sweat
+  rotate: true
+  xy: 313, 2971
+  size: 258, 306
+  orig: 258, 306
+  offset: 0, 0
+  index: -1
+hair_back1
+  rotate: true
+  xy: 2, 1530
+  size: 650, 797
+  orig: 650, 797
+  offset: 0, 0
+  index: -1
+hair_back2
+  rotate: true
+  xy: 1810, 3169
+  size: 208, 335
+  orig: 208, 335
+  offset: 0, 0
+  index: -1
+hair_fron_flower1
+  rotate: false
+  xy: 965, 2918
+  size: 483, 274
+  orig: 483, 274
+  offset: 0, 0
+  index: -1
+hair_fron_flower2
+  rotate: false
+  xy: 1306, 3194
+  size: 502, 183
+  orig: 502, 183
+  offset: 0, 0
+  index: -1
+hair_fron_flower3
+  rotate: false
+  xy: 2981, 2846
+  size: 518, 298
+  orig: 518, 298
+  offset: 0, 0
+  index: -1
+hair_front1
+  rotate: true
+  xy: 892, 2170
+  size: 406, 535
+  orig: 406, 535
+  offset: 0, 0
+  index: -1
+hair_front2
+  rotate: false
+  xy: 3833, 3145
+  size: 246, 232
+  orig: 246, 232
+  offset: 0, 0
+  index: -1
+hair_front3
+  rotate: false
+  xy: 2, 2222
+  size: 414, 412
+  orig: 414, 412
+  offset: 0, 0
+  index: -1
+hair_front4
+  rotate: false
+  xy: 3029, 1905
+  size: 550, 530
+  orig: 550, 530
+  offset: 0, 0
+  index: -1
+hair_side1
+  rotate: false
+  xy: 2922, 1143
+  size: 948, 760
+  orig: 948, 760
+  offset: 0, 0
+  index: -1
+hair_side2
+  rotate: false
+  xy: 621, 2946
+  size: 342, 266
+  orig: 342, 266
+  offset: 0, 0
+  index: -1
+hair_side_flower
+  rotate: false
+  xy: 2369, 3164
+  size: 220, 213
+  orig: 220, 213
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 2106, 2477
+  size: 418, 378
+  orig: 418, 378
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 501, 2608
+  size: 336, 401
+  orig: 336, 401
+  offset: 0, 0
+  index: -1
+hand_R3
+  rotate: false
+  xy: 3501, 2819
+  size: 530, 324
+  orig: 530, 324
+  offset: 0, 0
+  index: -1
+hand_R_back
+  rotate: true
+  xy: 2526, 2451
+  size: 393, 466
+  orig: 393, 466
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 904, 2578
+  size: 651, 322
+  orig: 651, 322
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 1557, 2529
+  size: 547, 356
+  orig: 547, 356
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 2147, 3168
+  size: 209, 220
+  orig: 209, 220
+  offset: 0, 0
+  index: -1
+pillow
+  rotate: true
+  xy: 2, 502
+  size: 809, 872
+  orig: 809, 872
+  offset: 0, 0
+  index: -1
+
+Rei_JK_Playroom_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_bed
+  rotate: false
+  xy: 2, 2
+  size: 2976, 1488
+  orig: 2976, 1488
+  offset: 0, 0
+  index: -1
+body_upper
+  rotate: true
+  xy: 2, 1492
+  size: 1228, 1279
+  orig: 1228, 1279
+  offset: 0, 0
+  index: -1

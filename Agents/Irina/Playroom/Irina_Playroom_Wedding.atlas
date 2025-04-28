@@ -1,3 +1,479 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d5b35785ad68cbe92d33def77b1457b4cf6f60e50ace3f3af538dc6b596c74f3
-size 7107
+
+Irina_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_1_L
+  rotate: true
+  xy: 1051, 3314
+  size: 251, 518
+  orig: 338, 592
+  offset: 22, 9
+  index: -1
+Arm_1_R
+  rotate: true
+  xy: 2452, 2413
+  size: 439, 442
+  orig: 686, 1039
+  offset: 28, 305
+  index: -1
+Arm_2_L
+  rotate: true
+  xy: 2695, 3204
+  size: 319, 709
+  orig: 471, 1040
+  offset: 81, 0
+  index: -1
+Arm_2_R
+  rotate: true
+  xy: 783, 2966
+  size: 346, 680
+  orig: 895, 984
+  offset: 15, 18
+  index: -1
+BG_B
+  rotate: false
+  xy: 678, 1978
+  size: 1111, 566
+  orig: 1111, 566
+  offset: 0, 0
+  index: -1
+Bowknot01-1
+  rotate: true
+  xy: 1366, 3567
+  size: 166, 300
+  orig: 292, 413
+  offset: 0, 111
+  index: -1
+Bowknot01-2
+  rotate: true
+  xy: 2, 3412
+  size: 225, 324
+  orig: 258, 326
+  offset: 4, 0
+  index: -1
+GG_01
+  rotate: false
+  xy: 710, 2595
+  size: 703, 369
+  orig: 704, 370
+  offset: 1, 0
+  index: -1
+GG_02
+  rotate: false
+  xy: 2017, 2449
+  size: 433, 426
+  orig: 433, 426
+  offset: 0, 0
+  index: -1
+Heart_1
+  rotate: false
+  xy: 76, 3670
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+Heart_2
+  rotate: false
+  xy: 2, 3675
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+Heart_3
+  rotate: true
+  xy: 156, 3668
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+W
+  rotate: false
+  xy: 2165, 3549
+  size: 240, 184
+  orig: 247, 184
+  offset: 0, 0
+  index: -1
+body_M_Bowknot
+  rotate: true
+  xy: 1159, 3588
+  size: 145, 205
+  orig: 151, 216
+  offset: 0, 11
+  index: -1
+body_M_Teat
+  rotate: false
+  xy: 363, 3637
+  size: 108, 96
+  orig: 108, 104
+  offset: 0, 8
+  index: -1
+body_M_cloth
+  rotate: false
+  xy: 3301, 3525
+  size: 498, 208
+  orig: 498, 209
+  offset: 0, 0
+  index: -1
+body_down_op1
+  rotate: true
+  xy: 2955, 1375
+  size: 709, 742
+  orig: 2121, 978
+  offset: 168, 132
+  index: -1
+body_down_op2
+  rotate: false
+  xy: 1085, 2
+  size: 1021, 978
+  orig: 1021, 978
+  offset: 0, 0
+  index: -1
+body_up_A
+  rotate: false
+  xy: 3335, 2825
+  size: 706, 359
+  orig: 707, 368
+  offset: 0, 0
+  index: -1
+body_up_B
+  rotate: false
+  xy: 2, 2648
+  size: 706, 359
+  orig: 707, 368
+  offset: 0, 0
+  index: -1
+chest_L_A
+  rotate: true
+  xy: 3406, 3186
+  size: 325, 417
+  orig: 330, 417
+  offset: 0, 0
+  index: -1
+chest_L_B
+  rotate: true
+  xy: 2, 3071
+  size: 325, 417
+  orig: 330, 417
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 3801, 3513
+  size: 244, 220
+  orig: 255, 221
+  offset: 10, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 2407, 3549
+  size: 252, 184
+  orig: 253, 184
+  offset: 1, 0
+  index: -1
+eyebrow_1_L
+  rotate: false
+  xy: 2661, 3535
+  size: 318, 198
+  orig: 318, 198
+  offset: 0, 0
+  index: -1
+eyebrow_1_R
+  rotate: false
+  xy: 1919, 3555
+  size: 244, 178
+  orig: 244, 178
+  offset: 0, 0
+  index: -1
+eyebrow_2_L
+  rotate: false
+  xy: 2981, 3531
+  size: 318, 202
+  orig: 318, 202
+  offset: 0, 0
+  index: -1
+eyebrow_2_R
+  rotate: false
+  xy: 1668, 3557
+  size: 249, 176
+  orig: 249, 176
+  offset: 0, 0
+  index: -1
+face_A
+  rotate: true
+  xy: 2158, 921
+  size: 799, 754
+  orig: 799, 754
+  offset: 0, 0
+  index: -1
+face_B
+  rotate: false
+  xy: 2914, 619
+  size: 799, 754
+  orig: 799, 754
+  offset: 0, 0
+  index: -1
+flower_1
+  rotate: false
+  xy: 421, 3009
+  size: 360, 357
+  orig: 360, 363
+  offset: 0, 6
+  index: -1
+flower_2
+  rotate: true
+  xy: 652, 3368
+  size: 232, 397
+  orig: 233, 397
+  offset: 1, 0
+  index: -1
+flower_3
+  rotate: false
+  xy: 328, 3398
+  size: 322, 233
+  orig: 322, 233
+  offset: 0, 0
+  index: -1
+hair2_bottom
+  rotate: true
+  xy: 2, 522
+  size: 808, 1081
+  orig: 2651, 2318
+  offset: 1840, 1224
+  index: -1
+hair3_bottom
+  rotate: false
+  xy: 1791, 1722
+  size: 1162, 644
+  orig: 1454, 846
+  offset: 137, 117
+  index: -1
+hair_1_L
+  rotate: false
+  xy: 684, 3621
+  size: 188, 112
+  orig: 188, 112
+  offset: 0, 0
+  index: -1
+hair_1_R
+  rotate: false
+  xy: 575, 3633
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+hair_2_L
+  rotate: true
+  xy: 1415, 2546
+  size: 370, 600
+  orig: 371, 608
+  offset: 1, 0
+  index: -1
+hair_2_R
+  rotate: false
+  xy: 2015, 3268
+  size: 283, 279
+  orig: 332, 279
+  offset: 49, 0
+  index: -1
+hair_2_bottom
+  rotate: true
+  xy: 1571, 3278
+  size: 275, 442
+  orig: 275, 442
+  offset: 0, 0
+  index: -1
+hair_3_L
+  rotate: true
+  xy: 2300, 3239
+  size: 294, 393
+  orig: 318, 397
+  offset: 0, 4
+  index: -1
+hair_3_R
+  rotate: true
+  xy: 473, 3635
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+hair_4_R
+  rotate: true
+  xy: 1465, 2918
+  size: 348, 663
+  orig: 622, 962
+  offset: 105, 188
+  index: -1
+hair_5_R
+  rotate: true
+  xy: 2670, 2854
+  size: 348, 663
+  orig: 622, 962
+  offset: 105, 188
+  index: -1
+hair_Arm_R
+  rotate: false
+  xy: 2, 1332
+  size: 1162, 644
+  orig: 1454, 846
+  offset: 137, 117
+  index: -1
+mouth_1
+  rotate: false
+  xy: 227, 3639
+  size: 134, 94
+  orig: 136, 94
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 874, 3620
+  size: 147, 113
+  orig: 163, 139
+  offset: 0, 25
+  index: -1
+palm_L
+  rotate: true
+  xy: 2130, 2877
+  size: 360, 538
+  orig: 527, 920
+  offset: 166, 382
+  index: -1
+palm_R
+  rotate: false
+  xy: 2896, 2368
+  size: 568, 455
+  orig: 698, 1027
+  offset: 33, 572
+  index: -1
+pant
+  rotate: false
+  xy: 2, 2156
+  size: 674, 490
+  orig: 674, 490
+  offset: 0, 0
+  index: -1
+shine
+  rotate: true
+  xy: 1023, 3602
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+shy_1
+  rotate: true
+  xy: 3466, 2086
+  size: 737, 522
+  orig: 737, 522
+  offset: 0, 0
+  index: -1
+shy_2
+  rotate: false
+  xy: 1166, 982
+  size: 990, 738
+  orig: 990, 738
+  offset: 0, 0
+  index: -1
+
+Irina_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_M__A
+  rotate: false
+  xy: 2813, 2255
+  size: 1281, 1397
+  orig: 1286, 1397
+  offset: 0, 0
+  index: -1
+body_M__B
+  rotate: true
+  xy: 2432, 972
+  size: 1281, 1397
+  orig: 1286, 1397
+  offset: 0, 0
+  index: -1
+hair1_bottom
+  rotate: false
+  xy: 1136, 2444
+  size: 1675, 1208
+  orig: 2674, 2318
+  offset: 999, 943
+  index: -1
+semen
+  rotate: false
+  xy: 2, 2671
+  size: 1132, 981
+  orig: 1139, 994
+  offset: 1, 9
+  index: -1
+thigh_R_A
+  rotate: true
+  xy: 2, 1223
+  size: 1219, 2428
+  orig: 1246, 2428
+  offset: 26, 0
+  index: -1
+thigh_R_B
+  rotate: true
+  xy: 2, 2
+  size: 1219, 2428
+  orig: 1246, 2428
+  offset: 26, 0
+  index: -1
+
+Irina_Playroom_Wedding_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+calf_R
+  rotate: true
+  xy: 2, 1671
+  size: 1225, 2524
+  orig: 1225, 2524
+  offset: 0, 0
+  index: -1
+hair_1_up
+  rotate: true
+  xy: 2528, 1450
+  size: 1446, 1545
+  orig: 1718, 1894
+  offset: 116, 159
+  index: -1
+hair_2_up
+  rotate: true
+  xy: 2, 223
+  size: 1446, 1545
+  orig: 1718, 1894
+  offset: 116, 159
+  index: -1
+hair_3_up
+  rotate: true
+  xy: 1549, 2
+  size: 1446, 1545
+  orig: 1718, 1894
+  offset: 116, 159
+  index: -1
+
+Irina_Playroom_Wedding_4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_down_A
+  rotate: false
+  xy: 2, 1698
+  size: 2534, 1694
+  orig: 2582, 1694
+  offset: 8, 0
+  index: -1
+body_down_B
+  rotate: false
+  xy: 2, 2
+  size: 2534, 1694
+  orig: 2582, 1694
+  offset: 8, 0
+  index: -1

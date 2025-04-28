@@ -1,3 +1,432 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3de2beda1088f77f4bd1485c47fa70c09c3cf61815caac1f1776061cf46c2f2a
-size 6182
+
+Aphra_Clairmont_Spine.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 1569, 3300
+  size: 383, 240
+  orig: 383, 240
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1954, 3289
+  size: 383, 240
+  orig: 383, 240
+  offset: 0, 0
+  index: -1
+b3L
+  rotate: false
+  xy: 797, 3320
+  size: 238, 223
+  orig: 238, 223
+  offset: 0, 0
+  index: -1
+b3R
+  rotate: true
+  xy: 3861, 3436
+  size: 236, 230
+  orig: 236, 230
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 1629, 2589
+  size: 349, 444
+  orig: 349, 444
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 3281, 2452
+  size: 349, 444
+  orig: 349, 444
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 3727, 2357
+  size: 349, 444
+  orig: 349, 444
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 454, 3570
+  size: 197, 102
+  orig: 197, 102
+  offset: 0, 0
+  index: -1
+dressL1
+  rotate: true
+  xy: 1026, 3545
+  size: 127, 179
+  orig: 127, 179
+  offset: 0, 0
+  index: -1
+dressL2
+  rotate: true
+  xy: 1207, 3545
+  size: 127, 179
+  orig: 127, 179
+  offset: 0, 0
+  index: -1
+dressLL1
+  rotate: false
+  xy: 765, 1317
+  size: 1139, 678
+  orig: 1139, 678
+  offset: 0, 0
+  index: -1
+dressLL2
+  rotate: false
+  xy: 2741, 1093
+  size: 1139, 678
+  orig: 1139, 678
+  offset: 0, 0
+  index: -1
+dressM1
+  rotate: false
+  xy: 3773, 3152
+  size: 293, 282
+  orig: 293, 282
+  offset: 0, 0
+  index: -1
+dressM2
+  rotate: false
+  xy: 342, 3052
+  size: 293, 282
+  orig: 293, 282
+  offset: 0, 0
+  index: -1
+dressR1
+  rotate: false
+  xy: 1037, 3305
+  size: 264, 238
+  orig: 264, 238
+  offset: 0, 0
+  index: -1
+dressR2
+  rotate: false
+  xy: 1303, 3302
+  size: 264, 238
+  orig: 264, 238
+  offset: 0, 0
+  index: -1
+dressRR1
+  rotate: false
+  xy: 2, 1445
+  size: 761, 833
+  orig: 761, 833
+  offset: 0, 0
+  index: -1
+dressRR2
+  rotate: true
+  xy: 1906, 1234
+  size: 761, 833
+  orig: 761, 833
+  offset: 0, 0
+  index: -1
+earpiece1
+  rotate: false
+  xy: 532, 3336
+  size: 263, 220
+  orig: 263, 220
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 173, 3586
+  size: 166, 86
+  orig: 167, 86
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 3380
+  size: 204, 265
+  orig: 204, 265
+  offset: 0, 0
+  index: -1
+facered
+  rotate: false
+  xy: 2107, 3531
+  size: 238, 141
+  orig: 238, 141
+  offset: 0, 0
+  index: -1
+faceside
+  rotate: true
+  xy: 341, 3586
+  size: 86, 111
+  orig: 86, 111
+  offset: 0, 0
+  index: -1
+flag2
+  rotate: false
+  xy: 1594, 1997
+  size: 1243, 570
+  orig: 1329, 596
+  offset: 0, 26
+  index: -1
+glass2
+  rotate: false
+  xy: 842, 3551
+  size: 182, 121
+  orig: 182, 121
+  offset: 0, 0
+  index: -1
+hairB
+  rotate: true
+  xy: 778, 2058
+  size: 592, 814
+  orig: 592, 814
+  offset: 0, 0
+  index: -1
+hairL
+  rotate: true
+  xy: 269, 3354
+  size: 214, 261
+  orig: 214, 261
+  offset: 0, 0
+  index: -1
+hairLL
+  rotate: true
+  xy: 2, 2702
+  size: 348, 419
+  orig: 348, 419
+  offset: 0, 0
+  index: -1
+hairM
+  rotate: false
+  xy: 2339, 3261
+  size: 330, 249
+  orig: 330, 249
+  offset: 0, 0
+  index: -1
+hairR
+  rotate: true
+  xy: 1388, 3542
+  size: 130, 309
+  orig: 130, 309
+  offset: 0, 0
+  index: -1
+hairRR
+  rotate: true
+  xy: 2839, 1773
+  size: 677, 798
+  orig: 677, 798
+  offset: 0, 0
+  index: -1
+handL1
+  rotate: true
+  xy: 3217, 3490
+  size: 182, 320
+  orig: 182, 320
+  offset: 0, 0
+  index: -1
+handL2
+  rotate: true
+  xy: 3539, 3490
+  size: 182, 320
+  orig: 182, 320
+  offset: 0, 0
+  index: -1
+handR1
+  rotate: false
+  xy: 2983, 3217
+  size: 393, 271
+  orig: 393, 271
+  offset: 0, 0
+  index: -1
+handR2
+  rotate: false
+  xy: 3378, 3217
+  size: 393, 271
+  orig: 393, 271
+  offset: 0, 0
+  index: -1
+handRs1
+  rotate: false
+  xy: 1699, 3542
+  size: 201, 130
+  orig: 201, 130
+  offset: 0, 0
+  index: -1
+handRs2
+  rotate: false
+  xy: 1902, 3542
+  size: 203, 130
+  orig: 203, 130
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 2, 3079
+  size: 338, 273
+  orig: 338, 273
+  offset: 0, 0
+  index: -1
+legL1
+  rotate: true
+  xy: 423, 2652
+  size: 346, 1204
+  orig: 346, 1204
+  offset: 0, 0
+  index: -1
+legL2
+  rotate: true
+  xy: 2075, 2569
+  size: 346, 1204
+  orig: 346, 1204
+  offset: 0, 0
+  index: -1
+legR1
+  rotate: true
+  xy: 637, 3000
+  size: 298, 1297
+  orig: 298, 1297
+  offset: 0, 0
+  index: -1
+legR2
+  rotate: true
+  xy: 2318, 2917
+  size: 298, 1297
+  orig: 298, 1297
+  offset: 0, 0
+  index: -1
+mask1
+  rotate: false
+  xy: 2751, 3508
+  size: 231, 164
+  orig: 231, 164
+  offset: 0, 0
+  index: -1
+mask3
+  rotate: false
+  xy: 2984, 3508
+  size: 231, 164
+  orig: 231, 164
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 31, 3644
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 76, 3634
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 122, 3629
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+neck1
+  rotate: false
+  xy: 2347, 3512
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+neck2
+  rotate: false
+  xy: 2549, 3512
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 2, 3653
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+pants
+  rotate: true
+  xy: 653, 3558
+  size: 114, 187
+  orig: 115, 187
+  offset: 0, 0
+  index: -1
+shoulderL1
+  rotate: false
+  xy: 1936, 2940
+  size: 380, 347
+  orig: 380, 347
+  offset: 0, 0
+  index: -1
+shoulderL2
+  rotate: false
+  xy: 3617, 2803
+  size: 380, 347
+  orig: 380, 347
+  offset: 0, 0
+  index: -1
+shoulderR1
+  rotate: true
+  xy: 2, 2330
+  size: 370, 386
+  orig: 370, 386
+  offset: 0, 0
+  index: -1
+shoulderR2
+  rotate: true
+  xy: 390, 2280
+  size: 370, 386
+  orig: 370, 386
+  offset: 0, 0
+  index: -1
+sword1
+  rotate: false
+  xy: 2, 226
+  size: 1656, 1089
+  orig: 1656, 1089
+  offset: 0, 0
+  index: -1
+sword2
+  rotate: false
+  xy: 1660, 2
+  size: 1656, 1089
+  orig: 1656, 1089
+  offset: 0, 0
+  index: -1
+west
+  rotate: false
+  xy: 2671, 3238
+  size: 310, 268
+  orig: 325, 268
+  offset: 15, 0
+  index: -1
+
+Aphra_Clairmont_Spine_2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag1
+  rotate: true
+  xy: 2, 2
+  size: 1484, 2175
+  orig: 1484, 2175
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 2179, 294
+  size: 1192, 1188
+  orig: 1192, 1188
+  offset: 0, 0
+  index: -1

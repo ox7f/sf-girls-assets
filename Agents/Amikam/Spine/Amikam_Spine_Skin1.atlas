@@ -1,3 +1,298 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f4b12ad84334d6fb25583ebac171686855723d51321dbdf1e31ff0815468bac0
-size 4312
+
+Amikam_Spine_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AB_Arm_L
+  rotate: true
+  xy: 2, 1284
+  size: 231, 492
+  orig: 231, 492
+  offset: 0, 0
+  index: -1
+AB_Boobs_Cloth
+  rotate: false
+  xy: 1330, 1611
+  size: 266, 150
+  orig: 266, 150
+  offset: 0, 0
+  index: -1
+A_Boobs_Cover
+  rotate: false
+  xy: 577, 1500
+  size: 384, 170
+  orig: 384, 170
+  offset: 0, 0
+  index: -1
+A_Boobs_Cover_Back a
+  rotate: true
+  xy: 316, 1697
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+A_Boobs_Cover_Back b
+  rotate: false
+  xy: 128, 1727
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+A_Cloth
+  rotate: true
+  xy: 1710, 1003
+  size: 349, 300
+  orig: 349, 300
+  offset: 0, 0
+  index: -1
+A_Cloth_F
+  rotate: true
+  xy: 353, 938
+  size: 248, 719
+  orig: 248, 719
+  offset: 0, 0
+  index: -1
+A_Eyes
+  rotate: false
+  xy: 566, 1674
+  size: 117, 87
+  orig: 117, 87
+  offset: 0, 0
+  index: -1
+A_Mouth
+  rotate: false
+  xy: 35, 1737
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+A_Ribbon_Line
+  rotate: false
+  xy: 496, 1206
+  size: 346, 292
+  orig: 346, 292
+  offset: 0, 0
+  index: -1
+B_Cloth
+  rotate: false
+  xy: 2, 982
+  size: 349, 300
+  orig: 349, 300
+  offset: 0, 0
+  index: -1
+B_Eyes
+  rotate: false
+  xy: 1008, 1671
+  size: 117, 90
+  orig: 117, 90
+  offset: 0, 0
+  index: -1
+B_Mouth
+  rotate: false
+  xy: 2, 1747
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+B_Ribbon_Line
+  rotate: false
+  xy: 1338, 1119
+  size: 370, 292
+  orig: 370, 292
+  offset: 0, 0
+  index: -1
+Back A
+  rotate: false
+  xy: 2, 2
+  size: 859, 511
+  orig: 859, 511
+  offset: 0, 0
+  index: -1
+Boobs
+  rotate: false
+  xy: 1160, 1421
+  size: 323, 188
+  orig: 323, 188
+  offset: 0, 0
+  index: -1
+Boobs shadow
+  rotate: false
+  xy: 396, 1682
+  size: 168, 79
+  orig: 168, 79
+  offset: 0, 0
+  index: -1
+Boobs shadow A
+  rotate: false
+  xy: 260, 1517
+  size: 315, 155
+  orig: 315, 155
+  offset: 0, 0
+  index: -1
+Boobs_Chain
+  rotate: false
+  xy: 685, 1672
+  size: 198, 89
+  orig: 198, 89
+  offset: 0, 0
+  index: -1
+C_Arm_L
+  rotate: true
+  xy: 844, 1188
+  size: 231, 492
+  orig: 231, 492
+  offset: 0, 0
+  index: -1
+C_Boobs_Cloth
+  rotate: false
+  xy: 1598, 1611
+  size: 266, 150
+  orig: 266, 150
+  offset: 0, 0
+  index: -1
+C_Eyes
+  rotate: false
+  xy: 885, 1672
+  size: 121, 89
+  orig: 121, 89
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: false
+  xy: 79, 1734
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 187, 1712
+  size: 127, 49
+  orig: 127, 49
+  offset: 0, 0
+  index: -1
+Gun_L
+  rotate: true
+  xy: 924, 167
+  size: 492, 934
+  orig: 492, 934
+  offset: 0, 0
+  index: -1
+Gun_R
+  rotate: true
+  xy: 2, 515
+  size: 421, 920
+  orig: 421, 920
+  offset: 0, 0
+  index: -1
+Hair Front
+  rotate: false
+  xy: 963, 1426
+  size: 195, 184
+  orig: 195, 184
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 1485, 1413
+  size: 196, 226
+  orig: 196, 226
+  offset: 0, 0
+  index: -1
+Hat a
+  rotate: false
+  xy: 2, 1545
+  size: 256, 165
+  orig: 256, 165
+  offset: 0, 0
+  index: -1
+Hat b
+  rotate: true
+  xy: 1074, 661
+  size: 456, 496
+  orig: 456, 496
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1127, 1612
+  size: 149, 201
+  orig: 149, 201
+  offset: 0, 0
+  index: -1
+LowerArm_R
+  rotate: true
+  xy: 1713, 1354
+  size: 196, 247
+  orig: 196, 247
+  offset: 0, 0
+  index: -1
+Ribbon
+  rotate: false
+  xy: 1866, 1552
+  size: 170, 209
+  orig: 170, 209
+  offset: 0, 0
+  index: -1
+
+Amikam_Spine_Skin1_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Body
+  rotate: true
+  xy: 2, 875
+  size: 387, 1270
+  orig: 387, 1270
+  offset: 0, 0
+  index: -1
+B_Body
+  rotate: true
+  xy: 2, 461
+  size: 412, 1256
+  orig: 412, 1256
+  offset: 0, 0
+  index: -1
+Back B
+  rotate: false
+  xy: 1274, 675
+  size: 597, 587
+  orig: 597, 587
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: true
+  xy: 2, 47
+  size: 412, 1256
+  orig: 412, 1256
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: false
+  xy: 1260, 2
+  size: 766, 671
+  orig: 766, 671
+  offset: 0, 0
+  index: -1
+
+Amikam_Spine_Skin1_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Cape
+  rotate: false
+  xy: 2, 2
+  size: 927, 1187
+  orig: 927, 1187
+  offset: 0, 0
+  index: -1
+BC_Cape
+  rotate: false
+  xy: 931, 114
+  size: 848, 1075
+  orig: 848, 1075
+  offset: 0, 0
+  index: -1

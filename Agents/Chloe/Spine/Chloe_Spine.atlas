@@ -1,3 +1,432 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0b706e14ab8dfd04dd55b0f2b58b2ba52cc42708b1ff21e8ac9aa005cbf95113
-size 6156
+
+Chloe_Spine.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt_L1
+  rotate: true
+  xy: 3420, 3096
+  size: 266, 332
+  orig: 266, 332
+  offset: 0, 0
+  index: -1
+belt_L2
+  rotate: true
+  xy: 3754, 3096
+  size: 266, 332
+  orig: 266, 332
+  offset: 0, 0
+  index: -1
+belt_LM1
+  rotate: false
+  xy: 2974, 3364
+  size: 538, 177
+  orig: 538, 177
+  offset: 0, 0
+  index: -1
+belt_LM2
+  rotate: false
+  xy: 3514, 3364
+  size: 538, 177
+  orig: 538, 177
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 842, 2477
+  size: 414, 666
+  orig: 414, 666
+  offset: 0, 0
+  index: -1
+body3
+  rotate: true
+  xy: 1510, 2443
+  size: 414, 666
+  orig: 414, 666
+  offset: 0, 0
+  index: -1
+boobaL1
+  rotate: true
+  xy: 2, 2978
+  size: 274, 315
+  orig: 274, 315
+  offset: 0, 0
+  index: -1
+boobaL3
+  rotate: true
+  xy: 319, 2947
+  size: 274, 311
+  orig: 274, 311
+  offset: 0, 0
+  index: -1
+boobaR1
+  rotate: false
+  xy: 1624, 2877
+  size: 332, 305
+  orig: 332, 305
+  offset: 0, 0
+  index: -1
+boobaR3
+  rotate: false
+  xy: 1958, 2859
+  size: 348, 305
+  orig: 348, 305
+  offset: 0, 0
+  index: -1
+bra1
+  rotate: false
+  xy: 632, 2900
+  size: 494, 291
+  orig: 494, 291
+  offset: 0, 0
+  index: -1
+bra2
+  rotate: false
+  xy: 1128, 2893
+  size: 494, 291
+  orig: 494, 291
+  offset: 0, 0
+  index: -1
+cloth_B1
+  rotate: false
+  xy: 2968, 2710
+  size: 838, 384
+  orig: 838, 384
+  offset: 0, 0
+  index: -1
+cloth_B2
+  rotate: false
+  xy: 2, 2514
+  size: 838, 384
+  orig: 838, 384
+  offset: 0, 0
+  index: -1
+dress_B1
+  rotate: false
+  xy: 803, 46
+  size: 1273, 793
+  orig: 1273, 793
+  offset: 0, 0
+  index: -1
+dress_B2
+  rotate: false
+  xy: 2078, 2
+  size: 1273, 793
+  orig: 1273, 793
+  offset: 0, 0
+  index: -1
+dress_R1
+  rotate: false
+  xy: 2, 289
+  size: 799, 1017
+  orig: 799, 1017
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 296, 3464
+  size: 77, 108
+  orig: 77, 108
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 665, 3458
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: true
+  xy: 211, 3468
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+eye3_swirl
+  rotate: true
+  xy: 35, 3515
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 3125, 3098
+  size: 264, 293
+  orig: 264, 293
+  offset: 0, 0
+  index: -1
+faceredcg2
+  rotate: false
+  xy: 2329, 3395
+  size: 265, 146
+  orig: 265, 146
+  offset: 0, 0
+  index: -1
+hairAL
+  rotate: true
+  xy: 879, 3415
+  size: 126, 379
+  orig: 126, 379
+  offset: 0, 0
+  index: -1
+hairAL2
+  rotate: true
+  xy: 1260, 3415
+  size: 126, 379
+  orig: 126, 379
+  offset: 0, 0
+  index: -1
+hairAR
+  rotate: true
+  xy: 1641, 3406
+  size: 135, 342
+  orig: 135, 342
+  offset: 0, 0
+  index: -1
+hairAR2
+  rotate: true
+  xy: 1985, 3406
+  size: 135, 342
+  orig: 135, 342
+  offset: 0, 0
+  index: -1
+hairL
+  rotate: true
+  xy: 2596, 3368
+  size: 173, 376
+  orig: 173, 376
+  offset: 0, 0
+  index: -1
+hairLL
+  rotate: false
+  xy: 1497, 1585
+  size: 1187, 693
+  orig: 1187, 693
+  offset: 0, 0
+  index: -1
+hairR
+  rotate: true
+  xy: 2773, 3114
+  size: 248, 350
+  orig: 248, 350
+  offset: 0, 0
+  index: -1
+hair_base
+  rotate: true
+  xy: 2308, 2807
+  size: 312, 317
+  orig: 312, 317
+  offset: 0, 0
+  index: -1
+hair_mid
+  rotate: false
+  xy: 233, 3254
+  size: 226, 205
+  orig: 226, 205
+  offset: 0, 0
+  index: -1
+hair_shadow
+  rotate: true
+  xy: 2627, 2784
+  size: 328, 339
+  orig: 328, 339
+  offset: 0, 0
+  index: -1
+handL1
+  rotate: true
+  xy: 461, 3223
+  size: 219, 322
+  orig: 219, 322
+  offset: 0, 0
+  index: -1
+handR1
+  rotate: true
+  xy: 785, 3193
+  size: 220, 522
+  orig: 220, 522
+  offset: 0, 0
+  index: -1
+handR2
+  rotate: true
+  xy: 1641, 3184
+  size: 220, 522
+  orig: 220, 522
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 2178, 2280
+  size: 428, 1493
+  orig: 428, 1493
+  offset: 0, 0
+  index: -1
+leg_L3
+  rotate: true
+  xy: 2, 2047
+  size: 428, 1493
+  orig: 428, 1493
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 821, 841
+  size: 742, 1446
+  orig: 742, 1446
+  offset: 0, 0
+  index: -1
+leg_R3
+  rotate: true
+  xy: 2269, 797
+  size: 742, 1446
+  orig: 742, 1446
+  offset: 0, 0
+  index: -1
+leg_RF1
+  rotate: true
+  xy: 2686, 1541
+  size: 737, 817
+  orig: 737, 817
+  offset: 0, 0
+  index: -1
+leg_RF3
+  rotate: true
+  xy: 2, 1308
+  size: 737, 817
+  orig: 737, 817
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 2497, 3121
+  size: 274, 245
+  orig: 274, 245
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 139, 3497
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 2, 3516
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 67, 3505
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 2, 3286
+  size: 229, 180
+  orig: 229, 180
+  offset: 0, 0
+  index: -1
+tube
+  rotate: true
+  xy: 1309, 3186
+  size: 227, 330
+  orig: 227, 330
+  offset: 0, 0
+  index: -1
+tube2
+  rotate: true
+  xy: 2165, 3166
+  size: 227, 330
+  orig: 227, 330
+  offset: 0, 0
+  index: -1
+turning1
+  rotate: true
+  xy: 754, 3444
+  size: 97, 123
+  orig: 97, 123
+  offset: 0, 0
+  index: -1
+turning2
+  rotate: true
+  xy: 533, 3460
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+turning3
+  rotate: true
+  xy: 406, 3461
+  size: 80, 125
+  orig: 80, 125
+  offset: 0, 0
+  index: -1
+
+Chloe_Spine_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag1
+  rotate: true
+  xy: 1021, 2160
+  size: 826, 1299
+  orig: 826, 1299
+  offset: 0, 0
+  index: -1
+bag2
+  rotate: true
+  xy: 2322, 2160
+  size: 826, 1299
+  orig: 826, 1299
+  offset: 0, 0
+  index: -1
+bag3
+  rotate: true
+  xy: 2, 1332
+  size: 826, 1299
+  orig: 826, 1299
+  offset: 0, 0
+  index: -1
+dress_L1
+  rotate: true
+  xy: 2447, 1232
+  size: 926, 1008
+  orig: 926, 1008
+  offset: 0, 0
+  index: -1
+dress_L2
+  rotate: true
+  xy: 2, 404
+  size: 926, 1008
+  orig: 926, 1008
+  offset: 0, 0
+  index: -1
+dress_R2
+  rotate: true
+  xy: 2, 2187
+  size: 799, 1017
+  orig: 799, 1017
+  offset: 0, 0
+  index: -1
+gun_1
+  rotate: true
+  xy: 1012, 2
+  size: 1228, 1477
+  orig: 1228, 1477
+  offset: 0, 0
+  index: -1
+hairRR
+  rotate: false
+  xy: 1303, 1318
+  size: 1142, 840
+  orig: 1142, 840
+  offset: 0, 0
+  index: -1

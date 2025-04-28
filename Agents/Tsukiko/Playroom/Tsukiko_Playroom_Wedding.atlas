@@ -1,3 +1,251 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6676caa795f198e7d950befbd013ad60a1fcd18951d73eae26eb440e48e4a85c
-size 3632
+
+Tsukiko_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lv1_Emo
+  rotate: false
+  xy: 1381, 2785
+  size: 446, 436
+  orig: 446, 436
+  offset: 0, 0
+  index: -1
+Lv1_Liquid
+  rotate: true
+  xy: 2081, 3530
+  size: 212, 226
+  orig: 212, 226
+  offset: 0, 0
+  index: -1
+Lv1_Penis
+  rotate: false
+  xy: 2, 3337
+  size: 363, 297
+  orig: 363, 297
+  offset: 0, 0
+  index: -1
+Lv2_Arm
+  rotate: false
+  xy: 2900, 2650
+  size: 676, 440
+  orig: 676, 440
+  offset: 0, 0
+  index: -1
+Lv2_Emo
+  rotate: false
+  xy: 2939, 3106
+  size: 410, 392
+  orig: 410, 392
+  offset: 0, 0
+  index: -1
+Lv2_Liquid
+  rotate: true
+  xy: 2, 1359
+  size: 872, 1084
+  orig: 872, 1084
+  offset: 0, 0
+  index: -1
+Lv2_Penis
+  rotate: false
+  xy: 3099, 3500
+  size: 559, 242
+  orig: 559, 242
+  offset: 0, 0
+  index: -1
+Lv_Arm
+  rotate: false
+  xy: 367, 3312
+  size: 781, 255
+  orig: 781, 255
+  offset: 0, 0
+  index: -1
+bat_1
+  rotate: false
+  xy: 2309, 3521
+  size: 788, 221
+  orig: 788, 221
+  offset: 0, 0
+  index: -1
+bat_2
+  rotate: true
+  xy: 1426, 2129
+  size: 576, 587
+  orig: 576, 587
+  offset: 0, 0
+  index: -1
+bat_3
+  rotate: false
+  xy: 498, 3571
+  size: 476, 171
+  orig: 476, 171
+  offset: 0, 0
+  index: -1
+bat_4
+  rotate: false
+  xy: 99, 3658
+  size: 220, 84
+  orig: 220, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2349, 884
+  size: 1673, 1052
+  orig: 1673, 1052
+  offset: 0, 0
+  index: -1
+breasts_L
+  rotate: false
+  xy: 2423, 2686
+  size: 475, 454
+  orig: 475, 454
+  offset: 0, 0
+  index: -1
+breasts_R
+  rotate: true
+  xy: 935, 2791
+  size: 430, 444
+  orig: 430, 444
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: true
+  xy: 1284, 3553
+  size: 189, 345
+  orig: 189, 345
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 3660, 3494
+  size: 358, 248
+  orig: 358, 248
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 2, 2408
+  size: 487, 576
+  orig: 487, 576
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 580, 2233
+  size: 550, 844
+  orig: 550, 844
+  offset: 0, 0
+  index: -1
+hair_b_L
+  rotate: false
+  xy: 488, 2897
+  size: 445, 413
+  orig: 445, 413
+  offset: 0, 0
+  index: -1
+hair_b_R
+  rotate: true
+  xy: 1829, 2707
+  size: 433, 592
+  orig: 433, 592
+  offset: 0, 0
+  index: -1
+hair_f
+  rotate: true
+  xy: 1631, 3551
+  size: 191, 448
+  orig: 191, 448
+  offset: 0, 0
+  index: -1
+hair_f_shadow
+  rotate: true
+  xy: 2, 3689
+  size: 53, 95
+  orig: 53, 95
+  offset: 0, 0
+  index: -1
+hair_shadow
+  rotate: true
+  xy: 2, 2904
+  size: 406, 484
+  orig: 406, 484
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 976, 3569
+  size: 306, 173
+  orig: 306, 173
+  offset: 0, 0
+  index: -1
+hat_b
+  rotate: true
+  xy: 2015, 2082
+  size: 566, 1274
+  orig: 566, 1274
+  offset: 0, 0
+  index: -1
+hat_f
+  rotate: true
+  xy: 2, 2
+  size: 1118, 1405
+  orig: 1118, 1405
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 3578, 2632
+  size: 458, 486
+  orig: 458, 486
+  offset: 0, 0
+  index: -1
+lag_L
+  rotate: false
+  xy: 1088, 1122
+  size: 1259, 958
+  orig: 1259, 958
+  offset: 0, 0
+  index: -1
+lag_R
+  rotate: false
+  xy: 3291, 1938
+  size: 739, 692
+  orig: 739, 692
+  offset: 0, 0
+  index: -1
+skirt_1
+  rotate: true
+  xy: 2288, 3142
+  size: 377, 649
+  orig: 377, 649
+  offset: 0, 0
+  index: -1
+skirt_b1
+  rotate: true
+  xy: 3351, 3092
+  size: 400, 482
+  orig: 400, 482
+  offset: 0, 0
+  index: -1
+skirt_b2
+  rotate: false
+  xy: 1150, 3223
+  size: 731, 326
+  orig: 731, 326
+  offset: 0, 0
+  index: -1
+vaginal
+  rotate: false
+  xy: 1883, 3172
+  size: 403, 356
+  orig: 403, 356
+  offset: 0, 0
+  index: -1
+vaginal_Liquid
+  rotate: true
+  xy: 321, 3636
+  size: 106, 175
+  orig: 106, 175
+  offset: 0, 0
+  index: -1

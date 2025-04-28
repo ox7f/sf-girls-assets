@@ -1,3 +1,363 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ce288a2acb3b0adc3f5f3a61b54011b7c6886937222a1389515ca31f4b4cd64
-size 5302
+
+Reika_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A Arm L Lower
+  rotate: false
+  xy: 3069, 1486
+  size: 787, 577
+  orig: 787, 577
+  offset: 0, 0
+  index: -1
+A Arm L Upper
+  rotate: true
+  xy: 3868, 1274
+  size: 242, 139
+  orig: 242, 139
+  offset: 0, 0
+  index: -1
+A Boob L
+  rotate: false
+  xy: 2621, 985
+  size: 420, 436
+  orig: 420, 436
+  offset: 0, 0
+  index: -1
+A Brush
+  rotate: true
+  xy: 3576, 470
+  size: 218, 351
+  orig: 218, 351
+  offset: 0, 0
+  index: -1
+A Eyebrow
+  rotate: true
+  xy: 2158, 82
+  size: 103, 262
+  orig: 103, 262
+  offset: 0, 0
+  index: -1
+A Eyes
+  rotate: false
+  xy: 3864, 63
+  size: 103, 248
+  orig: 103, 248
+  offset: 0, 0
+  index: -1
+A Mouth
+  rotate: false
+  xy: 1403, 2413
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+A Penis
+  rotate: true
+  xy: 3768, 2089
+  size: 574, 280
+  orig: 574, 280
+  offset: 0, 0
+  index: -1
+A Sperm a
+  rotate: false
+  xy: 3069, 1196
+  size: 553, 288
+  orig: 553, 288
+  offset: 0, 0
+  index: -1
+A Vagina
+  rotate: true
+  xy: 1263, 5
+  size: 549, 449
+  orig: 549, 449
+  offset: 0, 0
+  index: -1
+Arm R Lower
+  rotate: true
+  xy: 1714, 131
+  size: 528, 442
+  orig: 528, 442
+  offset: 0, 0
+  index: -1
+Arm R Upper
+  rotate: false
+  xy: 3858, 1707
+  size: 186, 380
+  orig: 186, 380
+  offset: 0, 0
+  index: -1
+B Arm L Lower
+  rotate: false
+  xy: 2274, 1423
+  size: 793, 640
+  orig: 793, 640
+  offset: 0, 0
+  index: -1
+B Arm L Upper
+  rotate: false
+  xy: 2851, 143
+  size: 206, 120
+  orig: 206, 120
+  offset: 0, 0
+  index: -1
+B Boob L
+  rotate: false
+  xy: 2179, 964
+  size: 440, 457
+  orig: 440, 457
+  offset: 0, 0
+  index: -1
+B Brush
+  rotate: false
+  xy: 3624, 1133
+  size: 242, 351
+  orig: 242, 351
+  offset: 0, 0
+  index: -1
+B Eyebrow
+  rotate: true
+  xy: 3059, 162
+  size: 103, 262
+  orig: 103, 262
+  offset: 0, 0
+  index: -1
+B Eyes
+  rotate: true
+  xy: 3323, 142
+  size: 109, 248
+  orig: 109, 248
+  offset: 0, 0
+  index: -1
+B Hand L
+  rotate: false
+  xy: 3858, 1518
+  size: 152, 187
+  orig: 152, 187
+  offset: 0, 0
+  index: -1
+B Mouth
+  rotate: false
+  xy: 2050, 65
+  size: 106, 64
+  orig: 106, 64
+  offset: 0, 0
+  index: -1
+B Penis
+  rotate: true
+  xy: 1862, 1469
+  size: 974, 410
+  orig: 974, 410
+  offset: 0, 0
+  index: -1
+B Sperm a
+  rotate: false
+  xy: 3002, 267
+  size: 374, 246
+  orig: 374, 246
+  offset: 0, 0
+  index: -1
+B Sperm b
+  rotate: true
+  xy: 2477, 3330
+  size: 755, 1139
+  orig: 755, 1139
+  offset: 0, 0
+  index: -1
+B Sperm c
+  rotate: true
+  xy: 3606, 690
+  size: 441, 275
+  orig: 441, 275
+  offset: 0, 0
+  index: -1
+B Sperm d
+  rotate: false
+  xy: 3496, 2665
+  size: 510, 628
+  orig: 510, 628
+  offset: 0, 0
+  index: -1
+B Sperm e
+  rotate: true
+  xy: 3618, 3295
+  size: 790, 428
+  orig: 790, 428
+  offset: 0, 0
+  index: -1
+B Sperm f
+  rotate: false
+  xy: 2489, 2065
+  size: 1277, 556
+  orig: 1277, 556
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 543
+  size: 1189, 735
+  orig: 1189, 735
+  offset: 0, 0
+  index: -1
+Boob R
+  rotate: true
+  xy: 2179, 587
+  size: 375, 452
+  orig: 375, 452
+  offset: 0, 0
+  index: -1
+Calf L
+  rotate: false
+  xy: 2, 53
+  size: 1259, 488
+  orig: 1259, 488
+  offset: 0, 0
+  index: -1
+Cloth Back
+  rotate: false
+  xy: 2, 2372
+  size: 1399, 1713
+  orig: 1399, 1713
+  offset: 0, 0
+  index: -1
+Cloth x
+  rotate: false
+  xy: 2633, 630
+  size: 422, 353
+  orig: 422, 353
+  offset: 0, 0
+  index: -1
+Cloth y
+  rotate: false
+  xy: 3057, 849
+  size: 547, 345
+  orig: 547, 345
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 3057, 515
+  size: 517, 332
+  orig: 517, 332
+  offset: 0, 0
+  index: -1
+Foot L
+  rotate: true
+  xy: 1321, 1334
+  size: 1036, 539
+  orig: 1036, 539
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: true
+  xy: 1862, 1370
+  size: 97, 274
+  orig: 97, 274
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 2158, 187
+  size: 445, 398
+  orig: 445, 398
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: false
+  xy: 1714, 2
+  size: 334, 127
+  orig: 334, 127
+  offset: 0, 0
+  index: -1
+Hair Flower
+  rotate: true
+  xy: 3573, 99
+  size: 212, 289
+  orig: 212, 289
+  offset: 0, 0
+  index: -1
+Hair a
+  rotate: false
+  xy: 1690, 661
+  size: 487, 671
+  orig: 487, 671
+  offset: 0, 0
+  index: -1
+Headwear Back
+  rotate: true
+  xy: 1403, 2445
+  size: 708, 1084
+  orig: 708, 1084
+  offset: 0, 0
+  index: -1
+Headwear a
+  rotate: true
+  xy: 2274, 2076
+  size: 367, 194
+  orig: 367, 194
+  offset: 0, 0
+  index: -1
+Headwear b
+  rotate: false
+  xy: 3378, 253
+  size: 193, 260
+  orig: 193, 260
+  offset: 0, 0
+  index: -1
+Milk Burst L
+  rotate: true
+  xy: 1193, 556
+  size: 722, 495
+  orig: 722, 495
+  offset: 0, 0
+  index: -1
+Milk Burst R
+  rotate: false
+  xy: 2489, 2623
+  size: 1005, 705
+  orig: 1005, 705
+  offset: 0, 0
+  index: -1
+Milk L
+  rotate: true
+  xy: 2851, 265
+  size: 363, 149
+  orig: 363, 149
+  offset: 0, 0
+  index: -1
+Milk R
+  rotate: false
+  xy: 3573, 313
+  size: 351, 155
+  orig: 351, 155
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 3496, 3314
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+Thigh L
+  rotate: false
+  xy: 2, 1280
+  size: 1317, 1090
+  orig: 1317, 1090
+  offset: 0, 0
+  index: -1
+Thigh R
+  rotate: false
+  xy: 1403, 3155
+  size: 1072, 930
+  orig: 1072, 930
+  offset: 0, 0
+  index: -1
+Vagina
+  rotate: true
+  xy: 2605, 138
+  size: 447, 244
+  orig: 447, 244
+  offset: 0, 0
+  index: -1

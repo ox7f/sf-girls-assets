@@ -1,3 +1,362 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a66384c31f1f01c45ca240669706a3d560d5047cebece700fb65133bde63ada
-size 5211
+
+Amikam_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm R
+  rotate: true
+  xy: 2190, 918
+  size: 724, 1114
+  orig: 724, 1114
+  offset: 0, 0
+  index: -1
+BG 3
+  rotate: true
+  xy: 2890, 102
+  size: 772, 932
+  orig: 772, 932
+  offset: 0, 0
+  index: -1
+BG 4
+  rotate: true
+  xy: 826, 2
+  size: 772, 880
+  orig: 772, 880
+  offset: 0, 0
+  index: -1
+BG 5
+  rotate: true
+  xy: 999, 776
+  size: 740, 992
+  orig: 740, 992
+  offset: 0, 0
+  index: -1
+BG 6
+  rotate: true
+  xy: 2, 253
+  size: 743, 822
+  orig: 743, 822
+  offset: 0, 0
+  index: -1
+BG 7
+  rotate: true
+  xy: 2, 998
+  size: 683, 995
+  orig: 683, 995
+  offset: 0, 0
+  index: -1
+BG 8
+  rotate: true
+  xy: 1371, 1518
+  size: 680, 817
+  orig: 680, 817
+  offset: 0, 0
+  index: -1
+Blush A
+  rotate: false
+  xy: 1973, 3648
+  size: 293, 203
+  orig: 293, 203
+  offset: 0, 0
+  index: -1
+Blush B
+  rotate: false
+  xy: 2559, 3643
+  size: 293, 208
+  orig: 293, 208
+  offset: 0, 0
+  index: -1
+Boob Jewel L
+  rotate: false
+  xy: 585, 3747
+  size: 137, 104
+  orig: 137, 104
+  offset: 0, 0
+  index: -1
+Boob Jewel R
+  rotate: false
+  xy: 911, 3724
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+Boob L
+  rotate: false
+  xy: 2547, 3164
+  size: 821, 422
+  orig: 821, 422
+  offset: 0, 0
+  index: -1
+Boob R
+  rotate: true
+  xy: 1051, 2808
+  size: 511, 590
+  orig: 511, 590
+  offset: 0, 0
+  index: -1
+Chain L
+  rotate: false
+  xy: 2, 3760
+  size: 277, 91
+  orig: 277, 91
+  offset: 0, 0
+  index: -1
+Chain R
+  rotate: true
+  xy: 281, 3758
+  size: 93, 167
+  orig: 93, 167
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: true
+  xy: 3763, 3409
+  size: 442, 320
+  orig: 442, 320
+  offset: 0, 0
+  index: -1
+FG a
+  rotate: true
+  xy: 2760, 1644
+  size: 647, 1096
+  orig: 647, 1096
+  offset: 0, 0
+  index: -1
+FG c
+  rotate: true
+  xy: 1151, 3321
+  size: 334, 562
+  orig: 334, 562
+  offset: 0, 0
+  index: -1
+FG d
+  rotate: true
+  xy: 1993, 165
+  size: 751, 895
+  orig: 751, 895
+  offset: 0, 0
+  index: -1
+Face A
+  rotate: false
+  xy: 2854, 3604
+  size: 288, 247
+  orig: 288, 247
+  offset: 0, 0
+  index: -1
+Face B
+  rotate: true
+  xy: 3144, 3588
+  size: 263, 292
+  orig: 263, 292
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 1042, 3718
+  size: 256, 133
+  orig: 256, 133
+  offset: 0, 0
+  index: -1
+Hair Back a
+  rotate: false
+  xy: 2, 2343
+  size: 1386, 463
+  orig: 1386, 463
+  offset: 0, 0
+  index: -1
+Hair Back b
+  rotate: true
+  xy: 3438, 3575
+  size: 276, 323
+  orig: 276, 323
+  offset: 0, 0
+  index: -1
+Hair Back c
+  rotate: true
+  xy: 1643, 2701
+  size: 461, 1557
+  orig: 461, 1557
+  offset: 0, 0
+  index: -1
+Hair Back e
+  rotate: true
+  xy: 515, 3418
+  size: 298, 634
+  orig: 298, 634
+  offset: 0, 0
+  index: -1
+Hair Front
+  rotate: true
+  xy: 1564, 3657
+  size: 194, 407
+  orig: 194, 407
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 2, 2974
+  size: 495, 509
+  orig: 495, 509
+  offset: 0, 0
+  index: -1
+Hat 1
+  rotate: true
+  xy: 513, 2927
+  size: 489, 536
+  orig: 489, 536
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2133, 3253
+  size: 391, 412
+  orig: 391, 412
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: true
+  xy: 1390, 2200
+  size: 499, 1368
+  orig: 499, 1368
+  offset: 0, 0
+  index: -1
+Man Hand A
+  rotate: true
+  xy: 3306, 876
+  size: 766, 772
+  orig: 766, 772
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1300, 3669
+  size: 262, 182
+  orig: 262, 182
+  offset: 0, 0
+  index: -1
+Penis A
+  rotate: true
+  xy: 3202, 2293
+  size: 607, 663
+  orig: 607, 663
+  offset: 0, 0
+  index: -1
+Penis B
+  rotate: true
+  xy: 758, 1683
+  size: 658, 611
+  orig: 658, 611
+  offset: 0, 0
+  index: -1
+Sperm B a
+  rotate: true
+  xy: 1715, 3270
+  size: 376, 416
+  orig: 376, 416
+  offset: 0, 0
+  index: -1
+Sperm B b
+  rotate: false
+  xy: 2, 1731
+  size: 754, 610
+  orig: 754, 610
+  offset: 0, 0
+  index: -1
+Sweat B a
+  rotate: true
+  xy: 2268, 3646
+  size: 205, 289
+  orig: 205, 289
+  offset: 0, 0
+  index: -1
+Sweat B b
+  rotate: true
+  xy: 724, 3739
+  size: 112, 185
+  orig: 112, 185
+  offset: 0, 0
+  index: -1
+Sweat B c
+  rotate: false
+  xy: 450, 3750
+  size: 133, 101
+  orig: 133, 101
+  offset: 0, 0
+  index: -1
+Sweat B d
+  rotate: false
+  xy: 3370, 2902
+  size: 593, 505
+  orig: 593, 505
+  offset: 0, 0
+  index: -1
+Vagina Top
+  rotate: true
+  xy: 2, 3471
+  size: 277, 511
+  orig: 277, 511
+  offset: 0, 0
+  index: -1
+
+Amikam_Playroom_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 2386
+  size: 808, 925
+  orig: 808, 925
+  offset: 0, 0
+  index: -1
+BG 2
+  rotate: true
+  xy: 929, 2382
+  size: 812, 887
+  orig: 812, 887
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 1367
+  size: 2015, 959
+  orig: 2015, 959
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: false
+  xy: 1304, 2
+  size: 2052, 1185
+  orig: 2052, 1185
+  offset: 0, 0
+  index: -1
+FG b
+  rotate: true
+  xy: 2838, 2261
+  size: 933, 986
+  orig: 933, 986
+  offset: 0, 0
+  index: -1
+FG e
+  rotate: false
+  xy: 2019, 1189
+  size: 1339, 1070
+  orig: 1339, 1070
+  offset: 0, 0
+  index: -1
+Hair Back d
+  rotate: false
+  xy: 2, 122
+  size: 1300, 1243
+  orig: 1300, 1243
+  offset: 0, 0
+  index: -1
+Hat Back
+  rotate: true
+  xy: 1818, 2328
+  size: 866, 1018
+  orig: 866, 1018
+  offset: 0, 0
+  index: -1

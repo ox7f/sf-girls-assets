@@ -1,3 +1,467 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a2a33bcb885a5791172768f07d65229867e6065c813507bc2dddcbf277f368b9
-size 6816
+
+Yuuha_Spine_Skin2.png
+size: 4075,3643
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A Arm L
+  rotate: false
+  xy: 1177, 1073
+  size: 1255, 745
+  orig: 1255, 745
+  offset: 0, 0
+  index: -1
+A Arm R
+  rotate: true
+  xy: 2, 897
+  size: 884, 892
+  orig: 884, 892
+  offset: 0, 0
+  index: -1
+A Body Upper
+  rotate: true
+  xy: 2439, 2452
+  size: 413, 687
+  orig: 413, 706
+  offset: 0, 19
+  index: -1
+A Body Upper Line
+  rotate: true
+  xy: 706, 3554
+  size: 87, 215
+  orig: 92, 218
+  offset: 2, 0
+  index: -1
+A Boob L
+  rotate: true
+  xy: 529, 3056
+  size: 296, 316
+  orig: 320, 323
+  offset: 4, 7
+  index: -1
+A Boob R
+  rotate: false
+  xy: 911, 3293
+  size: 298, 227
+  orig: 298, 227
+  offset: 0, 0
+  index: -1
+A Collar
+  rotate: true
+  xy: 2, 3388
+  size: 198, 301
+  orig: 198, 301
+  offset: 0, 0
+  index: -1
+A Eyebrows
+  rotate: false
+  xy: 923, 3543
+  size: 268, 98
+  orig: 268, 98
+  offset: 0, 0
+  index: -1
+A Eyes
+  rotate: false
+  xy: 1193, 3522
+  size: 255, 119
+  orig: 255, 131
+  offset: 0, 7
+  index: -1
+A Gun  R
+  rotate: false
+  xy: 2, 1783
+  size: 1173, 483
+  orig: 1173, 483
+  offset: 0, 0
+  index: -1
+A Gun  R IKA B
+  rotate: false
+  xy: 3136, 2830
+  size: 367, 360
+  orig: 367, 360
+  offset: 0, 0
+  index: -1
+A Gun  R IKA F
+  rotate: false
+  xy: 442, 2694
+  size: 367, 360
+  orig: 367, 360
+  offset: 0, 0
+  index: -1
+A Mouth
+  rotate: false
+  xy: 320, 3571
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+A Pants Flower L
+  rotate: false
+  xy: 2, 2737
+  size: 438, 356
+  orig: 441, 356
+  offset: 2, 0
+  index: -1
+A Pants Flower R
+  rotate: false
+  xy: 3523, 3042
+  size: 419, 309
+  orig: 437, 322
+  offset: 14, 9
+  index: -1
+Arm R a
+  rotate: false
+  xy: 1450, 3522
+  size: 144, 119
+  orig: 144, 119
+  offset: 0, 0
+  index: -1
+B Arm L
+  rotate: false
+  xy: 2434, 778
+  size: 1255, 745
+  orig: 1255, 745
+  offset: 0, 0
+  index: -1
+B Arm R
+  rotate: true
+  xy: 2, 11
+  size: 884, 892
+  orig: 884, 892
+  offset: 0, 0
+  index: -1
+B Body Upper
+  rotate: true
+  xy: 2, 2279
+  size: 413, 687
+  orig: 413, 706
+  offset: 0, 19
+  index: -1
+B Boob L
+  rotate: true
+  xy: 2929, 3211
+  size: 276, 295
+  orig: 313, 295
+  offset: 29, 0
+  index: -1
+B Boob R
+  rotate: true
+  xy: 3813, 3353
+  size: 288, 260
+  orig: 288, 273
+  offset: 0, 0
+  index: -1
+C Boob R
+  rotate: true
+  xy: 3813, 3353
+  size: 288, 260
+  orig: 288, 273
+  offset: 0, 0
+  index: -1
+B Brush
+  rotate: false
+  xy: 1596, 3519
+  size: 290, 122
+  orig: 316, 147
+  offset: 9, 15
+  index: -1
+B Collar
+  rotate: true
+  xy: 305, 3368
+  size: 198, 301
+  orig: 198, 301
+  offset: 0, 0
+  index: -1
+B Eyebrows
+  rotate: false
+  xy: 411, 3568
+  size: 293, 73
+  orig: 297, 77
+  offset: 2, 3
+  index: -1
+B Eyes
+  rotate: false
+  xy: 1888, 3514
+  size: 296, 127
+  orig: 323, 144
+  offset: 13, 16
+  index: -1
+B Mouth
+  rotate: false
+  xy: 2, 3597
+  size: 80, 44
+  orig: 103, 51
+  offset: 11, 1
+  index: -1
+B Sweat
+  rotate: false
+  xy: 84, 3590
+  size: 162, 51
+  orig: 168, 65
+  offset: 4, 1
+  index: -1
+Butterfly
+  rotate: false
+  xy: 1545, 2959
+  size: 761, 305
+  orig: 761, 305
+  offset: 0, 0
+  index: -1
+C Arm L
+  rotate: false
+  xy: 896, 326
+  size: 1255, 745
+  orig: 1255, 745
+  offset: 0, 0
+  index: -1
+C Arm R
+  rotate: false
+  xy: 3284, 3470
+  size: 257, 171
+  orig: 257, 171
+  offset: 0, 0
+  index: -1
+C Body Upper
+  rotate: true
+  xy: 691, 2268
+  size: 413, 687
+  orig: 413, 706
+  offset: 0, 19
+  index: -1
+C Boob L
+  rotate: true
+  xy: 3226, 3192
+  size: 276, 295
+  orig: 313, 295
+  offset: 29, 0
+  index: -1
+C Collar
+  rotate: true
+  xy: 608, 3354
+  size: 198, 301
+  orig: 198, 301
+  offset: 0, 0
+  index: -1
+C Mouth
+  rotate: false
+  xy: 248, 3588
+  size: 70, 53
+  orig: 79, 59
+  offset: 5, 1
+  index: -1
+C Pants Ribbon
+  rotate: true
+  xy: 1963, 2506
+  size: 398, 474
+  orig: 405, 474
+  offset: 0, 0
+  index: -1
+Collar Back
+  rotate: false
+  xy: 1211, 3287
+  size: 392, 230
+  orig: 392, 230
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 2745, 2867
+  size: 342, 389
+  orig: 370, 389
+  offset: 0, 0
+  index: -1
+Feather
+  rotate: true
+  xy: 847, 3014
+  size: 271, 696
+  orig: 271, 696
+  offset: 0, 0
+  index: -1
+Flip flop
+  rotate: true
+  xy: 1605, 3279
+  size: 233, 316
+  orig: 235, 318
+  offset: 1, 1
+  index: -1
+Flower
+  rotate: false
+  xy: 2186, 3512
+  size: 148, 129
+  orig: 148, 129
+  offset: 0, 0
+  index: -1
+Gun L
+  rotate: false
+  xy: 2153, 2
+  size: 1209, 774
+  orig: 1209, 774
+  offset: 0, 0
+  index: -1
+Hair B
+  rotate: false
+  xy: 2045, 1820
+  size: 733, 630
+  orig: 733, 631
+  offset: 0, 1
+  index: -1
+Hair F
+  rotate: false
+  xy: 3505, 2673
+  size: 430, 367
+  orig: 430, 367
+  offset: 0, 0
+  index: -1
+Hair L
+  rotate: true
+  xy: 2336, 3499
+  size: 142, 348
+  orig: 151, 348
+  offset: 9, 0
+  index: -1
+Hair R
+  rotate: true
+  xy: 2686, 3491
+  size: 150, 313
+  orig: 150, 313
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 2328, 3225
+  size: 599, 264
+  orig: 599, 264
+  offset: 0, 0
+  index: -1
+Item1
+  rotate: true
+  xy: 1450, 2564
+  size: 393, 511
+  orig: 395, 513
+  offset: 1, 1
+  index: -1
+Item2
+  rotate: false
+  xy: 2, 3095
+  size: 525, 271
+  orig: 527, 273
+  offset: 1, 1
+  index: -1
+Item3
+  rotate: true
+  xy: 811, 2683
+  size: 329, 637
+  orig: 331, 639
+  offset: 1, 1
+  index: -1
+Item4
+  rotate: true
+  xy: 3128, 2239
+  size: 432, 597
+  orig: 434, 599
+  offset: 1, 1
+  index: -1
+Item5
+  rotate: true
+  xy: 2308, 2906
+  size: 317, 435
+  orig: 319, 438
+  offset: 1, 1
+  index: -1
+Lamp2
+  rotate: true
+  xy: 3543, 3452
+  size: 189, 268
+  orig: 191, 270
+  offset: 1, 1
+  index: -1
+Line2
+  rotate: false
+  xy: 1380, 2002
+  size: 663, 502
+  orig: 663, 502
+  offset: 0, 0
+  index: -1
+Line4
+  rotate: true
+  xy: 2780, 1525
+  size: 712, 930
+  orig: 712, 930
+  offset: 0, 0
+  index: -1
+Lollipop
+  rotate: true
+  xy: 3001, 3489
+  size: 152, 281
+  orig: 152, 281
+  offset: 0, 0
+  index: -1
+Mask
+  rotate: true
+  xy: 1923, 3266
+  size: 244, 403
+  orig: 247, 405
+  offset: 1, 1
+  index: -1
+
+Yuuha_Spine_Skin2_2.png
+size: 4075,3956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A Body Lower
+  rotate: true
+  xy: 2, 401
+  size: 957, 1887
+  orig: 957, 1887
+  offset: 0, 0
+  index: -1
+A Pants Ribbon
+  rotate: false
+  xy: 2, 3081
+  size: 2271, 873
+  orig: 2271, 873
+  offset: 0, 0
+  index: -1
+B Body Lower
+  rotate: false
+  xy: 2300, 1020
+  size: 957, 1887
+  orig: 957, 1887
+  offset: 0, 0
+  index: -1
+B Pants Ribbon
+  rotate: false
+  xy: 2, 2206
+  size: 2271, 873
+  orig: 2271, 873
+  offset: 0, 0
+  index: -1
+C Body Lower
+  rotate: true
+  xy: 1891, 2
+  size: 957, 1887
+  orig: 957, 1887
+  offset: 0, 0
+  index: -1
+C Gun R
+  rotate: false
+  xy: 2275, 2909
+  size: 1007, 1045
+  orig: 1007, 1045
+  offset: 0, 0
+  index: -1
+Line1
+  rotate: true
+  xy: 3259, 961
+  size: 1946, 814
+  orig: 1946, 814
+  offset: 0, 0
+  index: -1
+Line3
+  rotate: false
+  xy: 2, 1360
+  size: 2296, 844
+  orig: 2296, 844
+  offset: 0, 0
+  index: -1

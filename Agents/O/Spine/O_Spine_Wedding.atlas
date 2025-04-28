@@ -1,3 +1,537 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d43ab0c0805f3cbd056be5bbe33c8ed4cec6019bc2a2fc7560f7f9bc0947b382
-size 7958
+
+O_Spine_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: true
+  xy: 581, 3629
+  size: 145, 464
+  orig: 145, 464
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: false
+  xy: 562, 2008
+  size: 1145, 489
+  orig: 1145, 489
+  offset: 0, 0
+  index: -1
+Arm shirt L
+  rotate: true
+  xy: 1987, 3316
+  size: 285, 309
+  orig: 285, 309
+  offset: 0, 0
+  index: -1
+Arm shirt R
+  rotate: true
+  xy: 3049, 2757
+  size: 442, 446
+  orig: 442, 446
+  offset: 0, 0
+  index: -1
+Bell
+  rotate: false
+  xy: 394, 3804
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 3191, 3201
+  size: 664, 306
+  orig: 664, 306
+  offset: 0, 0
+  index: -1
+Face Red 1
+  rotate: false
+  xy: 1511, 3326
+  size: 474, 277
+  orig: 474, 277
+  offset: 0, 0
+  index: -1
+Face Red 2
+  rotate: false
+  xy: 2298, 3308
+  size: 500, 279
+  orig: 500, 279
+  offset: 0, 0
+  index: -1
+Gas
+  rotate: false
+  xy: 3822, 3734
+  size: 235, 123
+  orig: 235, 123
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: false
+  xy: 2446, 2334
+  size: 562, 493
+  orig: 562, 493
+  offset: 0, 0
+  index: -1
+Hair Bang 2
+  rotate: true
+  xy: 2783, 3753
+  size: 104, 315
+  orig: 104, 315
+  offset: 0, 0
+  index: -1
+Hair Bang 3
+  rotate: true
+  xy: 3653, 3509
+  size: 223, 336
+  orig: 223, 336
+  offset: 0, 0
+  index: -1
+Hair Bang 4
+  rotate: true
+  xy: 3010, 2277
+  size: 461, 943
+  orig: 461, 943
+  offset: 0, 0
+  index: -1
+Hair Bangs
+  rotate: true
+  xy: 2800, 3227
+  size: 319, 389
+  orig: 319, 389
+  offset: 0, 0
+  index: -1
+Hair Bangs 5
+  rotate: true
+  xy: 1641, 2945
+  size: 369, 470
+  orig: 369, 470
+  offset: 0, 0
+  index: -1
+Hair Bun L Doc
+  rotate: true
+  xy: 237, 3644
+  size: 144, 342
+  orig: 144, 342
+  offset: 0, 0
+  index: -1
+Hair Bun R Doc
+  rotate: false
+  xy: 1788, 3605
+  size: 258, 156
+  orig: 258, 156
+  offset: 0, 0
+  index: -1
+Hair Doc
+  rotate: false
+  xy: 2818, 3573
+  size: 309, 176
+  orig: 309, 176
+  offset: 0, 0
+  index: -1
+Hair Tail R
+  rotate: true
+  xy: 2974, 755
+  size: 747, 1042
+  orig: 747, 1042
+  offset: 0, 0
+  index: -1
+Hair bun
+  rotate: false
+  xy: 2681, 1716
+  size: 760, 559
+  orig: 760, 559
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: true
+  xy: 626, 2553
+  size: 473, 511
+  orig: 473, 511
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 3497, 2740
+  size: 459, 536
+  orig: 459, 536
+  offset: 0, 0
+  index: -1
+Mouth 1
+  rotate: true
+  xy: 1730, 3765
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+Skirt Fornt 3 L
+  rotate: true
+  xy: 2585, 2829
+  size: 396, 462
+  orig: 396, 462
+  offset: 0, 0
+  index: -1
+Skirt Fornt 3 L - 2
+  rotate: true
+  xy: 2, 3414
+  size: 228, 275
+  orig: 228, 275
+  offset: 0, 0
+  index: -1
+Skirt Fornt 3 R
+  rotate: false
+  xy: 2, 2613
+  size: 622, 449
+  orig: 622, 449
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 1139, 2499
+  size: 1305, 417
+  orig: 1305, 417
+  offset: 0, 0
+  index: -1
+Thigh L
+  rotate: true
+  xy: 1220, 2969
+  size: 355, 419
+  orig: 355, 419
+  offset: 0, 0
+  index: -1
+Thigh R
+  rotate: true
+  xy: 2, 3064
+  size: 313, 637
+  orig: 313, 637
+  offset: 0, 0
+  index: -1
+eye balls 1
+  rotate: false
+  xy: 3100, 3751
+  size: 357, 106
+  orig: 357, 106
+  offset: 0, 0
+  index: -1
+eye balls 2
+  rotate: false
+  xy: 840, 3777
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+eye balls 3
+  rotate: false
+  xy: 1828, 3763
+  size: 296, 94
+  orig: 296, 94
+  offset: 0, 0
+  index: -1
+eye brows 1
+  rotate: false
+  xy: 2048, 3603
+  size: 384, 153
+  orig: 384, 153
+  offset: 0, 0
+  index: -1
+eye brows 2
+  rotate: false
+  xy: 1401, 3614
+  size: 385, 149
+  orig: 385, 149
+  offset: 0, 0
+  index: -1
+eye brows 3
+  rotate: false
+  xy: 2434, 3589
+  size: 382, 162
+  orig: 382, 162
+  offset: 0, 0
+  index: -1
+eye highLight 1
+  rotate: false
+  xy: 934, 3776
+  size: 316, 81
+  orig: 316, 81
+  offset: 0, 0
+  index: -1
+eye highLight 2
+  rotate: false
+  xy: 272, 3811
+  size: 120, 46
+  orig: 120, 46
+  offset: 0, 0
+  index: -1
+eye highLight 3
+  rotate: false
+  xy: 531, 3790
+  size: 307, 67
+  orig: 307, 67
+  offset: 0, 0
+  index: -1
+eye white 1
+  rotate: false
+  xy: 1047, 3623
+  size: 352, 145
+  orig: 352, 145
+  offset: 0, 0
+  index: -1
+eye white 2
+  rotate: false
+  xy: 1479, 3767
+  size: 155, 90
+  orig: 155, 90
+  offset: 0, 0
+  index: -1
+eye white 3
+  rotate: false
+  xy: 2126, 3758
+  size: 354, 99
+  orig: 354, 99
+  offset: 0, 0
+  index: -1
+fingerr L
+  rotate: true
+  xy: 3576, 3741
+  size: 116, 244
+  orig: 116, 244
+  offset: 0, 0
+  index: -1
+leg L 1
+  rotate: true
+  xy: 2, 209
+  size: 751, 1271
+  orig: 751, 1271
+  offset: 0, 0
+  index: -1
+leg L 2
+  rotate: true
+  xy: 2651, 2
+  size: 751, 1271
+  orig: 751, 1271
+  offset: 0, 0
+  index: -1
+leg R 1
+  rotate: true
+  xy: 1488, 1192
+  size: 522, 1484
+  orig: 522, 1484
+  offset: 0, 0
+  index: -1
+leg R 2
+  rotate: true
+  xy: 2, 962
+  size: 522, 1484
+  orig: 522, 1484
+  offset: 0, 0
+  index: -1
+leg R 3
+  rotate: true
+  xy: 2, 1486
+  size: 520, 1484
+  orig: 520, 1484
+  offset: 0, 0
+  index: -1
+mouth 2
+  rotate: true
+  xy: 1636, 3766
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+mouth 3
+  rotate: true
+  xy: 451, 3793
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+shirt 1 back
+  rotate: false
+  xy: 1709, 1831
+  size: 970, 501
+  orig: 970, 501
+  offset: 0, 0
+  index: -1
+shirt 1 skirt L
+  rotate: true
+  xy: 3459, 3751
+  size: 106, 115
+  orig: 106, 115
+  offset: 0, 0
+  index: -1
+shirt 1 skirt R
+  rotate: true
+  xy: 665, 3374
+  size: 253, 313
+  orig: 253, 313
+  offset: 0, 0
+  index: -1
+shirt 2 skirt L
+  rotate: true
+  xy: 2665, 3756
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+shirt 2 skirt R
+  rotate: true
+  xy: 3359, 3519
+  size: 220, 292
+  orig: 220, 292
+  offset: 0, 0
+  index: -1
+shirt 3 R
+  rotate: true
+  xy: 980, 3353
+  size: 259, 529
+  orig: 259, 529
+  offset: 0, 0
+  index: -1
+shirt 3 back
+  rotate: true
+  xy: 1252, 3770
+  size: 87, 225
+  orig: 87, 225
+  offset: 0, 0
+  index: -1
+shirt 3 skirt R
+  rotate: true
+  xy: 2, 3679
+  size: 131, 233
+  orig: 131, 233
+  offset: 0, 0
+  index: -1
+shirt L Arm
+  rotate: true
+  xy: 641, 3028
+  size: 323, 577
+  orig: 323, 577
+  offset: 0, 0
+  index: -1
+shirt L Arm 2
+  rotate: true
+  xy: 2, 2085
+  size: 526, 558
+  orig: 526, 558
+  offset: 0, 0
+  index: -1
+shirt L Arm 2 - 2
+  rotate: true
+  xy: 2482, 3758
+  size: 99, 181
+  orig: 99, 181
+  offset: 0, 0
+  index: -1
+shirt L Arm 3
+  rotate: true
+  xy: 3129, 3548
+  size: 201, 228
+  orig: 201, 228
+  offset: 0, 0
+  index: -1
+shirt L Arm 3 - 2
+  rotate: true
+  xy: 279, 3379
+  size: 248, 384
+  orig: 248, 384
+  offset: 0, 0
+  index: -1
+shirt R Arm 3
+  rotate: false
+  xy: 2113, 2918
+  size: 470, 388
+  orig: 470, 388
+  offset: 0, 0
+  index: -1
+skirt back 2
+  rotate: false
+  xy: 1488, 515
+  size: 1161, 675
+  orig: 1161, 675
+  offset: 0, 0
+  index: -1
+sweat 1
+  rotate: false
+  xy: 2, 3812
+  size: 268, 45
+  orig: 268, 45
+  offset: 0, 0
+  index: -1
+sweat 2
+  rotate: false
+  xy: 3443, 1504
+  size: 594, 771
+  orig: 594, 771
+  offset: 0, 0
+  index: -1
+
+O_Spine_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body 1
+  rotate: true
+  xy: 2, 1726
+  size: 787, 958
+  orig: 787, 958
+  offset: 0, 0
+  index: -1
+Body 3
+  rotate: true
+  xy: 962, 1716
+  size: 797, 958
+  orig: 797, 958
+  offset: 0, 0
+  index: -1
+Hair Tail L
+  rotate: true
+  xy: 2, 2533
+  size: 765, 918
+  orig: 765, 918
+  offset: 0, 0
+  index: -1
+Skirt Fornt
+  rotate: false
+  xy: 1849, 2
+  size: 1991, 1639
+  orig: 1991, 1639
+  offset: 0, 0
+  index: -1
+Skirt Fornt 2
+  rotate: false
+  xy: 2, 667
+  size: 1845, 1047
+  orig: 1845, 1047
+  offset: 0, 0
+  index: -1
+leg L 3
+  rotate: true
+  xy: 922, 2515
+  size: 783, 1271
+  orig: 783, 1271
+  offset: 0, 0
+  index: -1
+shirt 1
+  rotate: false
+  xy: 1922, 1686
+  size: 900, 825
+  orig: 900, 825
+  offset: 0, 0
+  index: -1
+shirt 2
+  rotate: false
+  xy: 2824, 1643
+  size: 906, 868
+  orig: 906, 868
+  offset: 0, 0
+  index: -1
+skirt back 1
+  rotate: false
+  xy: 2195, 2513
+  size: 1200, 785
+  orig: 1200, 785
+  offset: 0, 0
+  index: -1

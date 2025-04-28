@@ -1,3 +1,159 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:002dfa5a6bb10b2f3d953378ec857c1dc8396db15a27a0b0ef12f735aef9396a
-size 2402
+
+Mai_Spine_Skin1_Addition.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat_as_lv1
+  rotate: true
+  xy: 1127, 1596
+  size: 1253, 1186
+  orig: 1253, 1186
+  offset: 0, 0
+  index: -1
+cat_as_lv23
+  rotate: true
+  xy: 2547, 320
+  size: 1247, 1172
+  orig: 1247, 1172
+  offset: 0, 0
+  index: -1
+cat_ear_Right
+  rotate: false
+  xy: 2184, 141
+  size: 256, 325
+  orig: 256, 325
+  offset: 0, 0
+  index: -1
+cat_ear_left
+  rotate: true
+  xy: 2315, 2544
+  size: 305, 220
+  orig: 305, 220
+  offset: 0, 0
+  index: -1
+cat_eye_light2_lv1
+  rotate: true
+  xy: 1127, 174
+  size: 1420, 704
+  orig: 1420, 704
+  offset: 0, 0
+  index: -1
+cat_hand_L
+  rotate: false
+  xy: 1833, 468
+  size: 712, 1126
+  orig: 712, 1126
+  offset: 0, 0
+  index: -1
+cat_ok_lv23
+  rotate: false
+  xy: 1833, 176
+  size: 349, 290
+  orig: 349, 290
+  offset: 0, 0
+  index: -1
+cat_tail
+  rotate: true
+  xy: 2, 2
+  size: 400, 968
+  orig: 400, 971
+  offset: 0, 3
+  index: -1
+effect1
+  rotate: false
+  xy: 2, 2851
+  size: 2548, 1207
+  orig: 2548, 1207
+  offset: 0, 0
+  index: -1
+effect2
+  rotate: true
+  xy: 2552, 1569
+  size: 2489, 1244
+  orig: 2489, 1256
+  offset: 0, 0
+  index: -1
+effect4
+  rotate: false
+  xy: 2315, 2080
+  size: 205, 462
+  orig: 210, 467
+  offset: 5, 5
+  index: -1
+effect5
+  rotate: true
+  xy: 2, 404
+  size: 2445, 1123
+  orig: 2445, 1123
+  offset: 0, 0
+  index: -1
+
+Mai_Spine_Skin1_Addition_2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat_body_lv1
+  rotate: false
+  xy: 1065, 57
+  size: 697, 972
+  orig: 697, 972
+  offset: 0, 0
+  index: -1
+cat_body_lv2
+  rotate: false
+  xy: 1517, 1061
+  size: 697, 972
+  orig: 697, 972
+  offset: 0, 0
+  index: -1
+cat_body_lv3
+  rotate: false
+  xy: 1764, 87
+  size: 697, 972
+  orig: 697, 972
+  offset: 0, 0
+  index: -1
+cat_eye_light_lv1
+  rotate: true
+  xy: 2463, 194
+  size: 894, 449
+  orig: 894, 449
+  offset: 0, 0
+  index: -1
+cat_hand_R
+  rotate: true
+  xy: 2, 903
+  size: 1130, 995
+  orig: 1130, 995
+  offset: 0, 0
+  index: -1
+cat_head
+  rotate: false
+  xy: 2, 2
+  size: 1061, 899
+  orig: 1061, 899
+  offset: 0, 0
+  index: -1
+cat_leg_L
+  rotate: false
+  xy: 999, 1031
+  size: 516, 1002
+  orig: 522, 1002
+  offset: 6, 0
+  index: -1
+cat_leg_R
+  rotate: false
+  xy: 2216, 1090
+  size: 468, 943
+  orig: 472, 943
+  offset: 0, 0
+  index: -1
+cat_tear_lv23
+  rotate: true
+  xy: 2686, 1278
+  size: 755, 491
+  orig: 755, 491
+  offset: 0, 0
+  index: -1

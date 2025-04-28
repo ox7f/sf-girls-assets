@@ -1,3 +1,341 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f2ea911aa4fb1ab2238f46146374736931af6c3536c2a1227db109f9adba52a
-size 5039
+
+Toki_Playroom_Skin2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest_L
+  rotate: false
+  xy: 3647, 2936
+  size: 407, 324
+  orig: 407, 325
+  offset: 0, 1
+  index: -1
+Chest_R
+  rotate: false
+  xy: 1, 2754
+  size: 401, 340
+  orig: 402, 352
+  offset: 0, 0
+  index: -1
+Clothes_01
+  rotate: true
+  xy: 3147, 2940
+  size: 320, 498
+  orig: 320, 521
+  offset: 0, 0
+  index: -1
+Clothes_02
+  rotate: false
+  xy: 714, 3072
+  size: 329, 204
+  orig: 329, 204
+  offset: 0, 0
+  index: -1
+Eye_light_DF1
+  rotate: true
+  xy: 268, 3299
+  size: 70, 235
+  orig: 70, 235
+  offset: 0, 0
+  index: -1
+Eye_light_DF2
+  rotate: true
+  xy: 505, 3299
+  size: 70, 247
+  orig: 70, 247
+  offset: 0, 0
+  index: -1
+Eyebrow_DF1
+  rotate: true
+  xy: 2446, 3264
+  size: 105, 356
+  orig: 106, 358
+  offset: 1, 1
+  index: -1
+Eyebrow_DF2
+  rotate: true
+  xy: 2804, 3263
+  size: 106, 357
+  orig: 106, 358
+  offset: 0, 1
+  index: -1
+F_eyelid_DF1
+  rotate: true
+  xy: 3163, 3262
+  size: 107, 351
+  orig: 107, 359
+  offset: 0, 0
+  index: -1
+F_eyelid_DF2
+  rotate: true
+  xy: 3516, 3262
+  size: 107, 352
+  orig: 107, 359
+  offset: 0, 0
+  index: -1
+Feminine_DF1
+  rotate: false
+  xy: 2407, 2981
+  size: 363, 281
+  orig: 371, 282
+  offset: 4, 0
+  index: -1
+Feminine_DF2_L
+  rotate: false
+  xy: 2772, 2961
+  size: 373, 300
+  orig: 383, 305
+  offset: 5, 0
+  index: -1
+Feminine_DF2_R
+  rotate: false
+  xy: 1, 3100
+  size: 315, 197
+  orig: 328, 204
+  offset: 6, 2
+  index: -1
+Hand_L
+  rotate: false
+  xy: 986, 2647
+  size: 1036, 344
+  orig: 1064, 379
+  offset: 0, 35
+  index: -1
+Hand_R
+  rotate: false
+  xy: 1003, 1379
+  size: 934, 731
+  orig: 934, 731
+  offset: 0, 0
+  index: -1
+Mouth_DF1
+  rotate: true
+  xy: 14, 3329
+  size: 40, 91
+  orig: 40, 91
+  offset: 0, 0
+  index: -1
+Mouth_DF2
+  rotate: false
+  xy: 191, 3320
+  size: 75, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+beads
+  rotate: false
+  xy: 1664, 2993
+  size: 741, 273
+  orig: 741, 273
+  offset: 0, 0
+  index: -1
+blush_DF1
+  rotate: true
+  xy: 318, 3096
+  size: 201, 394
+  orig: 201, 394
+  offset: 0, 0
+  index: -1
+blush_DF2
+  rotate: true
+  xy: 318, 3096
+  size: 201, 394
+  orig: 201, 394
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1, 575
+  size: 1624, 802
+  orig: 1624, 802
+  offset: 0, 0
+  index: -1
+calf_L_DF1
+  rotate: false
+  xy: 3236, 1149
+  size: 764, 864
+  orig: 764, 868
+  offset: 0, 4
+  index: -1
+calf_L_DF2
+  rotate: true
+  xy: 1532, 2112
+  size: 468, 554
+  orig: 469, 554
+  offset: 0, 0
+  index: -1
+calf_R_DF1
+  rotate: false
+  xy: 2024, 2582
+  size: 854, 377
+  orig: 855, 391
+  offset: 0, 14
+  index: -1
+calf_R_DF2
+  rotate: true
+  xy: 2650, 2032
+  size: 521, 688
+  orig: 521, 688
+  offset: 0, 0
+  index: -1
+calf_shadow_DF1
+  rotate: true
+  xy: 1939, 1300
+  size: 730, 1295
+  orig: 754, 1301
+  offset: 6, 1
+  index: -1
+eyeball_DF1
+  rotate: true
+  xy: 1537, 3273
+  size: 96, 238
+  orig: 97, 243
+  offset: 1, 4
+  index: -1
+eyeball_DF2
+  rotate: true
+  xy: 1019, 3278
+  size: 91, 247
+  orig: 101, 250
+  offset: 1, 3
+  index: -1
+eyewhite_DF1
+  rotate: true
+  xy: 2105, 3268
+  size: 101, 339
+  orig: 227, 347
+  offset: 0, 0
+  index: -1
+eyewhite_DF2
+  rotate: true
+  xy: 1777, 3269
+  size: 100, 326
+  orig: 100, 341
+  offset: 0, 11
+  index: -1
+fog_DF2
+  rotate: true
+  xy: 1045, 3068
+  size: 208, 333
+  orig: 208, 333
+  offset: 0, 0
+  index: -1
+foot_L_DF1
+  rotate: false
+  xy: 404, 2712
+  size: 580, 358
+  orig: 580, 358
+  offset: 0, 0
+  index: -1
+foot_R_DF1
+  rotate: false
+  xy: 2880, 2555
+  size: 774, 379
+  orig: 774, 379
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 1, 2257
+  size: 453, 624
+  orig: 470, 647
+  offset: 0, 9
+  index: -1
+hair_back
+  rotate: true
+  xy: 1, 1506
+  size: 672, 1000
+  orig: 685, 1000
+  offset: 13, 0
+  index: -1
+lower_eyelid_DF1
+  rotate: true
+  xy: 754, 3285
+  size: 84, 263
+  orig: 118, 329
+  offset: 31, 37
+  index: -1
+lower_eyelid_DF2
+  rotate: true
+  xy: 1268, 3278
+  size: 91, 267
+  orig: 94, 272
+  offset: 0, 2
+  index: -1
+nose_DF1
+  rotate: false
+  xy: 1, 3365
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+nose_DF2
+  rotate: false
+  xy: 1, 3365
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+penis_DF1
+  rotate: false
+  xy: 627, 2180
+  size: 903, 465
+  orig: 904, 465
+  offset: 1, 0
+  index: -1
+penis_DF2
+  rotate: false
+  xy: 3340, 2015
+  size: 567, 538
+  orig: 579, 538
+  offset: 12, 0
+  index: -1
+saliva_DF2
+  rotate: false
+  xy: 107, 3328
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+semen1_DF2
+  rotate: false
+  xy: 1380, 3036
+  size: 282, 235
+  orig: 283, 235
+  offset: 0, 0
+  index: -1
+semen2_DF2
+  rotate: false
+  xy: 2088, 2111
+  size: 560, 469
+  orig: 560, 469
+  offset: 0, 0
+  index: -1
+sweat
+  rotate: false
+  xy: 1627, 1
+  size: 1643, 1146
+  orig: 1643, 1146
+  offset: 0, 0
+  index: -1
+
+Toki_Playroom_Skin2_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 1, 1
+  size: 2977, 1489
+  orig: 2977, 1489
+  offset: 0, 0
+  index: -1
+thigh
+  rotate: true
+  xy: 1, 1492
+  size: 1456, 1552
+  orig: 1456, 1552
+  offset: 0, 0
+  index: -1

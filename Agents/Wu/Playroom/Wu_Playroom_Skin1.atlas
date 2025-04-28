@@ -1,3 +1,382 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fbbe66f88960a49875ffcbf96b19cdedb9afd6e21e3220b61f69ae6ad52c11fb
-size 5601
+
+Wu_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sperm_2
+  rotate: false
+  xy: 429, 3753
+  size: 285, 185
+  orig: 285, 185
+  offset: 0, 0
+  index: -1
+Sperm_3
+  rotate: true
+  xy: 3404, 3816
+  size: 171, 273
+  orig: 171, 277
+  offset: 0, 2
+  index: -1
+arm_L
+  rotate: true
+  xy: 2918, 3164
+  size: 385, 513
+  orig: 385, 513
+  offset: 0, 0
+  index: -1
+bigball
+  rotate: true
+  xy: 354, 3432
+  size: 293, 588
+  orig: 293, 588
+  offset: 0, 0
+  index: -1
+blue_stick
+  rotate: true
+  xy: 2219, 3839
+  size: 148, 509
+  orig: 148, 509
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 1488, 1304
+  orig: 1488, 1304
+  offset: 0, 0
+  index: -1
+booba_L
+  rotate: true
+  xy: 1434, 3274
+  size: 331, 602
+  orig: 331, 602
+  offset: 0, 0
+  index: -1
+booba_R
+  rotate: true
+  xy: 2038, 3268
+  size: 337, 485
+  orig: 337, 485
+  offset: 0, 0
+  index: -1
+bradai_L
+  rotate: true
+  xy: 84, 3941
+  size: 46, 358
+  orig: 47, 358
+  offset: 1, 0
+  index: -1
+bradai_LSha
+  rotate: true
+  xy: 444, 3940
+  size: 47, 330
+  orig: 49, 337
+  offset: 1, 7
+  index: -1
+bradai_R
+  rotate: true
+  xy: 1089, 3896
+  size: 91, 331
+  orig: 92, 331
+  offset: 1, 0
+  index: -1
+bradai_RSha
+  rotate: true
+  xy: 1422, 3890
+  size: 97, 332
+  orig: 97, 332
+  offset: 0, 0
+  index: -1
+cg1_man_hand_L
+  rotate: false
+  xy: 3679, 3810
+  size: 227, 177
+  orig: 227, 177
+  offset: 0, 0
+  index: -1
+cg2_man_hand_L
+  rotate: false
+  xy: 3679, 3810
+  size: 227, 177
+  orig: 227, 177
+  offset: 0, 0
+  index: -1
+cg1_man_hand_R
+  rotate: true
+  xy: 1670, 2726
+  size: 495, 901
+  orig: 495, 901
+  offset: 0, 0
+  index: -1
+cg1_pp
+  rotate: false
+  xy: 2658, 3590
+  size: 456, 243
+  orig: 456, 243
+  offset: 0, 0
+  index: -1
+cg2_leg_shadow
+  rotate: true
+  xy: 2612, 957
+  size: 950, 1237
+  orig: 966, 1255
+  offset: 12, 1
+  index: -1
+cg2_pp
+  rotate: false
+  xy: 944, 3330
+  size: 488, 315
+  orig: 488, 315
+  offset: 0, 0
+  index: -1
+cg2_sperm
+  rotate: true
+  xy: 3433, 3113
+  size: 403, 432
+  orig: 403, 432
+  offset: 0, 0
+  index: -1
+clothes2
+  rotate: true
+  xy: 2573, 2566
+  size: 545, 1295
+  orig: 545, 1304
+  offset: 0, 9
+  index: -1
+face
+  rotate: true
+  xy: 2525, 3223
+  size: 365, 391
+  orig: 365, 391
+  offset: 0, 0
+  index: -1
+facial1
+  rotate: true
+  xy: 3805, 3518
+  size: 290, 286
+  orig: 290, 286
+  offset: 0, 0
+  index: -1
+facial2
+  rotate: true
+  xy: 3488, 3524
+  size: 284, 315
+  orig: 290, 315
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 776, 3911
+  size: 76, 311
+  orig: 76, 311
+  offset: 0, 0
+  index: -1
+hair_L_B
+  rotate: true
+  xy: 1603, 3619
+  size: 253, 256
+  orig: 253, 256
+  offset: 0, 0
+  index: -1
+hair_L_Bottom2
+  rotate: true
+  xy: 1818, 1939
+  size: 625, 869
+  orig: 625, 869
+  offset: 0, 0
+  index: -1
+hair_L_F
+  rotate: true
+  xy: 1756, 3874
+  size: 113, 293
+  orig: 113, 293
+  offset: 0, 0
+  index: -1
+hair_L_M
+  rotate: true
+  xy: 2730, 3836
+  size: 151, 317
+  orig: 151, 317
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 3215, 3825
+  size: 187, 162
+  orig: 187, 162
+  offset: 0, 0
+  index: -1
+hair_R_B
+  rotate: false
+  xy: 2051, 3862
+  size: 166, 125
+  orig: 166, 125
+  offset: 0, 0
+  index: -1
+hair_R_Bottom
+  rotate: false
+  xy: 2, 1662
+  size: 1055, 659
+  orig: 1055, 659
+  offset: 0, 0
+  index: -1
+hair_R_F
+  rotate: false
+  xy: 741, 2918
+  size: 413, 410
+  orig: 413, 410
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 2, 3470
+  size: 286, 350
+  orig: 286, 350
+  offset: 0, 0
+  index: -1
+hair_top
+  rotate: true
+  xy: 1156, 2807
+  size: 465, 512
+  orig: 465, 512
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 2, 3032
+  size: 398, 737
+  orig: 398, 741
+  offset: 0, 4
+  index: -1
+hand_R
+  rotate: false
+  xy: 2689, 1909
+  size: 1285, 655
+  orig: 1285, 655
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 2323
+  size: 593, 1061
+  orig: 593, 1061
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 3049, 3835
+  size: 152, 164
+  orig: 152, 164
+  offset: 0, 0
+  index: -1
+shooting
+  rotate: false
+  xy: 1065, 2109
+  size: 751, 615
+  orig: 751, 615
+  offset: 0, 0
+  index: -1
+sidai
+  rotate: false
+  xy: 1059, 1308
+  size: 730, 799
+  orig: 730, 799
+  offset: 0, 0
+  index: -1
+sperm_arm
+  rotate: false
+  xy: 3116, 3551
+  size: 370, 263
+  orig: 370, 263
+  offset: 0, 0
+  index: -1
+sperm_clothes
+  rotate: true
+  xy: 1861, 3607
+  size: 230, 795
+  orig: 230, 795
+  offset: 0, 0
+  index: -1
+sperrm_boobaL
+  rotate: true
+  xy: 1080, 3686
+  size: 208, 277
+  orig: 208, 277
+  offset: 0, 0
+  index: -1
+sperrm_boobaR
+  rotate: true
+  xy: 716, 3727
+  size: 182, 362
+  orig: 182, 362
+  offset: 0, 0
+  index: -1
+sweat_arm_L
+  rotate: true
+  xy: 2, 3960
+  size: 27, 80
+  orig: 27, 80
+  offset: 0, 0
+  index: -1
+sweat_body
+  rotate: false
+  xy: 1791, 1140
+  size: 819, 797
+  orig: 866, 797
+  offset: 0, 0
+  index: -1
+under_booba_L
+  rotate: true
+  xy: 2, 3758
+  size: 181, 425
+  orig: 181, 425
+  offset: 0, 0
+  index: -1
+under_booba_R
+  rotate: true
+  xy: 1359, 3647
+  size: 241, 242
+  orig: 241, 242
+  offset: 0, 0
+  index: -1
+
+Wu_Playroom_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lion_back
+  rotate: false
+  xy: 2, 1583
+  size: 2870, 2146
+  orig: 2870, 2169
+  offset: 0, 0
+  index: -1
+lion_top
+  rotate: false
+  xy: 2, 2
+  size: 3311, 1579
+  orig: 3311, 1579
+  offset: 0, 0
+  index: -1
+
+Wu_Playroom_Skin1_3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cg1_man
+  rotate: false
+  xy: 2082, 2
+  size: 1638, 1969
+  orig: 1638, 1969
+  offset: 0, 0
+  index: -1
+cg2_man
+  rotate: true
+  xy: 2, 121
+  size: 1850, 2078
+  orig: 1850, 2078
+  offset: 0, 0
+  index: -1

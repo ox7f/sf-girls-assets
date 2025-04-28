@@ -1,3 +1,307 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:113b0753db92949392b538d598699e18a5dc011e0b881eb52629a593857530c1
-size 4539
+
+Noa_Playroom_Skin3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_mama
+  rotate: false
+  xy: 2, 607
+  size: 995, 803
+  orig: 995, 803
+  offset: 0, 0
+  index: -1
+arm_noa_L_1
+  rotate: true
+  xy: 2652, 774
+  size: 283, 524
+  orig: 283, 524
+  offset: 0, 0
+  index: -1
+arm_noa_R_1
+  rotate: false
+  xy: 2948, 348
+  size: 153, 265
+  orig: 153, 265
+  offset: 0, 0
+  index: -1
+bluePrint
+  rotate: true
+  xy: 1967, 1779
+  size: 1409, 1460
+  orig: 1409, 1460
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 1471, 348
+  size: 393, 462
+  orig: 393, 462
+  offset: 0, 0
+  index: -1
+coat_L
+  rotate: false
+  xy: 1935, 235
+  size: 372, 341
+  orig: 372, 341
+  offset: 0, 0
+  index: -1
+coat_R
+  rotate: true
+  xy: 999, 866
+  size: 386, 508
+  orig: 386, 508
+  offset: 0, 0
+  index: -1
+collar_L
+  rotate: false
+  xy: 3977, 922
+  size: 117, 160
+  orig: 117, 160
+  offset: 0, 0
+  index: -1
+collar_R
+  rotate: false
+  xy: 3178, 879
+  size: 223, 178
+  orig: 223, 178
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 2684, 1059
+  size: 718, 718
+  orig: 718, 718
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 1509, 743
+  size: 419, 271
+  orig: 419, 271
+  offset: 0, 0
+  index: -1
+eye1_light
+  rotate: true
+  xy: 1819, 1259
+  size: 248, 122
+  orig: 248, 122
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 2469, 1016
+  size: 377, 181
+  orig: 377, 181
+  offset: 0, 0
+  index: -1
+eyeBrow
+  rotate: true
+  xy: 2421, 444
+  size: 354, 172
+  orig: 354, 172
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1943, 578
+  size: 442, 476
+  orig: 442, 476
+  offset: 0, 0
+  index: -1
+hair_back1
+  rotate: false
+  xy: 999, 614
+  size: 470, 250
+  orig: 470, 250
+  offset: 0, 0
+  index: -1
+hair_back2
+  rotate: true
+  xy: 2, 1412
+  size: 523, 1007
+  orig: 523, 1007
+  offset: 0, 0
+  index: -1
+hair_back3
+  rotate: true
+  xy: 3404, 530
+  size: 552, 571
+  orig: 552, 571
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 3429, 1680
+  size: 594, 672
+  orig: 594, 672
+  offset: 0, 0
+  index: -1
+hair_front_back
+  rotate: true
+  xy: 3404, 1084
+  size: 594, 672
+  orig: 594, 672
+  offset: 0, 0
+  index: -1
+hair_front_shadow
+  rotate: false
+  xy: 999, 308
+  size: 391, 304
+  orig: 391, 304
+  offset: 0, 0
+  index: -1
+hair_ribbon
+  rotate: false
+  xy: 1943, 1022
+  size: 524, 371
+  orig: 524, 371
+  offset: 0, 0
+  index: -1
+hair_ribbon_shadow
+  rotate: false
+  xy: 1509, 1016
+  size: 432, 236
+  orig: 432, 236
+  offset: 0, 0
+  index: -1
+hand_mama
+  rotate: false
+  xy: 3429, 2772
+  size: 653, 416
+  orig: 653, 416
+  offset: 0, 0
+  index: -1
+hand_mama_finger
+  rotate: false
+  xy: 3429, 2354
+  size: 653, 416
+  orig: 653, 416
+  offset: 0, 0
+  index: -1
+hand_man_1
+  rotate: false
+  xy: 1011, 1254
+  size: 806, 681
+  orig: 806, 681
+  offset: 0, 0
+  index: -1
+hand_man_2
+  rotate: false
+  xy: 1958, 1395
+  size: 724, 382
+  orig: 724, 382
+  offset: 0, 0
+  index: -1
+hand_noa_L
+  rotate: false
+  xy: 2595, 169
+  size: 334, 274
+  orig: 334, 274
+  offset: 0, 0
+  index: -1
+hand_noa_L_2
+  rotate: false
+  xy: 1745, 189
+  size: 172, 157
+  orig: 172, 157
+  offset: 0, 0
+  index: -1
+hand_noa_L_2_front
+  rotate: false
+  xy: 2948, 615
+  size: 172, 157
+  orig: 172, 157
+  offset: 0, 0
+  index: -1
+hand_noa_L_finger
+  rotate: true
+  xy: 2309, 108
+  size: 334, 274
+  orig: 334, 274
+  offset: 0, 0
+  index: -1
+hand_noa_R_1
+  rotate: true
+  xy: 1919, 2
+  size: 231, 332
+  orig: 231, 332
+  offset: 0, 0
+  index: -1
+hand_noa_R_2
+  rotate: false
+  xy: 1819, 1669
+  size: 137, 158
+  orig: 137, 158
+  offset: 0, 0
+  index: -1
+hand_noa_R_2_front
+  rotate: false
+  xy: 1819, 1509
+  size: 137, 158
+  orig: 137, 158
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 1392, 19
+  size: 351, 327
+  orig: 351, 327
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 2595, 445
+  size: 351, 327
+  orig: 351, 327
+  offset: 0, 0
+  index: -1
+mama_body
+  rotate: false
+  xy: 2, 1937
+  size: 1963, 1251
+  orig: 1963, 1251
+  offset: 0, 0
+  index: -1
+month1
+  rotate: false
+  xy: 1819, 1829
+  size: 142, 106
+  orig: 142, 106
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 4025, 2219
+  size: 133, 61
+  orig: 133, 61
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 4025, 2139
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+ribbon1
+  rotate: true
+  xy: 2421, 800
+  size: 214, 216
+  orig: 214, 216
+  offset: 0, 0
+  index: -1
+ribbon2
+  rotate: false
+  xy: 1745, 40
+  size: 148, 147
+  orig: 148, 147
+  offset: 0, 0
+  index: -1
+ribbon_shadow
+  rotate: false
+  xy: 3178, 600
+  size: 221, 277
+  orig: 221, 277
+  offset: 0, 0
+  index: -1

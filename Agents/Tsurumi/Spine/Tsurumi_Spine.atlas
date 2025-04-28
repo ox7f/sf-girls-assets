@@ -1,3 +1,649 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5915fdbb2c42d94b7e603fde4db8ada9a051007e5282545e5965d46a87f6857d
-size 9637
+
+Tsurumi_Spine.png
+size: 4095,4095
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: true
+  xy: 990, 3843
+  size: 166, 435
+  orig: 166, 435
+  offset: 0, 0
+  index: -1
+Arm L cloth
+  rotate: false
+  xy: 2875, 1605
+  size: 799, 550
+  orig: 799, 550
+  offset: 0, 0
+  index: -1
+Arm L cloth 1-2
+  rotate: false
+  xy: 586, 3632
+  size: 237, 225
+  orig: 237, 225
+  offset: 0, 0
+  index: -1
+Arm L cloth 2
+  rotate: false
+  xy: 2075, 1687
+  size: 798, 543
+  orig: 798, 543
+  offset: 0, 0
+  index: -1
+Arm L cloth 2-2
+  rotate: false
+  xy: 825, 3616
+  size: 238, 225
+  orig: 238, 225
+  offset: 0, 0
+  index: -1
+Arm R 1
+  rotate: false
+  xy: 2755, 3754
+  size: 442, 197
+  orig: 442, 197
+  offset: 0, 0
+  index: -1
+Arm R 2
+  rotate: true
+  xy: 2, 3676
+  size: 209, 286
+  orig: 209, 286
+  offset: 0, 0
+  index: -1
+Arm R cloth 1-1
+  rotate: true
+  xy: 2, 2034
+  size: 511, 687
+  orig: 511, 687
+  offset: 0, 0
+  index: -1
+Arm R cloth 1-2
+  rotate: false
+  xy: 2, 3359
+  size: 346, 300
+  orig: 346, 300
+  offset: 0, 0
+  index: -1
+Arm R cloth 2-1
+  rotate: true
+  xy: 691, 1862
+  size: 511, 687
+  orig: 511, 687
+  offset: 0, 0
+  index: -1
+Arm R cloth Doc
+  rotate: false
+  xy: 637, 4035
+  size: 128, 58
+  orig: 128, 58
+  offset: 0, 0
+  index: -1
+Bird Body
+  rotate: true
+  xy: 2, 2547
+  size: 391, 731
+  orig: 391, 731
+  offset: 0, 0
+  index: -1
+Bird Body Tail
+  rotate: true
+  xy: 2672, 3153
+  size: 338, 410
+  orig: 338, 410
+  offset: 0, 0
+  index: -1
+Bird Reel
+  rotate: false
+  xy: 3073, 3953
+  size: 231, 140
+  orig: 231, 140
+  offset: 0, 0
+  index: -1
+Bird Tie
+  rotate: true
+  xy: 2923, 3963
+  size: 130, 148
+  orig: 130, 148
+  offset: 0, 0
+  index: -1
+Bird Wing L
+  rotate: true
+  xy: 3280, 958
+  size: 645, 806
+  orig: 645, 806
+  offset: 0, 0
+  index: -1
+Bird Wing R
+  rotate: true
+  xy: 2195, 2770
+  size: 381, 744
+  orig: 381, 744
+  offset: 0, 0
+  index: -1
+Black Smoke  1
+  rotate: true
+  xy: 2578, 2232
+  size: 483, 525
+  orig: 483, 525
+  offset: 0, 0
+  index: -1
+Black Smoke  3
+  rotate: false
+  xy: 3199, 3750
+  size: 344, 199
+  orig: 344, 199
+  offset: 0, 0
+  index: -1
+Black Smoke 2 body
+  rotate: true
+  xy: 501, 2940
+  size: 366, 399
+  orig: 366, 399
+  offset: 0, 0
+  index: -1
+Body 1
+  rotate: true
+  xy: 3105, 2157
+  size: 490, 610
+  orig: 490, 610
+  offset: 0, 0
+  index: -1
+Body 2
+  rotate: true
+  xy: 3471, 2649
+  size: 437, 622
+  orig: 437, 622
+  offset: 0, 0
+  index: -1
+Body 3
+  rotate: true
+  xy: 735, 2466
+  size: 437, 566
+  orig: 437, 566
+  offset: 0, 0
+  index: -1
+Body 3 bandon
+  rotate: true
+  xy: 1168, 4023
+  size: 70, 137
+  orig: 70, 137
+  offset: 0, 0
+  index: -1
+Cap L 1
+  rotate: false
+  xy: 1803, 2823
+  size: 390, 411
+  orig: 390, 411
+  offset: 0, 0
+  index: -1
+Cap L 3
+  rotate: true
+  xy: 902, 2905
+  size: 373, 403
+  orig: 373, 403
+  offset: 0, 0
+  index: -1
+Cap L Ribbon
+  rotate: false
+  xy: 2058, 3987
+  size: 190, 106
+  orig: 190, 106
+  offset: 0, 0
+  index: -1
+Cap R 1
+  rotate: true
+  xy: 2941, 2717
+  size: 386, 528
+  orig: 386, 528
+  offset: 0, 0
+  index: -1
+Cap R 3
+  rotate: true
+  xy: 3399, 3447
+  size: 298, 524
+  orig: 298, 524
+  offset: 0, 0
+  index: -1
+Cap R Ribbon
+  rotate: false
+  xy: 1757, 3995
+  size: 171, 98
+  orig: 171, 98
+  offset: 0, 0
+  index: -1
+Eye 1
+  rotate: false
+  xy: 3711, 3950
+  size: 213, 143
+  orig: 213, 143
+  offset: 0, 0
+  index: -1
+Eye 2
+  rotate: false
+  xy: 2257, 3787
+  size: 222, 186
+  orig: 222, 186
+  offset: 0, 0
+  index: -1
+Eye 3
+  rotate: false
+  xy: 450, 3882
+  size: 220, 151
+  orig: 220, 151
+  offset: 0, 0
+  index: -1
+Eyebrows Up 1
+  rotate: false
+  xy: 2, 3892
+  size: 222, 150
+  orig: 222, 150
+  offset: 0, 0
+  index: -1
+Eyebrows Up 2
+  rotate: false
+  xy: 226, 3887
+  size: 222, 150
+  orig: 222, 150
+  offset: 0, 0
+  index: -1
+Eyebrows Up 3
+  rotate: false
+  xy: 3306, 3951
+  size: 223, 142
+  orig: 223, 142
+  offset: 0, 0
+  index: -1
+Eyeskin 1
+  rotate: false
+  xy: 2250, 3985
+  size: 189, 108
+  orig: 189, 108
+  offset: 0, 0
+  index: -1
+Face Red 1
+  rotate: false
+  xy: 1065, 3610
+  size: 301, 231
+  orig: 301, 231
+  offset: 0, 0
+  index: -1
+Face Red 2
+  rotate: false
+  xy: 1610, 3580
+  size: 302, 232
+  orig: 302, 232
+  offset: 0, 0
+  index: -1
+Face Red 3
+  rotate: false
+  xy: 1914, 3568
+  size: 302, 232
+  orig: 302, 232
+  offset: 0, 0
+  index: -1
+Front Arm L
+  rotate: true
+  xy: 2481, 3776
+  size: 188, 272
+  orig: 188, 272
+  offset: 0, 0
+  index: -1
+Gas
+  rotate: false
+  xy: 2013, 3802
+  size: 242, 181
+  orig: 242, 181
+  offset: 0, 0
+  index: -1
+Hair Back Bow
+  rotate: false
+  xy: 959, 3280
+  size: 394, 328
+  orig: 394, 328
+  offset: 0, 0
+  index: -1
+Hair Back Bow 2
+  rotate: false
+  xy: 1810, 3236
+  size: 394, 330
+  orig: 394, 330
+  offset: 0, 0
+  index: -1
+Hair Back Knot
+  rotate: true
+  xy: 1657, 4001
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+Hair Band
+  rotate: true
+  xy: 767, 4033
+  size: 60, 88
+  orig: 60, 88
+  offset: 0, 0
+  index: -1
+Hair Bang 1
+  rotate: true
+  xy: 1427, 3820
+  size: 183, 227
+  orig: 183, 227
+  offset: 0, 0
+  index: -1
+Hair Bang 2
+  rotate: true
+  xy: 3531, 3951
+  size: 142, 178
+  orig: 142, 178
+  offset: 0, 0
+  index: -1
+Hair Bang 3
+  rotate: true
+  xy: 672, 3859
+  size: 164, 316
+  orig: 164, 316
+  offset: 0, 0
+  index: -1
+Hair Bang 4
+  rotate: false
+  xy: 290, 3661
+  size: 294, 219
+  orig: 294, 219
+  offset: 0, 0
+  index: -1
+Hair Bang 5
+  rotate: false
+  xy: 1368, 3587
+  size: 240, 231
+  orig: 240, 231
+  offset: 0, 0
+  index: -1
+Hair BowKnot
+  rotate: false
+  xy: 3545, 3747
+  size: 362, 201
+  orig: 362, 201
+  offset: 0, 0
+  index: -1
+Hair Tail
+  rotate: false
+  xy: 1656, 3814
+  size: 355, 178
+  orig: 355, 178
+  offset: 0, 0
+  index: -1
+Hair Tail L
+  rotate: true
+  xy: 2504, 3493
+  size: 259, 274
+  orig: 259, 274
+  offset: 0, 0
+  index: -1
+Hair Tail R
+  rotate: false
+  xy: 3099, 3465
+  size: 298, 283
+  orig: 298, 283
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: true
+  xy: 2743, 3966
+  size: 127, 178
+  orig: 127, 178
+  offset: 0, 0
+  index: -1
+Hand L 2
+  rotate: true
+  xy: 2587, 3972
+  size: 121, 154
+  orig: 121, 154
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2218, 3529
+  size: 245, 284
+  orig: 245, 284
+  offset: 0, 0
+  index: -1
+Ribbon Arm L 1-1
+  rotate: false
+  xy: 1307, 4011
+  size: 197, 82
+  orig: 197, 82
+  offset: 0, 0
+  index: -1
+Ribbon Arm L 1-2
+  rotate: false
+  xy: 286, 4041
+  size: 113, 52
+  orig: 113, 52
+  offset: 0, 0
+  index: -1
+Ribbon Arm R 1-1
+  rotate: true
+  xy: 857, 4027
+  size: 66, 126
+  orig: 66, 126
+  offset: 0, 0
+  index: -1
+Ribbon Arm R 1-2
+  rotate: true
+  xy: 1930, 3994
+  size: 99, 126
+  orig: 99, 126
+  offset: 0, 0
+  index: -1
+Ribbon Hand L
+  rotate: true
+  xy: 401, 4039
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+Shoe L
+  rotate: false
+  xy: 2441, 3975
+  size: 144, 118
+  orig: 144, 118
+  offset: 0, 0
+  index: -1
+Shoe R
+  rotate: false
+  xy: 1506, 4005
+  size: 149, 88
+  orig: 149, 88
+  offset: 0, 0
+  index: -1
+Shoelace L
+  rotate: false
+  xy: 2, 4059
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+Shoelace R
+  rotate: false
+  xy: 489, 4039
+  size: 146, 54
+  orig: 146, 54
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 1303, 2375
+  size: 446, 738
+  orig: 446, 738
+  offset: 0, 0
+  index: -1
+Weapon smoke 1
+  rotate: true
+  xy: 1380, 1802
+  size: 514, 693
+  orig: 514, 693
+  offset: 0, 0
+  index: -1
+Weapon smoke 2
+  rotate: false
+  xy: 2780, 3493
+  size: 317, 259
+  orig: 317, 259
+  offset: 0, 0
+  index: -1
+Weapon smoke 3
+  rotate: true
+  xy: 1302, 1124
+  size: 561, 796
+  orig: 561, 796
+  offset: 0, 0
+  index: -1
+Weapon smoke 4
+  rotate: true
+  xy: 2043, 2318
+  size: 450, 533
+  orig: 450, 533
+  offset: 0, 0
+  index: -1
+Wing L_1
+  rotate: true
+  xy: 1885, 217
+  size: 793, 1235
+  orig: 793, 1235
+  offset: 0, 0
+  index: -1
+Wing L_Ring
+  rotate: false
+  xy: 985, 4025
+  size: 181, 68
+  orig: 181, 68
+  offset: 0, 0
+  index: -1
+Wing R_1
+  rotate: true
+  xy: 2100, 1012
+  size: 591, 1178
+  orig: 591, 1178
+  offset: 0, 0
+  index: -1
+Wing R_Ring
+  rotate: true
+  xy: 94, 4044
+  size: 49, 190
+  orig: 49, 190
+  offset: 0, 0
+  index: -1
+claw R  1-1
+  rotate: true
+  xy: 350, 3308
+  size: 306, 607
+  orig: 306, 607
+  offset: 0, 0
+  index: -1
+claw R  1-3
+  rotate: false
+  xy: 1005, 251
+  size: 878, 871
+  orig: 878, 871
+  offset: 0, 0
+  index: -1
+claw_L 1-2
+  rotate: true
+  xy: 2, 1454
+  size: 578, 648
+  orig: 578, 648
+  offset: 0, 0
+  index: -1
+claw_L 2-2
+  rotate: true
+  xy: 652, 1282
+  size: 578, 648
+  orig: 578, 648
+  offset: 0, 0
+  index: -1
+claw_L 3-2
+  rotate: true
+  xy: 2, 618
+  size: 662, 1001
+  orig: 662, 1001
+  offset: 0, 0
+  index: -1
+thigh L 1
+  rotate: true
+  xy: 1307, 2895
+  size: 358, 494
+  orig: 358, 494
+  offset: 0, 0
+  index: -1
+thigh L 2
+  rotate: true
+  xy: 3539, 3088
+  size: 357, 497
+  orig: 357, 497
+  offset: 0, 0
+  index: -1
+thigh L 3
+  rotate: true
+  xy: 2, 2949
+  size: 357, 497
+  orig: 357, 497
+  offset: 0, 0
+  index: -1
+thigh R 1
+  rotate: true
+  xy: 3084, 3105
+  size: 340, 453
+  orig: 340, 453
+  offset: 0, 0
+  index: -1
+thigh R 2
+  rotate: true
+  xy: 1355, 3255
+  size: 323, 453
+  orig: 323, 453
+  offset: 0, 0
+  index: -1
+thigh R 3
+  rotate: true
+  xy: 2206, 3156
+  size: 335, 464
+  orig: 335, 464
+  offset: 0, 0
+  index: -1
+
+Tsurumi_Spine_2.png
+size: 2072,2072
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wing L_2
+  rotate: true
+  xy: 2, 264
+  size: 793, 1186
+  orig: 793, 1186
+  offset: 0, 0
+  index: -1
+claw R  1-2
+  rotate: false
+  xy: 1190, 143
+  size: 880, 1045
+  orig: 880, 1045
+  offset: 0, 0
+  index: -1
+claw R  2-2
+  rotate: true
+  xy: 978, 1190
+  size: 880, 1046
+  orig: 880, 1046
+  offset: 0, 0
+  index: -1
+claw_L 1-1
+  rotate: false
+  xy: 2, 1059
+  size: 974, 1011
+  orig: 974, 1011
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,509 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d03d3337ec36ad717253f4e07a591180f1e0bf43e862766b9cfd77dd9542916b
-size 7486
+
+Toki_Spine_Skin2.png
+size: 4096,3265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyebrow_A
+  rotate: false
+  xy: 241, 3231
+  size: 149, 33
+  orig: 149, 34
+  offset: 0, 1
+  index: -1
+Eyebrow_B
+  rotate: false
+  xy: 392, 3231
+  size: 149, 33
+  orig: 149, 34
+  offset: 0, 1
+  index: -1
+Eyebrow_C
+  rotate: false
+  xy: 675, 3224
+  size: 147, 40
+  orig: 147, 40
+  offset: 0, 0
+  index: -1
+Face_ABC
+  rotate: true
+  xy: 3282, 2906
+  size: 230, 293
+  orig: 230, 293
+  offset: 0, 0
+  index: -1
+Gift_AB
+  rotate: true
+  xy: 1057, 3050
+  size: 164, 210
+  orig: 164, 210
+  offset: 0, 0
+  index: -1
+Rose_AB
+  rotate: false
+  xy: 1661, 3189
+  size: 167, 75
+  orig: 168, 75
+  offset: 0, 0
+  index: -1
+Undertherags_BC
+  rotate: false
+  xy: 152, 3073
+  size: 452, 151
+  orig: 452, 151
+  offset: 0, 0
+  index: -1
+backswing01_A
+  rotate: false
+  xy: 2608, 785
+  size: 1239, 1149
+  orig: 1259, 1149
+  offset: 20, 0
+  index: -1
+backswing01_B
+  rotate: false
+  xy: 2608, 785
+  size: 1239, 1149
+  orig: 1259, 1149
+  offset: 20, 0
+  index: -1
+backswing02_A
+  rotate: true
+  xy: 1, 1371
+  size: 775, 818
+  orig: 775, 818
+  offset: 0, 0
+  index: -1
+backswing02_B
+  rotate: false
+  xy: 1780, 1996
+  size: 695, 649
+  orig: 695, 816
+  offset: 0, 167
+  index: -1
+body_C
+  rotate: true
+  xy: 1, 369
+  size: 782, 1785
+  orig: 833, 1785
+  offset: 0, 0
+  index: -1
+bow_ABC
+  rotate: true
+  xy: 3737, 3137
+  size: 127, 167
+  orig: 127, 167
+  offset: 0, 0
+  index: -1
+bowtie_AB
+  rotate: false
+  xy: 822, 3058
+  size: 233, 159
+  orig: 233, 159
+  offset: 0, 0
+  index: -1
+chest_R_AB
+  rotate: false
+  xy: 3823, 2894
+  size: 253, 236
+  orig: 254, 236
+  offset: 1, 0
+  index: -1
+cloth_L_A
+  rotate: false
+  xy: 2669, 2945
+  size: 298, 201
+  orig: 298, 201
+  offset: 0, 0
+  index: -1
+cloth_R_A
+  rotate: false
+  xy: 2444, 2956
+  size: 223, 193
+  orig: 223, 194
+  offset: 0, 0
+  index: -1
+condom_C
+  rotate: true
+  xy: 3455, 3138
+  size: 126, 280
+  orig: 126, 280
+  offset: 0, 0
+  index: -1
+condom_shadow_C
+  rotate: true
+  xy: 2722, 3148
+  size: 116, 288
+  orig: 117, 288
+  offset: 1, 0
+  index: -1
+earrings_ABC
+  rotate: true
+  xy: 146, 3236
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+eye_AB
+  rotate: false
+  xy: 1400, 3205
+  size: 170, 59
+  orig: 170, 60
+  offset: 0, 0
+  index: -1
+eye_C
+  rotate: false
+  xy: 1830, 3183
+  size: 170, 81
+  orig: 170, 85
+  offset: 0, 4
+  index: -1
+facehair_shadow_A
+  rotate: false
+  xy: 1269, 3035
+  size: 226, 168
+  orig: 226, 168
+  offset: 0, 0
+  index: -1
+flush_A
+  rotate: false
+  xy: 2349, 3153
+  size: 183, 111
+  orig: 207, 130
+  offset: 11, 8
+  index: -1
+flush_B
+  rotate: false
+  xy: 2534, 3151
+  size: 186, 113
+  orig: 207, 130
+  offset: 10, 7
+  index: -1
+flush_C
+  rotate: false
+  xy: 3906, 3132
+  size: 189, 132
+  orig: 207, 155
+  offset: 9, 9
+  index: -1
+frontlegs_A
+  rotate: true
+  xy: 2477, 1936
+  size: 654, 802
+  orig: 654, 802
+  offset: 0, 0
+  index: -1
+frontlegs_BC
+  rotate: true
+  xy: 3281, 1936
+  size: 654, 802
+  orig: 654, 802
+  offset: 0, 0
+  index: -1
+greenbelt_ABC
+  rotate: false
+  xy: 1454, 2710
+  size: 722, 251
+  orig: 722, 251
+  offset: 0, 0
+  index: -1
+hair01_ABC
+  rotate: false
+  xy: 1102, 2775
+  size: 350, 258
+  orig: 350, 258
+  offset: 0, 0
+  index: -1
+hair02_ABC
+  rotate: true
+  xy: 3012, 3143
+  size: 121, 305
+  orig: 121, 305
+  offset: 0, 0
+  index: -1
+hair03_ABC
+  rotate: false
+  xy: 2178, 2647
+  size: 526, 296
+  orig: 526, 296
+  offset: 0, 0
+  index: -1
+hair04_ABC
+  rotate: false
+  xy: 1, 2422
+  size: 422, 408
+  orig: 422, 408
+  offset: 0, 0
+  index: -1
+hairaccessories_ABC
+  rotate: false
+  xy: 606, 3064
+  size: 214, 158
+  orig: 214, 158
+  offset: 0, 0
+  index: -1
+hand_01_AB
+  rotate: true
+  xy: 2969, 2924
+  size: 217, 311
+  orig: 218, 311
+  offset: 0, 0
+  index: -1
+hand_02_AB
+  rotate: false
+  xy: 1285, 3210
+  size: 113, 54
+  orig: 113, 54
+  offset: 0, 0
+  index: -1
+hand_C
+  rotate: true
+  xy: 1497, 3013
+  size: 168, 400
+  orig: 168, 400
+  offset: 0, 0
+  index: -1
+hindlegs_A
+  rotate: true
+  xy: 3153, 2592
+  size: 310, 585
+  orig: 310, 585
+  offset: 0, 0
+  index: -1
+hindlegs_B
+  rotate: true
+  xy: 2146, 2963
+  size: 188, 296
+  orig: 188, 296
+  offset: 0, 0
+  index: -1
+leftchest_AB
+  rotate: true
+  xy: 3577, 2904
+  size: 231, 244
+  orig: 244, 244
+  offset: 13, 0
+  index: -1
+leftcorset_A
+  rotate: true
+  xy: 260, 2832
+  size: 239, 246
+  orig: 246, 246
+  offset: 7, 0
+  index: -1
+love_ABC
+  rotate: true
+  xy: 2002, 3177
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+machine_A
+  rotate: false
+  xy: 1102, 2062
+  size: 676, 646
+  orig: 677, 647
+  offset: 1, 1
+  index: -1
+machine_ABC
+  rotate: false
+  xy: 425, 2148
+  size: 675, 647
+  orig: 677, 647
+  offset: 0, 0
+  index: -1
+mouth_A
+  rotate: false
+  xy: 1, 3247
+  size: 47, 17
+  orig: 48, 17
+  offset: 1, 0
+  index: -1
+mouth_B
+  rotate: true
+  xy: 207, 3233
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+mouth_C
+  rotate: false
+  xy: 50, 3242
+  size: 51, 22
+  orig: 51, 22
+  offset: 0, 0
+  index: -1
+neckflower_ABC
+  rotate: false
+  xy: 631, 3225
+  size: 42, 39
+  orig: 46, 41
+  offset: 2, 1
+  index: -1
+nose_ABC
+  rotate: true
+  xy: 103, 3237
+  size: 27, 41
+  orig: 32, 46
+  offset: 4, 1
+  index: -1
+panty_A
+  rotate: true
+  xy: 821, 1153
+  size: 781, 1785
+  orig: 782, 1785
+  offset: 0, 0
+  index: -1
+panty_B
+  rotate: true
+  xy: 1788, 1
+  size: 782, 1785
+  orig: 833, 1785
+  offset: 0, 0
+  index: -1
+petal_01
+  rotate: false
+  xy: 1161, 3216
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+petal_02
+  rotate: false
+  xy: 1105, 3217
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+petal_03
+  rotate: false
+  xy: 543, 3226
+  size: 86, 38
+  orig: 86, 38
+  offset: 0, 0
+  index: -1
+petal_04
+  rotate: false
+  xy: 1233, 3216
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+petal_05
+  rotate: false
+  xy: 1572, 3194
+  size: 87, 70
+  orig: 87, 70
+  offset: 0, 0
+  index: -1
+petal_06
+  rotate: false
+  xy: 1, 3099
+  size: 149, 135
+  orig: 150, 135
+  offset: 0, 0
+  index: -1
+petal_07
+  rotate: false
+  xy: 924, 3221
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+petal_08
+  rotate: false
+  xy: 824, 3222
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+petal_09
+  rotate: false
+  xy: 992, 3220
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+pinkcloth_A
+  rotate: false
+  xy: 776, 2797
+  size: 324, 251
+  orig: 325, 251
+  offset: 1, 0
+  index: -1
+pinkcloth_B
+  rotate: false
+  xy: 1899, 2982
+  size: 245, 185
+  orig: 249, 202
+  offset: 1, 17
+  index: -1
+rags_B
+  rotate: true
+  xy: 3319, 3140
+  size: 124, 134
+  orig: 124, 135
+  offset: 0, 1
+  index: -1
+rightcorset_A
+  rotate: false
+  xy: 1, 2833
+  size: 257, 238
+  orig: 258, 238
+  offset: 1, 0
+  index: -1
+ringfinger_AB
+  rotate: false
+  xy: 1038, 3219
+  size: 65, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+suspenders_AB
+  rotate: false
+  xy: 508, 2809
+  size: 266, 253
+  orig: 266, 253
+  offset: 0, 0
+  index: -1
+thumb_AB
+  rotate: false
+  xy: 2093, 3169
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+wave_ABC
+  rotate: true
+  xy: 2190, 3168
+  size: 96, 157
+  orig: 96, 158
+  offset: 0, 0
+  index: -1
+whitecloth_A
+  rotate: true
+  xy: 2706, 2597
+  size: 325, 445
+  orig: 325, 446
+  offset: 0, 0
+  index: -1
+
+Toki_Spine_Skin2_2.png
+size: 3641,2556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pinkribbon_ABC
+  rotate: false
+  xy: 1, 29
+  size: 2046, 2526
+  orig: 2046, 2526
+  offset: 0, 0
+  index: -1
+weapon_ABC
+  rotate: false
+  xy: 2049, 1
+  size: 1591, 2554
+  orig: 1591, 2554
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,118 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f020d2ff06095895377a455c494982bb27b644b3836f98bf20a27973513437e
-size 1679
+
+Gai_Gai_Spine_C.png
+size: 2029,1835
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boin
+  rotate: false
+  xy: 1372, 852
+  size: 104, 146
+  orig: 126, 158
+  offset: 14, 5
+  index: -1
+L_arm
+  rotate: false
+  xy: 1230, 2
+  size: 312, 232
+  orig: 503, 272
+  offset: 139, 29
+  index: -1
+L_hair_1
+  rotate: true
+  xy: 934, 1000
+  size: 833, 685
+  orig: 833, 685
+  offset: 0, 0
+  index: -1
+L_hair_2
+  rotate: false
+  xy: 628, 275
+  size: 875, 364
+  orig: 875, 364
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 1505, 236
+  size: 510, 762
+  orig: 511, 762
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 1544, 36
+  size: 198, 214
+  orig: 255, 253
+  offset: 22, 39
+  index: -1
+R_leg_1
+  rotate: true
+  xy: 628, 641
+  size: 360, 269
+  orig: 365, 269
+  offset: 0, 0
+  index: -1
+R_leg_2
+  rotate: true
+  xy: 1621, 1082
+  size: 311, 406
+  orig: 312, 406
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 1621, 1395
+  size: 342, 438
+  orig: 453, 554
+  offset: 53, 96
+  index: -1
+face
+  rotate: false
+  xy: 1760, 101
+  size: 169, 133
+  orig: 179, 133
+  offset: 5, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 2, 31
+  size: 624, 970
+  orig: 624, 970
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 944, 34
+  size: 239, 284
+  orig: 239, 284
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 628, 5
+  size: 268, 314
+  orig: 268, 314
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1372, 746
+  size: 89, 104
+  orig: 89, 104
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 1003
+  size: 930, 830
+  orig: 931, 874
+  offset: 1, 44
+  index: -1
+weapon_handle
+  rotate: false
+  xy: 899, 648
+  size: 471, 350
+  orig: 472, 350
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,180 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:663eb34cca6ebc4665ee5b7b780c1cb06b75ee7288f5dc54f647a8f4c2a2e127
-size 2590
+
+Hestia_Playroom_C.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Air
+  rotate: true
+  xy: 2772, 3096
+  size: 402, 409
+  orig: 406, 411
+  offset: 1, 1
+  index: -1
+Arm_L
+  rotate: false
+  xy: 836, 1738
+  size: 1473, 863
+  orig: 1503, 863
+  offset: 0, 0
+  index: -1
+Arm_L2
+  rotate: true
+  xy: 555, 2695
+  size: 472, 799
+  orig: 472, 799
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1580, 2
+  size: 2079, 1531
+  orig: 2079, 1569
+  offset: 0, 38
+  index: -1
+Breasts_L
+  rotate: true
+  xy: 1979, 2603
+  size: 530, 614
+  orig: 530, 614
+  offset: 0, 0
+  index: -1
+Breasts_R
+  rotate: false
+  xy: 3274, 2488
+  size: 623, 554
+  orig: 634, 556
+  offset: 0, 2
+  index: -1
+Breasts_R2
+  rotate: false
+  xy: 298, 3346
+  size: 235, 152
+  orig: 243, 163
+  offset: 0, 0
+  index: -1
+Breasts_R3
+  rotate: false
+  xy: 2, 3453
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+Charm
+  rotate: false
+  xy: 2, 2821
+  size: 551, 503
+  orig: 552, 503
+  offset: 0, 0
+  index: -1
+Earring
+  rotate: true
+  xy: 176, 3405
+  size: 93, 120
+  orig: 93, 120
+  offset: 0, 0
+  index: -1
+F1_Facial
+  rotate: false
+  xy: 2386, 3135
+  size: 384, 363
+  orig: 384, 363
+  offset: 0, 0
+  index: -1
+F2_Facial
+  rotate: false
+  xy: 1298, 3169
+  size: 387, 329
+  orig: 387, 329
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 1356, 2646
+  size: 621, 507
+  orig: 639, 507
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 2, 1965
+  size: 832, 728
+  orig: 832, 769
+  offset: 0, 0
+  index: -1
+Hair_B2
+  rotate: true
+  xy: 56, 3425
+  size: 73, 118
+  orig: 73, 118
+  offset: 0, 0
+  index: -1
+Hair_F
+  rotate: false
+  xy: 2595, 2501
+  size: 677, 541
+  orig: 677, 541
+  offset: 0, 0
+  index: -1
+Liquid
+  rotate: false
+  xy: 2311, 1535
+  size: 1559, 951
+  orig: 1559, 951
+  offset: 0, 0
+  index: -1
+Penis
+  rotate: false
+  xy: 796, 3196
+  size: 500, 302
+  orig: 500, 302
+  offset: 0, 0
+  index: -1
+Rope_L
+  rotate: false
+  xy: 3183, 3044
+  size: 466, 454
+  orig: 466, 454
+  offset: 0, 0
+  index: -1
+Rope_R
+  rotate: true
+  xy: 535, 3326
+  size: 172, 259
+  orig: 172, 259
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: false
+  xy: 2, 560
+  size: 1576, 1176
+  orig: 1576, 1176
+  offset: 0, 0
+  index: -1
+UpArm_L2
+  rotate: false
+  xy: 1687, 3155
+  size: 697, 343
+  orig: 697, 343
+  offset: 0, 0
+  index: -1
+
+Hestia_Playroom_C_2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back
+  rotate: true
+  xy: 1900, 2
+  size: 1925, 1669
+  orig: 1927, 1670
+  offset: 2, 1
+  index: -1
+Fire
+  rotate: true
+  xy: 2, 22
+  size: 1905, 1896
+  orig: 1905, 1896
+  offset: 0, 0
+  index: -1

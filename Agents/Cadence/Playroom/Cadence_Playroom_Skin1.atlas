@@ -1,3 +1,341 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d0d72d76837ba338722e67724d797285958ff9c0e78f8dcfe3b9ab9c1b198ee
-size 4982
+
+Cadence_Playroom_Skin1.png
+size: 4018,3794
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blush_B
+  rotate: true
+  xy: 3105, 3602
+  size: 190, 427
+  orig: 190, 427
+  offset: 0, 0
+  index: -1
+GG_A
+  rotate: false
+  xy: 1334, 3398
+  size: 476, 244
+  orig: 476, 244
+  offset: 0, 0
+  index: -1
+GG_B
+  rotate: false
+  xy: 2643, 3630
+  size: 460, 162
+  orig: 460, 164
+  offset: 0, 0
+  index: -1
+accessories_1
+  rotate: true
+  xy: 2, 3523
+  size: 209, 212
+  orig: 498, 329
+  offset: 19, 117
+  index: -1
+accessories_2
+  rotate: false
+  xy: 484, 3423
+  size: 433, 236
+  orig: 498, 236
+  offset: 17, 0
+  index: -1
+accessories_3
+  rotate: true
+  xy: 1171, 3658
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
+accessories_4
+  rotate: false
+  xy: 416, 3024
+  size: 446, 397
+  orig: 446, 397
+  offset: 0, 0
+  index: -1
+accessories_5
+  rotate: false
+  xy: 2, 3109
+  size: 412, 349
+  orig: 412, 350
+  offset: 0, 0
+  index: -1
+accessories_6
+  rotate: true
+  xy: 2474, 3329
+  size: 299, 556
+  orig: 299, 556
+  offset: 0, 0
+  index: -1
+accessories_7
+  rotate: false
+  xy: 3534, 3586
+  size: 482, 206
+  orig: 505, 206
+  offset: 10, 0
+  index: -1
+breathe
+  rotate: false
+  xy: 2363, 929
+  size: 883, 766
+  orig: 883, 766
+  offset: 0, 0
+  index: -1
+chest_A
+  rotate: false
+  xy: 1437, 1854
+  size: 799, 553
+  orig: 799, 553
+  offset: 0, 0
+  index: -1
+chest_B
+  rotate: false
+  xy: 856, 2477
+  size: 680, 517
+  orig: 688, 517
+  offset: 8, 0
+  index: -1
+chest_L
+  rotate: false
+  xy: 774, 1871
+  size: 661, 604
+  orig: 661, 604
+  offset: 0, 0
+  index: -1
+cloth_1
+  rotate: false
+  xy: 2107, 3334
+  size: 365, 308
+  orig: 365, 308
+  offset: 0, 0
+  index: -1
+cloth_2
+  rotate: false
+  xy: 919, 3413
+  size: 413, 237
+  orig: 413, 237
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 1316, 3652
+  size: 168, 140
+  orig: 168, 140
+  offset: 0, 0
+  index: -1
+earring_1
+  rotate: true
+  xy: 322, 3727
+  size: 65, 115
+  orig: 65, 115
+  offset: 0, 0
+  index: -1
+earring_2
+  rotate: true
+  xy: 1486, 3648
+  size: 144, 216
+  orig: 144, 216
+  offset: 0, 0
+  index: -1
+eye_A
+  rotate: true
+  xy: 1704, 3644
+  size: 148, 472
+  orig: 148, 472
+  offset: 0, 0
+  index: -1
+eye_B
+  rotate: true
+  xy: 2178, 3644
+  size: 148, 463
+  orig: 154, 463
+  offset: 6, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 782, 3661
+  size: 131, 387
+  orig: 131, 388
+  offset: 0, 1
+  index: -1
+face
+  rotate: false
+  xy: 3027, 1697
+  size: 739, 638
+  orig: 739, 638
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1435, 1075
+  size: 660, 926
+  orig: 660, 926
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1812, 3352
+  size: 293, 290
+  orig: 294, 292
+  offset: 0, 1
+  index: -1
+hair_3
+  rotate: false
+  xy: 864, 2996
+  size: 823, 400
+  orig: 823, 402
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 2565, 2337
+  size: 505, 1080
+  orig: 505, 1108
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 2834, 2844
+  size: 401, 891
+  orig: 401, 891
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 2, 1229
+  size: 640, 1431
+  orig: 640, 1435
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1538, 2409
+  size: 501, 1025
+  orig: 501, 1025
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 1689, 2928
+  size: 404, 707
+  orig: 404, 707
+  offset: 0, 0
+  index: -1
+hand_1_B
+  rotate: true
+  xy: 2238, 1737
+  size: 598, 787
+  orig: 763, 931
+  offset: 0, 144
+  index: -1
+hand_2_B
+  rotate: false
+  xy: 2, 2605
+  size: 852, 417
+  orig: 868, 429
+  offset: 10, 12
+  index: -1
+hand_3_B
+  rotate: false
+  xy: 216, 3460
+  size: 266, 219
+  orig: 271, 219
+  offset: 0, 0
+  index: -1
+hand_4_B
+  rotate: false
+  xy: 2, 2072
+  size: 770, 531
+  orig: 770, 627
+  offset: 0, 93
+  index: -1
+hand_A
+  rotate: false
+  xy: 1131, 2
+  size: 1616, 925
+  orig: 1616, 925
+  offset: 0, 0
+  index: -1
+male_hand_L
+  rotate: false
+  xy: 3032, 3292
+  size: 412, 308
+  orig: 412, 308
+  offset: 0, 0
+  index: -1
+male_hand_R
+  rotate: true
+  xy: 3446, 3247
+  size: 337, 520
+  orig: 337, 520
+  offset: 0, 0
+  index: -1
+mouth_A
+  rotate: true
+  xy: 439, 3681
+  size: 111, 146
+  orig: 119, 146
+  offset: 8, 0
+  index: -1
+mouth_B
+  rotate: false
+  xy: 587, 3671
+  size: 193, 121
+  orig: 193, 121
+  offset: 0, 0
+  index: -1
+semen
+  rotate: false
+  xy: 2, 274
+  size: 1127, 953
+  orig: 1127, 953
+  offset: 0, 0
+  index: -1
+sweat_A
+  rotate: false
+  xy: 2, 3734
+  size: 318, 58
+  orig: 318, 58
+  offset: 0, 0
+  index: -1
+sweat_B
+  rotate: false
+  xy: 2398, 2912
+  size: 434, 415
+  orig: 434, 415
+  offset: 0, 0
+  index: -1
+
+Cadence_Playroom_Skin1_2.png
+size: 3663,2965
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_1
+  rotate: false
+  xy: 2231, 1385
+  size: 1430, 1578
+  orig: 1430, 1578
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: false
+  xy: 2, 1941
+  size: 2227, 1022
+  orig: 2227, 1022
+  offset: 0, 0
+  index: -1
+hair_B_1
+  rotate: true
+  xy: 2, 2
+  size: 1937, 1510
+  orig: 1937, 1510
+  offset: 0, 0
+  index: -1
+hair_B_2
+  rotate: true
+  xy: 1514, 97
+  size: 1286, 1927
+  orig: 1286, 1927
+  offset: 0, 0
+  index: -1

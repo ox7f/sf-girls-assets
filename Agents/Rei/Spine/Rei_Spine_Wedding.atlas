@@ -1,3 +1,307 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1f8300f300785ff12fc1dfeb2f9aeb758802e9f65df2418a9ee82e2a635a661f
-size 4662
+
+Rei_Spine_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lv123_cloth_B1
+  rotate: true
+  xy: 2, 15
+  size: 619, 816
+  orig: 619, 816
+  offset: 0, 0
+  index: -1
+Lv123_cloth_B2
+  rotate: false
+  xy: 2, 636
+  size: 1409, 1653
+  orig: 1409, 1666
+  offset: 0, 0
+  index: -1
+Lv123_cloth_head_B_R
+  rotate: false
+  xy: 1836, 2679
+  size: 223, 225
+  orig: 252, 235
+  offset: 0, 10
+  index: -1
+Lv123_cloth_head_B_R2
+  rotate: false
+  xy: 2280, 15
+  size: 242, 314
+  orig: 242, 314
+  offset: 0, 0
+  index: -1
+Lv123_cloth_head_F
+  rotate: false
+  xy: 1992, 2307
+  size: 668, 370
+  orig: 668, 398
+  offset: 0, 28
+  index: -1
+Lv123_cloth_head_F_R
+  rotate: false
+  xy: 1703, 2301
+  size: 287, 374
+  orig: 287, 374
+  offset: 0, 0
+  index: -1
+Lv123_crown_B
+  rotate: false
+  xy: 971, 6
+  size: 314, 95
+  orig: 314, 117
+  offset: 0, 0
+  index: -1
+Lv123_crown_F
+  rotate: false
+  xy: 2032, 830
+  size: 317, 337
+  orig: 317, 346
+  offset: 0, 9
+  index: -1
+Lv123_hair_B
+  rotate: false
+  xy: 2481, 2100
+  size: 182, 205
+  orig: 182, 215
+  offset: 0, 0
+  index: -1
+Lv123_hair_F
+  rotate: true
+  xy: 1617, 9
+  size: 107, 124
+  orig: 107, 124
+  offset: 0, 0
+  index: -1
+Lv123_hair_F_L
+  rotate: true
+  xy: 1726, 662
+  size: 47, 183
+  orig: 61, 199
+  offset: 0, 4
+  index: -1
+Lv123_hair_F_R
+  rotate: true
+  xy: 1696, 1158
+  size: 60, 179
+  orig: 60, 179
+  offset: 0, 0
+  index: -1
+Lv123_head
+  rotate: false
+  xy: 2524, 164
+  size: 187, 238
+  orig: 187, 238
+  offset: 0, 0
+  index: -1
+Lv123_horsetail
+  rotate: false
+  xy: 2, 2291
+  size: 868, 1801
+  orig: 889, 1811
+  offset: 21, 0
+  index: -1
+Lv123_leg_L
+  rotate: false
+  xy: 1696, 1220
+  size: 328, 1075
+  orig: 328, 1075
+  offset: 0, 0
+  index: -1
+Lv12_arm_L
+  rotate: false
+  xy: 872, 2674
+  size: 737, 1418
+  orig: 751, 1437
+  offset: 14, 0
+  index: -1
+Lv12_arm_R
+  rotate: false
+  xy: 820, 103
+  size: 505, 531
+  orig: 505, 542
+  offset: 0, 11
+  index: -1
+Lv12_chest
+  rotate: true
+  xy: 1413, 650
+  size: 465, 311
+  orig: 558, 1728
+  offset: 30, 1207
+  index: -1
+Lv12_cloth_head_B_L2
+  rotate: false
+  xy: 1726, 711
+  size: 304, 445
+  orig: 304, 455
+  offset: 0, 0
+  index: -1
+Lv12_flower_bow_1
+  rotate: false
+  xy: 1921, 18
+  size: 155, 132
+  orig: 161, 132
+  offset: 6, 0
+  index: -1
+Lv12_flower_bow_2
+  rotate: true
+  xy: 1743, 9
+  size: 141, 176
+  orig: 141, 176
+  offset: 0, 0
+  index: -1
+Lv12_leg_R
+  rotate: false
+  xy: 1611, 2906
+  size: 273, 1186
+  orig: 287, 1186
+  offset: 0, 0
+  index: -1
+Lv12_sword
+  rotate: true
+  xy: 2078, 22
+  size: 128, 200
+  orig: 128, 221
+  offset: 0, 0
+  index: -1
+Lv1_body
+  rotate: true
+  xy: 1288, 2297
+  size: 375, 413
+  orig: 403, 426
+  offset: 28, 0
+  index: -1
+Lv1_breast
+  rotate: true
+  xy: 2246, 1952
+  size: 353, 233
+  orig: 362, 257
+  offset: 9, 24
+  index: -1
+Lv1_face
+  rotate: false
+  xy: 1458, 7
+  size: 157, 109
+  orig: 157, 116
+  offset: 0, 0
+  index: -1
+Lv2_body
+  rotate: true
+  xy: 872, 2292
+  size: 380, 414
+  orig: 413, 426
+  offset: 27, 0
+  index: -1
+Lv2_breast_L
+  rotate: false
+  xy: 2345, 404
+  size: 237, 246
+  orig: 237, 246
+  offset: 0, 0
+  index: -1
+Lv2_breast_R
+  rotate: false
+  xy: 2324, 1475
+  size: 207, 236
+  orig: 207, 240
+  offset: 0, 4
+  index: -1
+Lv2_face
+  rotate: false
+  xy: 820, 2
+  size: 149, 99
+  orig: 149, 109
+  offset: 0, 0
+  index: -1
+Lv3_Arm_L
+  rotate: false
+  xy: 2032, 652
+  size: 313, 176
+  orig: 313, 176
+  offset: 0, 0
+  index: -1
+Lv3_Item
+  rotate: true
+  xy: 1287, 7
+  size: 94, 169
+  orig: 94, 169
+  offset: 0, 0
+  index: -1
+Lv3_arm_R
+  rotate: true
+  xy: 2026, 1863
+  size: 442, 218
+  orig: 451, 218
+  offset: 0, 0
+  index: -1
+Lv3_body
+  rotate: false
+  xy: 1702, 152
+  size: 407, 496
+  orig: 509, 496
+  offset: 63, 0
+  index: -1
+Lv3_breast_L
+  rotate: true
+  xy: 2026, 1436
+  size: 425, 296
+  orig: 425, 296
+  offset: 0, 0
+  index: -1
+Lv3_breast_R
+  rotate: false
+  xy: 1611, 2677
+  size: 223, 227
+  orig: 495, 227
+  offset: 272, 0
+  index: -1
+Lv3_chest
+  rotate: true
+  xy: 1327, 118
+  size: 516, 373
+  orig: 724, 376
+  offset: 0, 0
+  index: -1
+Lv3_cloth_head_B_L2
+  rotate: false
+  xy: 2324, 1713
+  size: 191, 237
+  orig: 191, 242
+  offset: 0, 5
+  index: -1
+Lv3_cloth_head_L
+  rotate: false
+  xy: 2111, 331
+  size: 232, 319
+  orig: 253, 391
+  offset: 21, 0
+  index: -1
+Lv3_face
+  rotate: false
+  xy: 2111, 203
+  size: 157, 126
+  orig: 157, 134
+  offset: 0, 0
+  index: -1
+Lv3_leg_R
+  rotate: false
+  xy: 1413, 1117
+  size: 281, 1178
+  orig: 290, 1178
+  offset: 9, 0
+  index: -1
+Lv3_water_L
+  rotate: true
+  xy: 2245, 1188
+  size: 246, 284
+  orig: 246, 284
+  offset: 0, 0
+  index: -1
+Lv3_water_R
+  rotate: true
+  xy: 2026, 1169
+  size: 265, 217
+  orig: 265, 217
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,181 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:45935e0df7ca62774323076ec9e2c7dc5b16d9a5b6739ba3ac47ed63972bf663
-size 2581
+
+Wu_Spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_L
+  rotate: true
+  xy: 1326, 183
+  size: 147, 206
+  orig: 147, 206
+  offset: 0, 0
+  index: -1
+ARM_R
+  rotate: true
+  xy: 635, 9
+  size: 219, 158
+  orig: 219, 158
+  offset: 0, 0
+  index: -1
+Body_LV1
+  rotate: false
+  xy: 647, 230
+  size: 199, 448
+  orig: 199, 448
+  offset: 0, 0
+  index: -1
+Body_LV3
+  rotate: true
+  xy: 2, 78
+  size: 268, 463
+  orig: 268, 463
+  offset: 0, 0
+  index: -1
+BreadSweat_L_LV2
+  rotate: true
+  xy: 494, 376
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+BreadSweat_R_LV2
+  rotate: false
+  xy: 2, 45
+  size: 89, 31
+  orig: 89, 31
+  offset: 0, 0
+  index: -1
+Bread_L_LV1
+  rotate: false
+  xy: 848, 647
+  size: 114, 168
+  orig: 114, 168
+  offset: 0, 0
+  index: -1
+Bread_L_LV2
+  rotate: false
+  xy: 842, 817
+  size: 118, 172
+  orig: 118, 172
+  offset: 0, 0
+  index: -1
+Bread_R_LV1
+  rotate: false
+  xy: 842, 991
+  size: 119, 176
+  orig: 119, 176
+  offset: 0, 0
+  index: -1
+Bread_R_LV2
+  rotate: false
+  xy: 795, 2
+  size: 118, 171
+  orig: 118, 171
+  offset: 0, 0
+  index: -1
+Chain
+  rotate: false
+  xy: 467, 60
+  size: 166, 286
+  orig: 166, 286
+  offset: 0, 0
+  index: -1
+Face_LV1
+  rotate: false
+  xy: 396, 348
+  size: 96, 85
+  orig: 96, 85
+  offset: 0, 0
+  index: -1
+Face_LV2
+  rotate: false
+  xy: 1534, 118
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+Face_LV3
+  rotate: true
+  xy: 848, 175
+  size: 119, 93
+  orig: 119, 93
+  offset: 0, 0
+  index: -1
+Flag
+  rotate: false
+  xy: 2, 1169
+  size: 962, 869
+  orig: 962, 869
+  offset: 0, 0
+  index: -1
+ForeArm_L
+  rotate: true
+  xy: 1534, 206
+  size: 124, 227
+  orig: 124, 227
+  offset: 0, 0
+  index: -1
+ForeArm_R
+  rotate: true
+  xy: 949, 145
+  size: 185, 208
+  orig: 185, 208
+  offset: 0, 0
+  index: -1
+Hair_BACK
+  rotate: false
+  xy: 396, 680
+  size: 444, 487
+  orig: 444, 487
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: false
+  xy: 396, 435
+  size: 249, 243
+  orig: 249, 243
+  offset: 0, 0
+  index: -1
+Hair_top
+  rotate: false
+  xy: 1159, 177
+  size: 165, 153
+  orig: 165, 153
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 848, 296
+  size: 99, 106
+  orig: 99, 106
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 2, 348
+  size: 392, 819
+  orig: 392, 819
+  offset: 0, 0
+  index: -1
+Leg_Sweat
+  rotate: true
+  xy: 848, 404
+  size: 241, 105
+  orig: 241, 105
+  offset: 0, 0
+  index: -1
+Staff_01
+  rotate: false
+  xy: 966, 1172
+  size: 701, 866
+  orig: 701, 866
+  offset: 0, 0
+  index: -1
+Staff_02
+  rotate: true
+  xy: 966, 332
+  size: 838, 701
+  orig: 838, 701
+  offset: 0, 0
+  index: -1

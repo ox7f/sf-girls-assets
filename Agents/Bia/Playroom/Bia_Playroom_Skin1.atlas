@@ -1,3 +1,229 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9f9662ae21f88ba387e62d1813843c87b356ace4b1658261be4ed1e8abb5ff26
-size 3360
+
+Bia_Playroom_Skin1.png
+size: 4075,3421
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 2, 1328
+  size: 1100, 847
+  orig: 1124, 847
+  offset: 24, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2499, 2
+  size: 1518, 977
+  orig: 1518, 977
+  offset: 0, 0
+  index: -1
+Breast_L
+  rotate: false
+  xy: 2291, 2692
+  size: 486, 484
+  orig: 486, 484
+  offset: 0, 0
+  index: -1
+Chain
+  rotate: true
+  xy: 2, 2311
+  size: 667, 880
+  orig: 718, 880
+  offset: 0, 0
+  index: -1
+Corn
+  rotate: true
+  xy: 2, 3247
+  size: 172, 728
+  orig: 172, 728
+  offset: 0, 0
+  index: -1
+Hair_01
+  rotate: true
+  xy: 1865, 3210
+  size: 209, 413
+  orig: 209, 413
+  offset: 0, 0
+  index: -1
+Hair_02
+  rotate: false
+  xy: 2280, 3183
+  size: 308, 236
+  orig: 308, 236
+  offset: 0, 0
+  index: -1
+Hair_03
+  rotate: true
+  xy: 732, 3240
+  size: 179, 275
+  orig: 179, 275
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1104, 1070
+  size: 1129, 927
+  orig: 1130, 928
+  offset: 1, 0
+  index: -1
+Hole
+  rotate: false
+  xy: 1675, 3232
+  size: 188, 187
+  orig: 190, 188
+  offset: 2, 1
+  index: -1
+Leg_L
+  rotate: false
+  xy: 2492, 1851
+  size: 1132, 758
+  orig: 1132, 758
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 2235, 981
+  size: 868, 1393
+  orig: 868, 1393
+  offset: 0, 0
+  index: -1
+Lv1_Arm_R
+  rotate: true
+  xy: 1591, 1999
+  size: 691, 899
+  orig: 691, 899
+  offset: 0, 0
+  index: -1
+Lv1_Breast_R
+  rotate: false
+  xy: 1802, 2770
+  size: 487, 411
+  orig: 487, 411
+  offset: 0, 0
+  index: -1
+Lv1_Brush
+  rotate: false
+  xy: 330, 2988
+  size: 338, 257
+  orig: 352, 274
+  offset: 8, 7
+  index: -1
+Lv1_Emo
+  rotate: false
+  xy: 3164, 3173
+  size: 319, 246
+  orig: 319, 246
+  offset: 0, 0
+  index: -1
+Lv1_JJ
+  rotate: false
+  xy: 1333, 2853
+  size: 467, 377
+  orig: 467, 377
+  offset: 0, 0
+  index: -1
+Lv2_Arm_R
+  rotate: false
+  xy: 2590, 3178
+  size: 572, 241
+  orig: 572, 242
+  offset: 0, 1
+  index: -1
+Lv2_Breast_R
+  rotate: false
+  xy: 2779, 2666
+  size: 532, 505
+  orig: 532, 512
+  offset: 0, 0
+  index: -1
+Lv2_Brush
+  rotate: false
+  xy: 670, 2980
+  size: 340, 257
+  orig: 352, 274
+  offset: 7, 8
+  index: -1
+Lv2_Emo
+  rotate: false
+  xy: 1012, 2972
+  size: 319, 265
+  orig: 319, 265
+  offset: 0, 0
+  index: -1
+Lv2_JJ
+  rotate: false
+  xy: 3313, 2611
+  size: 650, 549
+  orig: 650, 549
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_01
+  rotate: false
+  xy: 3790, 3162
+  size: 283, 257
+  orig: 283, 257
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_02
+  rotate: true
+  xy: 884, 2177
+  size: 674, 705
+  orig: 674, 705
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_03
+  rotate: true
+  xy: 2, 2989
+  size: 256, 326
+  orig: 256, 326
+  offset: 0, 0
+  index: -1
+Lv2_UpArm_R
+  rotate: false
+  xy: 1009, 3239
+  size: 664, 180
+  orig: 664, 190
+  offset: 0, 0
+  index: -1
+Lv2_Vaginal
+  rotate: false
+  xy: 3485, 3165
+  size: 303, 254
+  orig: 328, 281
+  offset: 0, 11
+  index: -1
+Wing_L
+  rotate: false
+  xy: 2, 104
+  size: 2495, 875
+  orig: 2495, 875
+  offset: 0, 0
+  index: -1
+
+Bia_Playroom_Skin1_2.png
+size: 3741,2845
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Horsetail
+  rotate: true
+  xy: 2, 241
+  size: 2602, 1771
+  orig: 2602, 1771
+  offset: 0, 0
+  index: -1
+Lv1_Liquid
+  rotate: false
+  xy: 1775, 2
+  size: 1385, 1210
+  orig: 1385, 1597
+  offset: 0, 0
+  index: -1
+Wing_R
+  rotate: false
+  xy: 1775, 1214
+  size: 1964, 1629
+  orig: 1964, 1629
+  offset: 0, 0
+  index: -1

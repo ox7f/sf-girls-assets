@@ -1,3 +1,643 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59d45cf381335ddcd65a382b1e605f54175f9a73be392bd44e62741cb5b5be9e
-size 9776
+
+Livia_Spine_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body 3
+  rotate: true
+  xy: 2450, 1235
+  size: 397, 628
+  orig: 397, 628
+  offset: 0, 0
+  index: -1
+Body Cloth 1
+  rotate: false
+  xy: 548, 1061
+  size: 544, 419
+  orig: 544, 419
+  offset: 0, 0
+  index: -1
+Body Cloth 2
+  rotate: false
+  xy: 2, 1107
+  size: 544, 416
+  orig: 544, 416
+  offset: 0, 0
+  index: -1
+Body Cloth 2_front
+  rotate: false
+  xy: 3080, 1195
+  size: 544, 416
+  orig: 544, 416
+  offset: 0, 0
+  index: -1
+Body Dresses 1 L
+  rotate: true
+  xy: 3173, 2
+  size: 620, 715
+  orig: 620, 715
+  offset: 0, 0
+  index: -1
+Body Dresses 1 L 1-1
+  rotate: true
+  xy: 1455, 1395
+  size: 392, 496
+  orig: 392, 496
+  offset: 0, 0
+  index: -1
+Body Dresses 1 L 1-2
+  rotate: true
+  xy: 1493, 1789
+  size: 332, 538
+  orig: 332, 538
+  offset: 0, 0
+  index: -1
+Body Dresses 1 R
+  rotate: true
+  xy: 3042, 624
+  size: 501, 743
+  orig: 501, 743
+  offset: 0, 0
+  index: -1
+Body Dresses 2 L  1-1
+  rotate: true
+  xy: 1953, 1329
+  size: 395, 495
+  orig: 395, 495
+  offset: 0, 0
+  index: -1
+Body Dresses 2 L  1-2
+  rotate: true
+  xy: 2033, 1726
+  size: 332, 538
+  orig: 332, 538
+  offset: 0, 0
+  index: -1
+Body Dresses 2 R
+  rotate: true
+  xy: 1686, 849
+  size: 478, 742
+  orig: 478, 742
+  offset: 0, 0
+  index: -1
+Body Dresses Back
+  rotate: false
+  xy: 2533, 32
+  size: 638, 590
+  orig: 638, 590
+  offset: 0, 0
+  index: -1
+Body Dresses Back 2
+  rotate: false
+  xy: 1303, 308
+  size: 638, 539
+  orig: 638, 539
+  offset: 0, 0
+  index: -1
+Body Dresses Spark  R 2
+  rotate: true
+  xy: 2, 2501
+  size: 129, 238
+  orig: 129, 238
+  offset: 0, 0
+  index: -1
+Body Dresses Spark L 1
+  rotate: true
+  xy: 2601, 2557
+  size: 97, 209
+  orig: 97, 209
+  offset: 0, 0
+  index: -1
+Body Dresses Spark L 2
+  rotate: true
+  xy: 1072, 2603
+  size: 51, 139
+  orig: 51, 139
+  offset: 0, 0
+  index: -1
+Body Dresses Spark R 1
+  rotate: true
+  xy: 1096, 2425
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+Body Jam Spark 1
+  rotate: false
+  xy: 46, 2638
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+Body Jam Spark 2
+  rotate: false
+  xy: 220, 2632
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Body Jam Spark 3
+  rotate: false
+  xy: 78, 2638
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Body Jam Spark 4
+  rotate: false
+  xy: 185, 2633
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Body Jam Spark 5
+  rotate: false
+  xy: 454, 2621
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+Body Jam Spark 6
+  rotate: false
+  xy: 2, 2642
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+Body Jam Spark 7
+  rotate: false
+  xy: 157, 2636
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Chest_cloths 1
+  rotate: false
+  xy: 3228, 2298
+  size: 496, 235
+  orig: 496, 235
+  offset: 0, 0
+  index: -1
+Chest_cloths 1 L
+  rotate: true
+  xy: 994, 2607
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+Chest_cloths 1 R
+  rotate: false
+  xy: 322, 2628
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+Chest_cloths 2
+  rotate: false
+  xy: 1588, 2123
+  size: 445, 236
+  orig: 445, 236
+  offset: 0, 0
+  index: -1
+Gun flash
+  rotate: true
+  xy: 1213, 2596
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 624, 2216
+  size: 242, 266
+  orig: 242, 266
+  offset: 0, 0
+  index: -1
+Head Tail
+  rotate: false
+  xy: 3143, 1998
+  size: 339, 298
+  orig: 339, 298
+  offset: 0, 0
+  index: -1
+Heat BowTail
+  rotate: false
+  xy: 1254, 2145
+  size: 332, 260
+  orig: 332, 260
+  offset: 0, 0
+  index: -1
+L arm
+  rotate: true
+  xy: 693, 2460
+  size: 148, 242
+  orig: 148, 242
+  offset: 0, 0
+  index: -1
+L face fin
+  rotate: true
+  xy: 759, 2611
+  size: 43, 173
+  orig: 43, 173
+  offset: 0, 0
+  index: -1
+L_Chest
+  rotate: true
+  xy: 1618, 2373
+  size: 193, 218
+  orig: 193, 218
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 688, 1842
+  size: 301, 803
+  orig: 301, 803
+  offset: 0, 0
+  index: -1
+L_Leg_Spark
+  rotate: false
+  xy: 1299, 2591
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+L_arm_Cloths_Back
+  rotate: true
+  xy: 3298, 2536
+  size: 118, 145
+  orig: 118, 145
+  offset: 0, 0
+  index: -1
+L_arm_Cloths_Back 2
+  rotate: true
+  xy: 1716, 2568
+  size: 86, 122
+  orig: 86, 122
+  offset: 0, 0
+  index: -1
+L_arm_Cloths_Front
+  rotate: false
+  xy: 2939, 2544
+  size: 130, 110
+  orig: 130, 110
+  offset: 0, 0
+  index: -1
+L_arm_Cloths_Front 2
+  rotate: false
+  xy: 2812, 2545
+  size: 125, 109
+  orig: 125, 109
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 1943, 166
+  size: 571, 588
+  orig: 571, 588
+  offset: 0, 0
+  index: -1
+Nick Sperk 1
+  rotate: true
+  xy: 502, 2616
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Nick Sperk 2
+  rotate: true
+  xy: 254, 2631
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+R arm
+  rotate: true
+  xy: 3445, 2535
+  size: 119, 287
+  orig: 119, 287
+  offset: 0, 0
+  index: -1
+R face fin
+  rotate: true
+  xy: 1840, 2566
+  size: 88, 204
+  orig: 88, 204
+  offset: 0, 0
+  index: -1
+R_Chest
+  rotate: true
+  xy: 1838, 2361
+  size: 200, 207
+  orig: 200, 207
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 561, 1482
+  size: 358, 892
+  orig: 358, 892
+  offset: 0, 0
+  index: -1
+R_Leg_Spark
+  rotate: false
+  xy: 544, 2616
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+R_arm_Cloths_Back
+  rotate: false
+  xy: 2046, 2563
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+R_arm_Cloths_Back 2
+  rotate: false
+  xy: 2175, 2563
+  size: 126, 91
+  orig: 126, 91
+  offset: 0, 0
+  index: -1
+R_arm_Cloths_Front
+  rotate: true
+  xy: 242, 2475
+  size: 149, 157
+  orig: 149, 157
+  offset: 0, 0
+  index: -1
+R_arm_Cloths_Front 2
+  rotate: true
+  xy: 937, 2452
+  size: 149, 157
+  orig: 149, 157
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 892, 2174
+  size: 249, 360
+  orig: 249, 360
+  offset: 0, 0
+  index: -1
+Rabbin Jam Spark
+  rotate: false
+  xy: 934, 2610
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+Tentacle L 3
+  rotate: true
+  xy: 3588, 1613
+  size: 364, 405
+  orig: 364, 405
+  offset: 0, 0
+  index: -1
+Tentacle R 1
+  rotate: true
+  xy: 3484, 1979
+  size: 307, 363
+  orig: 307, 363
+  offset: 0, 0
+  index: -1
+Tentacle R 1 Back
+  rotate: false
+  xy: 1328, 2407
+  size: 288, 167
+  orig: 288, 167
+  offset: 0, 0
+  index: -1
+Tentacle R 2
+  rotate: false
+  xy: 401, 2475
+  size: 290, 139
+  orig: 290, 139
+  offset: 0, 0
+  index: -1
+Tentacle R 3 Back
+  rotate: true
+  xy: 2047, 2342
+  size: 218, 280
+  orig: 218, 280
+  offset: 0, 0
+  index: -1
+Yellow Bowtie L
+  rotate: true
+  xy: 2573, 1657
+  size: 359, 376
+  orig: 359, 376
+  offset: 0, 0
+  index: -1
+Yellow Bowtie L - 1
+  rotate: true
+  xy: 2, 1923
+  size: 321, 333
+  orig: 321, 333
+  offset: 0, 0
+  index: -1
+Yellow Bowtie L - 2
+  rotate: false
+  xy: 2951, 1634
+  size: 635, 343
+  orig: 635, 343
+  offset: 0, 0
+  index: -1
+Yellow Bowtie R
+  rotate: true
+  xy: 337, 1892
+  size: 322, 349
+  orig: 322, 349
+  offset: 0, 0
+  index: -1
+Yellow Bowtie R - 2
+  rotate: false
+  xy: 2598, 2018
+  size: 543, 290
+  orig: 543, 290
+  offset: 0, 0
+  index: -1
+Yellow Bowtie R - 3
+  rotate: true
+  xy: 3626, 1127
+  size: 484, 445
+  orig: 484, 445
+  offset: 0, 0
+  index: -1
+Yellow Rabbin L
+  rotate: true
+  xy: 2, 540
+  size: 519, 655
+  orig: 519, 655
+  offset: 0, 0
+  index: -1
+Yellow Rabbin R
+  rotate: false
+  xy: 2430, 739
+  size: 610, 494
+  orig: 610, 494
+  offset: 0, 0
+  index: -1
+chest Jam Spark
+  rotate: false
+  xy: 608, 2616
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+face 1
+  rotate: false
+  xy: 3071, 2539
+  size: 225, 115
+  orig: 225, 115
+  offset: 0, 0
+  index: -1
+face 2
+  rotate: false
+  xy: 3734, 2527
+  size: 225, 127
+  orig: 225, 127
+  offset: 0, 0
+  index: -1
+face 2 red
+  rotate: false
+  xy: 1382, 2579
+  size: 213, 75
+  orig: 213, 75
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 1525
+  size: 557, 365
+  orig: 557, 365
+  offset: 0, 0
+  index: -1
+jewelry  2-1
+  rotate: false
+  xy: 1597, 2576
+  size: 117, 78
+  orig: 117, 78
+  offset: 0, 0
+  index: -1
+jewelry  2-2
+  rotate: true
+  xy: 385, 2626
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+jewelry 1
+  rotate: false
+  xy: 2479, 2559
+  size: 120, 95
+  orig: 120, 95
+  offset: 0, 0
+  index: -1
+jewelry 1 Sperk 1
+  rotate: false
+  xy: 27, 2641
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+jewelry 1 Sperk 2
+  rotate: true
+  xy: 673, 2616
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+jewelry 1 Sperk 3
+  rotate: false
+  xy: 102, 2637
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+jewelry 2 Sperk 1
+  rotate: false
+  xy: 285, 2630
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+jewelry 2 Sperk 2
+  rotate: false
+  xy: 138, 2637
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+jewelry 2 Sperk 3
+  rotate: true
+  xy: 418, 2623
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+rabbin 1
+  rotate: false
+  xy: 2303, 2562
+  size: 174, 92
+  orig: 174, 92
+  offset: 0, 0
+  index: -1
+rabbin 1 - L
+  rotate: true
+  xy: 2035, 2060
+  size: 275, 561
+  orig: 275, 561
+  offset: 0, 0
+  index: -1
+rabbin 1 - R
+  rotate: true
+  xy: 2, 2246
+  size: 227, 620
+  orig: 227, 620
+  offset: 0, 0
+  index: -1
+rabbin 1 jam
+  rotate: true
+  xy: 714, 2614
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+rabbin 2 - L
+  rotate: true
+  xy: 3726, 2288
+  size: 237, 348
+  orig: 237, 348
+  offset: 0, 0
+  index: -1
+rabbin 2 - R
+  rotate: true
+  xy: 2732, 2310
+  size: 227, 494
+  orig: 227, 494
+  offset: 0, 0
+  index: -1
+underware
+  rotate: false
+  xy: 2329, 2337
+  size: 401, 218
+  orig: 401, 218
+  offset: 0, 0
+  index: -1
+yellow dresses L
+  rotate: true
+  xy: 659, 388
+  size: 526, 642
+  orig: 526, 642
+  offset: 0, 0
+  index: -1
+yellow dresses R
+  rotate: true
+  xy: 1094, 916
+  size: 477, 590
+  orig: 477, 590
+  offset: 0, 0
+  index: -1

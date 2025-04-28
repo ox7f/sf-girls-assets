@@ -1,3 +1,655 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f62c97e167a1c3bb989b806549976aa85feb29d97a99571d577b28ae14b198b2
-size 9778
+
+Chihiro_Spine_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GUN-MID_v1_v2
+  rotate: true
+  xy: 1465, 93
+  size: 449, 459
+  orig: 449, 459
+  offset: 0, 0
+  index: -1
+LEG_LEFT-RIBON_v1_v2
+  rotate: false
+  xy: 1126, 1418
+  size: 282, 210
+  orig: 282, 210
+  offset: 0, 0
+  index: -1
+LEG_LEFT_v1
+  rotate: true
+  xy: 285, 1228
+  size: 209, 692
+  orig: 209, 692
+  offset: 0, 0
+  index: -1
+LEG_LEFT_v22
+  rotate: true
+  xy: 979, 1187
+  size: 209, 692
+  orig: 209, 692
+  offset: 0, 0
+  index: -1
+LEG_LEFT_v3
+  rotate: true
+  xy: 750, 678
+  size: 261, 722
+  orig: 261, 722
+  offset: 0, 0
+  index: -1
+SWIM-SUIT-RIBON3
+  rotate: true
+  xy: 364, 1923
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 924, 1994
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+body_lower_v2
+  rotate: true
+  xy: 478, 1462
+  size: 203, 240
+  orig: 203, 240
+  offset: 0, 0
+  index: -1
+body_upper_v2
+  rotate: false
+  xy: 1777, 1370
+  size: 269, 231
+  orig: 269, 231
+  offset: 0, 0
+  index: -1
+body_v1
+  rotate: true
+  xy: 362, 721
+  size: 264, 386
+  orig: 264, 386
+  offset: 0, 0
+  index: -1
+body_v3
+  rotate: true
+  xy: 1566, 870
+  size: 252, 382
+  orig: 252, 382
+  offset: 0, 0
+  index: -1
+boob_left_v3
+  rotate: false
+  xy: 722, 1664
+  size: 146, 138
+  orig: 146, 138
+  offset: 0, 0
+  index: -1
+boob_right_v3
+  rotate: true
+  xy: 870, 1647
+  size: 145, 161
+  orig: 145, 161
+  offset: 0, 0
+  index: -1
+brow_v1
+  rotate: false
+  xy: 1763, 1984
+  size: 110, 62
+  orig: 110, 62
+  offset: 0, 0
+  index: -1
+brow_v2
+  rotate: false
+  xy: 1117, 1989
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+brow_v3
+  rotate: false
+  xy: 1229, 1987
+  size: 137, 59
+  orig: 137, 59
+  offset: 0, 0
+  index: -1
+eye_ball_v1
+  rotate: false
+  xy: 1052, 1905
+  size: 129, 82
+  orig: 129, 82
+  offset: 0, 0
+  index: -1
+eye_ball_v3
+  rotate: false
+  xy: 683, 1917
+  size: 127, 78
+  orig: 127, 78
+  offset: 0, 0
+  index: -1
+eye_frame_v1
+  rotate: false
+  xy: 1396, 1899
+  size: 140, 85
+  orig: 140, 85
+  offset: 0, 0
+  index: -1
+eye_frame_v2
+  rotate: false
+  xy: 911, 1907
+  size: 139, 81
+  orig: 139, 81
+  offset: 0, 0
+  index: -1
+eye_frame_v3
+  rotate: false
+  xy: 458, 1923
+  size: 140, 75
+  orig: 140, 75
+  offset: 0, 0
+  index: -1
+eye_light_v1
+  rotate: false
+  xy: 1875, 1984
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+eye_light_v2
+  rotate: false
+  xy: 1459, 1986
+  size: 145, 60
+  orig: 145, 60
+  offset: 0, 0
+  index: -1
+eye_light_v3
+  rotate: false
+  xy: 703, 1997
+  size: 109, 49
+  orig: 109, 49
+  offset: 0, 0
+  index: -1
+eye_skin_v2
+  rotate: false
+  xy: 136, 1934
+  size: 139, 70
+  orig: 139, 70
+  offset: 0, 0
+  index: -1
+eyes_ball_v2
+  rotate: false
+  xy: 110, 1832
+  size: 132, 100
+  orig: 132, 100
+  offset: 0, 0
+  index: -1
+eyeskin_v1
+  rotate: false
+  xy: 1538, 1899
+  size: 135, 85
+  orig: 135, 85
+  offset: 0, 0
+  index: -1
+eyeskin_v3
+  rotate: false
+  xy: 2, 1941
+  size: 132, 68
+  orig: 132, 68
+  offset: 0, 0
+  index: -1
+eyeslash_L_v3
+  rotate: false
+  xy: 482, 2000
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+eyeslash_R_v3
+  rotate: false
+  xy: 162, 2009
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+eyeslash_left_v1
+  rotate: false
+  xy: 1606, 1986
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+eyeslash_left_v2
+  rotate: false
+  xy: 1686, 1986
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+eyeslash_right_v1
+  rotate: false
+  xy: 227, 2006
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+eyeslash_right_v2
+  rotate: false
+  xy: 52, 2013
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1414, 1617
+  size: 164, 201
+  orig: 164, 201
+  offset: 0, 0
+  index: -1
+face_red_v1_v2
+  rotate: false
+  xy: 1291, 1785
+  size: 176, 112
+  orig: 176, 112
+  offset: 0, 0
+  index: -1
+face_red_v3
+  rotate: false
+  xy: 2, 1704
+  size: 188, 126
+  orig: 188, 126
+  offset: 0, 0
+  index: -1
+gun-pet1_v1
+  rotate: false
+  xy: 712, 328
+  size: 360, 348
+  orig: 360, 348
+  offset: 0, 0
+  index: -1
+gun-pet1_v2
+  rotate: true
+  xy: 2, 387
+  size: 345, 353
+  orig: 345, 353
+  offset: 0, 0
+  index: -1
+gun-pet1_v33
+  rotate: true
+  xy: 357, 374
+  size: 345, 353
+  orig: 345, 353
+  offset: 0, 0
+  index: -1
+gun-pet2_v1
+  rotate: true
+  xy: 1673, 1124
+  size: 244, 359
+  orig: 244, 359
+  offset: 0, 0
+  index: -1
+gun_pet2_v2
+  rotate: true
+  xy: 844, 941
+  size: 244, 359
+  orig: 244, 359
+  offset: 0, 0
+  index: -1
+gun_pet_R_v3
+  rotate: true
+  xy: 1205, 941
+  size: 244, 359
+  orig: 244, 359
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 1469, 1783
+  size: 114, 177
+  orig: 114, 177
+  offset: 0, 0
+  index: -1
+hair_left
+  rotate: true
+  xy: 598, 1804
+  size: 106, 282
+  orig: 106, 282
+  offset: 0, 0
+  index: -1
+hair_left2
+  rotate: true
+  xy: 378, 1818
+  size: 103, 218
+  orig: 103, 218
+  offset: 0, 0
+  index: -1
+hair_right
+  rotate: true
+  xy: 1033, 1640
+  size: 149, 209
+  orig: 149, 209
+  offset: 0, 0
+  index: -1
+hair_right3
+  rotate: true
+  xy: 882, 1794
+  size: 111, 166
+  orig: 111, 166
+  offset: 0, 0
+  index: -1
+hair_tail_L
+  rotate: false
+  xy: 1474, 544
+  size: 440, 324
+  orig: 440, 324
+  offset: 0, 0
+  index: -1
+hair_tail_R
+  rotate: false
+  xy: 2, 734
+  size: 358, 252
+  orig: 358, 252
+  offset: 0, 0
+  index: -1
+hand-as-left_v1
+  rotate: true
+  xy: 582, 1667
+  size: 135, 138
+  orig: 135, 138
+  offset: 0, 0
+  index: -1
+hand_left2_v2_v3
+  rotate: true
+  xy: 356, 1686
+  size: 130, 224
+  orig: 130, 224
+  offset: 0, 0
+  index: -1
+hand_left_as_v2_v3
+  rotate: false
+  xy: 1648, 1772
+  size: 126, 120
+  orig: 126, 120
+  offset: 0, 0
+  index: -1
+hand_left_v1
+  rotate: true
+  xy: 2, 1260
+  size: 234, 281
+  orig: 234, 281
+  offset: 0, 0
+  index: -1
+hand_left_v2_v3
+  rotate: true
+  xy: 1050, 1791
+  size: 110, 239
+  orig: 110, 239
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 2, 988
+  size: 387, 238
+  orig: 387, 238
+  offset: 0, 0
+  index: -1
+hand_right-as
+  rotate: true
+  xy: 2, 1841
+  size: 98, 106
+  orig: 98, 106
+  offset: 0, 0
+  index: -1
+hand_right_as2
+  rotate: true
+  xy: 244, 1819
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+head-as
+  rotate: false
+  xy: 1617, 1603
+  size: 308, 157
+  orig: 308, 157
+  offset: 0, 0
+  index: -1
+leg_L_ribon_v3
+  rotate: false
+  xy: 1183, 1903
+  size: 112, 82
+  orig: 112, 82
+  offset: 0, 0
+  index: -1
+leg_left_ribon2_v1
+  rotate: true
+  xy: 1675, 1897
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1
+leg_left_ribon2_v2
+  rotate: true
+  xy: 1297, 1901
+  size: 84, 97
+  orig: 84, 97
+  offset: 0, 0
+  index: -1
+leg_left_ribon_v1
+  rotate: false
+  xy: 1873, 1886
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+leg_left_ribon_v2
+  rotate: true
+  xy: 1775, 1894
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+leg_right-ribon1_v1_v2
+  rotate: false
+  xy: 293, 2001
+  size: 134, 45
+  orig: 134, 45
+  offset: 0, 0
+  index: -1
+leg_right-ribon2_v1_v2
+  rotate: false
+  xy: 720, 1439
+  size: 404, 199
+  orig: 404, 199
+  offset: 0, 0
+  index: -1
+mouth_v1
+  rotate: false
+  xy: 429, 2001
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+mouth_v2
+  rotate: false
+  xy: 2, 2017
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+mouth_v3
+  rotate: false
+  xy: 559, 2000
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+neck_V1_V2
+  rotate: true
+  xy: 600, 1921
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+neck_as_back
+  rotate: false
+  xy: 814, 1996
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+neck_as_front
+  rotate: false
+  xy: 1410, 1398
+  size: 365, 203
+  orig: 365, 203
+  offset: 0, 0
+  index: -1
+neck_v3
+  rotate: true
+  xy: 277, 1926
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 274, 1496
+  size: 202, 188
+  orig: 202, 188
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 2, 1516
+  size: 270, 173
+  orig: 270, 173
+  offset: 0, 0
+  index: -1
+smoke3
+  rotate: false
+  xy: 1074, 200
+  size: 389, 476
+  orig: 389, 476
+  offset: 0, 0
+  index: -1
+smoke4
+  rotate: false
+  xy: 192, 1691
+  size: 162, 126
+  orig: 162, 126
+  offset: 0, 0
+  index: -1
+swim-suit-as_v1
+  rotate: false
+  xy: 1776, 1762
+  size: 202, 122
+  orig: 202, 122
+  offset: 0, 0
+  index: -1
+swim-suit-ribon
+  rotate: true
+  xy: 1368, 1987
+  size: 59, 89
+  orig: 59, 89
+  offset: 0, 0
+  index: -1
+swim-suit-ribon2_v1
+  rotate: false
+  xy: 812, 1912
+  size: 97, 82
+  orig: 97, 82
+  offset: 0, 0
+  index: -1
+swim-tool-back_v1
+  rotate: false
+  xy: 391, 987
+  size: 451, 239
+  orig: 451, 239
+  offset: 0, 0
+  index: -1
+swim_suit_as_R_v2
+  rotate: true
+  xy: 980, 1990
+  size: 56, 135
+  orig: 56, 135
+  offset: 0, 0
+  index: -1
+swim_suit_as_v3
+  rotate: true
+  xy: 608, 2000
+  size: 46, 93
+  orig: 46, 93
+  offset: 0, 0
+  index: -1
+swin_suit_as_v2
+  rotate: true
+  xy: 1244, 1630
+  size: 153, 168
+  orig: 153, 168
+  offset: 0, 0
+  index: -1
+water_v3
+  rotate: true
+  xy: 120, 2011
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+
+Chihiro_Spine_Skin1_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gun_back_v3
+  rotate: false
+  xy: 2, 716
+  size: 1050, 1104
+  orig: 1050, 1104
+  offset: 0, 0
+  index: -1
+gun_v3
+  rotate: true
+  xy: 1054, 1371
+  size: 449, 458
+  orig: 449, 458
+  offset: 0, 0
+  index: -1
+leg_right_v1_v2
+  rotate: true
+  xy: 2, 2
+  size: 712, 375
+  orig: 712, 375
+  offset: 0, 0
+  index: -1
+leg_right_v3
+  rotate: true
+  xy: 379, 2
+  size: 712, 375
+  orig: 712, 375
+  offset: 0, 0
+  index: -1
+swim-tool-front_v1
+  rotate: false
+  xy: 756, 145
+  size: 458, 569
+  orig: 458, 569
+  offset: 0, 0
+  index: -1
+
+Chihiro_Spine_Skin1_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gun_back_v1_v2
+  rotate: false
+  xy: 2, 2
+  size: 1049, 1104
+  orig: 1049, 1104
+  offset: 0, 0
+  index: -1

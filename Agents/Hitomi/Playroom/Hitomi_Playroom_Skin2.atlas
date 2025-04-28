@@ -1,3 +1,606 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ad4a95bdea516f013bb90711f9aa5d898bcd418a55aeb6061c6fa855fde035d
-size 8773
+
+Hitomi_Playroom_Skin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackHair
+  rotate: false
+  xy: 866, 631
+  size: 544, 292
+  orig: 544, 292
+  offset: 0, 0
+  index: -1
+Bag_belt
+  rotate: true
+  xy: 2, 1916
+  size: 94, 141
+  orig: 94, 141
+  offset: 0, 0
+  index: -1
+Bag_belt_B
+  rotate: false
+  xy: 1780, 1950
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+Bag_light_1
+  rotate: false
+  xy: 2, 120
+  size: 374, 361
+  orig: 374, 361
+  offset: 0, 0
+  index: -1
+Bag_light_2
+  rotate: false
+  xy: 1412, 606
+  size: 377, 308
+  orig: 377, 308
+  offset: 0, 0
+  index: -1
+Bag_light_3
+  rotate: false
+  xy: 378, 2
+  size: 387, 365
+  orig: 387, 365
+  offset: 0, 0
+  index: -1
+Bow_L1
+  rotate: false
+  xy: 1267, 1191
+  size: 333, 251
+  orig: 333, 251
+  offset: 0, 0
+  index: -1
+Bow_L2
+  rotate: true
+  xy: 466, 1008
+  size: 255, 419
+  orig: 255, 419
+  offset: 0, 0
+  index: -1
+Bow_R1
+  rotate: false
+  xy: 795, 286
+  size: 451, 343
+  orig: 451, 343
+  offset: 0, 0
+  index: -1
+Bow_R2
+  rotate: true
+  xy: 1511, 916
+  size: 251, 492
+  orig: 251, 492
+  offset: 0, 0
+  index: -1
+Bust_L
+  rotate: false
+  xy: 927, 1237
+  size: 338, 233
+  orig: 338, 233
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 514, 1875
+  size: 110, 104
+  orig: 110, 104
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 145, 1885
+  size: 149, 98
+  orig: 149, 98
+  offset: 0, 0
+  index: -1
+Eye_L_B
+  rotate: false
+  xy: 1484, 1965
+  size: 166, 70
+  orig: 166, 70
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 482, 1982
+  size: 53, 138
+  orig: 53, 138
+  offset: 0, 0
+  index: -1
+Eye_R_B
+  rotate: true
+  xy: 1874, 1943
+  size: 92, 134
+  orig: 92, 134
+  offset: 0, 0
+  index: -1
+Eyebrow_L
+  rotate: true
+  xy: 976, 1970
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+Eyebrow_R
+  rotate: true
+  xy: 622, 1981
+  size: 54, 105
+  orig: 54, 105
+  offset: 0, 0
+  index: -1
+Eyelid_L1
+  rotate: true
+  xy: 1066, 1970
+  size: 65, 95
+  orig: 65, 95
+  offset: 0, 0
+  index: -1
+Eyelid_L1_B
+  rotate: true
+  xy: 900, 1971
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+Eyelid_L2
+  rotate: true
+  xy: 1307, 1968
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+Eyelid_R1
+  rotate: true
+  xy: 1163, 1969
+  size: 66, 142
+  orig: 66, 142
+  offset: 0, 0
+  index: -1
+Eyelid_R2
+  rotate: true
+  xy: 1652, 1961
+  size: 74, 126
+  orig: 74, 126
+  offset: 0, 0
+  index: -1
+Eyelight_L
+  rotate: false
+  xy: 58, 2017
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Eyelight_R
+  rotate: true
+  xy: 81, 2017
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Finger_1_B
+  rotate: false
+  xy: 1107, 1842
+  size: 191, 125
+  orig: 191, 125
+  offset: 0, 0
+  index: -1
+Finger_2_B
+  rotate: false
+  xy: 1454, 1835
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+Finger_3_B
+  rotate: true
+  xy: 410, 1732
+  size: 141, 193
+  orig: 141, 193
+  offset: 0, 0
+  index: -1
+Finger_L1
+  rotate: true
+  xy: 2, 1771
+  size: 143, 139
+  orig: 143, 139
+  offset: 0, 0
+  index: -1
+Finger_L2
+  rotate: true
+  xy: 729, 1973
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+Fish_L
+  rotate: false
+  xy: 626, 1864
+  size: 128, 107
+  orig: 128, 107
+  offset: 0, 0
+  index: -1
+Fish_R
+  rotate: true
+  xy: 1615, 1826
+  size: 133, 154
+  orig: 133, 154
+  offset: 0, 0
+  index: -1
+FrontHair_L
+  rotate: false
+  xy: 2, 797
+  size: 458, 266
+  orig: 458, 266
+  offset: 0, 0
+  index: -1
+FrontHair_L_B
+  rotate: false
+  xy: 2, 1065
+  size: 462, 245
+  orig: 462, 245
+  offset: 0, 0
+  index: -1
+FrontHair_M1
+  rotate: false
+  xy: 1248, 256
+  size: 449, 348
+  orig: 449, 348
+  offset: 0, 0
+  index: -1
+FrontHair_M2
+  rotate: true
+  xy: 2, 1340
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1
+FrontHair_M3
+  rotate: true
+  xy: 1602, 1169
+  size: 247, 369
+  orig: 247, 369
+  offset: 0, 0
+  index: -1
+FrontHair_M4
+  rotate: true
+  xy: 887, 979
+  size: 256, 327
+  orig: 256, 327
+  offset: 0, 0
+  index: -1
+FrontHair_M_back
+  rotate: true
+  xy: 756, 1864
+  size: 104, 349
+  orig: 104, 349
+  offset: 0, 0
+  index: -1
+FrontHair_dark
+  rotate: false
+  xy: 408, 369
+  size: 385, 333
+  orig: 385, 333
+  offset: 0, 0
+  index: -1
+GG_Shot_B
+  rotate: false
+  xy: 1216, 925
+  size: 293, 264
+  orig: 293, 264
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 1433, 1655
+  size: 200, 169
+  orig: 200, 169
+  offset: 0, 0
+  index: -1
+Hand_R_B
+  rotate: false
+  xy: 1771, 1807
+  size: 164, 134
+  orig: 164, 134
+  offset: 0, 0
+  index: -1
+HeadFlower
+  rotate: false
+  xy: 788, 1493
+  size: 294, 195
+  orig: 294, 195
+  offset: 0, 0
+  index: -1
+HeadFlower_Button
+  rotate: false
+  xy: 1300, 1841
+  size: 152, 125
+  orig: 152, 125
+  offset: 0, 0
+  index: -1
+HeadFlower_L
+  rotate: false
+  xy: 167, 1985
+  size: 231, 50
+  orig: 231, 50
+  offset: 0, 0
+  index: -1
+HeadFlower_R
+  rotate: false
+  xy: 296, 1878
+  size: 216, 102
+  orig: 216, 102
+  offset: 0, 0
+  index: -1
+Hip_ML
+  rotate: true
+  xy: 1084, 1472
+  size: 201, 288
+  orig: 201, 288
+  offset: 0, 0
+  index: -1
+Hip_MR
+  rotate: true
+  xy: 906, 1690
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+Leg_Ring
+  rotate: false
+  xy: 475, 1529
+  size: 311, 184
+  orig: 311, 184
+  offset: 0, 0
+  index: -1
+Leg_Ring_back
+  rotate: false
+  xy: 605, 1715
+  size: 299, 147
+  orig: 299, 147
+  offset: 0, 0
+  index: -1
+LowerArm_R
+  rotate: true
+  xy: 245, 1312
+  size: 215, 380
+  orig: 215, 380
+  offset: 0, 0
+  index: -1
+LowerArm_R_B
+  rotate: false
+  xy: 2, 483
+  size: 404, 312
+  orig: 404, 312
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 400, 1983
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+Mouth_B
+  rotate: true
+  xy: 1387, 1968
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1634, 1418
+  size: 249, 212
+  orig: 249, 212
+  offset: 0, 0
+  index: -1
+Neck_B
+  rotate: false
+  xy: 2, 1560
+  size: 271, 174
+  orig: 271, 174
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 834, 1972
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+Pony
+  rotate: true
+  xy: 627, 1265
+  size: 226, 298
+  orig: 226, 298
+  offset: 0, 0
+  index: -1
+RedBow_L
+  rotate: false
+  xy: 275, 1551
+  size: 198, 179
+  orig: 198, 179
+  offset: 0, 0
+  index: -1
+Shy
+  rotate: true
+  xy: 143, 1736
+  size: 140, 265
+  orig: 140, 265
+  offset: 0, 0
+  index: -1
+WaterShot_1_B
+  rotate: false
+  xy: 462, 704
+  size: 402, 302
+  orig: 402, 302
+  offset: 0, 0
+  index: -1
+WaterShot_2_B
+  rotate: true
+  xy: 1374, 1444
+  size: 209, 258
+  orig: 209, 258
+  offset: 0, 0
+  index: -1
+WaterShot_3_B
+  rotate: false
+  xy: 1208, 1675
+  size: 223, 164
+  orig: 223, 164
+  offset: 0, 0
+  index: -1
+WaterShot_Hole_B
+  rotate: true
+  xy: 1635, 1632
+  size: 173, 256
+  orig: 173, 256
+  offset: 0, 0
+  index: -1
+Water_1
+  rotate: true
+  xy: 2, 2021
+  size: 14, 54
+  orig: 14, 54
+  offset: 0, 0
+  index: -1
+Water_2
+  rotate: true
+  xy: 113, 2012
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+
+Hitomi_Playroom_Skin2_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_R_B
+  rotate: false
+  xy: 626, 749
+  size: 537, 461
+  orig: 537, 461
+  offset: 0, 0
+  index: -1
+Bag
+  rotate: true
+  xy: 456, 1266
+  size: 392, 408
+  orig: 392, 408
+  offset: 0, 0
+  index: -1
+Bust_R
+  rotate: true
+  xy: 1402, 1611
+  size: 370, 371
+  orig: 370, 371
+  offset: 0, 0
+  index: -1
+Bust_R_B
+  rotate: true
+  xy: 903, 1628
+  size: 353, 497
+  orig: 353, 497
+  offset: 0, 0
+  index: -1
+GG
+  rotate: false
+  xy: 1429, 1188
+  size: 552, 421
+  orig: 552, 421
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 1267
+  size: 452, 391
+  orig: 452, 391
+  offset: 0, 0
+  index: -1
+Hip_L
+  rotate: true
+  xy: 2, 341
+  size: 502, 511
+  orig: 502, 511
+  offset: 0, 0
+  index: -1
+LowerLeg_L
+  rotate: false
+  xy: 2, 1660
+  size: 899, 321
+  orig: 899, 321
+  offset: 0, 0
+  index: -1
+UpperArm_R
+  rotate: true
+  xy: 2, 845
+  size: 419, 622
+  orig: 419, 622
+  offset: 0, 0
+  index: -1
+UpperArm_R_B
+  rotate: false
+  xy: 866, 1212
+  size: 561, 397
+  orig: 561, 397
+  offset: 0, 0
+  index: -1
+UpperLeg_R
+  rotate: true
+  xy: 515, 230
+  size: 479, 971
+  orig: 479, 971
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1165, 711
+  size: 672, 475
+  orig: 672, 475
+  offset: 0, 0
+  index: -1
+
+Hitomi_Playroom_Skin2_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Foot_R
+  rotate: false
+  xy: 799, 1114
+  size: 720, 623
+  orig: 720, 623
+  offset: 0, 0
+  index: -1
+Hip_R
+  rotate: false
+  xy: 717, 2
+  size: 639, 578
+  orig: 639, 578
+  offset: 0, 0
+  index: -1
+LowLeg_R
+  rotate: false
+  xy: 2, 157
+  size: 713, 632
+  orig: 713, 632
+  offset: 0, 0
+  index: -1
+UpperLeg_L
+  rotate: true
+  xy: 799, 582
+  size: 530, 799
+  orig: 530, 799
+  offset: 0, 0
+  index: -1
+WateShotr_B
+  rotate: false
+  xy: 2, 791
+  size: 795, 946
+  orig: 795, 946
+  offset: 0, 0
+  index: -1

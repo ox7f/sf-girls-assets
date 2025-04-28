@@ -1,3 +1,285 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce26a120757f313f8fd41b79dc43a5f62680340ce6468785c91b48dbf1b2ee90
-size 4167
+
+Aoi_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Lower L
+  rotate: true
+  xy: 945, 3099
+  size: 333, 355
+  orig: 333, 355
+  offset: 0, 0
+  index: -1
+Arm Lower R
+  rotate: false
+  xy: 1962, 3411
+  size: 378, 208
+  orig: 378, 208
+  offset: 0, 0
+  index: -1
+Arm Upper L
+  rotate: false
+  xy: 2342, 3396
+  size: 567, 223
+  orig: 567, 223
+  offset: 0, 0
+  index: -1
+Arm Upper R
+  rotate: true
+  xy: 407, 3149
+  size: 328, 536
+  orig: 328, 536
+  offset: 0, 0
+  index: -1
+B1 HandL
+  rotate: true
+  xy: 1198, 2005
+  size: 550, 986
+  orig: 550, 986
+  offset: 0, 0
+  index: -1
+B1 HandR
+  rotate: false
+  xy: 2186, 1882
+  size: 829, 650
+  orig: 829, 650
+  offset: 0, 0
+  index: -1
+BG Sofa
+  rotate: false
+  xy: 1289, 1245
+  size: 1239, 635
+  orig: 1239, 635
+  offset: 0, 0
+  index: -1
+Boob L
+  rotate: false
+  xy: 2, 3224
+  size: 403, 275
+  orig: 403, 275
+  offset: 0, 0
+  index: -1
+Boob R
+  rotate: false
+  xy: 2093, 3042
+  size: 359, 352
+  orig: 359, 352
+  offset: 0, 0
+  index: -1
+Calf L
+  rotate: false
+  xy: 3017, 1702
+  size: 1010, 733
+  orig: 1010, 733
+  offset: 0, 0
+  index: -1
+Calf R
+  rotate: true
+  xy: 1113, 340
+  size: 903, 1197
+  orig: 903, 1197
+  offset: 0, 0
+  index: -1
+Face A
+  rotate: false
+  xy: 798, 2652
+  size: 490, 445
+  orig: 490, 445
+  offset: 0, 0
+  index: -1
+Face B
+  rotate: true
+  xy: 3381, 2946
+  size: 440, 395
+  orig: 440, 395
+  offset: 0, 0
+  index: -1
+HAIR_BACK
+  rotate: true
+  xy: 2312, 2
+  size: 939, 975
+  orig: 939, 975
+  offset: 0, 0
+  index: -1
+Hair x
+  rotate: true
+  xy: 1644, 3060
+  size: 349, 447
+  orig: 349, 447
+  offset: 0, 0
+  index: -1
+Hair y
+  rotate: true
+  xy: 2, 2761
+  size: 386, 794
+  orig: 386, 794
+  offset: 0, 0
+  index: -1
+Hair z
+  rotate: true
+  xy: 2, 2195
+  size: 564, 569
+  orig: 564, 569
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: false
+  xy: 3380, 3388
+  size: 400, 231
+  orig: 400, 231
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 2, 587
+  size: 828, 1109
+  orig: 828, 1109
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 573, 2054
+  size: 596, 623
+  orig: 596, 623
+  offset: 0, 0
+  index: -1
+Penis A
+  rotate: true
+  xy: 2984, 3005
+  size: 381, 395
+  orig: 381, 395
+  offset: 0, 0
+  index: -1
+Penis B
+  rotate: false
+  xy: 1290, 2595
+  size: 622, 463
+  orig: 622, 463
+  offset: 0, 0
+  index: -1
+Sperm A u
+  rotate: true
+  xy: 617, 3479
+  size: 140, 390
+  orig: 140, 390
+  offset: 0, 0
+  index: -1
+Sperm A v
+  rotate: true
+  xy: 2, 3502
+  size: 117, 141
+  orig: 117, 141
+  offset: 0, 0
+  index: -1
+Sperm A w
+  rotate: true
+  xy: 1425, 3430
+  size: 189, 194
+  orig: 189, 194
+  offset: 0, 0
+  index: -1
+Sperm A x
+  rotate: false
+  xy: 3782, 3287
+  size: 276, 332
+  orig: 276, 332
+  offset: 0, 0
+  index: -1
+Sperm A y
+  rotate: true
+  xy: 1621, 3419
+  size: 200, 339
+  orig: 200, 339
+  offset: 0, 0
+  index: -1
+Sperm A z
+  rotate: false
+  xy: 1009, 3434
+  size: 414, 185
+  orig: 414, 185
+  offset: 0, 0
+  index: -1
+Sperm B v
+  rotate: true
+  xy: 3275, 2437
+  size: 507, 632
+  orig: 507, 632
+  offset: 0, 0
+  index: -1
+Sperm B w
+  rotate: true
+  xy: 2911, 3391
+  size: 228, 467
+  orig: 228, 467
+  offset: 0, 0
+  index: -1
+Sperm B x
+  rotate: false
+  xy: 145, 3501
+  size: 470, 118
+  orig: 470, 118
+  offset: 0, 0
+  index: -1
+Sperm B y
+  rotate: true
+  xy: 2452, 2534
+  size: 469, 821
+  orig: 469, 821
+  offset: 0, 0
+  index: -1
+Sperm B z
+  rotate: true
+  xy: 2454, 3026
+  size: 363, 528
+  orig: 363, 528
+  offset: 0, 0
+  index: -1
+Thigh L
+  rotate: true
+  xy: 2530, 943
+  size: 757, 1041
+  orig: 757, 1041
+  offset: 0, 0
+  index: -1
+Thigh R
+  rotate: false
+  xy: 2, 1417
+  size: 1285, 586
+  orig: 1285, 586
+  offset: 0, 0
+  index: -1
+Vergina Closed
+  rotate: true
+  xy: 1914, 2557
+  size: 483, 536
+  orig: 483, 536
+  offset: 0, 0
+  index: -1
+Vergina Opened
+  rotate: false
+  xy: 1302, 3079
+  size: 340, 338
+  orig: 340, 338
+  offset: 0, 0
+  index: -1
+
+Aoi_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG new Sofa
+  rotate: false
+  xy: 2, 1237
+  size: 3227, 2258
+  orig: 3227, 2258
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 2
+  size: 1868, 1233
+  orig: 1868, 1233
+  offset: 0, 0
+  index: -1

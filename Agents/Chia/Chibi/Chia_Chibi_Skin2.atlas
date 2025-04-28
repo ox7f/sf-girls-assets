@@ -1,3 +1,419 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d261bc64aa47fbc0ad3c4ea0f409ea5a338468493047c6a209985fdc82fca15e
-size 5825
+
+Chia_Chibi_Skin2.png
+size: 4096,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_1
+  rotate: false
+  xy: 1046, 2
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+A_2
+  rotate: false
+  xy: 1850, 4
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+cat_1
+  rotate: false
+  xy: 1146, 4
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+cat_1_1
+  rotate: true
+  xy: 396, 4
+  size: 250, 291
+  orig: 250, 291
+  offset: 0, 0
+  index: -1
+cat_1_2
+  rotate: false
+  xy: 1538, 115
+  size: 52, 139
+  orig: 52, 139
+  offset: 0, 0
+  index: -1
+cat_2
+  rotate: true
+  xy: 770, 50
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+cat_3
+  rotate: false
+  xy: 1111, 3
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+cat_4
+  rotate: false
+  xy: 1176, 5
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+cat_5
+  rotate: false
+  xy: 689, 2
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+cat_5_2
+  rotate: false
+  xy: 736, 2
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+cat_6
+  rotate: true
+  xy: 2053, 97
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+cat_7
+  rotate: true
+  xy: 1918, 128
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+cat_body_1
+  rotate: false
+  xy: 1314, 100
+  size: 137, 154
+  orig: 137, 154
+  offset: 0, 0
+  index: -1
+cat_cloth_1
+  rotate: false
+  xy: 1776, 128
+  size: 106, 126
+  orig: 106, 126
+  offset: 0, 0
+  index: -1
+cat_cloth_2
+  rotate: true
+  xy: 868, 4
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+cat_cloth_3
+  rotate: false
+  xy: 1012, 4
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+cat_ear_1
+  rotate: false
+  xy: 1997, 71
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+cat_ear_2
+  rotate: true
+  xy: 2009, 203
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+cat_footL_1
+  rotate: false
+  xy: 1900, 39
+  size: 52, 87
+  orig: 52, 87
+  offset: 0, 0
+  index: -1
+cat_footR_1
+  rotate: true
+  xy: 783, 3
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+cat_handL_1
+  rotate: false
+  xy: 1314, 76
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+cat_handL_2
+  rotate: false
+  xy: 1954, 40
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+cat_handL_3
+  rotate: true
+  xy: 1936, 4
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+cat_handR_1
+  rotate: true
+  xy: 1954, 70
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+cat_handR_2
+  rotate: false
+  xy: 2001, 142
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+cat_head_1
+  rotate: true
+  xy: 1592, 118
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: -1
+cat_hook_1
+  rotate: true
+  xy: 1807, 4
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+cat_line_1
+  rotate: false
+  xy: 689, 47
+  size: 40, 207
+  orig: 40, 207
+  offset: 0, 0
+  index: -1
+cat_tail_1
+  rotate: false
+  xy: 1484, 114
+  size: 52, 140
+  orig: 52, 140
+  offset: 0, 0
+  index: -1
+cat_twig_1
+  rotate: true
+  xy: 731, 70
+  size: 184, 173
+  orig: 184, 173
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: true
+  xy: 1718, 127
+  size: 127, 56
+  orig: 127, 56
+  offset: 0, 0
+  index: -1
+fish_1_1
+  rotate: false
+  xy: 1900, 3
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+fish_1_2
+  rotate: false
+  xy: 1943, 128
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+fish_1_3
+  rotate: true
+  xy: 912, 3
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+fish_1_4
+  rotate: true
+  xy: 1807, 26
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+fish_1_5
+  rotate: true
+  xy: 1982, 3
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+fish_2_1
+  rotate: false
+  xy: 2029, 10
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+fish_2_2
+  rotate: false
+  xy: 1776, 4
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+fish_2_3
+  rotate: true
+  xy: 1884, 159
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+fish_2_4
+  rotate: true
+  xy: 906, 73
+  size: 181, 108
+  orig: 181, 108
+  offset: 0, 0
+  index: -1
+fish_2_5
+  rotate: false
+  xy: 2015, 44
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+fish_2_6
+  rotate: false
+  xy: 1931, 179
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+fish_3_1
+  rotate: false
+  xy: 1639, 3
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+fish_3_2
+  rotate: false
+  xy: 2, 4
+  size: 392, 250
+  orig: 392, 250
+  offset: 0, 0
+  index: -1
+fish_A1_1
+  rotate: true
+  xy: 1749, 13
+  size: 112, 25
+  orig: 116, 25
+  offset: 2, 0
+  index: -1
+fish_A2_1
+  rotate: true
+  xy: 1776, 21
+  size: 105, 29
+  orig: 105, 29
+  offset: 0, 0
+  index: -1
+fish_A3_1
+  rotate: true
+  xy: 1453, 112
+  size: 142, 29
+  orig: 142, 29
+  offset: 0, 0
+  index: -1
+fish_A_1
+  rotate: true
+  xy: 1982, 197
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+fish_A_2
+  rotate: false
+  xy: 1592, 100
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+fish_A_3
+  rotate: false
+  xy: 1538, 100
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+fish_A_4
+  rotate: false
+  xy: 1981, 42
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+fish_A_7
+  rotate: false
+  xy: 1375, 3
+  size: 262, 95
+  orig: 262, 95
+  offset: 0, 0
+  index: -1
+fish_A_8
+  rotate: false
+  xy: 1111, 15
+  size: 262, 59
+  orig: 262, 59
+  offset: 0, 0
+  index: -1
+water_1
+  rotate: false
+  xy: 1343, 76
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+water_2
+  rotate: true
+  xy: 1884, 128
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+water_3
+  rotate: false
+  xy: 731, 47
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+water_4
+  rotate: true
+  xy: 1619, 101
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+water_5
+  rotate: false
+  xy: 749, 49
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+water_6
+  rotate: false
+  xy: 1016, 76
+  size: 296, 178
+  orig: 296, 178
+  offset: 0, 0
+  index: -1

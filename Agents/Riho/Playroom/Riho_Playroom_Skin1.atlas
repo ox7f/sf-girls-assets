@@ -1,3 +1,691 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:527775d3e51a12b13d1577d09e5f218d57a3c254be6ce4b284f15226ca292a39
-size 10063
+
+Riho_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_02_Liquid
+  rotate: true
+  xy: 150, 3919
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+01_Eyebottom
+  rotate: false
+  xy: 3124, 3692
+  size: 321, 149
+  orig: 321, 149
+  offset: 0, 0
+  index: -1
+01_Eyelash
+  rotate: false
+  xy: 2524, 3721
+  size: 369, 139
+  orig: 369, 139
+  offset: 0, 0
+  index: -1
+01_Eyelid
+  rotate: false
+  xy: 1718, 3751
+  size: 284, 130
+  orig: 284, 130
+  offset: 0, 0
+  index: -1
+01_Hand_L
+  rotate: false
+  xy: 1665, 2078
+  size: 641, 520
+  orig: 641, 520
+  offset: 0, 0
+  index: -1
+01_Hand_R
+  rotate: false
+  xy: 393, 3793
+  size: 214, 118
+  orig: 214, 118
+  offset: 0, 0
+  index: -1
+01_Hand_R_1
+  rotate: false
+  xy: 2305, 3880
+  size: 170, 58
+  orig: 170, 58
+  offset: 0, 0
+  index: -1
+01_Hand_R_2
+  rotate: false
+  xy: 659, 2713
+  size: 1188, 322
+  orig: 1188, 322
+  offset: 0, 0
+  index: -1
+01_Hand_R_sleeve
+  rotate: false
+  xy: 548, 2231
+  size: 1115, 480
+  orig: 1115, 480
+  offset: 0, 0
+  index: -1
+01_Leg_L
+  rotate: true
+  xy: 2, 613
+  size: 802, 1147
+  orig: 802, 1147
+  offset: 0, 0
+  index: -1
+01_Leg_R
+  rotate: true
+  xy: 1151, 350
+  size: 869, 1081
+  orig: 869, 1081
+  offset: 0, 0
+  index: -1
+01_Liquid
+  rotate: true
+  xy: 68, 3923
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+01_Liquid_2
+  rotate: true
+  xy: 35, 3926
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1
+01_Mouth
+  rotate: false
+  xy: 1592, 3897
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+01_Sweat
+  rotate: true
+  xy: 188, 3919
+  size: 19, 85
+  orig: 19, 85
+  offset: 0, 0
+  index: -1
+01_Sweat1
+  rotate: true
+  xy: 640, 3912
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+02_Sweat
+  rotate: true
+  xy: 640, 3912
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+01_Sweat2
+  rotate: true
+  xy: 522, 3916
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+02_Sweat7
+  rotate: true
+  xy: 522, 3916
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+01_Sweat3
+  rotate: true
+  xy: 574, 3913
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+01_Sweat4
+  rotate: false
+  xy: 2052, 2972
+  size: 484, 296
+  orig: 484, 296
+  offset: 0, 0
+  index: -1
+02_A_Hand_R
+  rotate: true
+  xy: 3840, 3833
+  size: 105, 199
+  orig: 105, 199
+  offset: 0, 0
+  index: -1
+02_A_Hand_R_1
+  rotate: true
+  xy: 2625, 3868
+  size: 70, 127
+  orig: 70, 127
+  offset: 0, 0
+  index: -1
+02_A_Hand_R_2
+  rotate: false
+  xy: 1587, 1221
+  size: 1204, 716
+  orig: 1204, 716
+  offset: 0, 0
+  index: -1
+02_A_Hand_R_sleeve
+  rotate: true
+  xy: 3037, 2877
+  size: 351, 473
+  orig: 351, 473
+  offset: 0, 0
+  index: -1
+02_A_Hand_R_sleeve_1
+  rotate: false
+  xy: 3770, 3667
+  size: 254, 164
+  orig: 254, 164
+  offset: 0, 0
+  index: -1
+02_B_hand_L
+  rotate: false
+  xy: 715, 3604
+  size: 277, 178
+  orig: 277, 178
+  offset: 0, 0
+  index: -1
+02_Eyebottom
+  rotate: false
+  xy: 3447, 3687
+  size: 321, 149
+  orig: 321, 149
+  offset: 0, 0
+  index: -1
+02_Hand_L
+  rotate: false
+  xy: 2308, 1939
+  size: 592, 574
+  orig: 592, 574
+  offset: 0, 0
+  index: -1
+02_Hand_L_1
+  rotate: true
+  xy: 2332, 3729
+  size: 142, 190
+  orig: 142, 190
+  offset: 0, 0
+  index: -1
+02_Leg_L
+  rotate: true
+  xy: 2234, 2
+  size: 1120, 1159
+  orig: 1120, 1159
+  offset: 0, 0
+  index: -1
+02_Leg_R
+  rotate: true
+  xy: 2793, 1124
+  size: 763, 1094
+  orig: 763, 1094
+  offset: 0, 0
+  index: -1
+02_Liquid
+  rotate: false
+  xy: 549, 3916
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+02_Liquid_2
+  rotate: true
+  xy: 1916, 3883
+  size: 55, 115
+  orig: 55, 115
+  offset: 0, 0
+  index: -1
+02_Sweat1
+  rotate: true
+  xy: 275, 3919
+  size: 19, 76
+  orig: 19, 76
+  offset: 0, 0
+  index: -1
+02_Sweat2
+  rotate: true
+  xy: 1342, 3906
+  size: 32, 97
+  orig: 32, 97
+  offset: 0, 0
+  index: -1
+02_Sweat3
+  rotate: true
+  xy: 1828, 3884
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+02_Sweat4
+  rotate: true
+  xy: 1669, 3897
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+02_Sweat5
+  rotate: true
+  xy: 446, 3918
+  size: 20, 74
+  orig: 20, 74
+  offset: 0, 0
+  index: -1
+02_Sweat6
+  rotate: true
+  xy: 101, 3921
+  size: 17, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+02_Sweat8
+  rotate: true
+  xy: 353, 3919
+  size: 19, 59
+  orig: 19, 59
+  offset: 0, 0
+  index: -1
+02_Sweat9
+  rotate: true
+  xy: 713, 1417
+  size: 812, 872
+  orig: 812, 872
+  offset: 0, 0
+  index: -1
+02_mouth
+  rotate: false
+  xy: 2477, 3873
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+Ass_Cloth
+  rotate: false
+  xy: 3000, 2427
+  size: 754, 391
+  orig: 754, 391
+  offset: 0, 0
+  index: -1
+B_Penis
+  rotate: false
+  xy: 514, 3137
+  size: 618, 266
+  orig: 618, 266
+  offset: 0, 0
+  index: -1
+B_Penis_Sperm
+  rotate: false
+  xy: 2538, 2953
+  size: 497, 307
+  orig: 497, 307
+  offset: 0, 0
+  index: -1
+B_Sperm
+  rotate: true
+  xy: 2754, 3862
+  size: 76, 301
+  orig: 76, 301
+  offset: 0, 0
+  index: -1
+B_Sperm_1
+  rotate: true
+  xy: 1365, 3565
+  size: 184, 532
+  orig: 184, 532
+  offset: 0, 0
+  index: -1
+B_Sperm_2
+  rotate: false
+  xy: 1849, 2600
+  size: 653, 370
+  orig: 653, 370
+  offset: 0, 0
+  index: -1
+B_Sperm_3
+  rotate: false
+  xy: 3103, 3230
+  size: 425, 247
+  orig: 425, 247
+  offset: 0, 0
+  index: -1
+B_Sperm_4
+  rotate: false
+  xy: 2554, 3873
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+B_Sperm_5
+  rotate: true
+  xy: 2895, 3700
+  size: 145, 227
+  orig: 145, 227
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 1536
+  size: 709, 693
+  orig: 709, 693
+  offset: 0, 0
+  index: -1
+Breast_R
+  rotate: true
+  xy: 2726, 3262
+  size: 241, 375
+  orig: 241, 375
+  offset: 0, 0
+  index: -1
+Breast_R_Shadow
+  rotate: true
+  xy: 3676, 3442
+  size: 223, 295
+  orig: 223, 295
+  offset: 0, 0
+  index: -1
+Cloth_back
+  rotate: true
+  xy: 609, 3792
+  size: 118, 197
+  orig: 118, 197
+  offset: 0, 0
+  index: -1
+Eyebow
+  rotate: false
+  xy: 3057, 3847
+  size: 236, 91
+  orig: 236, 91
+  offset: 0, 0
+  index: -1
+Face_Red
+  rotate: false
+  xy: 994, 3600
+  size: 369, 182
+  orig: 369, 182
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 1367, 3766
+  size: 129, 349
+  orig: 129, 349
+  offset: 0, 0
+  index: -1
+Hair_1
+  rotate: true
+  xy: 2033, 3881
+  size: 57, 270
+  orig: 57, 270
+  offset: 0, 0
+  index: -1
+Hair_10
+  rotate: true
+  xy: 449, 3405
+  size: 193, 685
+  orig: 193, 685
+  offset: 0, 0
+  index: -1
+Hair_11
+  rotate: true
+  xy: 2, 3804
+  size: 113, 389
+  orig: 113, 389
+  offset: 0, 0
+  index: -1
+Hair_2
+  rotate: true
+  xy: 3544, 3838
+  size: 100, 294
+  orig: 100, 294
+  offset: 0, 0
+  index: -1
+Hair_3
+  rotate: true
+  xy: 3295, 3843
+  size: 95, 247
+  orig: 95, 247
+  offset: 0, 0
+  index: -1
+Hair_4
+  rotate: false
+  xy: 3530, 3191
+  size: 373, 249
+  orig: 373, 249
+  offset: 0, 0
+  index: -1
+Hair_5
+  rotate: true
+  xy: 808, 3784
+  size: 120, 557
+  orig: 120, 557
+  offset: 0, 0
+  index: -1
+Hair_5_1
+  rotate: true
+  xy: 2, 3435
+  size: 195, 445
+  orig: 195, 445
+  offset: 0, 0
+  index: -1
+Hair_5_2
+  rotate: false
+  xy: 2, 2273
+  size: 544, 514
+  orig: 544, 514
+  offset: 0, 0
+  index: -1
+Hair_6
+  rotate: true
+  xy: 1136, 3361
+  size: 202, 694
+  orig: 202, 694
+  offset: 0, 0
+  index: -1
+Hair_7
+  rotate: true
+  xy: 1899, 3539
+  size: 188, 561
+  orig: 188, 561
+  offset: 0, 0
+  index: -1
+Hair_8
+  rotate: false
+  xy: 2209, 3283
+  size: 244, 254
+  orig: 244, 254
+  offset: 0, 0
+  index: -1
+Hair_9
+  rotate: false
+  xy: 2902, 1889
+  size: 725, 536
+  orig: 725, 536
+  offset: 0, 0
+  index: -1
+Hair_shadow
+  rotate: false
+  xy: 3512, 2820
+  size: 421, 369
+  orig: 421, 369
+  offset: 0, 0
+  index: -1
+Hand_L_up
+  rotate: true
+  xy: 2462, 3519
+  size: 200, 332
+  orig: 200, 332
+  offset: 0, 0
+  index: -1
+Hand_R_1
+  rotate: false
+  xy: 1134, 3085
+  size: 464, 274
+  orig: 464, 274
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2504, 2515
+  size: 436, 494
+  orig: 436, 494
+  offset: 0, 0
+  index: -1
+Headwear
+  rotate: false
+  xy: 2, 2789
+  size: 655, 346
+  orig: 655, 346
+  offset: 0, 0
+  index: -1
+Headwear_1
+  rotate: false
+  xy: 1441, 3900
+  size: 149, 38
+  orig: 149, 38
+  offset: 0, 0
+  index: -1
+Headwear_2
+  rotate: false
+  xy: 2, 3150
+  size: 510, 253
+  orig: 510, 253
+  offset: 0, 0
+  index: -1
+Headwear_3
+  rotate: true
+  xy: 2004, 3741
+  size: 137, 326
+  orig: 137, 326
+  offset: 0, 0
+  index: -1
+Headwear_4
+  rotate: true
+  xy: 1600, 3037
+  size: 275, 450
+  orig: 275, 450
+  offset: 0, 0
+  index: -1
+Headwear_5
+  rotate: false
+  xy: 3449, 3479
+  size: 225, 206
+  orig: 225, 206
+  offset: 0, 0
+  index: -1
+Headwear_6
+  rotate: true
+  xy: 471, 3614
+  size: 176, 242
+  orig: 176, 242
+  offset: 0, 0
+  index: -1
+Headwear_7
+  rotate: true
+  xy: 2796, 3505
+  size: 180, 651
+  orig: 180, 651
+  offset: 0, 0
+  index: -1
+Headwear_8
+  rotate: true
+  xy: 2, 3632
+  size: 159, 467
+  orig: 159, 467
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 2455, 3270
+  size: 247, 269
+  orig: 247, 269
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 1271, 3910
+  size: 28, 69
+  orig: 28, 69
+  offset: 0, 0
+  index: -1
+Sweat_1
+  rotate: true
+  xy: 2, 3927
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+Sweat_2
+  rotate: true
+  xy: 414, 3919
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+Sweat_3
+  rotate: true
+  xy: 1748, 3892
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+Sweat_4
+  rotate: true
+  xy: 695, 3912
+  size: 26, 574
+  orig: 26, 574
+  offset: 0, 0
+  index: -1
+Vargina
+  rotate: true
+  xy: 1832, 3314
+  size: 223, 375
+  orig: 223, 375
+  offset: 0, 0
+  index: -1
+
+Riho_Playroom_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_Cloth
+  rotate: true
+  xy: 2, 2
+  size: 1838, 1219
+  orig: 1838, 1219
+  offset: 0, 0
+  index: -1
+02_Cloth
+  rotate: false
+  xy: 1776, 2557
+  size: 1665, 1216
+  orig: 1665, 1216
+  offset: 0, 0
+  index: -1
+Hair_12
+  rotate: false
+  xy: 2, 1842
+  size: 1772, 1931
+  orig: 1772, 1931
+  offset: 0, 0
+  index: -1
+Hair_13
+  rotate: false
+  xy: 1776, 1396
+  size: 1609, 1159
+  orig: 1609, 1159
+  offset: 0, 0
+  index: -1
+Hand_R_sleeve_1
+  rotate: false
+  xy: 1223, 20
+  size: 1285, 1374
+  orig: 1285, 1374
+  offset: 0, 0
+  index: -1

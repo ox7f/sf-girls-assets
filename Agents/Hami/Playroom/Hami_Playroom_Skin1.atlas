@@ -1,3 +1,425 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee5b19a40ee7f4cd21d08a9071c405160b662e216b0de958aa6b3262a2c8e4e5
-size 6294
+
+Hami_Playroom_Skin1.png
+size: 4086,4086
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coat_Down
+  rotate: true
+  xy: 2348, 872
+  size: 2098, 807
+  orig: 2098, 807
+  offset: 0, 0
+  index: -1
+Hair_Acc
+  rotate: false
+  xy: 3867, 905
+  size: 159, 438
+  orig: 159, 438
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: false
+  xy: 3106, 99
+  size: 813, 746
+  orig: 813, 746
+  offset: 0, 0
+  index: -1
+Hat_01
+  rotate: false
+  xy: 2150, 118
+  size: 954, 752
+  orig: 954, 752
+  offset: 0, 0
+  index: -1
+Hat_03
+  rotate: false
+  xy: 1, 2705
+  size: 2147, 1380
+  orig: 2147, 1380
+  offset: 0, 0
+  index: -1
+Left_leg
+  rotate: false
+  xy: 2150, 2972
+  size: 1781, 1113
+  orig: 1781, 1113
+  offset: 0, 0
+  index: -1
+Line_2
+  rotate: true
+  xy: 3867, 2032
+  size: 938, 218
+  orig: 938, 218
+  offset: 0, 0
+  index: -1
+Line_semen
+  rotate: true
+  xy: 3933, 3483
+  size: 602, 143
+  orig: 602, 143
+  offset: 0, 0
+  index: -1
+Right_Down_Arm
+  rotate: false
+  xy: 3867, 1345
+  size: 193, 685
+  orig: 193, 685
+  offset: 0, 0
+  index: -1
+Right_leg_01
+  rotate: false
+  xy: 1, 1035
+  size: 1463, 1668
+  orig: 1463, 1668
+  offset: 0, 0
+  index: -1
+Right_leg_02
+  rotate: true
+  xy: 1466, 1157
+  size: 1546, 880
+  orig: 1546, 880
+  offset: 0, 0
+  index: -1
+greenPart
+  rotate: false
+  xy: 1, 69
+  size: 2147, 964
+  orig: 2147, 964
+  offset: 0, 0
+  index: -1
+mouth_Face1
+  rotate: false
+  xy: 1466, 1035
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+mouth_Face2
+  rotate: false
+  xy: 2150, 2884
+  size: 111, 86
+  orig: 111, 86
+  offset: 0, 0
+  index: -1
+yellowPart
+  rotate: true
+  xy: 3157, 847
+  size: 2123, 708
+  orig: 2123, 708
+  offset: 0, 0
+  index: -1
+
+Hami_Playroom_Skin1_2.png
+size: 3975,3975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bangs_01
+  rotate: true
+  xy: 923, 1
+  size: 728, 532
+  orig: 728, 532
+  offset: 0, 0
+  index: -1
+Bangs_02
+  rotate: true
+  xy: 1430, 3199
+  size: 231, 314
+  orig: 231, 314
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1739, 988
+  size: 785, 1259
+  orig: 785, 1259
+  offset: 0, 0
+  index: -1
+Chest_1
+  rotate: false
+  xy: 3008, 1187
+  size: 928, 1073
+  orig: 928, 1073
+  offset: 0, 0
+  index: -1
+Chest_2 _L
+  rotate: false
+  xy: 1457, 175
+  size: 522, 554
+  orig: 522, 554
+  offset: 0, 0
+  index: -1
+Chest_2 _M
+  rotate: false
+  xy: 3156, 52
+  size: 236, 237
+  orig: 236, 237
+  offset: 0, 0
+  index: -1
+Chest_2 _R
+  rotate: true
+  xy: 341, 1320
+  size: 561, 575
+  orig: 561, 575
+  offset: 0, 0
+  index: -1
+Cloth_Back
+  rotate: true
+  xy: 1430, 2275
+  size: 922, 308
+  orig: 922, 308
+  offset: 0, 0
+  index: -1
+Cloth_Up
+  rotate: false
+  xy: 1754, 3265
+  size: 1526, 709
+  orig: 1526, 709
+  offset: 0, 0
+  index: -1
+Coat_Up
+  rotate: false
+  xy: 3282, 2686
+  size: 636, 862
+  orig: 636, 862
+  offset: 0, 0
+  index: -1
+Eyebrow_Face1
+  rotate: false
+  xy: 1938, 742
+  size: 233, 244
+  orig: 233, 244
+  offset: 0, 0
+  index: -1
+Eyebrow_Face2
+  rotate: true
+  xy: 3052, 3023
+  size: 240, 226
+  orig: 240, 226
+  offset: 0, 0
+  index: -1
+Hair_tail_Down
+  rotate: true
+  xy: 2173, 743
+  size: 243, 358
+  orig: 243, 358
+  offset: 0, 0
+  index: -1
+Hair_tail_Up
+  rotate: true
+  xy: 2819, 291
+  size: 450, 374
+  orig: 450, 374
+  offset: 0, 0
+  index: -1
+Hat_02
+  rotate: false
+  xy: 1740, 1775
+  size: 1266, 1074
+  orig: 1266, 1074
+  offset: 0, 0
+  index: -1
+Hat_04
+  rotate: true
+  xy: 1, 20
+  size: 1165, 920
+  orig: 1165, 920
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2331, 217
+  size: 486, 524
+  orig: 486, 524
+  offset: 0, 0
+  index: -1
+Left_Down_Arm
+  rotate: true
+  xy: 923, 1608
+  size: 285, 814
+  orig: 285, 814
+  offset: 0, 0
+  index: -1
+Left_Up_Arm
+  rotate: true
+  xy: 1, 1883
+  size: 379, 842
+  orig: 379, 842
+  offset: 0, 0
+  index: -1
+Pants
+  rotate: true
+  xy: 1, 1276
+  size: 605, 338
+  orig: 605, 338
+  offset: 0, 0
+  index: -1
+Penis_1
+  rotate: false
+  xy: 1746, 2851
+  size: 1304, 412
+  orig: 1304, 412
+  offset: 0, 0
+  index: -1
+Penis_2
+  rotate: true
+  xy: 3282, 3550
+  size: 424, 644
+  orig: 424, 644
+  offset: 0, 0
+  index: -1
+Right_Up_Arm
+  rotate: true
+  xy: 923, 1111
+  size: 495, 795
+  orig: 495, 795
+  offset: 0, 0
+  index: -1
+Right_hand1
+  rotate: false
+  xy: 3008, 2262
+  size: 270, 486
+  orig: 270, 486
+  offset: 0, 0
+  index: -1
+Right_hand1_finger
+  rotate: true
+  xy: 3625, 512
+  size: 293, 330
+  orig: 293, 330
+  offset: 0, 0
+  index: -1
+Right_hand2
+  rotate: false
+  xy: 3625, 151
+  size: 301, 359
+  orig: 301, 359
+  offset: 0, 0
+  index: -1
+Skirt_Back
+  rotate: false
+  xy: 1, 3432
+  size: 1751, 542
+  orig: 1751, 542
+  offset: 0, 0
+  index: -1
+Vulva_1
+  rotate: false
+  xy: 2331, 17
+  size: 340, 198
+  orig: 340, 198
+  offset: 0, 0
+  index: -1
+Vulva_2
+  rotate: true
+  xy: 3394, 33
+  size: 366, 229
+  orig: 366, 229
+  offset: 0, 0
+  index: -1
+Waist_Up
+  rotate: true
+  xy: 1, 2264
+  size: 1166, 1427
+  orig: 1166, 1427
+  offset: 0, 0
+  index: -1
+blush_Face1
+  rotate: true
+  xy: 1430, 1895
+  size: 378, 306
+  orig: 378, 306
+  offset: 0, 0
+  index: -1
+blush_Face2
+  rotate: true
+  xy: 3457, 807
+  size: 378, 302
+  orig: 378, 302
+  offset: 0, 0
+  index: -1
+eye_Face1
+  rotate: false
+  xy: 3195, 401
+  size: 294, 389
+  orig: 294, 389
+  offset: 0, 0
+  index: -1
+eye_Face2
+  rotate: false
+  xy: 1666, 736
+  size: 270, 250
+  orig: 270, 250
+  offset: 0, 0
+  index: -1
+eyelash01_Face1
+  rotate: true
+  xy: 2819, 7
+  size: 282, 335
+  orig: 282, 335
+  offset: 0, 0
+  index: -1
+eyelash02_Face1
+  rotate: true
+  xy: 3052, 2750
+  size: 271, 214
+  orig: 271, 214
+  offset: 0, 0
+  index: -1
+eyelash_Face1
+  rotate: false
+  xy: 2533, 743
+  size: 286, 243
+  orig: 286, 243
+  offset: 0, 0
+  index: -1
+eyelash_Face2
+  rotate: false
+  xy: 3668, 2390
+  size: 304, 294
+  orig: 304, 294
+  offset: 0, 0
+  index: -1
+ki_01
+  rotate: false
+  xy: 923, 1933
+  size: 505, 329
+  orig: 505, 329
+  offset: 0, 0
+  index: -1
+ki_02
+  rotate: false
+  xy: 2821, 749
+  size: 331, 237
+  orig: 331, 237
+  offset: 0, 0
+  index: -1
+ki_03
+  rotate: false
+  xy: 923, 731
+  size: 741, 378
+  orig: 741, 378
+  offset: 0, 0
+  index: -1
+semen
+  rotate: false
+  xy: 3280, 2263
+  size: 386, 421
+  orig: 386, 421
+  offset: 0, 0
+  index: -1
+semen_Chest_2
+  rotate: true
+  xy: 1981, 192
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+sweat_Face1
+  rotate: false
+  xy: 3154, 792
+  size: 301, 393
+  orig: 301, 393
+  offset: 0, 0
+  index: -1

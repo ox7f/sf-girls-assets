@@ -1,3 +1,796 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:48832fb32f351d76ddfc0eb140b014fd0fa4ae04ea1dfdf6ff92294f6a252349
-size 11644
+
+Kura_Playroom_Skin2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGBow
+  rotate: false
+  xy: 1569, 757
+  size: 745, 599
+  orig: 745, 599
+  offset: 0, 0
+  index: -1
+Backhair
+  rotate: false
+  xy: 1031, 2
+  size: 1050, 753
+  orig: 1050, 753
+  offset: 0, 0
+  index: -1
+Backhair2
+  rotate: true
+  xy: 2938, 2279
+  size: 375, 518
+  orig: 375, 518
+  offset: 0, 0
+  index: -1
+BodyFlower
+  rotate: false
+  xy: 3168, 3571
+  size: 215, 192
+  orig: 215, 192
+  offset: 0, 0
+  index: -1
+BodyFlower_L
+  rotate: true
+  xy: 2062, 3622
+  size: 166, 171
+  orig: 166, 171
+  offset: 0, 0
+  index: -1
+BodyFlower_R
+  rotate: false
+  xy: 3592, 3560
+  size: 300, 198
+  orig: 300, 198
+  offset: 0, 0
+  index: -1
+BowLegL
+  rotate: false
+  xy: 2725, 3600
+  size: 241, 177
+  orig: 241, 177
+  offset: 0, 0
+  index: -1
+BustL_A
+  rotate: true
+  xy: 526, 1521
+  size: 519, 574
+  orig: 519, 574
+  offset: 0, 0
+  index: -1
+BustL_B
+  rotate: true
+  xy: 1852, 1358
+  size: 519, 574
+  orig: 519, 574
+  offset: 0, 0
+  index: -1
+BustR
+  rotate: true
+  xy: 3375, 1743
+  size: 514, 607
+  orig: 514, 607
+  offset: 0, 0
+  index: -1
+CheckL_A
+  rotate: true
+  xy: 1171, 2840
+  size: 314, 317
+  orig: 314, 317
+  offset: 0, 0
+  index: -1
+CheckL_B
+  rotate: true
+  xy: 1490, 2812
+  size: 314, 317
+  orig: 314, 317
+  offset: 0, 0
+  index: -1
+CheckR_A
+  rotate: false
+  xy: 1809, 2800
+  size: 346, 322
+  orig: 346, 322
+  offset: 0, 0
+  index: -1
+CheckR_B
+  rotate: false
+  xy: 2157, 2800
+  size: 346, 322
+  orig: 346, 322
+  offset: 0, 0
+  index: -1
+DarkHair
+  rotate: false
+  xy: 358, 2916
+  size: 439, 293
+  orig: 439, 293
+  offset: 0, 0
+  index: -1
+DarkHandL_B
+  rotate: false
+  xy: 2951, 2708
+  size: 401, 338
+  orig: 401, 338
+  offset: 0, 0
+  index: -1
+EyeBallL
+  rotate: true
+  xy: 1150, 3815
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+EyeBallR
+  rotate: false
+  xy: 1237, 3815
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+EyeBrowL_A
+  rotate: true
+  xy: 1429, 3812
+  size: 85, 134
+  orig: 85, 134
+  offset: 0, 0
+  index: -1
+EyeBrowL_B
+  rotate: true
+  xy: 784, 3822
+  size: 75, 141
+  orig: 75, 141
+  offset: 0, 0
+  index: -1
+EyeBrowR_A
+  rotate: false
+  xy: 1565, 3807
+  size: 131, 90
+  orig: 131, 90
+  offset: 0, 0
+  index: -1
+EyeBrowR_B
+  rotate: false
+  xy: 927, 3817
+  size: 138, 80
+  orig: 138, 80
+  offset: 0, 0
+  index: -1
+EyeLidL
+  rotate: false
+  xy: 3351, 3765
+  size: 134, 132
+  orig: 134, 132
+  offset: 0, 0
+  index: -1
+EyeLidR
+  rotate: true
+  xy: 3211, 3769
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+EyeWhiteL
+  rotate: false
+  xy: 1951, 3792
+  size: 123, 105
+  orig: 123, 105
+  offset: 0, 0
+  index: -1
+EyeWhiteR
+  rotate: true
+  xy: 1826, 3795
+  size: 102, 123
+  orig: 102, 123
+  offset: 0, 0
+  index: -1
+EyeslashL_A
+  rotate: false
+  xy: 286, 3830
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+EyeslashL_B
+  rotate: true
+  xy: 362, 3830
+  size: 67, 75
+  orig: 67, 75
+  offset: 0, 0
+  index: -1
+EyeslashR_A
+  rotate: true
+  xy: 116, 3833
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+EyeslashR_B
+  rotate: true
+  xy: 439, 3827
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+FinL_02_B
+  rotate: true
+  xy: 194, 3831
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+FinL_0_A
+  rotate: true
+  xy: 2235, 3613
+  size: 170, 296
+  orig: 170, 296
+  offset: 0, 0
+  index: -1
+FinL_4_B
+  rotate: true
+  xy: 3777, 3760
+  size: 137, 180
+  orig: 137, 180
+  offset: 0, 0
+  index: -1
+FinL_A
+  rotate: true
+  xy: 2, 3483
+  size: 202, 497
+  orig: 202, 497
+  offset: 0, 0
+  index: -1
+FinL_B
+  rotate: true
+  xy: 2978, 3070
+  size: 274, 297
+  orig: 274, 297
+  offset: 0, 0
+  index: -1
+FinR_00
+  rotate: true
+  xy: 3385, 3569
+  size: 193, 205
+  orig: 193, 205
+  offset: 0, 0
+  index: -1
+FinR_01
+  rotate: true
+  xy: 2625, 3779
+  size: 118, 160
+  orig: 118, 160
+  offset: 0, 0
+  index: -1
+FinR_11
+  rotate: true
+  xy: 3636, 3763
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+FinR_12
+  rotate: false
+  xy: 2381, 3785
+  size: 242, 112
+  orig: 242, 112
+  offset: 0, 0
+  index: -1
+FinR_2
+  rotate: true
+  xy: 799, 2880
+  size: 302, 370
+  orig: 302, 370
+  offset: 0, 0
+  index: -1
+FinR_3
+  rotate: true
+  xy: 1093, 3445
+  size: 205, 420
+  orig: 205, 420
+  offset: 0, 0
+  index: -1
+FinR_41
+  rotate: true
+  xy: 673, 3824
+  size: 73, 109
+  orig: 73, 109
+  offset: 0, 0
+  index: -1
+FinR_42
+  rotate: true
+  xy: 2076, 3790
+  size: 107, 190
+  orig: 107, 190
+  offset: 0, 0
+  index: -1
+FrontHair_dark
+  rotate: true
+  xy: 2, 1644
+  size: 517, 522
+  orig: 517, 522
+  offset: 0, 0
+  index: -1
+GGA
+  rotate: false
+  xy: 778, 867
+  size: 789, 592
+  orig: 789, 592
+  offset: 0, 0
+  index: -1
+GGWaterB1
+  rotate: true
+  xy: 2316, 532
+  size: 664, 846
+  orig: 664, 846
+  offset: 0, 0
+  index: -1
+GGWaterB2
+  rotate: false
+  xy: 2, 3243
+  size: 376, 238
+  orig: 376, 238
+  offset: 0, 0
+  index: -1
+GGWaterB3
+  rotate: false
+  xy: 2, 3687
+  size: 653, 137
+  orig: 653, 137
+  offset: 0, 0
+  index: -1
+HairF
+  rotate: false
+  xy: 2, 957
+  size: 774, 562
+  orig: 774, 562
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: false
+  xy: 3458, 2259
+  size: 632, 395
+  orig: 632, 395
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 2, 2163
+  size: 537, 415
+  orig: 537, 415
+  offset: 0, 0
+  index: -1
+HandL_A
+  rotate: true
+  xy: 785, 3458
+  size: 207, 306
+  orig: 207, 306
+  offset: 0, 0
+  index: -1
+HandL_B
+  rotate: false
+  xy: 2839, 3366
+  size: 303, 221
+  orig: 303, 221
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 2, 2948
+  size: 293, 354
+  orig: 293, 354
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2428, 1235
+  size: 533, 530
+  orig: 533, 530
+  offset: 0, 0
+  index: -1
+HeadBlackL
+  rotate: false
+  xy: 3354, 2656
+  size: 478, 339
+  orig: 478, 339
+  offset: 0, 0
+  index: -1
+HeadBlackR
+  rotate: false
+  xy: 1786, 3402
+  size: 285, 218
+  orig: 285, 218
+  offset: 0, 0
+  index: -1
+HeadC
+  rotate: true
+  xy: 1137, 2004
+  size: 474, 486
+  orig: 474, 486
+  offset: 0, 0
+  index: -1
+HeadFlower
+  rotate: false
+  xy: 1310, 3652
+  size: 214, 158
+  orig: 214, 158
+  offset: 0, 0
+  index: -1
+HeadFlowerBow
+  rotate: false
+  xy: 798, 2480
+  size: 873, 330
+  orig: 873, 330
+  offset: 0, 0
+  index: -1
+HeadFlowerL
+  rotate: false
+  xy: 1118, 3658
+  size: 190, 155
+  orig: 190, 155
+  offset: 0, 0
+  index: -1
+HeadFlowerR
+  rotate: false
+  xy: 1854, 3625
+  size: 206, 165
+  orig: 206, 165
+  offset: 0, 0
+  index: -1
+HeadPurple_L
+  rotate: false
+  xy: 2505, 2767
+  size: 444, 322
+  orig: 444, 322
+  offset: 0, 0
+  index: -1
+HeadPurple_R
+  rotate: true
+  xy: 1780, 3128
+  size: 265, 302
+  orig: 265, 302
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 3164, 429
+  size: 767, 862
+  orig: 767, 862
+  offset: 0, 0
+  index: -1
+Hole
+  rotate: true
+  xy: 1515, 3421
+  size: 212, 269
+  orig: 212, 269
+  offset: 0, 0
+  index: -1
+Hole_L
+  rotate: true
+  xy: 501, 3467
+  size: 205, 282
+  orig: 205, 282
+  offset: 0, 0
+  index: -1
+Hole_R
+  rotate: true
+  xy: 3460, 3332
+  size: 226, 282
+  orig: 226, 282
+  offset: 0, 0
+  index: -1
+LowerArmL_A
+  rotate: true
+  xy: 2073, 3395
+  size: 203, 764
+  orig: 203, 764
+  offset: 0, 0
+  index: -1
+LowerArmL_B
+  rotate: true
+  xy: 1396, 3156
+  size: 263, 382
+  orig: 263, 382
+  offset: 0, 0
+  index: -1
+LowerArmR
+  rotate: false
+  xy: 380, 3211
+  size: 542, 245
+  orig: 542, 245
+  offset: 0, 0
+  index: -1
+LowerLeg_L
+  rotate: true
+  xy: 2963, 1198
+  size: 543, 718
+  orig: 543, 718
+  offset: 0, 0
+  index: -1
+LowerLeg_R
+  rotate: false
+  xy: 2, 141
+  size: 1027, 724
+  orig: 1027, 724
+  offset: 0, 0
+  index: -1
+ManHandA
+  rotate: false
+  xy: 2764, 1767
+  size: 609, 510
+  orig: 609, 510
+  offset: 0, 0
+  index: -1
+ManHandB
+  rotate: true
+  xy: 2148, 1879
+  size: 504, 614
+  orig: 504, 614
+  offset: 0, 0
+  index: -1
+ManHand_L
+  rotate: false
+  xy: 1102, 1461
+  size: 748, 518
+  orig: 748, 518
+  offset: 0, 0
+  index: -1
+MouthD_A
+  rotate: false
+  xy: 1067, 3816
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+MouthD_B
+  rotate: false
+  xy: 1698, 3796
+  size: 126, 101
+  orig: 126, 101
+  offset: 0, 0
+  index: -1
+MouthU_A
+  rotate: false
+  xy: 2268, 3786
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+MouthU_B
+  rotate: true
+  xy: 3079, 3771
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+MouthWater_A
+  rotate: true
+  xy: 593, 3826
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+MouthWater_B
+  rotate: true
+  xy: 513, 3827
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 30, 3867
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+UpperArmL_A
+  rotate: false
+  xy: 1673, 2457
+  size: 802, 341
+  orig: 802, 341
+  offset: 0, 0
+  index: -1
+UpperArmL_B
+  rotate: true
+  xy: 2, 2580
+  size: 334, 794
+  orig: 334, 794
+  offset: 0, 0
+  index: -1
+UpperArmR
+  rotate: false
+  xy: 924, 3184
+  size: 470, 259
+  orig: 470, 259
+  offset: 0, 0
+  index: -1
+WaterBody1_B
+  rotate: false
+  xy: 657, 3674
+  size: 203, 146
+  orig: 203, 146
+  offset: 0, 0
+  index: -1
+WaterBody2_B
+  rotate: true
+  xy: 2, 3874
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+WaterBody3_B
+  rotate: false
+  xy: 65, 3863
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+WaterBustL_A
+  rotate: true
+  xy: 3894, 3538
+  size: 220, 200
+  orig: 220, 200
+  offset: 0, 0
+  index: -1
+WaterBustL_B
+  rotate: false
+  xy: 2533, 3604
+  size: 190, 173
+  orig: 190, 173
+  offset: 0, 0
+  index: -1
+WaterBustR_A
+  rotate: true
+  xy: 862, 3667
+  size: 147, 254
+  orig: 147, 254
+  offset: 0, 0
+  index: -1
+WaterBustR_B
+  rotate: false
+  xy: 2644, 3091
+  size: 332, 273
+  orig: 332, 273
+  offset: 0, 0
+  index: -1
+WaterHole1_B
+  rotate: true
+  xy: 2787, 3779
+  size: 118, 290
+  orig: 118, 290
+  offset: 0, 0
+  index: -1
+WaterHole2_B
+  rotate: true
+  xy: 2477, 2385
+  size: 380, 459
+  orig: 380, 459
+  offset: 0, 0
+  index: -1
+WaterLegL_B
+  rotate: false
+  xy: 541, 2042
+  size: 594, 436
+  orig: 594, 436
+  offset: 0, 0
+  index: -1
+WaterLegR1_B
+  rotate: true
+  xy: 3744, 3285
+  size: 251, 278
+  orig: 251, 278
+  offset: 0, 0
+  index: -1
+WaterLegR2_B
+  rotate: false
+  xy: 2968, 3589
+  size: 198, 180
+  orig: 198, 180
+  offset: 0, 0
+  index: -1
+WaterSBustR
+  rotate: false
+  xy: 1321, 3814
+  size: 106, 83
+  orig: 106, 83
+  offset: 0, 0
+  index: -1
+WaterSLegL
+  rotate: true
+  xy: 3590, 2997
+  size: 286, 462
+  orig: 286, 462
+  offset: 0, 0
+  index: -1
+WaterSLegL2
+  rotate: true
+  xy: 3487, 3764
+  size: 133, 147
+  orig: 133, 147
+  offset: 0, 0
+  index: -1
+WaterSLegL_B
+  rotate: true
+  xy: 3277, 3048
+  size: 282, 311
+  orig: 282, 311
+  offset: 0, 0
+  index: -1
+WaterSLegR
+  rotate: false
+  xy: 3144, 3346
+  size: 314, 221
+  orig: 314, 221
+  offset: 0, 0
+  index: -1
+WaterSLegR1_B
+  rotate: false
+  xy: 1526, 3635
+  size: 326, 158
+  orig: 326, 158
+  offset: 0, 0
+  index: -1
+WaterSLegR2_B
+  rotate: false
+  xy: 2084, 3124
+  size: 558, 269
+  orig: 558, 269
+  offset: 0, 0
+  index: -1
+head_acc_dark
+  rotate: false
+  xy: 1625, 1981
+  size: 521, 474
+  orig: 521, 474
+  offset: 0, 0
+  index: -1
+
+Kura_Playroom_Skin2_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 1591, 1210
+  orig: 1591, 1210
+  offset: 0, 0
+  index: -1
+GGB
+  rotate: false
+  xy: 1595, 595
+  size: 1152, 801
+  orig: 1152, 801
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 2, 1214
+  size: 736, 1889
+  orig: 736, 1889
+  offset: 0, 0
+  index: -1
+Pillow
+  rotate: false
+  xy: 740, 2113
+  size: 1311, 990
+  orig: 1311, 990
+  offset: 0, 0
+  index: -1
+UpperLeg_L
+  rotate: false
+  xy: 740, 1398
+  size: 1838, 713
+  orig: 1838, 713
+  offset: 0, 0
+  index: -1
+WaterHole_A
+  rotate: false
+  xy: 2053, 2291
+  size: 851, 812
+  orig: 851, 812
+  offset: 0, 0
+  index: -1

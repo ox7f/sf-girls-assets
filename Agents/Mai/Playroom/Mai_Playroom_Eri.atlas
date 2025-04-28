@@ -1,3 +1,411 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d5bf3f8895e2c01b570bbd2840796fe683c6ae37934fdcf848d9d2c629b2fdb
-size 6216
+
+Mai_Playroom_Eri.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackHair_1
+  rotate: false
+  xy: 2, 2470
+  size: 679, 416
+  orig: 679, 416
+  offset: 0, 0
+  index: -1
+BlueHair_LongTail
+  rotate: true
+  xy: 2, 217
+  size: 899, 1085
+  orig: 899, 1085
+  offset: 0, 0
+  index: -1
+Blue_HairBack
+  rotate: false
+  xy: 512, 1970
+  size: 571, 464
+  orig: 571, 464
+  offset: 0, 0
+  index: -1
+Blue_HairBangFront
+  rotate: true
+  xy: 2, 2010
+  size: 458, 508
+  orig: 458, 508
+  offset: 0, 0
+  index: -1
+Blue_HairBangL
+  rotate: true
+  xy: 2222, 2296
+  size: 447, 673
+  orig: 447, 673
+  offset: 0, 0
+  index: -1
+Blue_HairBangR
+  rotate: true
+  xy: 2131, 3567
+  size: 278, 626
+  orig: 278, 626
+  offset: 0, 0
+  index: -1
+Blue_Hair_Eyes
+  rotate: false
+  xy: 3381, 3822
+  size: 273, 235
+  orig: 273, 235
+  offset: 0, 0
+  index: -1
+Blue_Hair_Head
+  rotate: false
+  xy: 1085, 1901
+  size: 476, 465
+  orig: 476, 465
+  offset: 0, 0
+  index: -1
+Blue_Hair_eyeBromes
+  rotate: false
+  xy: 2268, 3849
+  size: 247, 208
+  orig: 247, 208
+  offset: 0, 0
+  index: -1
+Blue_TwinTail_L_1
+  rotate: true
+  xy: 2481, 3155
+  size: 340, 746
+  orig: 340, 746
+  offset: 0, 0
+  index: -1
+Blue_TwinTail_L_2
+  rotate: true
+  xy: 2790, 3824
+  size: 233, 589
+  orig: 233, 589
+  offset: 0, 0
+  index: -1
+Blue_TwinTail_R
+  rotate: true
+  xy: 788, 3249
+  size: 376, 555
+  orig: 376, 555
+  offset: 0, 0
+  index: -1
+Blue_mouth1
+  rotate: true
+  xy: 576, 3705
+  size: 262, 271
+  orig: 262, 271
+  offset: 0, 0
+  index: -1
+Blue_mouth2
+  rotate: false
+  xy: 2012, 3189
+  size: 467, 376
+  orig: 467, 376
+  offset: 0, 0
+  index: -1
+FrontHair_1
+  rotate: false
+  xy: 3244, 3474
+  size: 500, 337
+  orig: 500, 337
+  offset: 0, 0
+  index: -1
+Hand1
+  rotate: true
+  xy: 2759, 3497
+  size: 325, 483
+  orig: 325, 483
+  offset: 0, 0
+  index: -1
+Hand2
+  rotate: true
+  xy: 2, 2962
+  size: 377, 454
+  orig: 377, 454
+  offset: 0, 0
+  index: -1
+Head1
+  rotate: false
+  xy: 1352, 2854
+  size: 407, 392
+  orig: 407, 392
+  offset: 0, 0
+  index: -1
+Head2
+  rotate: false
+  xy: 379, 3341
+  size: 407, 362
+  orig: 407, 362
+  offset: 0, 0
+  index: -1
+Helmet1
+  rotate: true
+  xy: 1089, 2
+  size: 938, 965
+  orig: 938, 965
+  offset: 0, 0
+  index: -1
+Loli_Saliva
+  rotate: false
+  xy: 814, 3969
+  size: 125, 88
+  orig: 125, 88
+  offset: 0, 0
+  index: -1
+Milk Burst R
+  rotate: false
+  xy: 672, 1118
+  size: 1005, 705
+  orig: 1005, 705
+  offset: 0, 0
+  index: -1
+Saliva_onFace
+  rotate: false
+  xy: 2517, 3847
+  size: 271, 210
+  orig: 271, 210
+  offset: 0, 0
+  index: -1
+Saliva_onHair
+  rotate: false
+  xy: 1416, 3872
+  size: 260, 185
+  orig: 260, 185
+  offset: 0, 0
+  index: -1
+WindDoc
+  rotate: false
+  xy: 1402, 3588
+  size: 727, 268
+  orig: 727, 268
+  offset: 0, 0
+  index: -1
+backHair_2
+  rotate: false
+  xy: 683, 2436
+  size: 679, 416
+  orig: 679, 416
+  offset: 0, 0
+  index: -1
+bit_Mouth
+  rotate: false
+  xy: 2, 4007
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+blue_hair_LArm
+  rotate: false
+  xy: 1364, 2368
+  size: 856, 419
+  orig: 856, 419
+  offset: 0, 0
+  index: -1
+blue_hair_LChest
+  rotate: false
+  xy: 3158, 1655
+  size: 611, 602
+  orig: 611, 602
+  offset: 0, 0
+  index: -1
+blue_hair_RArm
+  rotate: false
+  xy: 1345, 3248
+  size: 665, 338
+  orig: 665, 338
+  offset: 0, 0
+  index: -1
+blue_hair_RChest
+  rotate: false
+  xy: 2, 1311
+  size: 668, 657
+  orig: 668, 657
+  offset: 0, 0
+  index: -1
+blue_hair_R_UpperArm
+  rotate: true
+  xy: 2415, 2745
+  size: 408, 766
+  orig: 408, 766
+  offset: 0, 0
+  index: -1
+blue_hair_R_UpperArm_sup
+  rotate: true
+  xy: 3183, 2686
+  size: 408, 766
+  orig: 408, 766
+  offset: 0, 0
+  index: -1
+blue_hair_Rhand
+  rotate: false
+  xy: 3656, 3813
+  size: 429, 244
+  orig: 429, 244
+  offset: 0, 0
+  index: -1
+blue_hair_UpperBody
+  rotate: false
+  xy: 1679, 942
+  size: 834, 805
+  orig: 834, 805
+  offset: 0, 0
+  index: -1
+blue_hair_cloths
+  rotate: false
+  xy: 3229, 3096
+  size: 648, 376
+  orig: 648, 376
+  offset: 0, 0
+  index: -1
+eyebrows_1
+  rotate: false
+  xy: 594, 3976
+  size: 218, 81
+  orig: 218, 81
+  offset: 0, 0
+  index: -1
+eyebrows_2
+  rotate: false
+  xy: 374, 3981
+  size: 218, 76
+  orig: 218, 76
+  offset: 0, 0
+  index: -1
+eyes1
+  rotate: false
+  xy: 1080, 3933
+  size: 334, 124
+  orig: 334, 124
+  offset: 0, 0
+  index: -1
+eyes2
+  rotate: false
+  xy: 1080, 3933
+  size: 334, 124
+  orig: 334, 124
+  offset: 0, 0
+  index: -1
+frontHair_2
+  rotate: false
+  xy: 1761, 2789
+  size: 652, 398
+  orig: 652, 398
+  offset: 0, 0
+  index: -1
+loliBackleg_Extra
+  rotate: false
+  xy: 1678, 3868
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+loliBody
+  rotate: false
+  xy: 2270, 1749
+  size: 886, 508
+  orig: 886, 508
+  offset: 0, 0
+  index: -1
+loliRHand_finger
+  rotate: true
+  xy: 941, 3951
+  size: 106, 137
+  orig: 106, 137
+  offset: 0, 0
+  index: -1
+loliRHand_root
+  rotate: true
+  xy: 211, 3983
+  size: 74, 161
+  orig: 74, 161
+  offset: 0, 0
+  index: -1
+loliShoulder
+  rotate: false
+  xy: 1563, 1825
+  size: 705, 469
+  orig: 705, 469
+  offset: 0, 0
+  index: -1
+loliThigh
+  rotate: true
+  xy: 458, 2888
+  size: 358, 892
+  orig: 358, 892
+  offset: 0, 0
+  index: -1
+loliUpperArm_1
+  rotate: true
+  xy: 2, 3728
+  size: 251, 572
+  orig: 251, 572
+  offset: 0, 0
+  index: -1
+loliUpperArm_2
+  rotate: true
+  xy: 849, 3627
+  size: 304, 551
+  orig: 304, 551
+  offset: 0, 0
+  index: -1
+loli_leg
+  rotate: false
+  xy: 2897, 2259
+  size: 1051, 425
+  orig: 1051, 425
+  offset: 0, 0
+  index: -1
+loliyMouth_1
+  rotate: false
+  xy: 75, 3992
+  size: 134, 65
+  orig: 134, 65
+  offset: 0, 0
+  index: -1
+sideHair_1
+  rotate: true
+  xy: 1869, 3858
+  size: 199, 397
+  orig: 199, 397
+  offset: 0, 0
+  index: -1
+sideHair_2
+  rotate: false
+  xy: 2, 3368
+  size: 375, 358
+  orig: 375, 358
+  offset: 0, 0
+  index: -1
+wingRoot
+  rotate: false
+  xy: 2515, 767
+  size: 1048, 886
+  orig: 1048, 886
+  offset: 0, 0
+  index: -1
+
+Mai_Playroom_Eri_2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_Hair_Body
+  rotate: false
+  xy: 2, 473
+  size: 1897, 908
+  orig: 1897, 908
+  offset: 0, 0
+  index: -1
+Helmet2
+  rotate: true
+  xy: 1901, 443
+  size: 938, 965
+  orig: 938, 965
+  offset: 0, 0
+  index: -1
+wingEnd
+  rotate: false
+  xy: 2868, 2
+  size: 1225, 1379
+  orig: 1225, 1379
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,153 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20ac2e0ce2ed0f228bab2a38cba4f34000451e972fe35915a4b3054e6f270265
-size 2179
+
+Hami_Spine_B.png
+size: 2022,1718
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boin2
+  rotate: true
+  xy: 1478, 7
+  size: 145, 107
+  orig: 195, 195
+  offset: 30, 40
+  index: -1
+L_arm
+  rotate: true
+  xy: 240, 48
+  size: 166, 244
+  orig: 245, 655
+  offset: 62, 396
+  index: -1
+L_arm2
+  rotate: true
+  xy: 1722, 144
+  size: 102, 272
+  orig: 109, 275
+  offset: 7, 3
+  index: -1
+L_leg
+  rotate: true
+  xy: 922, 996
+  size: 720, 1085
+  orig: 720, 1085
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 1460, 628
+  size: 366, 279
+  orig: 366, 280
+  offset: 0, 1
+  index: -1
+bee_body
+  rotate: true
+  xy: 922, 467
+  size: 527, 316
+  orig: 527, 318
+  offset: 0, 0
+  index: -1
+bee_hand
+  rotate: true
+  xy: 1478, 154
+  size: 268, 242
+  orig: 268, 242
+  offset: 0, 0
+  index: -1
+bee_head
+  rotate: false
+  xy: 486, 2
+  size: 462, 410
+  orig: 462, 410
+  offset: 0, 0
+  index: -1
+bee_wing
+  rotate: true
+  xy: 950, 40
+  size: 425, 368
+  orig: 425, 368
+  offset: 0, 0
+  index: -1
+bee_wing_2
+  rotate: false
+  xy: 1320, 83
+  size: 156, 400
+  orig: 156, 400
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 216
+  size: 458, 1500
+  orig: 475, 1500
+  offset: 17, 0
+  index: -1
+breast
+  rotate: false
+  xy: 1570, 512
+  size: 165, 114
+  orig: 264, 175
+  offset: 99, 44
+  index: -1
+eyebrow
+  rotate: false
+  xy: 240, 2
+  size: 114, 44
+  orig: 116, 45
+  offset: 2, 1
+  index: -1
+face
+  rotate: true
+  xy: 1460, 487
+  size: 139, 108
+  orig: 143, 110
+  offset: 3, 0
+  index: -1
+gun
+  rotate: true
+  xy: 462, 414
+  size: 1302, 458
+  orig: 1305, 458
+  offset: 0, 0
+  index: -1
+gun_panel
+  rotate: true
+  xy: 1741, 489
+  size: 246, 274
+  orig: 246, 274
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1741, 737
+  size: 279, 257
+  orig: 279, 257
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1723, 248
+  size: 297, 239
+  orig: 297, 239
+  offset: 0, 0
+  index: -1
+shoulder_1
+  rotate: false
+  xy: 2, 7
+  size: 236, 207
+  orig: 262, 246
+  offset: 17, 28
+  index: -1
+shoulder_1_back
+  rotate: false
+  xy: 1570, 424
+  size: 151, 86
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: false
+  xy: 1240, 485
+  size: 218, 509
+  orig: 414, 751
+  offset: 0, 242
+  index: -1

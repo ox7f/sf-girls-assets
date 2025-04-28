@@ -1,3 +1,327 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ecb12d35306a8917898b264c805a78a1e123a4fc90fa60453ea5b4212a99fe78
-size 4807
+
+Kura_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 3379, 1953
+  size: 715, 649
+  orig: 715, 649
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 1275, 2
+  size: 1420, 1234
+  orig: 1420, 1234
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2569, 977
+  size: 1429, 974
+  orig: 1429, 974
+  offset: 0, 0
+  index: -1
+Breast_L
+  rotate: true
+  xy: 3429, 2604
+  size: 461, 554
+  orig: 461, 554
+  offset: 0, 0
+  index: -1
+Breast_R
+  rotate: false
+  xy: 3679, 3067
+  size: 400, 486
+  orig: 400, 486
+  offset: 0, 0
+  index: -1
+Brush
+  rotate: true
+  xy: 2913, 3591
+  size: 220, 321
+  orig: 220, 321
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 1018, 3668
+  size: 299, 143
+  orig: 299, 143
+  offset: 0, 0
+  index: -1
+Hair_F
+  rotate: true
+  xy: 303, 3442
+  size: 271, 418
+  orig: 271, 418
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: false
+  xy: 3638, 3555
+  size: 272, 256
+  orig: 272, 256
+  offset: 0, 0
+  index: -1
+Hair_L2
+  rotate: false
+  xy: 743, 3683
+  size: 273, 128
+  orig: 273, 128
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: true
+  xy: 1904, 3642
+  size: 169, 202
+  orig: 169, 202
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 2, 2593
+  size: 432, 739
+  orig: 432, 739
+  offset: 0, 0
+  index: -1
+Hat_Bowknot
+  rotate: true
+  xy: 2108, 3617
+  size: 194, 350
+  orig: 194, 350
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2662, 3237
+  size: 352, 367
+  orig: 352, 367
+  offset: 0, 0
+  index: -1
+LV1_Face
+  rotate: false
+  xy: 723, 3410
+  size: 282, 271
+  orig: 282, 271
+  offset: 0, 0
+  index: -1
+LV1_JJ
+  rotate: true
+  xy: 2, 1657
+  size: 892, 1157
+  orig: 892, 1157
+  offset: 0, 0
+  index: -1
+LV1_ManHandS_L
+  rotate: true
+  xy: 1896, 2379
+  size: 474, 568
+  orig: 474, 568
+  offset: 0, 0
+  index: -1
+LV1_ManHandS_R
+  rotate: false
+  xy: 2, 3066
+  size: 536, 374
+  orig: 536, 374
+  offset: 0, 0
+  index: -1
+LV1_ManHand_L
+  rotate: true
+  xy: 1273, 2966
+  size: 404, 644
+  orig: 404, 644
+  offset: 0, 0
+  index: -1
+LV1_ManHand_R
+  rotate: false
+  xy: 1253, 2497
+  size: 641, 467
+  orig: 641, 467
+  offset: 0, 0
+  index: -1
+LV1_Pen
+  rotate: true
+  xy: 1007, 3399
+  size: 259, 560
+  orig: 259, 560
+  offset: 0, 0
+  index: -1
+LV2_Blackliquid
+  rotate: false
+  xy: 416, 3727
+  size: 134, 84
+  orig: 134, 84
+  offset: 0, 0
+  index: -1
+LV2_Blackliquid_BG
+  rotate: false
+  xy: 1708, 3645
+  size: 194, 166
+  orig: 194, 166
+  offset: 0, 0
+  index: -1
+LV2_Blackliquid_body
+  rotate: false
+  xy: 101, 3758
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+LV2_Face
+  rotate: false
+  xy: 2, 3458
+  size: 299, 269
+  orig: 299, 269
+  offset: 0, 0
+  index: -1
+LV2_JJ
+  rotate: false
+  xy: 1919, 2855
+  size: 712, 422
+  orig: 712, 422
+  offset: 0, 0
+  index: -1
+LV2_Mouth
+  rotate: true
+  xy: 2, 3766
+  size: 45, 97
+  orig: 45, 97
+  offset: 0, 0
+  index: -1
+LV2_Pen
+  rotate: true
+  xy: 2460, 3600
+  size: 211, 451
+  orig: 211, 451
+  offset: 0, 0
+  index: -1
+LV2_Pen_02
+  rotate: true
+  xy: 173, 3729
+  size: 82, 241
+  orig: 82, 241
+  offset: 0, 0
+  index: -1
+LV2_Pen_up
+  rotate: true
+  xy: 552, 3715
+  size: 96, 189
+  orig: 96, 189
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 2, 425
+  size: 997, 1271
+  orig: 997, 1271
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 1161, 1424
+  size: 1406, 847
+  orig: 1406, 847
+  offset: 0, 0
+  index: -1
+Lv1_Vaginal
+  rotate: false
+  xy: 3236, 3557
+  size: 400, 254
+  orig: 400, 254
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_01
+  rotate: false
+  xy: 540, 3027
+  size: 731, 370
+  orig: 731, 370
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_03L
+  rotate: false
+  xy: 743, 2551
+  size: 508, 474
+  orig: 508, 474
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_03R
+  rotate: false
+  xy: 2016, 3279
+  size: 644, 319
+  orig: 644, 319
+  offset: 0, 0
+  index: -1
+Lv2_Vaginal
+  rotate: false
+  xy: 1319, 3660
+  size: 387, 151
+  orig: 387, 151
+  offset: 0, 0
+  index: -1
+Panties_1
+  rotate: true
+  xy: 3031, 3192
+  size: 361, 646
+  orig: 361, 646
+  offset: 0, 0
+  index: -1
+Panties_2
+  rotate: false
+  xy: 2633, 2765
+  size: 794, 425
+  orig: 794, 425
+  offset: 0, 0
+  index: -1
+Toy
+  rotate: false
+  xy: 1569, 3372
+  size: 445, 268
+  orig: 445, 268
+  offset: 0, 0
+  index: -1
+Underwear
+  rotate: true
+  xy: 2466, 2273
+  size: 490, 911
+  orig: 490, 911
+  offset: 0, 0
+  index: -1
+
+Kura_Playroom_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 1969
+  size: 3577, 2089
+  orig: 3577, 2089
+  offset: 0, 0
+  index: -1
+LV1_Liquid
+  rotate: true
+  xy: 2746, 216
+  size: 1751, 1322
+  orig: 1751, 1322
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_02
+  rotate: true
+  xy: 2, 2
+  size: 1965, 1353
+  orig: 1965, 1353
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 1357, 131
+  size: 1836, 1387
+  orig: 1836, 1387
+  offset: 0, 0
+  index: -1

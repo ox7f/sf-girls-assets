@@ -1,3 +1,332 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c5fa3535c07a723befdbe49384f189d8cf914273fe8b0b2b62f0cda80990972d
-size 4841
+
+Chihiro_Playroom_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1+2_Eye_L
+  rotate: false
+  xy: 408, 1900
+  size: 130, 79
+  orig: 130, 79
+  offset: 0, 0
+  index: -1
+1+2_Mouth
+  rotate: false
+  xy: 2, 1937
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+1_Arm_L1
+  rotate: true
+  xy: 1474, 1612
+  size: 185, 383
+  orig: 185, 383
+  offset: 0, 0
+  index: -1
+1_Arm_L2
+  rotate: false
+  xy: 743, 1136
+  size: 536, 268
+  orig: 536, 268
+  offset: 0, 0
+  index: -1
+1_Eye_R
+  rotate: false
+  xy: 540, 1897
+  size: 112, 82
+  orig: 112, 82
+  offset: 0, 0
+  index: -1
+1_Penis
+  rotate: false
+  xy: 349, 904
+  size: 346, 319
+  orig: 346, 319
+  offset: 0, 0
+  index: -1
+2_Arm_L
+  rotate: true
+  xy: 385, 1729
+  size: 165, 453
+  orig: 165, 453
+  offset: 0, 0
+  index: -1
+2_Eye_R
+  rotate: false
+  xy: 85, 1928
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+2_Liquid_at_body
+  rotate: true
+  xy: 654, 1896
+  size: 83, 311
+  orig: 83, 311
+  offset: 0, 0
+  index: -1
+2_Liquid_step2
+  rotate: false
+  xy: 697, 774
+  size: 361, 360
+  orig: 361, 360
+  offset: 0, 0
+  index: -1
+2_Penis
+  rotate: false
+  xy: 2, 103
+  size: 491, 432
+  orig: 491, 432
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 2, 1742
+  size: 169, 381
+  orig: 169, 381
+  offset: 0, 0
+  index: -1
+Breast_L
+  rotate: false
+  xy: 829, 1447
+  size: 241, 231
+  orig: 241, 231
+  offset: 0, 0
+  index: -1
+Breast_R
+  rotate: false
+  xy: 1171, 1646
+  size: 301, 191
+  orig: 301, 191
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 168, 1913
+  size: 238, 66
+  orig: 238, 66
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 1322, 1352
+  size: 657, 258
+  orig: 657, 258
+  offset: 0, 0
+  index: -1
+Foot_R2
+  rotate: true
+  xy: 2, 537
+  size: 365, 544
+  orig: 365, 544
+  offset: 0, 0
+  index: -1
+Hair_B_2
+  rotate: true
+  xy: 2, 1237
+  size: 266, 379
+  orig: 266, 379
+  offset: 0, 0
+  index: -1
+Hair_Horsetail_L
+  rotate: true
+  xy: 1060, 755
+  size: 327, 850
+  orig: 327, 850
+  offset: 0, 0
+  index: -1
+Hair_Horsetail_L2
+  rotate: false
+  xy: 548, 379
+  size: 716, 374
+  orig: 716, 374
+  offset: 0, 0
+  index: -1
+Hair_Horsetail_R
+  rotate: true
+  xy: 1281, 1084
+  size: 266, 664
+  orig: 266, 664
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: true
+  xy: 283, 1505
+  size: 222, 544
+  orig: 222, 544
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: true
+  xy: 383, 1225
+  size: 278, 358
+  orig: 278, 358
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 1362, 1839
+  size: 153, 140
+  orig: 153, 140
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 938
+  size: 297, 345
+  orig: 297, 345
+  offset: 0, 0
+  index: -1
+HeadShark
+  rotate: false
+  xy: 1072, 1406
+  size: 248, 238
+  orig: 248, 238
+  offset: 0, 0
+  index: -1
+HeadShark_Tail
+  rotate: true
+  xy: 2, 1532
+  size: 208, 279
+  orig: 208, 279
+  offset: 0, 0
+  index: -1
+Lifebuoy
+  rotate: false
+  xy: 1266, 341
+  size: 588, 412
+  orig: 588, 412
+  offset: 0, 0
+  index: -1
+Lifebuoy_Arm
+  rotate: true
+  xy: 967, 1877
+  size: 102, 157
+  orig: 102, 157
+  offset: 0, 0
+  index: -1
+Star_01
+  rotate: true
+  xy: 840, 1680
+  size: 172, 329
+  orig: 172, 329
+  offset: 0, 0
+  index: -1
+Star_02
+  rotate: false
+  xy: 1720, 1799
+  size: 223, 180
+  orig: 223, 180
+  offset: 0, 0
+  index: -1
+Star_03
+  rotate: true
+  xy: 1126, 1854
+  size: 125, 234
+  orig: 125, 234
+  offset: 0, 0
+  index: -1
+Whistle
+  rotate: false
+  xy: 1517, 1820
+  size: 201, 159
+  orig: 201, 159
+  offset: 0, 0
+  index: -1
+
+Chihiro_Playroom_Skin1_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 705
+  size: 1758, 1164
+  orig: 1758, 1164
+  offset: 0, 0
+  index: -1
+Water_F
+  rotate: false
+  xy: 2, 2
+  size: 1721, 701
+  orig: 1721, 701
+  offset: 0, 0
+  index: -1
+
+Chihiro_Playroom_Skin1_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_Liquid
+  rotate: false
+  xy: 1424, 1200
+  size: 414, 789
+  orig: 414, 789
+  offset: 0, 0
+  index: -1
+BG_Water
+  rotate: false
+  xy: 2, 906
+  size: 1420, 1083
+  orig: 1420, 1083
+  offset: 0, 0
+  index: -1
+SwimRing_F
+  rotate: true
+  xy: 1163, 2
+  size: 902, 736
+  orig: 902, 736
+  offset: 0, 0
+  index: -1
+Water_B
+  rotate: false
+  xy: 2, 9
+  size: 1159, 895
+  orig: 1159, 895
+  offset: 0, 0
+  index: -1
+
+Chihiro_Playroom_Skin1_4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_Water2
+  rotate: false
+  xy: 2, 835
+  size: 1420, 1083
+  orig: 1420, 1083
+  offset: 0, 0
+  index: -1
+Foot_R3
+  rotate: true
+  xy: 876, 259
+  size: 574, 494
+  orig: 574, 494
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 1424, 724
+  size: 494, 465
+  orig: 494, 465
+  offset: 0, 0
+  index: -1
+Steam
+  rotate: false
+  xy: 2, 87
+  size: 872, 746
+  orig: 872, 746
+  offset: 0, 0
+  index: -1
+SwimRing_B
+  rotate: true
+  xy: 1424, 1191
+  size: 727, 475
+  orig: 727, 475
+  offset: 0, 0
+  index: -1

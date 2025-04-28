@@ -1,3 +1,641 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:37bb7cf0fc72530de6dfff71fd48e980f79bdde457c51c202cd230b5959cfcdb
-size 9277
+
+Sizuko_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+23shadow
+  rotate: false
+  xy: 2226, 3155
+  size: 1022, 340
+  orig: 1022, 340
+  offset: 0, 0
+  index: -1
+air_mouth
+  rotate: false
+  xy: 3250, 3102
+  size: 539, 381
+  orig: 539, 381
+  offset: 0, 0
+  index: -1
+air_west
+  rotate: true
+  xy: 1579, 1695
+  size: 581, 781
+  orig: 581, 781
+  offset: 0, 0
+  index: -1
+armR2
+  rotate: true
+  xy: 837, 2404
+  size: 496, 536
+  orig: 496, 536
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 1001, 2
+  size: 739, 1630
+  orig: 739, 1630
+  offset: 0, 0
+  index: -1
+bodyB
+  rotate: true
+  xy: 2090, 2278
+  size: 451, 694
+  orig: 451, 694
+  offset: 0, 0
+  index: -1
+bodyU
+  rotate: false
+  xy: 834, 925
+  size: 788, 768
+  orig: 788, 772
+  offset: 0, 4
+  index: -1
+boobaL
+  rotate: true
+  xy: 2, 2534
+  size: 434, 833
+  orig: 434, 835
+  offset: 0, 2
+  index: -1
+boobaLsbd
+  rotate: true
+  xy: 420, 4061
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+boobaR
+  rotate: true
+  xy: 1375, 2290
+  size: 439, 713
+  orig: 439, 716
+  offset: 0, 3
+  index: -1
+boobaR_shadow
+  rotate: true
+  xy: 383, 3363
+  size: 307, 445
+  orig: 307, 445
+  offset: 0, 0
+  index: -1
+boobaRnip
+  rotate: true
+  xy: 1271, 4030
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+boobaRnipS
+  rotate: true
+  xy: 1113, 4033
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+br1
+  rotate: false
+  xy: 2, 4075
+  size: 142, 14
+  orig: 142, 14
+  offset: 0, 0
+  index: -1
+br2
+  rotate: false
+  xy: 146, 4074
+  size: 140, 15
+  orig: 140, 15
+  offset: 0, 0
+  index: -1
+ear_ring
+  rotate: true
+  xy: 288, 4069
+  size: 20, 130
+  orig: 20, 130
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 1574, 4022
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1343, 4028
+  size: 134, 61
+  orig: 134, 61
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1026, 2902
+  size: 413, 396
+  orig: 413, 396
+  offset: 0, 0
+  index: -1
+facered
+  rotate: false
+  xy: 930, 3888
+  size: 164, 145
+  orig: 164, 145
+  offset: 0, 0
+  index: -1
+flower_neck1
+  rotate: true
+  xy: 1708, 4018
+  size: 71, 173
+  orig: 72, 173
+  offset: 0, 0
+  index: -1
+flower_neck2
+  rotate: true
+  xy: 1479, 4026
+  size: 63, 93
+  orig: 63, 93
+  offset: 0, 0
+  index: -1
+hairB1
+  rotate: true
+  xy: 2, 2015
+  size: 517, 677
+  orig: 517, 677
+  offset: 0, 0
+  index: -1
+hairB3
+  rotate: true
+  xy: 2362, 1532
+  size: 637, 760
+  orig: 637, 760
+  offset: 0, 0
+  index: -1
+hairM1
+  rotate: true
+  xy: 1418, 3613
+  size: 246, 463
+  orig: 246, 463
+  offset: 0, 0
+  index: -1
+hairM2
+  rotate: true
+  xy: 2142, 3852
+  size: 149, 325
+  orig: 149, 325
+  offset: 0, 0
+  index: -1
+hairMB
+  rotate: false
+  xy: 2796, 3508
+  size: 396, 283
+  orig: 396, 283
+  offset: 0, 0
+  index: -1
+hairMbB
+  rotate: false
+  xy: 2965, 2668
+  size: 637, 432
+  orig: 637, 432
+  offset: 0, 0
+  index: -1
+hairMbF
+  rotate: false
+  xy: 1171, 3300
+  size: 407, 311
+  orig: 407, 311
+  offset: 0, 0
+  index: -1
+hair_Shadow
+  rotate: true
+  xy: 2469, 3822
+  size: 157, 347
+  orig: 157, 347
+  offset: 0, 0
+  index: -1
+hair_crownB
+  rotate: false
+  xy: 3762, 3485
+  size: 304, 284
+  orig: 304, 284
+  offset: 0, 0
+  index: -1
+hair_crownF
+  rotate: true
+  xy: 3604, 2580
+  size: 520, 490
+  orig: 520, 490
+  offset: 0, 0
+  index: -1
+hair_ring
+  rotate: false
+  xy: 533, 3672
+  size: 412, 214
+  orig: 412, 214
+  offset: 0, 0
+  index: -1
+handHairS
+  rotate: false
+  xy: 1883, 3572
+  size: 491, 278
+  orig: 491, 278
+  offset: 0, 0
+  index: -1
+handL
+  rotate: false
+  xy: 2990, 556
+  size: 1090, 836
+  orig: 1090, 836
+  offset: 0, 0
+  index: -1
+handR1Hair1
+  rotate: true
+  xy: 2, 3426
+  size: 283, 379
+  orig: 283, 379
+  offset: 0, 0
+  index: -1
+handR1Hair2
+  rotate: true
+  xy: 947, 3644
+  size: 236, 469
+  orig: 238, 469
+  offset: 0, 0
+  index: -1
+handR1S
+  rotate: false
+  xy: 2700, 3981
+  size: 289, 108
+  orig: 289, 108
+  offset: 0, 0
+  index: -1
+handR1_clothes
+  rotate: true
+  xy: 2991, 3977
+  size: 112, 383
+  orig: 112, 383
+  offset: 0, 0
+  index: -1
+handR1ring1
+  rotate: true
+  xy: 1991, 4009
+  size: 80, 206
+  orig: 80, 206
+  offset: 0, 0
+  index: -1
+handR1ring1B
+  rotate: true
+  xy: 2492, 3982
+  size: 107, 206
+  orig: 107, 206
+  offset: 0, 0
+  index: -1
+handR1ring2
+  rotate: true
+  xy: 3376, 3976
+  size: 113, 179
+  orig: 113, 179
+  offset: 0, 0
+  index: -1
+handR1ring2B
+  rotate: true
+  xy: 1560, 3866
+  size: 150, 188
+  orig: 150, 188
+  offset: 0, 0
+  index: -1
+handR1ring3
+  rotate: true
+  xy: 2199, 4004
+  size: 85, 174
+  orig: 85, 174
+  offset: 0, 0
+  index: -1
+handR1ring3B
+  rotate: true
+  xy: 305, 3926
+  size: 131, 176
+  orig: 131, 176
+  offset: 0, 0
+  index: -1
+handR2
+  rotate: false
+  xy: 3124, 1394
+  size: 763, 656
+  orig: 763, 656
+  offset: 0, 0
+  index: -1
+handR2S
+  rotate: true
+  xy: 1441, 2783
+  size: 423, 486
+  orig: 423, 486
+  offset: 0, 0
+  index: -1
+handR2_clothes
+  rotate: true
+  xy: 1750, 3861
+  size: 146, 390
+  orig: 146, 390
+  offset: 0, 0
+  index: -1
+handR2hair
+  rotate: false
+  xy: 3546, 2052
+  size: 537, 526
+  orig: 537, 526
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 1624, 743
+  size: 1364, 787
+  orig: 1364, 787
+  offset: 0, 0
+  index: -1
+manhand2
+  rotate: false
+  xy: 3798, 3771
+  size: 259, 203
+  orig: 259, 203
+  offset: 0, 0
+  index: -1
+manhandB
+  rotate: false
+  xy: 2998, 3793
+  size: 206, 182
+  orig: 206, 182
+  offset: 0, 0
+  index: -1
+manhandF
+  rotate: false
+  xy: 2376, 3538
+  size: 418, 282
+  orig: 418, 282
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 453, 4059
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 1195, 4032
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 2, 3711
+  size: 200, 529
+  orig: 200, 529
+  offset: 0, 0
+  index: -1
+pearlB
+  rotate: true
+  xy: 1096, 3882
+  size: 142, 462
+  orig: 142, 462
+  offset: 0, 0
+  index: -1
+pearlBS
+  rotate: true
+  xy: 3557, 3976
+  size: 113, 457
+  orig: 116, 457
+  offset: 3, 0
+  index: -1
+pearlU
+  rotate: true
+  xy: 483, 3913
+  size: 125, 274
+  orig: 125, 274
+  offset: 0, 0
+  index: -1
+pearlU2
+  rotate: true
+  xy: 633, 4043
+  size: 46, 122
+  orig: 46, 122
+  offset: 0, 0
+  index: -1
+pearlU2S
+  rotate: true
+  xy: 918, 4039
+  size: 50, 101
+  orig: 50, 101
+  offset: 0, 0
+  index: -1
+pearlUB
+  rotate: true
+  xy: 757, 4040
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+pearlUS
+  rotate: true
+  xy: 2, 3949
+  size: 118, 301
+  orig: 118, 301
+  offset: 0, 0
+  index: -1
+pearlUSB
+  rotate: true
+  xy: 1021, 4035
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+pearlUb2
+  rotate: true
+  xy: 831, 4040
+  size: 49, 85
+  orig: 49, 85
+  offset: 0, 0
+  index: -1
+peralB2
+  rotate: true
+  xy: 515, 4045
+  size: 44, 116
+  orig: 44, 116
+  offset: 0, 0
+  index: -1
+pp
+  rotate: false
+  xy: 3194, 3497
+  size: 566, 279
+  orig: 566, 279
+  offset: 0, 0
+  index: -1
+rose
+  rotate: true
+  xy: 1929, 2731
+  size: 422, 1034
+  orig: 422, 1034
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 2, 2970
+  size: 361, 1022
+  orig: 361, 1022
+  offset: 0, 0
+  index: -1
+skirt2
+  rotate: false
+  xy: 2, 33
+  size: 997, 890
+  orig: 997, 890
+  offset: 0, 0
+  index: -1
+skirt3
+  rotate: true
+  xy: 2786, 2171
+  size: 495, 758
+  orig: 495, 758
+  offset: 0, 0
+  index: -1
+skirt5
+  rotate: true
+  xy: 1580, 3208
+  size: 362, 644
+  orig: 362, 644
+  offset: 0, 0
+  index: -1
+skirtF
+  rotate: true
+  xy: 3206, 3789
+  size: 185, 259
+  orig: 185, 259
+  offset: 0, 0
+  index: -1
+sperm_belly
+  rotate: true
+  xy: 759, 3905
+  size: 132, 169
+  orig: 132, 169
+  offset: 0, 0
+  index: -1
+sperm_down
+  rotate: false
+  xy: 1883, 4010
+  size: 106, 79
+  orig: 106, 83
+  offset: 0, 4
+  index: -1
+sperm_down2
+  rotate: true
+  xy: 2818, 3803
+  size: 172, 178
+  orig: 181, 212
+  offset: 0, 3
+  index: -1
+sperm_legR
+  rotate: false
+  xy: 3467, 3778
+  size: 329, 196
+  orig: 329, 196
+  offset: 0, 0
+  index: -1
+sperm_main
+  rotate: true
+  xy: 681, 1741
+  size: 547, 896
+  orig: 547, 896
+  offset: 0, 0
+  index: -1
+sperm_out
+  rotate: false
+  xy: 2, 1036
+  size: 830, 703
+  orig: 830, 703
+  offset: 0, 0
+  index: -1
+sperm_skirt
+  rotate: true
+  xy: 2375, 4003
+  size: 86, 115
+  orig: 86, 115
+  offset: 0, 0
+  index: -1
+west_F
+  rotate: false
+  xy: 830, 3333
+  size: 339, 309
+  orig: 339, 309
+  offset: 0, 0
+  index: -1
+
+Sizuko_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1736
+  size: 2980, 1732
+  orig: 2980, 1732
+  offset: 0, 0
+  index: -1
+hairB2
+  rotate: true
+  xy: 2984, 1254
+  size: 1037, 1040
+  orig: 1037, 1040
+  offset: 0, 0
+  index: -1
+hairSa
+  rotate: true
+  xy: 2984, 2293
+  size: 1175, 1052
+  orig: 1175, 1052
+  offset: 0, 0
+  index: -1
+skirt4
+  rotate: true
+  xy: 2984, 339
+  size: 913, 1006
+  orig: 913, 1006
+  offset: 0, 0
+  index: -1
+sunlight
+  rotate: false
+  xy: 2, 2
+  size: 2980, 1732
+  orig: 2980, 1732
+  offset: 0, 0
+  index: -1
+
+Sizuko_Playroom_Wedding_3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body2
+  rotate: true
+  xy: 1736, 931
+  size: 739, 1630
+  orig: 739, 1630
+  offset: 0, 0
+  index: -1
+handR1
+  rotate: false
+  xy: 1736, 2
+  size: 1343, 927
+  orig: 1343, 927
+  offset: 0, 0
+  index: -1
+umbrella
+  rotate: true
+  xy: 2, 355
+  size: 1315, 1732
+  orig: 1315, 1732
+  offset: 0, 0
+  index: -1

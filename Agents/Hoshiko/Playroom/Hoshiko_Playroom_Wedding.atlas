@@ -1,3 +1,292 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a0a548188bc23dccc73bbc63a59126334e09e665494e98166c4a994e2fcd97f
-size 4263
+
+Hoshiko_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Air
+  rotate: false
+  xy: 982, 3066
+  size: 456, 341
+  orig: 458, 343
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 2195, 556
+  size: 1418, 1131
+  orig: 1489, 1165
+  offset: 71, 34
+  index: -1
+BowTie
+  rotate: false
+  xy: 775, 3448
+  size: 191, 185
+  orig: 191, 185
+  offset: 0, 0
+  index: -1
+Chest_L
+  rotate: false
+  xy: 582, 2131
+  size: 546, 493
+  orig: 549, 493
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 2, 3183
+  size: 366, 356
+  orig: 367, 356
+  offset: 0, 0
+  index: -1
+Flower_1
+  rotate: true
+  xy: 1175, 3409
+  size: 224, 276
+  orig: 224, 276
+  offset: 0, 0
+  index: -1
+Flower_2
+  rotate: false
+  xy: 1440, 3045
+  size: 470, 327
+  orig: 470, 329
+  offset: 0, 2
+  index: -1
+Hair_1
+  rotate: false
+  xy: 3051, 2928
+  size: 413, 396
+  orig: 413, 396
+  offset: 0, 0
+  index: -1
+Hair_2
+  rotate: false
+  xy: 3466, 2928
+  size: 596, 386
+  orig: 596, 386
+  offset: 0, 0
+  index: -1
+Hair_3
+  rotate: true
+  xy: 2571, 3326
+  size: 307, 985
+  orig: 307, 985
+  offset: 0, 0
+  index: -1
+Hair_4
+  rotate: false
+  xy: 2, 2
+  size: 2123, 1227
+  orig: 2123, 1227
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: true
+  xy: 3096, 1689
+  size: 772, 800
+  orig: 772, 800
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 3342, 2463
+  size: 463, 481
+  orig: 463, 481
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 1130, 2028
+  size: 518, 662
+  orig: 518, 662
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 1016, 1231
+  size: 1177, 697
+  orig: 1177, 697
+  offset: 0, 0
+  index: -1
+Light_star
+  rotate: true
+  xy: 1794, 1930
+  size: 539, 1300
+  orig: 539, 1300
+  offset: 0, 0
+  index: -1
+Liquid_Body
+  rotate: false
+  xy: 971, 2626
+  size: 645, 417
+  orig: 645, 657
+  offset: 0, 235
+  index: -1
+Liquid_Head
+  rotate: false
+  xy: 461, 2677
+  size: 508, 455
+  orig: 508, 458
+  offset: 0, 0
+  index: -1
+Liquid_LowerBody
+  rotate: false
+  xy: 2, 1404
+  size: 1012, 725
+  orig: 1012, 725
+  offset: 0, 0
+  index: -1
+Liquid_Penis
+  rotate: false
+  xy: 3558, 3316
+  size: 335, 317
+  orig: 335, 317
+  offset: 0, 0
+  index: -1
+Liquid_Penis_Shot
+  rotate: false
+  xy: 2579, 2959
+  size: 470, 365
+  orig: 470, 365
+  offset: 0, 0
+  index: -1
+Lv1_Chest_R
+  rotate: false
+  xy: 2, 2201
+  size: 578, 474
+  orig: 578, 474
+  offset: 0, 0
+  index: -1
+Lv1_Emo
+  rotate: false
+  xy: 1714, 3374
+  size: 265, 259
+  orig: 265, 259
+  offset: 0, 0
+  index: -1
+Lv1_Hand_R
+  rotate: false
+  xy: 2819, 2471
+  size: 521, 455
+  orig: 521, 487
+  offset: 0, 32
+  index: -1
+Lv2_Arm_R
+  rotate: false
+  xy: 1981, 3342
+  size: 588, 291
+  orig: 588, 292
+  offset: 0, 0
+  index: -1
+Lv2_Chest_R
+  rotate: false
+  xy: 1618, 2548
+  size: 565, 433
+  orig: 565, 433
+  offset: 0, 0
+  index: -1
+Lv2_Emo
+  rotate: false
+  xy: 1453, 3377
+  size: 259, 256
+  orig: 259, 256
+  offset: 0, 0
+  index: -1
+Lv2_Hand_R
+  rotate: false
+  xy: 587, 3469
+  size: 186, 164
+  orig: 186, 164
+  offset: 0, 0
+  index: -1
+Lv2_UpArm_R
+  rotate: false
+  xy: 1912, 2983
+  size: 665, 341
+  orig: 665, 341
+  offset: 0, 0
+  index: -1
+Penis
+  rotate: false
+  xy: 370, 3134
+  size: 610, 310
+  orig: 610, 311
+  offset: 0, 1
+  index: -1
+Penis_
+  rotate: false
+  xy: 2, 2718
+  size: 457, 414
+  orig: 458, 415
+  offset: 0, 1
+  index: -1
+Scarf
+  rotate: true
+  xy: 2185, 2508
+  size: 449, 632
+  orig: 449, 632
+  offset: 0, 0
+  index: -1
+light1
+  rotate: true
+  xy: 91, 3563
+  size: 70, 171
+  orig: 70, 171
+  offset: 0, 0
+  index: -1
+light2
+  rotate: true
+  xy: 264, 3541
+  size: 92, 154
+  orig: 92, 154
+  offset: 0, 0
+  index: -1
+light3
+  rotate: true
+  xy: 2, 3575
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+light4
+  rotate: true
+  xy: 420, 3474
+  size: 159, 165
+  orig: 159, 165
+  offset: 0, 0
+  index: -1
+light5
+  rotate: true
+  xy: 968, 3446
+  size: 187, 205
+  orig: 187, 205
+  offset: 0, 0
+  index: -1
+
+Hoshiko_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 1734
+  size: 2977, 1801
+  orig: 2977, 1801
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 1706, 10
+  size: 1722, 1407
+  orig: 1723, 1408
+  offset: 1, 1
+  index: -1
+LowerBody
+  rotate: true
+  xy: 2, 2
+  size: 1730, 1702
+  orig: 1730, 1702
+  offset: 0, 0
+  index: -1

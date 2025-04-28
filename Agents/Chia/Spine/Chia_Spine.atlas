@@ -1,3 +1,286 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2feab54159842796a9758a82124e37f5c9839dd891e55953c8ff4abfd35449b4
-size 4169
+
+Chia_Spine.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02_eyeball
+  rotate: false
+  xy: 952, 99
+  size: 382, 87
+  orig: 382, 87
+  offset: 0, 0
+  index: -1
+1_Eye
+  rotate: false
+  xy: 390, 30
+  size: 363, 46
+  orig: 363, 46
+  offset: 0, 0
+  index: -1
+1_Head
+  rotate: false
+  xy: 3454, 68
+  size: 583, 665
+  orig: 595, 665
+  offset: 0, 0
+  index: -1
+1_Head_jaw
+  rotate: false
+  xy: 1539, 428
+  size: 255, 140
+  orig: 255, 140
+  offset: 0, 0
+  index: -1
+1_Head_jaw2
+  rotate: false
+  xy: 1495, 119
+  size: 218, 120
+  orig: 219, 123
+  offset: 0, 2
+  index: -1
+1_Head_mouth
+  rotate: true
+  xy: 2545, 751
+  size: 286, 150
+  orig: 286, 150
+  offset: 0, 0
+  index: -1
+1_eyelid_L
+  rotate: false
+  xy: 1611, 2
+  size: 202, 115
+  orig: 202, 115
+  offset: 0, 0
+  index: -1
+1_eyelid_R
+  rotate: false
+  xy: 1715, 130
+  size: 178, 116
+  orig: 178, 116
+  offset: 0, 0
+  index: -1
+1_facial_eyelight
+  rotate: false
+  xy: 2, 10
+  size: 278, 13
+  orig: 278, 13
+  offset: 0, 0
+  index: -1
+1_head_furL
+  rotate: false
+  xy: 1336, 107
+  size: 157, 79
+  orig: 164, 79
+  offset: 1, 0
+  index: -1
+1_head_furL1
+  rotate: false
+  xy: 1706, 248
+  size: 276, 178
+  orig: 281, 180
+  offset: 4, 2
+  index: -1
+1_head_furL2
+  rotate: false
+  xy: 1142, 5
+  size: 198, 92
+  orig: 210, 97
+  offset: 9, 4
+  index: -1
+1_head_furR
+  rotate: false
+  xy: 1815, 21
+  size: 135, 107
+  orig: 140, 107
+  offset: 4, 0
+  index: -1
+1_head_furR1
+  rotate: false
+  xy: 1952, 53
+  size: 272, 193
+  orig: 284, 197
+  offset: 11, 3
+  index: -1
+1_leg_L_B
+  rotate: true
+  xy: 2589, 63
+  size: 350, 432
+  orig: 351, 442
+  offset: 0, 10
+  index: -1
+1_leg_L_F
+  rotate: true
+  xy: 1539, 570
+  size: 466, 1004
+  orig: 466, 1004
+  offset: 0, 0
+  index: -1
+1_leg_R_B
+  rotate: true
+  xy: 952, 188
+  size: 233, 457
+  orig: 233, 457
+  offset: 0, 0
+  index: -1
+1_leg_R_F
+  rotate: true
+  xy: 2, 78
+  size: 343, 948
+  orig: 343, 948
+  offset: 0, 0
+  index: -1
+2_Head
+  rotate: true
+  xy: 2787, 443
+  size: 594, 665
+  orig: 595, 665
+  offset: 0, 0
+  index: -1
+2_Head_mouth_back
+  rotate: true
+  xy: 2546, 1798
+  size: 246, 172
+  orig: 246, 172
+  offset: 0, 0
+  index: -1
+2_Head_mouth_front
+  rotate: false
+  xy: 2498, 415
+  size: 287, 153
+  orig: 287, 153
+  offset: 0, 0
+  index: -1
+3_Leg_L
+  rotate: true
+  xy: 2526, 1039
+  size: 551, 583
+  orig: 551, 584
+  offset: 0, 1
+  index: -1
+3_body_fur
+  rotate: true
+  xy: 3111, 1396
+  size: 648, 922
+  orig: 648, 924
+  offset: 0, 2
+  index: -1
+3_eye
+  rotate: false
+  xy: 2, 25
+  size: 386, 51
+  orig: 386, 51
+  offset: 0, 0
+  index: -1
+3_eyelid
+  rotate: false
+  xy: 755, 38
+  size: 385, 38
+  orig: 385, 38
+  offset: 0, 0
+  index: -1
+3_head
+  rotate: false
+  xy: 3454, 735
+  size: 597, 659
+  orig: 632, 659
+  offset: 35, 0
+  index: -1
+3_head_fur1
+  rotate: false
+  xy: 1489, 25
+  size: 120, 80
+  orig: 133, 80
+  offset: 13, 0
+  index: -1
+3_head_fur2
+  rotate: false
+  xy: 1342, 30
+  size: 145, 75
+  orig: 189, 103
+  offset: 0, 28
+  index: -1
+3_head_fur3
+  rotate: true
+  xy: 2422, 26
+  size: 281, 165
+  orig: 281, 180
+  offset: 0, 0
+  index: -1
+3_head_fur4
+  rotate: true
+  xy: 2315, 309
+  size: 259, 181
+  orig: 259, 181
+  offset: 0, 0
+  index: -1
+3_head_jaw
+  rotate: true
+  xy: 2226, 28
+  size: 250, 194
+  orig: 250, 194
+  offset: 0, 0
+  index: -1
+3_head_mouth
+  rotate: false
+  xy: 1411, 241
+  size: 293, 180
+  orig: 293, 180
+  offset: 0, 0
+  index: -1
+3_leg_L_B
+  rotate: true
+  xy: 2026, 1048
+  size: 446, 498
+  orig: 446, 505
+  offset: 0, 7
+  index: -1
+3_tongue
+  rotate: false
+  xy: 839, 956
+  size: 117, 80
+  orig: 117, 80
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 932
+  size: 835, 1112
+  orig: 835, 1197
+  offset: 0, 85
+  index: -1
+Tail
+  rotate: true
+  xy: 2129, 1592
+  size: 452, 415
+  orig: 452, 415
+  offset: 0, 0
+  index: -1
+scarf1
+  rotate: false
+  xy: 839, 1038
+  size: 1185, 456
+  orig: 1185, 456
+  offset: 0, 0
+  index: -1
+scarf2
+  rotate: false
+  xy: 839, 1496
+  size: 1288, 548
+  orig: 1288, 548
+  offset: 0, 0
+  index: -1
+scarf3
+  rotate: true
+  xy: 1984, 280
+  size: 288, 329
+  orig: 288, 329
+  offset: 0, 0
+  index: -1
+toast
+  rotate: false
+  xy: 2, 423
+  size: 1535, 507
+  orig: 1535, 507
+  offset: 0, 0
+  index: -1

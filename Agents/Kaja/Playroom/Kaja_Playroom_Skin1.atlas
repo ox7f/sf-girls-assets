@@ -1,3 +1,362 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55936a5af64d06acea5ce984a066a49ee972e652f28c118e7737ae91ebaa5aa6
-size 5263
+
+Kaja_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 2, 2398
+  size: 434, 937
+  orig: 434, 937
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 1562, 3233
+  size: 375, 889
+  orig: 375, 889
+  offset: 0, 0
+  index: -1
+BG D
+  rotate: false
+  xy: 2, 2
+  size: 1016, 990
+  orig: 1016, 990
+  offset: 0, 0
+  index: -1
+BG H
+  rotate: true
+  xy: 1073, 576
+  size: 965, 1029
+  orig: 965, 1029
+  offset: 0, 0
+  index: -1
+BG_Cup
+  rotate: false
+  xy: 3245, 3553
+  size: 476, 286
+  orig: 476, 286
+  offset: 0, 0
+  index: -1
+BG_Dessert
+  rotate: true
+  xy: 2, 994
+  size: 714, 1069
+  orig: 714, 1069
+  offset: 0, 0
+  index: -1
+BG_Teapot
+  rotate: true
+  xy: 3615, 2863
+  size: 636, 439
+  orig: 636, 439
+  offset: 0, 0
+  index: -1
+Body_A
+  rotate: false
+  xy: 2881, 2610
+  size: 694, 502
+  orig: 694, 502
+  offset: 0, 0
+  index: -1
+Body_A_Boob
+  rotate: false
+  xy: 1025, 3645
+  size: 238, 194
+  orig: 238, 194
+  offset: 0, 0
+  index: -1
+Body_B
+  rotate: false
+  xy: 3419, 2041
+  size: 666, 567
+  orig: 666, 567
+  offset: 0, 0
+  index: -1
+Body_B_Boob
+  rotate: false
+  xy: 1265, 3645
+  size: 209, 194
+  orig: 209, 194
+  offset: 0, 0
+  index: -1
+Breath_B
+  rotate: false
+  xy: 2, 1795
+  size: 717, 601
+  orig: 717, 601
+  offset: 0, 0
+  index: -1
+Butt_B_Cum
+  rotate: true
+  xy: 2104, 468
+  size: 880, 1193
+  orig: 880, 1193
+  offset: 0, 0
+  index: -1
+Cloth_Front
+  rotate: true
+  xy: 2947, 1350
+  size: 689, 886
+  orig: 689, 886
+  offset: 0, 0
+  index: -1
+Cloth_Rear
+  rotate: false
+  xy: 596, 3280
+  size: 478, 363
+  orig: 478, 363
+  offset: 0, 0
+  index: -1
+Cum_Ass
+  rotate: false
+  xy: 1405, 1543
+  size: 778, 663
+  orig: 778, 663
+  offset: 0, 0
+  index: -1
+Cum_Ass_Shadow
+  rotate: false
+  xy: 2762, 2075
+  size: 655, 533
+  orig: 655, 533
+  offset: 0, 0
+  index: -1
+Ears
+  rotate: false
+  xy: 721, 1710
+  size: 682, 633
+  orig: 682, 633
+  offset: 0, 0
+  index: -1
+Face_A
+  rotate: true
+  xy: 2, 2881
+  size: 486, 529
+  orig: 486, 529
+  offset: 0, 0
+  index: -1
+Face_A_Eyebrows
+  rotate: true
+  xy: 462, 3676
+  size: 163, 289
+  orig: 163, 289
+  offset: 0, 0
+  index: -1
+Face_A_Eyes
+  rotate: true
+  xy: 2640, 3609
+  size: 230, 299
+  orig: 230, 299
+  offset: 0, 0
+  index: -1
+Face_A_Mouth
+  rotate: false
+  xy: 2, 3753
+  size: 133, 86
+  orig: 133, 86
+  offset: 0, 0
+  index: -1
+Face_B
+  rotate: true
+  xy: 2350, 2688
+  size: 486, 529
+  orig: 486, 529
+  offset: 0, 0
+  index: -1
+Face_B_Eyebrows
+  rotate: true
+  xy: 753, 3664
+  size: 175, 270
+  orig: 175, 270
+  offset: 0, 0
+  index: -1
+Face_B_Eyes
+  rotate: true
+  xy: 2941, 3608
+  size: 231, 302
+  orig: 231, 302
+  offset: 0, 0
+  index: -1
+Face_B_Mouth
+  rotate: false
+  xy: 137, 3749
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+Hair_A
+  rotate: false
+  xy: 2185, 1400
+  size: 760, 673
+  orig: 760, 673
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 1076, 3252
+  size: 484, 375
+  orig: 484, 375
+  offset: 0, 0
+  index: -1
+Hair_C
+  rotate: true
+  xy: 2176, 3610
+  size: 229, 462
+  orig: 229, 462
+  offset: 0, 0
+  index: -1
+Hair_D
+  rotate: true
+  xy: 2, 3369
+  size: 305, 592
+  orig: 305, 592
+  offset: 0, 0
+  index: -1
+Hair_E
+  rotate: false
+  xy: 2453, 3176
+  size: 575, 430
+  orig: 575, 430
+  offset: 0, 0
+  index: -1
+Hair_F
+  rotate: false
+  xy: 1914, 3626
+  size: 260, 213
+  orig: 260, 213
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 1957, 2208
+  size: 803, 478
+  orig: 803, 478
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 533, 2834
+  size: 1011, 416
+  orig: 1011, 416
+  offset: 0, 0
+  index: -1
+Man_Hand
+  rotate: false
+  xy: 941, 2345
+  size: 1014, 458
+  orig: 1014, 458
+  offset: 0, 0
+  index: -1
+Penis_A
+  rotate: true
+  xy: 3030, 3114
+  size: 437, 583
+  orig: 437, 583
+  offset: 0, 0
+  index: -1
+Penis_B
+  rotate: false
+  xy: 1546, 2805
+  size: 802, 426
+  orig: 802, 426
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: false
+  xy: 242, 3685
+  size: 218, 154
+  orig: 218, 154
+  offset: 0, 0
+  index: -1
+Tail_A
+  rotate: true
+  xy: 3723, 3501
+  size: 338, 369
+  orig: 338, 369
+  offset: 0, 0
+  index: -1
+Tail_B
+  rotate: true
+  xy: 1476, 3629
+  size: 210, 436
+  orig: 210, 436
+  offset: 0, 0
+  index: -1
+
+Kaja_Playroom_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG A
+  rotate: true
+  xy: 1120, 1950
+  size: 1042, 1208
+  orig: 1042, 1208
+  offset: 0, 0
+  index: -1
+BG B
+  rotate: true
+  xy: 2317, 10
+  size: 1074, 1058
+  orig: 1074, 1058
+  offset: 0, 0
+  index: -1
+BG C
+  rotate: true
+  xy: 2650, 3022
+  size: 1038, 1269
+  orig: 1038, 1269
+  offset: 0, 0
+  index: -1
+BG E
+  rotate: true
+  xy: 1120, 974
+  size: 974, 1195
+  orig: 974, 1195
+  offset: 0, 0
+  index: -1
+BG F
+  rotate: true
+  xy: 1120, 2
+  size: 970, 1072
+  orig: 970, 1072
+  offset: 0, 0
+  index: -1
+BG G
+  rotate: true
+  xy: 2650, 2056
+  size: 964, 1234
+  orig: 964, 1234
+  offset: 0, 0
+  index: -1
+Butt_A
+  rotate: false
+  xy: 2, 2416
+  size: 1116, 1644
+  orig: 1116, 1644
+  offset: 0, 0
+  index: -1
+Butt_B
+  rotate: false
+  xy: 2, 770
+  size: 1116, 1644
+  orig: 1116, 1644
+  offset: 0, 0
+  index: -1
+Horn
+  rotate: false
+  xy: 2330, 1086
+  size: 1205, 968
+  orig: 1205, 968
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 1120, 2994
+  size: 1528, 1066
+  orig: 1528, 1066
+  offset: 0, 0
+  index: -1

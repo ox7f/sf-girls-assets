@@ -1,3 +1,551 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ee132722bdf95a4ece7b973d668904b02a7c5c7f7f376b841e8ef8fcc010f6e
-size 8055
+
+Shiko_Spine_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armor L
+  rotate: false
+  xy: 3504, 2917
+  size: 358, 270
+  orig: 358, 270
+  offset: 0, 0
+  index: -1
+Armor R
+  rotate: false
+  xy: 1026, 2788
+  size: 315, 302
+  orig: 315, 302
+  offset: 0, 0
+  index: -1
+Body 1
+  rotate: true
+  xy: 3253, 1521
+  size: 464, 808
+  orig: 464, 838
+  offset: 0, 30
+  index: -1
+Body 2
+  rotate: true
+  xy: 2, 1159
+  size: 466, 805
+  orig: 603, 805
+  offset: 137, 0
+  index: -1
+Body 3
+  rotate: true
+  xy: 2451, 1052
+  size: 467, 805
+  orig: 603, 805
+  offset: 136, 0
+  index: -1
+Body belt
+  rotate: false
+  xy: 2, 2877
+  size: 560, 241
+  orig: 560, 248
+  offset: 0, 7
+  index: -1
+Boob L 1
+  rotate: true
+  xy: 2795, 2637
+  size: 325, 407
+  orig: 349, 600
+  offset: 8, 55
+  index: -1
+Boob L 2
+  rotate: true
+  xy: 3613, 2584
+  size: 331, 398
+  orig: 430, 600
+  offset: 11, 42
+  index: -1
+Boob R 1
+  rotate: true
+  xy: 2, 2494
+  size: 381, 441
+  orig: 450, 600
+  offset: 6, 36
+  index: -1
+Boob R 2
+  rotate: true
+  xy: 2, 2099
+  size: 393, 439
+  orig: 450, 600
+  offset: 3, 43
+  index: -1
+Butterfly L
+  rotate: true
+  xy: 3258, 920
+  size: 599, 706
+  orig: 599, 706
+  offset: 0, 0
+  index: -1
+Butterfly R
+  rotate: true
+  xy: 1546, 2354
+  size: 328, 715
+  orig: 328, 715
+  offset: 0, 0
+  index: -1
+Chest Cover
+  rotate: false
+  xy: 3204, 2590
+  size: 407, 325
+  orig: 407, 520
+  offset: 0, 195
+  index: -1
+Face 1
+  rotate: true
+  xy: 3916, 3157
+  size: 196, 173
+  orig: 196, 180
+  offset: 0, 7
+  index: -1
+Face 2
+  rotate: false
+  xy: 1294, 3092
+  size: 196, 192
+  orig: 196, 192
+  offset: 0, 0
+  index: -1
+Face 3
+  rotate: false
+  xy: 442, 3120
+  size: 196, 187
+  orig: 196, 187
+  offset: 0, 0
+  index: -1
+Face 3 Tonge
+  rotate: false
+  xy: 2, 3327
+  size: 28, 26
+  orig: 29, 26
+  offset: 1, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 640, 3119
+  size: 437, 179
+  orig: 451, 179
+  offset: 14, 0
+  index: -1
+Hair 01
+  rotate: false
+  xy: 1343, 2778
+  size: 408, 304
+  orig: 408, 305
+  offset: 0, 0
+  index: -1
+Hair 02
+  rotate: false
+  xy: 3679, 3189
+  size: 235, 164
+  orig: 235, 168
+  offset: 0, 4
+  index: -1
+Hair 03
+  rotate: true
+  xy: 1665, 3280
+  size: 73, 222
+  orig: 73, 222
+  offset: 0, 0
+  index: -1
+Hair Back 2
+  rotate: false
+  xy: 2659, 2986
+  size: 338, 237
+  orig: 338, 257
+  offset: 0, 20
+  index: -1
+Hair Bang 01
+  rotate: true
+  xy: 2015, 3261
+  size: 92, 252
+  orig: 92, 252
+  offset: 0, 0
+  index: -1
+Hair Tail 1
+  rotate: true
+  xy: 2999, 2964
+  size: 228, 503
+  orig: 228, 503
+  offset: 0, 0
+  index: -1
+Hair Tail 2
+  rotate: true
+  xy: 2464, 3246
+  size: 107, 169
+  orig: 109, 169
+  offset: 0, 0
+  index: -1
+Hair added
+  rotate: true
+  xy: 2950, 3225
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2373, 3004
+  size: 225, 284
+  orig: 230, 287
+  offset: 0, 3
+  index: -1
+Head Armor L
+  rotate: true
+  xy: 784, 3301
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Head Armor R
+  rotate: true
+  xy: 1889, 3272
+  size: 81, 124
+  orig: 81, 124
+  offset: 0, 0
+  index: -1
+Head Flowers
+  rotate: true
+  xy: 1753, 2730
+  size: 315, 320
+  orig: 315, 320
+  offset: 0, 0
+  index: -1
+Head tow
+  rotate: false
+  xy: 1758, 3047
+  size: 328, 212
+  orig: 328, 212
+  offset: 0, 0
+  index: -1
+Head veil 1
+  rotate: true
+  xy: 1385, 157
+  size: 966, 1054
+  orig: 1109, 1062
+  offset: 0, 8
+  index: -1
+L Arm
+  rotate: true
+  xy: 564, 2822
+  size: 295, 460
+  orig: 295, 460
+  offset: 0, 0
+  index: -1
+L FArm
+  rotate: false
+  xy: 3368, 3194
+  size: 309, 159
+  orig: 309, 159
+  offset: 0, 0
+  index: -1
+L Hand
+  rotate: true
+  xy: 3118, 3214
+  size: 139, 248
+  orig: 139, 248
+  offset: 0, 0
+  index: -1
+L Hand Finger
+  rotate: true
+  xy: 1333, 3287
+  size: 66, 121
+  orig: 66, 162
+  offset: 0, 41
+  index: -1
+L Hand Fingers
+  rotate: true
+  xy: 2269, 3248
+  size: 105, 193
+  orig: 124, 193
+  offset: 19, 0
+  index: -1
+L_Leg_1
+  rotate: true
+  xy: 1611, 1556
+  size: 429, 1640
+  orig: 429, 1640
+  offset: 0, 0
+  index: -1
+L_Leg_2
+  rotate: true
+  xy: 809, 1125
+  size: 429, 1640
+  orig: 429, 1640
+  offset: 0, 0
+  index: -1
+L_Leg_3
+  rotate: true
+  xy: 2, 1627
+  size: 428, 1607
+  orig: 428, 1607
+  offset: 0, 0
+  index: -1
+L_Leg_Purple 1
+  rotate: true
+  xy: 2635, 3231
+  size: 122, 178
+  orig: 122, 178
+  offset: 0, 0
+  index: -1
+L_Leg_Purple 2
+  rotate: true
+  xy: 1079, 3106
+  size: 187, 213
+  orig: 202, 213
+  offset: 15, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 2434, 2661
+  size: 323, 359
+  orig: 323, 359
+  offset: 0, 0
+  index: -1
+R_Arm 2
+  rotate: false
+  xy: 2075, 2684
+  size: 357, 318
+  orig: 357, 318
+  offset: 0, 0
+  index: -1
+R_F Arm
+  rotate: true
+  xy: 2088, 3034
+  size: 212, 283
+  orig: 212, 283
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 1492, 3084
+  size: 264, 194
+  orig: 264, 221
+  offset: 0, 7
+  index: -1
+R_Hand 2
+  rotate: false
+  xy: 201, 3131
+  size: 239, 178
+  orig: 239, 186
+  offset: 0, 8
+  index: -1
+R_Leg_1
+  rotate: true
+  xy: 443, 2057
+  size: 295, 1711
+  orig: 295, 1711
+  offset: 0, 0
+  index: -1
+R_Leg_2
+  rotate: true
+  xy: 2156, 1987
+  size: 299, 1711
+  orig: 327, 1711
+  offset: 28, 0
+  index: -1
+R_Leg_3
+  rotate: true
+  xy: 2263, 2288
+  size: 294, 1711
+  orig: 294, 1711
+  offset: 0, 0
+  index: -1
+R_Leg_Purple
+  rotate: true
+  xy: 2, 3145
+  size: 170, 197
+  orig: 170, 199
+  offset: 0, 0
+  index: -1
+Skirt Front Comp
+  rotate: false
+  xy: 445, 2481
+  size: 1099, 295
+  orig: 1099, 295
+  offset: 0, 0
+  index: -1
+Skirt Front L
+  rotate: true
+  xy: 2441, 2
+  size: 916, 1461
+  orig: 916, 1461
+  offset: 0, 0
+  index: -1
+Skirt Front R
+  rotate: true
+  xy: 2, 220
+  size: 903, 1381
+  orig: 903, 1384
+  offset: 0, 0
+  index: -1
+nick
+  rotate: true
+  xy: 2815, 3226
+  size: 127, 133
+  orig: 127, 133
+  offset: 0, 0
+  index: -1
+piece_1_3
+  rotate: true
+  xy: 1456, 3286
+  size: 67, 99
+  orig: 67, 99
+  offset: 0, 0
+  index: -1
+piece_1_4
+  rotate: true
+  xy: 1236, 3295
+  size: 58, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+piece_1_5
+  rotate: true
+  xy: 246, 3311
+  size: 42, 96
+  orig: 42, 96
+  offset: 0, 0
+  index: -1
+piece_1_6
+  rotate: true
+  xy: 168, 3317
+  size: 36, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: -1
+piece_1_7
+  rotate: true
+  xy: 1042, 3300
+  size: 53, 95
+  orig: 53, 95
+  offset: 0, 0
+  index: -1
+piece_1_8
+  rotate: true
+  xy: 32, 3323
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+piece_1_9
+  rotate: true
+  xy: 607, 3309
+  size: 44, 78
+  orig: 124, 250
+  offset: 9, 0
+  index: -1
+piece_3_10
+  rotate: true
+  xy: 687, 3302
+  size: 51, 95
+  orig: 51, 95
+  offset: 0, 0
+  index: -1
+piece_3_11
+  rotate: true
+  xy: 434, 3311
+  size: 42, 83
+  orig: 42, 83
+  offset: 0, 0
+  index: -1
+piece_3_12
+  rotate: true
+  xy: 954, 3301
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+piece_3_4
+  rotate: true
+  xy: 1557, 3284
+  size: 69, 106
+  orig: 69, 106
+  offset: 0, 0
+  index: -1
+piece_3_5
+  rotate: true
+  xy: 856, 3301
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+piece_3_6
+  rotate: true
+  xy: 1139, 3296
+  size: 57, 95
+  orig: 57, 95
+  offset: 0, 0
+  index: -1
+piece_3_7
+  rotate: true
+  xy: 344, 3311
+  size: 42, 88
+  orig: 42, 88
+  offset: 0, 0
+  index: -1
+piece_3_8
+  rotate: true
+  xy: 79, 3319
+  size: 34, 87
+  orig: 34, 87
+  offset: 0, 0
+  index: -1
+piece_3_9
+  rotate: true
+  xy: 519, 3310
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+
+Shiko_Spine_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head veil 2
+  rotate: false
+  xy: 2719, 747
+  size: 966, 1054
+  orig: 1109, 1062
+  offset: 0, 8
+  index: -1
+Skirt Back 1
+  rotate: false
+  xy: 2, 2
+  size: 1689, 1363
+  orig: 1689, 1363
+  offset: 0, 0
+  index: -1
+Skirt Back 2
+  rotate: true
+  xy: 2434, 1803
+  size: 1664, 1363
+  orig: 1672, 1363
+  offset: 8, 0
+  index: -1
+Sword 1
+  rotate: false
+  xy: 2, 1367
+  size: 1214, 2100
+  orig: 1214, 2100
+  offset: 0, 0
+  index: -1
+Sword 2
+  rotate: false
+  xy: 1218, 1367
+  size: 1214, 2100
+  orig: 1214, 2100
+  offset: 0, 0
+  index: -1
+Wings
+  rotate: true
+  xy: 1693, 299
+  size: 1066, 1024
+  orig: 1066, 1024
+  offset: 0, 0
+  index: -1

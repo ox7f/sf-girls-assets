@@ -1,3 +1,265 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:308a695ed4406a158b4e7c82cb22d68a2a70a621b54442985755e0518bfc0da7
-size 3951
+
+Meteli_Spine_Addition.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+M_bady_1
+  rotate: true
+  xy: 2169, 359
+  size: 299, 227
+  orig: 299, 227
+  offset: 0, 0
+  index: -1
+M_bady_10
+  rotate: false
+  xy: 498, 2
+  size: 668, 560
+  orig: 668, 560
+  offset: 0, 0
+  index: -1
+M_bady_11
+  rotate: true
+  xy: 1553, 1268
+  size: 272, 251
+  orig: 272, 251
+  offset: 0, 0
+  index: -1
+M_bady_2
+  rotate: false
+  xy: 2387, 1669
+  size: 285, 377
+  orig: 285, 377
+  offset: 0, 0
+  index: -1
+M_bady_3
+  rotate: false
+  xy: 2398, 435
+  size: 208, 223
+  orig: 208, 223
+  offset: 0, 0
+  index: -1
+M_bady_4
+  rotate: false
+  xy: 2070, 23
+  size: 312, 256
+  orig: 312, 256
+  offset: 0, 0
+  index: -1
+M_bady_5
+  rotate: true
+  xy: 2, 1251
+  size: 795, 568
+  orig: 795, 568
+  offset: 0, 0
+  index: -1
+M_bady_6
+  rotate: true
+  xy: 1862, 19
+  size: 260, 206
+  orig: 260, 206
+  offset: 0, 0
+  index: -1
+M_bady_7
+  rotate: true
+  xy: 716, 1255
+  size: 143, 191
+  orig: 143, 191
+  offset: 0, 0
+  index: -1
+M_bady_8
+  rotate: false
+  xy: 2, 13
+  size: 494, 524
+  orig: 494, 524
+  offset: 0, 0
+  index: -1
+M_bady_9
+  rotate: false
+  xy: 405, 564
+  size: 659, 685
+  orig: 659, 685
+  offset: 0, 0
+  index: -1
+M_foot_L_1_1
+  rotate: true
+  xy: 1168, 106
+  size: 494, 325
+  orig: 494, 325
+  offset: 0, 0
+  index: -1
+M_foot_L_1_2
+  rotate: true
+  xy: 2384, 104
+  size: 253, 227
+  orig: 253, 227
+  offset: 0, 0
+  index: -1
+M_foot_L_1_3
+  rotate: true
+  xy: 2, 539
+  size: 710, 401
+  orig: 710, 401
+  offset: 0, 0
+  index: -1
+M_foot_L_1_4
+  rotate: true
+  xy: 1124, 1405
+  size: 135, 133
+  orig: 135, 133
+  offset: 0, 0
+  index: -1
+M_foot_L_1_5
+  rotate: false
+  xy: 2128, 660
+  size: 306, 224
+  orig: 306, 224
+  offset: 0, 0
+  index: -1
+M_foot_R_1_1
+  rotate: true
+  xy: 1473, 767
+  size: 493, 434
+  orig: 493, 434
+  offset: 0, 0
+  index: -1
+M_foot_R_1_2
+  rotate: true
+  xy: 1495, 186
+  size: 422, 365
+  orig: 422, 365
+  offset: 0, 0
+  index: -1
+M_foot_R_1_3
+  rotate: false
+  xy: 2197, 1284
+  size: 307, 331
+  orig: 307, 331
+  offset: 0, 0
+  index: -1
+M_foot_R_1_4
+  rotate: true
+  xy: 1066, 766
+  size: 494, 405
+  orig: 494, 405
+  offset: 0, 0
+  index: -1
+M_hand_L_1_1
+  rotate: false
+  xy: 572, 1254
+  size: 142, 144
+  orig: 142, 144
+  offset: 0, 0
+  index: -1
+M_hand_L_1_10
+  rotate: false
+  xy: 1259, 1262
+  size: 292, 278
+  orig: 292, 278
+  offset: 0, 0
+  index: -1
+M_hand_L_1_11
+  rotate: true
+  xy: 1586, 1605
+  size: 441, 375
+  orig: 441, 375
+  offset: 0, 0
+  index: -1
+M_hand_L_1_12
+  rotate: true
+  xy: 1066, 602
+  size: 162, 254
+  orig: 162, 254
+  offset: 0, 0
+  index: -1
+M_hand_L_1_2
+  rotate: false
+  xy: 1574, 630
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+M_hand_L_1_3
+  rotate: true
+  xy: 1048, 1262
+  size: 136, 156
+  orig: 136, 156
+  offset: 0, 0
+  index: -1
+M_hand_L_1_4
+  rotate: true
+  xy: 1707, 631
+  size: 134, 115
+  orig: 134, 115
+  offset: 0, 0
+  index: -1
+M_hand_L_1_5
+  rotate: true
+  xy: 1963, 1617
+  size: 429, 422
+  orig: 429, 422
+  offset: 0, 0
+  index: -1
+M_hand_L_1_6
+  rotate: false
+  xy: 1322, 603
+  size: 125, 161
+  orig: 125, 161
+  offset: 0, 0
+  index: -1
+M_hand_L_1_7
+  rotate: true
+  xy: 909, 1256
+  size: 142, 137
+  orig: 142, 137
+  offset: 0, 0
+  index: -1
+M_hand_L_1_8
+  rotate: true
+  xy: 1449, 610
+  size: 154, 123
+  orig: 154, 123
+  offset: 0, 0
+  index: -1
+M_hand_L_1_9
+  rotate: true
+  xy: 1862, 281
+  size: 376, 305
+  orig: 376, 305
+  offset: 0, 0
+  index: -1
+M_hand_R_1_1
+  rotate: false
+  xy: 1909, 886
+  size: 349, 377
+  orig: 349, 377
+  offset: 0, 0
+  index: -1
+M_hand_R_1_2
+  rotate: false
+  xy: 1124, 1542
+  size: 460, 504
+  orig: 460, 504
+  offset: 0, 0
+  index: -1
+M_hand_R_1_3
+  rotate: true
+  xy: 1806, 1265
+  size: 338, 389
+  orig: 338, 389
+  offset: 0, 0
+  index: -1
+M_hand_R_1_4
+  rotate: false
+  xy: 572, 1400
+  size: 550, 646
+  orig: 550, 646
+  offset: 0, 0
+  index: -1
+M_hand_R_1_5
+  rotate: true
+  xy: 1824, 659
+  size: 106, 302
+  orig: 106, 302
+  offset: 0, 0
+  index: -1

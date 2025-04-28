@@ -1,3 +1,369 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0360b5e9df4349a35a251b1ec7fef16c3d64e7eb70e1c8b1ae8905531d750f13
-size 5389
+
+Kiyomi_Playroom_Skin2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_body cloth
+  rotate: true
+  xy: 2, 2154
+  size: 487, 759
+  orig: 487, 759
+  offset: 0, 0
+  index: -1
+A_body_main
+  rotate: true
+  xy: 2095, 3800
+  size: 198, 264
+  orig: 198, 264
+  offset: 0, 0
+  index: -1
+A_face ex
+  rotate: true
+  xy: 1515, 3468
+  size: 338, 419
+  orig: 338, 419
+  offset: 0, 0
+  index: -1
+A_main
+  rotate: true
+  xy: 979, 2590
+  size: 454, 767
+  orig: 454, 767
+  offset: 0, 0
+  index: -1
+A_under_back
+  rotate: true
+  xy: 854, 3848
+  size: 150, 164
+  orig: 150, 164
+  offset: 0, 0
+  index: -1
+A_under_front
+  rotate: false
+  xy: 2996, 1315
+  size: 830, 637
+  orig: 830, 637
+  offset: 0, 0
+  index: -1
+B_body main_back
+  rotate: true
+  xy: 606, 3868
+  size: 130, 246
+  orig: 130, 246
+  offset: 0, 0
+  index: -1
+B_body main_front
+  rotate: true
+  xy: 2, 2758
+  size: 444, 470
+  orig: 444, 470
+  offset: 0, 0
+  index: -1
+B_face_ex
+  rotate: true
+  xy: 1936, 3450
+  size: 348, 402
+  orig: 348, 402
+  offset: 0, 0
+  index: -1
+B_main
+  rotate: false
+  xy: 2314, 1336
+  size: 680, 616
+  orig: 680, 616
+  offset: 0, 0
+  index: -1
+Boob L
+  rotate: false
+  xy: 3603, 2924
+  size: 442, 442
+  orig: 442, 442
+  offset: 0, 0
+  index: -1
+Boob R
+  rotate: false
+  xy: 474, 2643
+  size: 503, 491
+  orig: 503, 491
+  offset: 0, 0
+  index: -1
+L_arm 1
+  rotate: true
+  xy: 3594, 3733
+  size: 265, 476
+  orig: 265, 476
+  offset: 0, 0
+  index: -1
+L_arm 2
+  rotate: false
+  xy: 2, 3204
+  size: 753, 370
+  orig: 753, 370
+  offset: 0, 0
+  index: -1
+L_hand 1
+  rotate: false
+  xy: 2361, 3800
+  size: 215, 198
+  orig: 215, 198
+  offset: 0, 0
+  index: -1
+L_hand 2
+  rotate: false
+  xy: 3185, 3735
+  size: 407, 263
+  orig: 407, 263
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: false
+  xy: 2362, 2
+  size: 1706, 735
+  orig: 1706, 735
+  offset: 0, 0
+  index: -1
+R Arm
+  rotate: false
+  xy: 2, 3576
+  size: 899, 270
+  orig: 899, 270
+  offset: 0, 0
+  index: -1
+R Leg
+  rotate: false
+  xy: 1366, 739
+  size: 2568, 574
+  orig: 2568, 574
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 1189, 3046
+  size: 420, 626
+  orig: 420, 626
+  offset: 0, 0
+  index: -1
+cloth 1
+  rotate: false
+  xy: 2, 84
+  size: 2358, 653
+  orig: 2358, 653
+  offset: 0, 0
+  index: -1
+cloth2
+  rotate: false
+  xy: 667, 1525
+  size: 1645, 522
+  orig: 1645, 522
+  offset: 0, 0
+  index: -1
+d1_1
+  rotate: true
+  xy: 485, 3880
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+d1_2
+  rotate: false
+  xy: 2977, 2935
+  size: 624, 431
+  orig: 624, 431
+  offset: 0, 0
+  index: -1
+d1_3
+  rotate: true
+  xy: 684, 864
+  size: 659, 680
+  orig: 659, 680
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 2760, 3375
+  size: 358, 547
+  orig: 358, 547
+  offset: 0, 0
+  index: -1
+d2_1
+  rotate: true
+  xy: 361, 3881
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+d2_2
+  rotate: false
+  xy: 903, 3534
+  size: 610, 306
+  orig: 610, 306
+  offset: 0, 0
+  index: -1
+hair back1
+  rotate: true
+  xy: 2815, 2480
+  size: 442, 862
+  orig: 442, 862
+  offset: 0, 0
+  index: -1
+hair front
+  rotate: true
+  xy: 763, 2088
+  size: 500, 626
+  orig: 500, 626
+  offset: 0, 0
+  index: -1
+hair side2
+  rotate: false
+  xy: 3309, 3368
+  size: 587, 363
+  orig: 587, 363
+  offset: 0, 0
+  index: -1
+hair tail 2
+  rotate: false
+  xy: 2, 1539
+  size: 663, 613
+  orig: 663, 613
+  offset: 0, 0
+  index: -1
+hair tail 3
+  rotate: false
+  xy: 1391, 2059
+  size: 768, 512
+  orig: 768, 512
+  offset: 0, 0
+  index: -1
+hair_acc
+  rotate: true
+  xy: 757, 3136
+  size: 396, 430
+  orig: 396, 430
+  offset: 0, 0
+  index: -1
+hair_acc2
+  rotate: false
+  xy: 2578, 3764
+  size: 241, 234
+  orig: 241, 234
+  offset: 0, 0
+  index: -1
+hair_acc3
+  rotate: true
+  xy: 192, 3896
+  size: 102, 167
+  orig: 102, 167
+  offset: 0, 0
+  index: -1
+hair_bang 1
+  rotate: false
+  xy: 2784, 1954
+  size: 776, 524
+  orig: 776, 524
+  offset: 0, 0
+  index: -1
+hair_bang 2
+  rotate: false
+  xy: 1377, 3842
+  size: 345, 156
+  orig: 345, 156
+  offset: 0, 0
+  index: -1
+hair_bang 3
+  rotate: false
+  xy: 1020, 3845
+  size: 355, 153
+  orig: 355, 153
+  offset: 0, 0
+  index: -1
+hair_bang 4
+  rotate: false
+  xy: 1724, 3808
+  size: 369, 190
+  orig: 369, 190
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 867
+  size: 680, 656
+  orig: 680, 656
+  offset: 0, 0
+  index: -1
+smosk
+  rotate: true
+  xy: 2821, 3739
+  size: 259, 362
+  orig: 259, 362
+  offset: 0, 0
+  index: -1
+sperm
+  rotate: false
+  xy: 2161, 2049
+  size: 621, 522
+  orig: 621, 522
+  offset: 0, 0
+  index: -1
+sweat 1
+  rotate: false
+  xy: 1748, 2573
+  size: 1065, 440
+  orig: 1065, 440
+  offset: 0, 0
+  index: -1
+sweat 2
+  rotate: false
+  xy: 1817, 3015
+  size: 1158, 358
+  orig: 1158, 358
+  offset: 0, 0
+  index: -1
+sweat 3
+  rotate: false
+  xy: 2340, 3400
+  size: 418, 362
+  orig: 418, 362
+  offset: 0, 0
+  index: -1
+sweat 4
+  rotate: false
+  xy: 2, 3938
+  size: 188, 60
+  orig: 188, 60
+  offset: 0, 0
+  index: -1
+
+Kiyomi_Playroom_Skin2_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_cloth3
+  rotate: false
+  xy: 1296, 2
+  size: 1924, 1759
+  orig: 1924, 1759
+  offset: 0, 0
+  index: -1
+A_cloth4
+  rotate: false
+  xy: 2, 1911
+  size: 1818, 784
+  orig: 1818, 784
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1822, 1763
+  size: 1674, 932
+  orig: 1674, 932
+  offset: 0, 0
+  index: -1
+hair tail 1
+  rotate: true
+  xy: 2, 649
+  size: 1260, 1292
+  orig: 1260, 1292
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,368 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6d9bf071025f6ab5526d4d9beb7f30c756a611d0934ea3a0352b14ddf56d2f7d
-size 5372
+
+Sora_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 694, 2023
+  size: 593, 644
+  orig: 593, 644
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: false
+  xy: 3192, 2251
+  size: 690, 581
+  orig: 690, 581
+  offset: 0, 0
+  index: -1
+bust
+  rotate: false
+  xy: 1023, 3633
+  size: 491, 319
+  orig: 491, 319
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 1134, 972
+  size: 2859, 799
+  orig: 2859, 799
+  offset: 0, 0
+  index: -1
+clawn
+  rotate: false
+  xy: 2760, 2969
+  size: 582, 499
+  orig: 582, 499
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2586, 3868
+  size: 255, 197
+  orig: 255, 197
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 3441, 3834
+  size: 282, 231
+  orig: 282, 231
+  offset: 0, 0
+  index: -1
+feather
+  rotate: false
+  xy: 2, 1296
+  size: 1130, 725
+  orig: 1130, 725
+  offset: 0, 0
+  index: -1
+hairL1
+  rotate: true
+  xy: 758, 3968
+  size: 97, 277
+  orig: 97, 277
+  offset: 0, 0
+  index: -1
+hairL2
+  rotate: true
+  xy: 1959, 3902
+  size: 163, 250
+  orig: 163, 250
+  offset: 0, 0
+  index: -1
+hairL2T
+  rotate: true
+  xy: 667, 3981
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+hairR1
+  rotate: true
+  xy: 2211, 3871
+  size: 194, 373
+  orig: 194, 373
+  offset: 0, 0
+  index: -1
+hairR2
+  rotate: true
+  xy: 1245, 3954
+  size: 111, 283
+  orig: 111, 283
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 3633, 3408
+  size: 452, 413
+  orig: 452, 413
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 2843, 3484
+  size: 394, 349
+  orig: 394, 349
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 1224, 2618
+  size: 524, 1119
+  orig: 524, 1119
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 3074, 3835
+  size: 230, 365
+  orig: 230, 365
+  offset: 0, 0
+  index: -1
+left_thights
+  rotate: true
+  xy: 2345, 2392
+  size: 575, 845
+  orig: 575, 845
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: false
+  xy: 2, 2
+  size: 1852, 968
+  orig: 1852, 968
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 116, 4015
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 399, 4004
+  size: 97, 61
+  orig: 97, 61
+  offset: 0, 0
+  index: -1
+pp1
+  rotate: false
+  xy: 3725, 3823
+  size: 307, 242
+  orig: 307, 242
+  offset: 0, 0
+  index: -1
+pp2
+  rotate: true
+  xy: 2, 3283
+  size: 410, 526
+  orig: 410, 526
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 2, 3753
+  size: 379, 251
+  orig: 379, 251
+  offset: 0, 0
+  index: -1
+right_calf
+  rotate: true
+  xy: 1008, 3144
+  size: 396, 1750
+  orig: 396, 1750
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: true
+  xy: 1998, 1773
+  size: 617, 1181
+  orig: 617, 1181
+  offset: 0, 0
+  index: -1
+right_hand2
+  rotate: true
+  xy: 2, 2676
+  size: 466, 1220
+  orig: 466, 1220
+  offset: 0, 0
+  index: -1
+right_hand2fin
+  rotate: false
+  xy: 323, 4006
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 383, 3695
+  size: 284, 317
+  orig: 284, 317
+  offset: 0, 0
+  index: -1
+right_thights
+  rotate: false
+  xy: 3344, 2834
+  size: 722, 572
+  orig: 722, 572
+  offset: 0, 0
+  index: -1
+semen
+  rotate: false
+  xy: 1516, 3589
+  size: 350, 340
+  orig: 350, 340
+  offset: 0, 0
+  index: -1
+semen_body1
+  rotate: true
+  xy: 702, 3670
+  size: 296, 319
+  orig: 296, 319
+  offset: 0, 0
+  index: -1
+semen_body2
+  rotate: false
+  xy: 2, 4016
+  size: 112, 49
+  orig: 112, 49
+  offset: 0, 0
+  index: -1
+semen_body3
+  rotate: false
+  xy: 1037, 3959
+  size: 206, 106
+  orig: 206, 106
+  offset: 0, 0
+  index: -1
+semen_booba
+  rotate: false
+  xy: 1530, 3954
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+semen_face1
+  rotate: false
+  xy: 498, 4002
+  size: 167, 63
+  orig: 167, 63
+  offset: 0, 0
+  index: -1
+semen_face2
+  rotate: false
+  xy: 173, 4008
+  size: 148, 57
+  orig: 148, 57
+  offset: 0, 0
+  index: -1
+shoulder_clothL
+  rotate: false
+  xy: 1868, 3542
+  size: 973, 324
+  orig: 973, 324
+  offset: 0, 0
+  index: -1
+shoulder_clothR
+  rotate: false
+  xy: 1340, 1960
+  size: 656, 656
+  orig: 656, 656
+  offset: 0, 0
+  index: -1
+splash_semen
+  rotate: true
+  xy: 3239, 3470
+  size: 362, 392
+  orig: 362, 392
+  offset: 0, 0
+  index: -1
+veilL
+  rotate: false
+  xy: 2843, 3863
+  size: 229, 202
+  orig: 229, 202
+  offset: 0, 0
+  index: -1
+veilR
+  rotate: true
+  xy: 1646, 3931
+  size: 134, 311
+  orig: 134, 311
+  offset: 0, 0
+  index: -1
+veil_back
+  rotate: false
+  xy: 530, 3227
+  size: 476, 441
+  orig: 476, 441
+  offset: 0, 0
+  index: -1
+west_upper
+  rotate: false
+  xy: 2, 2093
+  size: 690, 581
+  orig: 690, 581
+  offset: 0, 0
+  index: -1
+
+Sora_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 3544, 1774
+  orig: 3544, 1774
+  offset: 0, 0
+  index: -1
+shade
+  rotate: false
+  xy: 2, 1778
+  size: 3547, 1775
+  orig: 3547, 1775
+  offset: 0, 0
+  index: -1
+
+Sora_Playroom_Wedding_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down
+  rotate: false
+  xy: 2, 85
+  size: 1851, 1204
+  orig: 1851, 1204
+  offset: 0, 0
+  index: -1
+left_calf
+  rotate: true
+  xy: 1855, 2
+  size: 1031, 1798
+  orig: 1031, 1798
+  offset: 0, 0
+  index: -1
+lighting
+  rotate: false
+  xy: 2, 1291
+  size: 2352, 1775
+  orig: 2352, 1775
+  offset: 0, 0
+  index: -1
+reflection
+  rotate: true
+  xy: 2356, 1035
+  size: 2031, 1257
+  orig: 2031, 1257
+  offset: 0, 0
+  index: -1

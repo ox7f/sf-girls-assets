@@ -1,3 +1,1076 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3008d19c15fef27838aec651acf78a85bff463c534062f51d45a70feaeef3c72
-size 16494
+
+Cadence_Spine_Skin2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bird Body
+  rotate: false
+  xy: 388, 3831
+  size: 247, 132
+  orig: 247, 132
+  offset: 0, 0
+  index: -1
+Bird L Wing
+  rotate: true
+  xy: 1388, 3602
+  size: 184, 190
+  orig: 184, 190
+  offset: 0, 0
+  index: -1
+Bird Left
+  rotate: false
+  xy: 2, 3420
+  size: 398, 228
+  orig: 398, 228
+  offset: 0, 0
+  index: -1
+Bird R Wing
+  rotate: true
+  xy: 2393, 4027
+  size: 66, 175
+  orig: 66, 175
+  offset: 0, 0
+  index: -1
+Chiffon L 1 - 1
+  rotate: true
+  xy: 1615, 507
+  size: 666, 828
+  orig: 666, 828
+  offset: 0, 0
+  index: -1
+Chiffon L 1 - 2
+  rotate: true
+  xy: 1985, 3583
+  size: 189, 213
+  orig: 189, 213
+  offset: 0, 0
+  index: -1
+Chiffon L 1 - 3
+  rotate: false
+  xy: 590, 3628
+  size: 229, 182
+  orig: 229, 182
+  offset: 0, 0
+  index: -1
+Chiffon L 2 - 1
+  rotate: true
+  xy: 2445, 442
+  size: 666, 828
+  orig: 666, 828
+  offset: 0, 0
+  index: -1
+Chiffon L 2 - 2
+  rotate: true
+  xy: 2200, 3565
+  size: 190, 211
+  orig: 190, 211
+  offset: 0, 0
+  index: -1
+Chiffon L F;ower
+  rotate: true
+  xy: 3068, 3744
+  size: 156, 183
+  orig: 156, 183
+  offset: 0, 0
+  index: -1
+Chiffon R 2 - 1
+  rotate: false
+  xy: 2, 2
+  size: 933, 715
+  orig: 933, 715
+  offset: 0, 0
+  index: -1
+Crab Body
+  rotate: false
+  xy: 2, 3842
+  size: 144, 131
+  orig: 144, 131
+  offset: 0, 0
+  index: -1
+Crab Clamp L
+  rotate: true
+  xy: 3361, 4021
+  size: 72, 153
+  orig: 72, 153
+  offset: 0, 0
+  index: -1
+Crab Clamp R
+  rotate: true
+  xy: 321, 3968
+  size: 84, 222
+  orig: 84, 222
+  offset: 0, 0
+  index: -1
+Crab leg 1
+  rotate: true
+  xy: 208, 4056
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+Crab leg 1 - 2
+  rotate: false
+  xy: 2, 4065
+  size: 82, 28
+  orig: 82, 28
+  offset: 0, 0
+  index: -1
+Crab leg 2
+  rotate: true
+  xy: 2924, 4024
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+Crab leg 3
+  rotate: false
+  xy: 2003, 4031
+  size: 74, 62
+  orig: 74, 62
+  offset: 0, 0
+  index: -1
+Crab leg 4
+  rotate: false
+  xy: 1046, 4043
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+Crab leg 5
+  rotate: false
+  xy: 359, 4054
+  size: 111, 39
+  orig: 111, 39
+  offset: 0, 0
+  index: -1
+Crab leg 6
+  rotate: false
+  xy: 1593, 4039
+  size: 110, 54
+  orig: 110, 54
+  offset: 0, 0
+  index: -1
+Crab leg 7
+  rotate: false
+  xy: 1915, 4033
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1
+Crab leg 8
+  rotate: false
+  xy: 1705, 4037
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+Earring
+  rotate: true
+  xy: 86, 4060
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Girl Nick
+  rotate: true
+  xy: 3516, 4020
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+Girl_Body 1
+  rotate: true
+  xy: 961, 2360
+  size: 375, 526
+  orig: 375, 526
+  offset: 0, 0
+  index: -1
+Girl_Body 2
+  rotate: true
+  xy: 1489, 2285
+  size: 375, 526
+  orig: 375, 526
+  offset: 0, 0
+  index: -1
+Girl_Body 2 Suit
+  rotate: false
+  xy: 739, 4051
+  size: 90, 42
+  orig: 90, 42
+  offset: 0, 0
+  index: -1
+Girl_Body 2 Suit L
+  rotate: true
+  xy: 3183, 4023
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+Girl_Body 2 Suit R
+  rotate: false
+  xy: 2013, 3918
+  size: 127, 110
+  orig: 127, 110
+  offset: 0, 0
+  index: -1
+Girl_Body 2 Suit Shadow
+  rotate: false
+  xy: 2779, 3904
+  size: 209, 118
+  orig: 209, 118
+  offset: 0, 0
+  index: -1
+Girl_Body 2 Suit up
+  rotate: false
+  xy: 3607, 4019
+  size: 142, 74
+  orig: 142, 74
+  offset: 0, 0
+  index: -1
+Girl_Body 3
+  rotate: true
+  xy: 2017, 2249
+  size: 375, 526
+  orig: 375, 526
+  offset: 0, 0
+  index: -1
+Girl_Bpdy 3 Suit
+  rotate: false
+  xy: 1769, 4036
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+Girl_Bra
+  rotate: false
+  xy: 402, 3397
+  size: 290, 229
+  orig: 290, 229
+  offset: 0, 0
+  index: -1
+Girl_Face 1
+  rotate: false
+  xy: 3475, 3896
+  size: 128, 122
+  orig: 128, 122
+  offset: 0, 0
+  index: -1
+Girl_Face 2
+  rotate: false
+  xy: 3871, 3886
+  size: 131, 126
+  orig: 131, 126
+  offset: 0, 0
+  index: -1
+Girl_Face 3
+  rotate: false
+  xy: 3253, 3730
+  size: 182, 166
+  orig: 182, 166
+  offset: 0, 0
+  index: -1
+Girl_Head 1
+  rotate: true
+  xy: 210, 3651
+  size: 178, 188
+  orig: 178, 188
+  offset: 0, 0
+  index: -1
+Girl_Head 2
+  rotate: true
+  xy: 400, 3650
+  size: 179, 188
+  orig: 179, 188
+  offset: 0, 0
+  index: -1
+Girl_Head 3
+  rotate: true
+  xy: 1795, 3586
+  size: 186, 188
+  orig: 186, 188
+  offset: 0, 0
+  index: -1
+Girl_L_Arm
+  rotate: true
+  xy: 148, 3835
+  size: 131, 238
+  orig: 131, 238
+  offset: 0, 0
+  index: -1
+Girl_L_FArm
+  rotate: false
+  xy: 888, 3950
+  size: 130, 95
+  orig: 130, 95
+  offset: 0, 0
+  index: -1
+Girl_L_Fingers
+  rotate: true
+  xy: 1838, 4036
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+Girl_L_Hand
+  rotate: true
+  xy: 545, 3965
+  size: 86, 99
+  orig: 86, 99
+  offset: 0, 0
+  index: -1
+Girl_L_Leg
+  rotate: true
+  xy: 2823, 3237
+  size: 248, 1050
+  orig: 248, 1050
+  offset: 0, 0
+  index: -1
+Girl_L_Leg 3
+  rotate: true
+  xy: 2, 3135
+  size: 248, 1050
+  orig: 248, 1050
+  offset: 0, 0
+  index: -1
+Girl_L_Leg_Doc
+  rotate: true
+  xy: 3966, 4014
+  size: 79, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1
+Girl_L_Thumb
+  rotate: true
+  xy: 267, 4055
+  size: 38, 90
+  orig: 38, 90
+  offset: 0, 0
+  index: -1
+Girl_R_Arm
+  rotate: true
+  xy: 3651, 2042
+  size: 458, 426
+  orig: 458, 426
+  offset: 0, 0
+  index: -1
+Girl_R_Arm 3
+  rotate: true
+  xy: 1252, 3943
+  size: 95, 294
+  orig: 95, 294
+  offset: 0, 0
+  index: -1
+Girl_R_Arm_Doc
+  rotate: true
+  xy: 1236, 4042
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+Girl_R_F Arm 3
+  rotate: true
+  xy: 1696, 3928
+  size: 106, 177
+  orig: 106, 177
+  offset: 0, 0
+  index: -1
+Girl_R_F Arm 3 Doc
+  rotate: true
+  xy: 472, 4054
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Girl_R_Hand 3
+  rotate: true
+  xy: 1096, 3803
+  size: 143, 144
+  orig: 143, 144
+  offset: 0, 0
+  index: -1
+Girl_R_Leg
+  rotate: true
+  xy: 1985, 3277
+  size: 267, 836
+  orig: 267, 836
+  offset: 0, 0
+  index: -1
+Girl_R_Leg 3
+  rotate: true
+  xy: 1054, 3057
+  size: 267, 836
+  orig: 267, 836
+  offset: 0, 0
+  index: -1
+Girl_R_Leg_Doc
+  rotate: true
+  xy: 86, 3975
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+Girl_R_Thumb
+  rotate: true
+  xy: 622, 4053
+  size: 40, 115
+  orig: 40, 115
+  offset: 0, 0
+  index: -1
+Girl_boob_L 1
+  rotate: false
+  xy: 3437, 3722
+  size: 194, 168
+  orig: 194, 168
+  offset: 0, 0
+  index: -1
+Girl_boob_L 2
+  rotate: false
+  xy: 3585, 3487
+  size: 282, 223
+  orig: 282, 223
+  offset: 0, 0
+  index: -1
+Girl_boob_L 3
+  rotate: false
+  xy: 3633, 3720
+  size: 224, 170
+  orig: 224, 170
+  offset: 0, 0
+  index: -1
+Girl_boob_R 1
+  rotate: false
+  xy: 2408, 3757
+  size: 165, 154
+  orig: 165, 154
+  offset: 0, 0
+  index: -1
+Girl_boob_R 2
+  rotate: false
+  xy: 2575, 3752
+  size: 161, 154
+  orig: 161, 154
+  offset: 0, 0
+  index: -1
+Girl_boob_R 3
+  rotate: false
+  xy: 2738, 3748
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+Gun L Body
+  rotate: true
+  xy: 3275, 3
+  size: 869, 732
+  orig: 869, 732
+  offset: 0, 0
+  index: -1
+Gun L Body 2
+  rotate: true
+  xy: 2709, 3546
+  size: 198, 279
+  orig: 198, 279
+  offset: 0, 0
+  index: -1
+Gun L WaterTank
+  rotate: false
+  xy: 3706, 2932
+  size: 366, 303
+  orig: 366, 303
+  offset: 0, 0
+  index: -1
+Gun R Body
+  rotate: false
+  xy: 637, 719
+  size: 976, 619
+  orig: 976, 619
+  offset: 0, 0
+  index: -1
+Gun R WaterTank
+  rotate: false
+  xy: 694, 3385
+  size: 350, 238
+  orig: 350, 238
+  offset: 0, 0
+  index: -1
+Hair Back Band L 1 - 1
+  rotate: true
+  xy: 3266, 3498
+  size: 222, 317
+  orig: 222, 317
+  offset: 0, 0
+  index: -1
+Hair Back Band L 1 - 2
+  rotate: true
+  xy: 950, 3808
+  size: 138, 144
+  orig: 138, 144
+  offset: 0, 0
+  index: -1
+Hair Back Band R 1 - 1
+  rotate: true
+  xy: 637, 3818
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+Hair Back Band R 1 - 2
+  rotate: true
+  xy: 2, 3656
+  size: 177, 206
+  orig: 177, 206
+  offset: 0, 0
+  index: -1
+Hair Back Band R 1 - 3
+  rotate: false
+  xy: 183, 3973
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+Hair_Bang 2
+  rotate: true
+  xy: 1020, 3948
+  size: 92, 230
+  orig: 92, 230
+  offset: 0, 0
+  index: -1
+Hair_Bang 3
+  rotate: true
+  xy: 3271, 3898
+  size: 121, 202
+  orig: 121, 202
+  offset: 0, 0
+  index: -1
+Hair_Bang 4
+  rotate: true
+  xy: 2302, 3914
+  size: 111, 136
+  orig: 111, 136
+  offset: 0, 0
+  index: -1
+Hair_Bing 1
+  rotate: true
+  xy: 2744, 4025
+  size: 68, 178
+  orig: 68, 178
+  offset: 0, 0
+  index: -1
+Hat Back 1
+  rotate: false
+  xy: 2173, 1723
+  size: 700, 458
+  orig: 700, 458
+  offset: 0, 0
+  index: -1
+Hat Back 2
+  rotate: false
+  xy: 2875, 1705
+  size: 680, 458
+  orig: 680, 458
+  offset: 0, 0
+  index: -1
+Hat Front
+  rotate: false
+  xy: 1560, 3326
+  size: 423, 258
+  orig: 423, 258
+  offset: 0, 0
+  index: -1
+Hat Front Tail
+  rotate: true
+  xy: 2900, 3746
+  size: 154, 166
+  orig: 154, 166
+  offset: 0, 0
+  index: -1
+Jacket Back 1
+  rotate: false
+  xy: 456, 1927
+  size: 452, 452
+  orig: 452, 452
+  offset: 0, 0
+  index: -1
+Jacket Back 2
+  rotate: false
+  xy: 2, 2004
+  size: 452, 451
+  orig: 452, 451
+  offset: 0, 0
+  index: -1
+Jacket Front L
+  rotate: false
+  xy: 987, 4047
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+Jacket Front R
+  rotate: true
+  xy: 2254, 2626
+  size: 334, 496
+  orig: 334, 496
+  offset: 0, 0
+  index: -1
+Jacket Front R Shadow
+  rotate: true
+  xy: 831, 4050
+  size: 43, 154
+  orig: 43, 154
+  offset: 0, 0
+  index: -1
+Jacket R 1 - 1
+  rotate: true
+  xy: 1300, 3352
+  size: 248, 258
+  orig: 248, 258
+  offset: 0, 0
+  index: -1
+Jacket R 1 - 2
+  rotate: true
+  xy: 777, 3812
+  size: 136, 171
+  orig: 136, 171
+  offset: 0, 0
+  index: -1
+Jacket String L
+  rotate: false
+  xy: 1399, 4040
+  size: 192, 53
+  orig: 192, 53
+  offset: 0, 0
+  index: -1
+Jacket String R
+  rotate: false
+  xy: 2142, 3918
+  size: 158, 110
+  orig: 158, 110
+  offset: 0, 0
+  index: -1
+Jellyfish Body
+  rotate: false
+  xy: 3859, 3712
+  size: 226, 172
+  orig: 226, 172
+  offset: 0, 0
+  index: -1
+Jellyfish Tentacle 1
+  rotate: false
+  xy: 3015, 4024
+  size: 166, 69
+  orig: 166, 69
+  offset: 0, 0
+  index: -1
+Jellyfish Tentacle 2
+  rotate: false
+  xy: 2618, 3908
+  size: 159, 115
+  orig: 159, 115
+  offset: 0, 0
+  index: -1
+Jellyfish Tentacle 3
+  rotate: true
+  xy: 1875, 3922
+  size: 107, 136
+  orig: 107, 136
+  offset: 0, 0
+  index: -1
+Jellyfish Tentacle Gun
+  rotate: true
+  xy: 1548, 3935
+  size: 102, 146
+  orig: 102, 146
+  offset: 0, 0
+  index: -1
+Seashell_&_Starfish
+  rotate: false
+  xy: 2780, 2941
+  size: 924, 294
+  orig: 924, 294
+  offset: 0, 0
+  index: -1
+Suit Knot 1
+  rotate: true
+  xy: 772, 3956
+  size: 92, 114
+  orig: 92, 114
+  offset: 0, 0
+  index: -1
+Suit Knot 2
+  rotate: true
+  xy: 646, 3963
+  size: 86, 124
+  orig: 86, 124
+  offset: 0, 0
+  index: -1
+Suit Knot 3
+  rotate: false
+  xy: 1242, 3803
+  size: 156, 138
+  orig: 156, 138
+  offset: 0, 0
+  index: -1
+Water Feet 1
+  rotate: true
+  xy: 1405, 1806
+  size: 441, 766
+  orig: 441, 766
+  offset: 0, 0
+  index: -1
+Water Feet 10
+  rotate: true
+  xy: 2787, 1110
+  size: 593, 608
+  orig: 593, 608
+  offset: 0, 0
+  index: -1
+Water Feet 11
+  rotate: true
+  xy: 3256, 2585
+  size: 354, 411
+  orig: 354, 411
+  offset: 0, 0
+  index: -1
+Water Feet 12
+  rotate: true
+  xy: 2752, 2589
+  size: 350, 502
+  orig: 350, 502
+  offset: 0, 0
+  index: -1
+Water Feet 13
+  rotate: true
+  xy: 3557, 1470
+  size: 570, 490
+  orig: 570, 490
+  offset: 0, 0
+  index: -1
+Water Feet 2
+  rotate: false
+  xy: 1892, 2994
+  size: 564, 281
+  orig: 564, 281
+  offset: 0, 0
+  index: -1
+Water Feet 3
+  rotate: true
+  xy: 2545, 2183
+  size: 404, 526
+  orig: 404, 526
+  offset: 0, 0
+  index: -1
+Water Feet 4
+  rotate: false
+  xy: 432, 2812
+  size: 468, 321
+  orig: 468, 321
+  offset: 0, 0
+  index: -1
+Water Feet 5
+  rotate: false
+  xy: 2, 1452
+  size: 742, 473
+  orig: 742, 473
+  offset: 0, 0
+  index: -1
+Water Feet 6
+  rotate: false
+  xy: 821, 3625
+  size: 565, 176
+  orig: 565, 176
+  offset: 0, 0
+  index: -1
+Water Feet 7
+  rotate: false
+  xy: 910, 1876
+  size: 493, 482
+  orig: 493, 482
+  offset: 0, 0
+  index: -1
+Water Feet 8
+  rotate: true
+  xy: 3073, 2165
+  size: 418, 576
+  orig: 418, 576
+  offset: 0, 0
+  index: -1
+Water Feet Base 1
+  rotate: false
+  xy: 746, 1340
+  size: 942, 464
+  orig: 942, 464
+  offset: 0, 0
+  index: -1
+Water Feet base 2
+  rotate: false
+  xy: 902, 2737
+  size: 870, 318
+  orig: 870, 318
+  offset: 0, 0
+  index: -1
+Water Splash 1
+  rotate: false
+  xy: 2240, 3766
+  size: 166, 146
+  orig: 166, 146
+  offset: 0, 0
+  index: -1
+Water Splash 2 - 1
+  rotate: false
+  xy: 1297, 4041
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+Water Splash 2 - 2
+  rotate: true
+  xy: 2458, 2962
+  size: 313, 320
+  orig: 313, 320
+  offset: 0, 0
+  index: -1
+Water Splash 3 - 1
+  rotate: false
+  xy: 128, 4060
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+Water Splash 3 - 2
+  rotate: true
+  xy: 2990, 3514
+  size: 214, 274
+  orig: 214, 274
+  offset: 0, 0
+  index: -1
+Water Splash 4 - 1
+  rotate: false
+  xy: 2440, 3913
+  size: 176, 112
+  orig: 176, 112
+  offset: 0, 0
+  index: -1
+Water Splash 4 - 2
+  rotate: true
+  xy: 2413, 3560
+  size: 190, 294
+  orig: 190, 294
+  offset: 0, 0
+  index: -1
+Water Splash 5
+  rotate: false
+  xy: 2570, 4027
+  size: 96, 66
+  orig: 96, 66
+  offset: 0, 0
+  index: -1
+Water Splash 5  - 2
+  rotate: false
+  xy: 1747, 3779
+  size: 224, 141
+  orig: 224, 141
+  offset: 0, 0
+  index: -1
+Water Splash 6 - 1
+  rotate: true
+  xy: 3256, 4023
+  size: 70, 103
+  orig: 70, 103
+  offset: 0, 0
+  index: -1
+Water Splash 6 - 2
+  rotate: false
+  xy: 486, 2381
+  size: 473, 354
+  orig: 473, 354
+  offset: 0, 0
+  index: -1
+Water Splash 7 - 1
+  rotate: false
+  xy: 518, 4054
+  size: 102, 39
+  orig: 102, 39
+  offset: 0, 0
+  index: -1
+Water Splash 7 - 2
+  rotate: true
+  xy: 1580, 3593
+  size: 184, 213
+  orig: 184, 213
+  offset: 0, 0
+  index: -1
+Water Splash 8 - 2
+  rotate: false
+  xy: 1046, 3385
+  size: 252, 238
+  orig: 252, 238
+  offset: 0, 0
+  index: -1
+Water Tank L
+  rotate: true
+  xy: 3397, 874
+  size: 594, 630
+  orig: 594, 630
+  offset: 0, 0
+  index: -1
+Water Tank L  Handel
+  rotate: true
+  xy: 1400, 3795
+  size: 138, 170
+  orig: 138, 170
+  offset: 0, 0
+  index: -1
+Water Tank L Barrel
+  rotate: true
+  xy: 1690, 1176
+  size: 545, 546
+  orig: 545, 546
+  offset: 0, 0
+  index: -1
+Water Tank L Water 1
+  rotate: true
+  xy: 3669, 2502
+  size: 428, 394
+  orig: 428, 394
+  offset: 0, 0
+  index: -1
+Water Tank L Water 2
+  rotate: false
+  xy: 2, 2823
+  size: 428, 310
+  orig: 428, 310
+  offset: 0, 0
+  index: -1
+Water Tank R
+  rotate: true
+  xy: 2, 844
+  size: 606, 633
+  orig: 606, 633
+  offset: 0, 0
+  index: -1
+Water Tank R Barrel
+  rotate: true
+  xy: 2238, 1175
+  size: 546, 547
+  orig: 546, 547
+  offset: 0, 0
+  index: -1
+Water Tank R Handel
+  rotate: true
+  xy: 1572, 3788
+  size: 138, 173
+  orig: 138, 173
+  offset: 0, 0
+  index: -1
+Water Tank R Water 1
+  rotate: false
+  xy: 2, 2457
+  size: 482, 353
+  orig: 482, 353
+  offset: 0, 0
+  index: -1
+Water Tank R Water 2
+  rotate: false
+  xy: 1774, 2662
+  size: 478, 330
+  orig: 478, 330
+  offset: 0, 0
+  index: -1
+skirt wave 1 - 1
+  rotate: false
+  xy: 2990, 3902
+  size: 279, 119
+  orig: 279, 119
+  offset: 0, 0
+  index: -1
+skirt wave 1 - 2
+  rotate: false
+  xy: 1119, 4043
+  size: 115, 50
+  orig: 115, 50
+  offset: 0, 0
+  index: -1
+skirt wave 1 - 3
+  rotate: true
+  xy: 2, 3984
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+skirt wave 1 Shadow
+  rotate: false
+  xy: 3605, 3892
+  size: 264, 125
+  orig: 264, 125
+  offset: 0, 0
+  index: -1
+skirt wave 2 - 1
+  rotate: true
+  xy: 2079, 4030
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+skirt wave 2 - 2
+  rotate: false
+  xy: 2306, 4028
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+skirt wave 2 - 3
+  rotate: false
+  xy: 3751, 4019
+  size: 213, 74
+  orig: 213, 74
+  offset: 0, 0
+  index: -1
+skirt wave 2 - 4
+  rotate: false
+  xy: 2148, 4030
+  size: 156, 63
+  orig: 156, 63
+  offset: 0, 0
+  index: -1
+skirt wave 2 - 5
+  rotate: true
+  xy: 2668, 4027
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+skirt wave 2 Shadow
+  rotate: false
+  xy: 1973, 3774
+  size: 265, 142
+  orig: 265, 142
+  offset: 0, 0
+  index: -1
+
+Cadence_Spine_Skin2_2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chiffon R 1 - 1
+  rotate: true
+  xy: 1938, 991
+  size: 933, 718
+  orig: 933, 718
+  offset: 0, 0
+  index: -1
+Water Splash 1~4 Spark
+  rotate: false
+  xy: 958, 167
+  size: 978, 1757
+  orig: 978, 1757
+  offset: 0, 0
+  index: -1
+Water Splash 5~8 Spark
+  rotate: false
+  xy: 2, 2
+  size: 954, 1922
+  orig: 954, 1922
+  offset: 0, 0
+  index: -1

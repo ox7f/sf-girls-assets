@@ -1,3 +1,529 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ceed72fe14d5bc1cc557b2d55b31f1d1a6c4ff52e4150d88ceb9362194d52836
-size 7636
+
+Aizawa_Minami_Scene.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add1
+  rotate: false
+  xy: 2, 1014
+  size: 993, 651
+  orig: 993, 651
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 2411, 783
+  size: 1510, 704
+  orig: 1510, 704
+  offset: 0, 0
+  index: -1
+boobaL
+  rotate: true
+  xy: 2048, 2748
+  size: 519, 617
+  orig: 519, 617
+  offset: 0, 0
+  index: -1
+boobaR
+  rotate: false
+  xy: 947, 2888
+  size: 601, 483
+  orig: 601, 483
+  offset: 0, 0
+  index: -1
+bra_dai1
+  rotate: false
+  xy: 53, 3688
+  size: 98, 52
+  orig: 98, 52
+  offset: 0, 0
+  index: -1
+browL1
+  rotate: true
+  xy: 625, 3663
+  size: 77, 126
+  orig: 77, 126
+  offset: 0, 0
+  index: -1
+browL2
+  rotate: true
+  xy: 753, 3663
+  size: 77, 126
+  orig: 77, 126
+  offset: 0, 0
+  index: -1
+browL3
+  rotate: true
+  xy: 753, 3663
+  size: 77, 126
+  orig: 77, 126
+  offset: 0, 0
+  index: -1
+browL4
+  rotate: true
+  xy: 1006, 3659
+  size: 81, 118
+  orig: 81, 118
+  offset: 0, 0
+  index: -1
+browR1
+  rotate: false
+  xy: 247, 3668
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+browR2
+  rotate: false
+  xy: 369, 3668
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+browR3
+  rotate: false
+  xy: 491, 3668
+  size: 132, 72
+  orig: 132, 72
+  offset: 0, 0
+  index: -1
+browR4
+  rotate: false
+  xy: 153, 3673
+  size: 92, 67
+  orig: 92, 67
+  offset: 0, 0
+  index: -1
+cg1_handL
+  rotate: true
+  xy: 2667, 2684
+  size: 447, 1088
+  orig: 447, 1088
+  offset: 0, 0
+  index: -1
+cg1_handR
+  rotate: false
+  xy: 2, 2416
+  size: 1121, 470
+  orig: 1121, 470
+  offset: 0, 0
+  index: -1
+cg1_helmet_S
+  rotate: true
+  xy: 1125, 2254
+  size: 569, 713
+  orig: 569, 713
+  offset: 0, 0
+  index: -1
+cg1_manhandL
+  rotate: true
+  xy: 2310, 1532
+  size: 633, 986
+  orig: 633, 986
+  offset: 0, 0
+  index: -1
+cg1_manhandR
+  rotate: false
+  xy: 2644, 2167
+  size: 980, 515
+  orig: 980, 515
+  offset: 0, 0
+  index: -1
+cg1_sleeveL
+  rotate: true
+  xy: 697, 3409
+  size: 244, 444
+  orig: 244, 444
+  offset: 0, 0
+  index: -1
+cg1_sleeveR
+  rotate: false
+  xy: 2, 3453
+  size: 402, 213
+  orig: 402, 213
+  offset: 0, 0
+  index: -1
+clothL
+  rotate: false
+  xy: 406, 3435
+  size: 289, 226
+  orig: 289, 226
+  offset: 0, 0
+  index: -1
+clothM
+  rotate: false
+  xy: 2537, 3558
+  size: 278, 182
+  orig: 278, 182
+  offset: 0, 0
+  index: -1
+clothR
+  rotate: false
+  xy: 3216, 3542
+  size: 446, 198
+  orig: 446, 198
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: true
+  xy: 2080, 3631
+  size: 109, 130
+  orig: 109, 130
+  offset: 0, 0
+  index: -1
+eyeL2
+  rotate: true
+  xy: 1689, 3632
+  size: 108, 130
+  orig: 108, 130
+  offset: 0, 0
+  index: -1
+eyeL3
+  rotate: true
+  xy: 881, 3660
+  size: 80, 123
+  orig: 80, 123
+  offset: 0, 0
+  index: -1
+eyeL4
+  rotate: true
+  xy: 1821, 3632
+  size: 108, 125
+  orig: 108, 125
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: false
+  xy: 1551, 3641
+  size: 136, 99
+  orig: 136, 99
+  offset: 0, 0
+  index: -1
+eyeR2
+  rotate: false
+  xy: 1415, 3644
+  size: 134, 96
+  orig: 134, 96
+  offset: 0, 0
+  index: -1
+eyeR3
+  rotate: false
+  xy: 1305, 3649
+  size: 108, 91
+  orig: 108, 91
+  offset: 0, 0
+  index: -1
+eyeR4
+  rotate: false
+  xy: 2817, 3547
+  size: 196, 193
+  orig: 196, 193
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 3004
+  size: 461, 429
+  orig: 461, 429
+  offset: 0, 0
+  index: -1
+hairL
+  rotate: true
+  xy: 1550, 2825
+  size: 491, 496
+  orig: 491, 496
+  offset: 0, 0
+  index: -1
+hairLL
+  rotate: true
+  xy: 1840, 2169
+  size: 577, 802
+  orig: 577, 802
+  offset: 0, 0
+  index: -1
+hairLLB
+  rotate: true
+  xy: 3664, 3540
+  size: 200, 214
+  orig: 200, 214
+  offset: 0, 0
+  index: -1
+hairLLm
+  rotate: true
+  xy: 2716, 3230
+  size: 312, 399
+  orig: 312, 399
+  offset: 0, 0
+  index: -1
+hairLm
+  rotate: false
+  xy: 1143, 3373
+  size: 411, 266
+  orig: 411, 266
+  offset: 0, 0
+  index: -1
+hairM
+  rotate: false
+  xy: 1556, 3358
+  size: 424, 272
+  orig: 424, 272
+  offset: 0, 0
+  index: -1
+hairMm
+  rotate: false
+  xy: 2212, 3607
+  size: 323, 133
+  orig: 323, 133
+  offset: 0, 0
+  index: -1
+hairR
+  rotate: false
+  xy: 1408, 1569
+  size: 900, 598
+  orig: 900, 598
+  offset: 0, 0
+  index: -1
+hairRm
+  rotate: false
+  xy: 3117, 3155
+  size: 459, 385
+  orig: 459, 385
+  offset: 0, 0
+  index: -1
+hair_shandow_face
+  rotate: true
+  xy: 465, 2928
+  size: 479, 480
+  orig: 479, 480
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 2, 133
+  size: 756, 1090
+  orig: 756, 1090
+  offset: 0, 0
+  index: -1
+helmet_head_love
+  rotate: false
+  xy: 1688, 851
+  size: 721, 679
+  orig: 721, 679
+  offset: 0, 0
+  index: -1
+helmet_head_string
+  rotate: false
+  xy: 3015, 3544
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+legL
+  rotate: false
+  xy: 1094, 2
+  size: 1406, 779
+  orig: 1406, 779
+  offset: 0, 0
+  index: -1
+legL2
+  rotate: false
+  xy: 2502, 2
+  size: 1406, 779
+  orig: 1406, 779
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 2, 3698
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 1126, 3655
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 1214, 3652
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: false
+  xy: 1948, 3632
+  size: 130, 108
+  orig: 130, 108
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1982, 3318
+  size: 365, 287
+  orig: 365, 287
+  offset: 0, 0
+  index: -1
+neck2
+  rotate: false
+  xy: 2349, 3269
+  size: 365, 287
+  orig: 365, 287
+  offset: 0, 0
+  index: -1
+norm1
+  rotate: true
+  xy: 2, 1835
+  size: 579, 594
+  orig: 579, 594
+  offset: 0, 0
+  index: -1
+pp
+  rotate: false
+  xy: 598, 1667
+  size: 808, 585
+  orig: 808, 585
+  offset: 0, 0
+  index: -1
+shoulders
+  rotate: true
+  xy: 3298, 1489
+  size: 676, 689
+  orig: 676, 689
+  offset: 0, 0
+  index: -1
+shoulders2
+  rotate: true
+  xy: 997, 891
+  size: 676, 689
+  orig: 676, 689
+  offset: 0, 0
+  index: -1
+sperm
+  rotate: false
+  xy: 3578, 3133
+  size: 435, 405
+  orig: 435, 405
+  offset: 0, 0
+  index: -1
+
+Aizawa_Minami_Scene_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 2835, 1530
+  size: 916, 1407
+  orig: 916, 1407
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 2742, 2
+  size: 1526, 1158
+  orig: 1526, 1158
+  offset: 0, 0
+  index: -1
+booba1
+  rotate: true
+  xy: 2, 2981
+  size: 888, 992
+  orig: 888, 992
+  offset: 0, 0
+  index: -1
+cg1_helmet_F
+  rotate: false
+  xy: 1464, 607
+  size: 1276, 1454
+  orig: 1276, 1454
+  offset: 0, 0
+  index: -1
+cg1_helmet_Flove
+  rotate: true
+  xy: 1918, 2967
+  size: 902, 1068
+  orig: 902, 1068
+  offset: 0, 0
+  index: -1
+helmet_back
+  rotate: true
+  xy: 996, 2979
+  size: 890, 920
+  orig: 890, 920
+  offset: 0, 0
+  index: -1
+helmet_head
+  rotate: false
+  xy: 2988, 2939
+  size: 930, 930
+  orig: 930, 930
+  offset: 0, 0
+  index: -1
+legR
+  rotate: true
+  xy: 2, 2075
+  size: 902, 1417
+  orig: 902, 1417
+  offset: 0, 0
+  index: -1
+legR2
+  rotate: true
+  xy: 1421, 2063
+  size: 902, 1412
+  orig: 902, 1412
+  offset: 0, 0
+  index: -1
+norm2
+  rotate: false
+  xy: 2, 1137
+  size: 1460, 924
+  orig: 1460, 924
+  offset: 0, 0
+  index: -1
+
+Aizawa_Minami_Scene_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body2
+  rotate: false
+  xy: 1559, 2637
+  size: 1526, 1158
+  orig: 1526, 1158
+  offset: 0, 0
+  index: -1
+body2t
+  rotate: false
+  xy: 1559, 1477
+  size: 1526, 1158
+  orig: 1526, 1158
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 1305, 317
+  size: 1526, 1158
+  orig: 1526, 1158
+  offset: 0, 0
+  index: -1
+cg1_helmet_back
+  rotate: false
+  xy: 2, 1989
+  size: 1555, 1806
+  orig: 1555, 1806
+  offset: 0, 0
+  index: -1
+norm3
+  rotate: true
+  xy: 2, 2
+  size: 1985, 1301
+  orig: 1985, 1301
+  offset: 0, 0
+  index: -1

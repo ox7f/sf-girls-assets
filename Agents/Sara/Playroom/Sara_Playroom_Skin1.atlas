@@ -1,3 +1,446 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2a220f6af1c42b1f9651eed295f2dc46f5976bd0f69a565ef84bb617723f535e
-size 6571
+
+Sara_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+air
+  rotate: false
+  xy: 214, 3433
+  size: 434, 214
+  orig: 434, 214
+  offset: 0, 0
+  index: -1
+air2
+  rotate: false
+  xy: 2, 1973
+  size: 691, 433
+  orig: 691, 433
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1580, 125
+  size: 1273, 858
+  orig: 1273, 858
+  offset: 0, 0
+  index: -1
+booba_L
+  rotate: false
+  xy: 3761, 3542
+  size: 221, 197
+  orig: 221, 197
+  offset: 0, 0
+  index: -1
+booba_R
+  rotate: true
+  xy: 371, 2784
+  size: 341, 503
+  orig: 341, 503
+  offset: 0, 0
+  index: -1
+cg1_mouth
+  rotate: false
+  xy: 1038, 3617
+  size: 157, 122
+  orig: 157, 125
+  offset: 0, 0
+  index: -1
+cg1_mouth_B4
+  rotate: false
+  xy: 865, 3621
+  size: 171, 118
+  orig: 171, 118
+  offset: 0, 0
+  index: -1
+cg2_groundcer
+  rotate: true
+  xy: 1540, 3598
+  size: 141, 226
+  orig: 141, 226
+  offset: 0, 0
+  index: -1
+cg2_groundcer2
+  rotate: true
+  xy: 2190, 3589
+  size: 150, 210
+  orig: 150, 210
+  offset: 0, 0
+  index: -1
+cg2_juicer
+  rotate: true
+  xy: 2, 1306
+  size: 630, 1227
+  orig: 630, 1227
+  offset: 0, 0
+  index: -1
+cg2_mouth
+  rotate: false
+  xy: 1372, 3606
+  size: 166, 133
+  orig: 166, 133
+  offset: 0, 0
+  index: -1
+cg2_outer
+  rotate: false
+  xy: 789, 399
+  size: 789, 766
+  orig: 789, 766
+  offset: 0, 0
+  index: -1
+cg2_tongue
+  rotate: false
+  xy: 257, 3671
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+eye_base
+  rotate: false
+  xy: 2759, 3545
+  size: 502, 194
+  orig: 502, 194
+  offset: 0, 0
+  index: -1
+eye_brows
+  rotate: false
+  xy: 650, 3413
+  size: 550, 199
+  orig: 550, 199
+  offset: 0, 0
+  index: -1
+eye_brows_mini
+  rotate: false
+  xy: 1202, 3397
+  size: 550, 199
+  orig: 550, 199
+  offset: 0, 0
+  index: -1
+eye_cover
+  rotate: false
+  xy: 1443, 1810
+  size: 958, 442
+  orig: 958, 442
+  offset: 0, 0
+  index: -1
+eye_pupil
+  rotate: false
+  xy: 1768, 3590
+  size: 420, 149
+  orig: 420, 149
+  offset: 0, 0
+  index: -1
+eye_shadow
+  rotate: false
+  xy: 1754, 3358
+  size: 524, 229
+  orig: 524, 229
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1231, 1167
+  size: 641, 766
+  orig: 641, 766
+  offset: 0, 0
+  index: -1
+face_brows
+  rotate: false
+  xy: 3263, 3545
+  size: 496, 194
+  orig: 496, 194
+  offset: 0, 0
+  index: -1
+facered
+  rotate: false
+  xy: 2427, 2176
+  size: 798, 423
+  orig: 798, 423
+  offset: 0, 0
+  index: -1
+facered2
+  rotate: false
+  xy: 3227, 2176
+  size: 798, 423
+  orig: 798, 423
+  offset: 0, 0
+  index: -1
+foot_R
+  rotate: false
+  xy: 2855, 2
+  size: 1139, 981
+  orig: 1139, 981
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 2, 565
+  size: 739, 785
+  orig: 739, 785
+  offset: 0, 0
+  index: -1
+hair_L1
+  rotate: true
+  xy: 782, 2383
+  size: 395, 675
+  orig: 395, 675
+  offset: 0, 0
+  index: -1
+hair_L1_top
+  rotate: true
+  xy: 357, 3670
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 1463, 2738
+  size: 378, 348
+  orig: 378, 348
+  offset: 0, 0
+  index: -1
+hair_M1
+  rotate: true
+  xy: 695, 1938
+  size: 443, 746
+  orig: 443, 746
+  offset: 0, 0
+  index: -1
+hair_M1_top
+  rotate: true
+  xy: 2, 3690
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+hair_M2
+  rotate: true
+  xy: 1843, 2647
+  size: 361, 591
+  orig: 361, 591
+  offset: 0, 0
+  index: -1
+hair_M3
+  rotate: true
+  xy: 2, 3153
+  size: 278, 597
+  orig: 279, 597
+  offset: 0, 0
+  index: -1
+hair_M4
+  rotate: false
+  xy: 1999, 1045
+  size: 722, 678
+  orig: 722, 678
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 2939, 2601
+  size: 374, 1145
+  orig: 374, 1145
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: true
+  xy: 2538, 3285
+  size: 258, 529
+  orig: 258, 529
+  offset: 0, 0
+  index: -1
+hair_candy
+  rotate: true
+  xy: 2559, 3563
+  size: 176, 198
+  orig: 176, 198
+  offset: 0, 0
+  index: -1
+hair_face
+  rotate: true
+  xy: 2, 2830
+  size: 321, 367
+  orig: 321, 367
+  offset: 0, 0
+  index: -1
+hair_handR
+  rotate: true
+  xy: 2402, 3589
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
+hair_ribbon
+  rotate: false
+  xy: 3069, 3280
+  size: 497, 263
+  orig: 497, 263
+  offset: 0, 0
+  index: -1
+hair_shadow
+  rotate: false
+  xy: 2, 2408
+  size: 778, 374
+  orig: 778, 374
+  offset: 0, 0
+  index: -1
+hair_snake_LB
+  rotate: false
+  xy: 2403, 1725
+  size: 1162, 449
+  orig: 1164, 482
+  offset: 2, 2
+  index: -1
+hair_snakerib
+  rotate: false
+  xy: 1459, 2254
+  size: 966, 391
+  orig: 966, 391
+  offset: 0, 0
+  index: -1
+juicers
+  rotate: true
+  xy: 2436, 2622
+  size: 386, 501
+  orig: 386, 501
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 3568, 3265
+  size: 294, 275
+  orig: 294, 275
+  offset: 0, 0
+  index: -1
+pp
+  rotate: false
+  xy: 876, 2780
+  size: 585, 345
+  orig: 680, 345
+  offset: 0, 0
+  index: -1
+snake_L
+  rotate: false
+  xy: 601, 3127
+  size: 916, 268
+  orig: 916, 269
+  offset: 0, 1
+  index: -1
+snake_L_tongue
+  rotate: false
+  xy: 62, 3676
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+snake_L_top
+  rotate: false
+  xy: 2215, 3010
+  size: 916, 268
+  orig: 916, 269
+  offset: 0, 1
+  index: -1
+snake_R
+  rotate: false
+  xy: 1519, 3088
+  size: 694, 268
+  orig: 694, 270
+  offset: 0, 2
+  index: -1
+snake_RB
+  rotate: true
+  xy: 3133, 2977
+  size: 286, 468
+  orig: 286, 468
+  offset: 0, 0
+  index: -1
+snake_RB_tongue
+  rotate: true
+  xy: 617, 3649
+  size: 90, 107
+  orig: 90, 107
+  offset: 0, 0
+  index: -1
+snake_RB_top
+  rotate: true
+  xy: 3603, 2977
+  size: 286, 468
+  orig: 286, 468
+  offset: 0, 0
+  index: -1
+sweat_out_small1
+  rotate: false
+  xy: 1197, 3614
+  size: 173, 125
+  orig: 173, 125
+  offset: 0, 0
+  index: -1
+sweat_out_small2
+  rotate: false
+  xy: 501, 3656
+  size: 114, 83
+  orig: 114, 83
+  offset: 0, 0
+  index: -1
+sweat_out_small3
+  rotate: true
+  xy: 2, 3473
+  size: 200, 210
+  orig: 200, 210
+  offset: 0, 0
+  index: -1
+sweat_out_small4
+  rotate: false
+  xy: 726, 3628
+  size: 137, 111
+  orig: 137, 111
+  offset: 0, 0
+  index: -1
+sweat_out_small5
+  rotate: false
+  xy: 143, 3675
+  size: 112, 64
+  orig: 112, 64
+  offset: 0, 0
+  index: -1
+underwear_B
+  rotate: true
+  xy: 2280, 3305
+  size: 282, 256
+  orig: 282, 256
+  offset: 0, 0
+  index: -1
+underwear_T
+  rotate: true
+  xy: 2723, 985
+  size: 738, 1160
+  orig: 738, 1160
+  offset: 0, 0
+  index: -1
+
+Sara_Playroom_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom
+  rotate: false
+  xy: 2, 2
+  size: 2762, 1861
+  orig: 2762, 1861
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 2, 2012
+  size: 1037, 1470
+  orig: 1037, 1470
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 1474, 1865
+  size: 1258, 1184
+  orig: 1258, 1184
+  offset: 0, 0
+  index: -1

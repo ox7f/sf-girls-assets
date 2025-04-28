@@ -1,3 +1,467 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac597a6b927d0e444365cbebe4fd4c0ce19ed8f8cbca14853ad92cc4e51ad65a
-size 6860
+
+Shiko_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A Boobs Burst B x
+  rotate: false
+  xy: 1519, 3479
+  size: 356, 300
+  orig: 357, 302
+  offset: 0, 1
+  index: -1
+A Boobs Burst B y
+  rotate: false
+  xy: 310, 3887
+  size: 95, 81
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+A Boobs Burst B z
+  rotate: true
+  xy: 2, 3938
+  size: 30, 113
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+A Boobs R Down
+  rotate: false
+  xy: 297, 3625
+  size: 259, 256
+  orig: 259, 256
+  offset: 0, 0
+  index: -1
+A Boobs R Up
+  rotate: false
+  xy: 625, 1710
+  size: 607, 575
+  orig: 607, 575
+  offset: 0, 0
+  index: -1
+A Eyebrow
+  rotate: true
+  xy: 2239, 3760
+  size: 208, 217
+  orig: 220, 220
+  offset: 12, 0
+  index: -1
+A Eyes
+  rotate: true
+  xy: 558, 3608
+  size: 267, 269
+  orig: 267, 269
+  offset: 0, 0
+  index: -1
+A FaceBasic
+  rotate: true
+  xy: 1403, 2168
+  size: 490, 531
+  orig: 496, 531
+  offset: 6, 0
+  index: -1
+A Glasses
+  rotate: true
+  xy: 2605, 2115
+  size: 515, 530
+  orig: 517, 544
+  offset: 2, 0
+  index: -1
+A Hair x
+  rotate: false
+  xy: 2733, 3411
+  size: 346, 338
+  orig: 346, 338
+  offset: 0, 0
+  index: -1
+A Hair y
+  rotate: true
+  xy: 2, 2819
+  size: 371, 769
+  orig: 371, 770
+  offset: 0, 1
+  index: -1
+A Hair z
+  rotate: false
+  xy: 370, 3192
+  size: 610, 355
+  orig: 610, 355
+  offset: 0, 0
+  index: -1
+A HairShadow
+  rotate: true
+  xy: 2, 3269
+  size: 354, 366
+  orig: 356, 366
+  offset: 2, 0
+  index: -1
+A Hand R
+  rotate: false
+  xy: 3458, 3739
+  size: 341, 229
+  orig: 341, 230
+  offset: 0, 1
+  index: -1
+A LowerArm R
+  rotate: false
+  xy: 3202, 3741
+  size: 254, 227
+  orig: 254, 233
+  offset: 0, 0
+  index: -1
+A Mouth
+  rotate: true
+  xy: 227, 3895
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+A Penis
+  rotate: false
+  xy: 1459, 944
+  size: 706, 648
+  orig: 713, 680
+  offset: 0, 0
+  index: -1
+A Sperm
+  rotate: false
+  xy: 2951, 1436
+  size: 676, 578
+  orig: 677, 578
+  offset: 0, 0
+  index: -1
+A Vergina Water
+  rotate: false
+  xy: 1037, 3864
+  size: 139, 104
+  orig: 139, 104
+  offset: 0, 0
+  index: -1
+Ass
+  rotate: true
+  xy: 2914, 745
+  size: 689, 913
+  orig: 689, 913
+  offset: 0, 0
+  index: -1
+Ass Tenticle
+  rotate: false
+  xy: 2, 1076
+  size: 738, 632
+  orig: 738, 632
+  offset: 0, 0
+  index: -1
+B Boob R
+  rotate: false
+  xy: 2, 1713
+  size: 621, 572
+  orig: 621, 572
+  offset: 0, 0
+  index: -1
+B Eyebrow
+  rotate: false
+  xy: 1642, 3781
+  size: 243, 187
+  orig: 244, 188
+  offset: 0, 1
+  index: -1
+B Eyes
+  rotate: false
+  xy: 3801, 3736
+  size: 268, 232
+  orig: 268, 232
+  offset: 0, 0
+  index: -1
+B FaceBasic
+  rotate: false
+  xy: 1756, 2660
+  size: 454, 415
+  orig: 456, 416
+  offset: 1, 1
+  index: -1
+B Glasses
+  rotate: false
+  xy: 2, 2335
+  size: 534, 482
+  orig: 537, 495
+  offset: 3, 3
+  index: -1
+B Hair x
+  rotate: true
+  xy: 1169, 3498
+  size: 289, 348
+  orig: 292, 354
+  offset: 0, 6
+  index: -1
+B Hair y
+  rotate: true
+  xy: 982, 3124
+  size: 353, 874
+  orig: 353, 907
+  offset: 0, 33
+  index: -1
+B Hair z
+  rotate: false
+  xy: 3349, 3013
+  size: 566, 388
+  orig: 566, 388
+  offset: 0, 0
+  index: -1
+B HairShadow
+  rotate: true
+  xy: 2364, 3430
+  size: 319, 367
+  orig: 319, 367
+  offset: 0, 0
+  index: -1
+B Hand R
+  rotate: true
+  xy: 3273, 2533
+  size: 478, 619
+  orig: 478, 619
+  offset: 0, 0
+  index: -1
+B Head Gear
+  rotate: false
+  xy: 829, 3549
+  size: 338, 313
+  orig: 338, 314
+  offset: 0, 1
+  index: -1
+B LowerArm R
+  rotate: false
+  xy: 2, 3658
+  size: 293, 235
+  orig: 293, 235
+  offset: 0, 0
+  index: -1
+B Mouth
+  rotate: false
+  xy: 929, 3868
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+B Nose
+  rotate: true
+  xy: 605, 3880
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+B Penis
+  rotate: false
+  xy: 773, 2740
+  size: 981, 382
+  orig: 983, 382
+  offset: 2, 0
+  index: -1
+B Sperm w
+  rotate: false
+  xy: 1234, 1594
+  size: 1715, 519
+  orig: 1715, 519
+  offset: 0, 0
+  index: -1
+B Sperm x
+  rotate: true
+  xy: 2458, 3751
+  size: 217, 742
+  orig: 217, 742
+  offset: 0, 0
+  index: -1
+B Sperm y
+  rotate: true
+  xy: 2212, 2636
+  size: 439, 576
+  orig: 439, 576
+  offset: 0, 0
+  index: -1
+B Sperm z
+  rotate: false
+  xy: 538, 2287
+  size: 863, 451
+  orig: 863, 451
+  offset: 0, 0
+  index: -1
+B Vergina Water
+  rotate: true
+  xy: 1877, 3443
+  size: 315, 485
+  orig: 315, 485
+  offset: 0, 0
+  index: -1
+BG 1
+  rotate: false
+  xy: 2, 298
+  size: 738, 776
+  orig: 738, 776
+  offset: 0, 0
+  index: -1
+BG 4
+  rotate: true
+  xy: 2045, 136
+  size: 727, 785
+  orig: 727, 785
+  offset: 0, 0
+  index: -1
+BG 5
+  rotate: true
+  xy: 2832, 2
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+BG 8
+  rotate: true
+  xy: 2167, 865
+  size: 727, 745
+  orig: 727, 745
+  offset: 0, 0
+  index: -1
+Body Upper
+  rotate: false
+  xy: 742, 952
+  size: 715, 640
+  orig: 715, 640
+  offset: 0, 0
+  index: -1
+Boob L
+  rotate: true
+  xy: 1936, 2141
+  size: 493, 667
+  orig: 493, 667
+  offset: 0, 0
+  index: -1
+Boob R Tenticle
+  rotate: true
+  xy: 407, 3883
+  size: 85, 196
+  orig: 85, 196
+  offset: 0, 0
+  index: -1
+Cloth Fur x
+  rotate: true
+  xy: 709, 3877
+  size: 91, 218
+  orig: 92, 218
+  offset: 0, 0
+  index: -1
+Cloth Fur y
+  rotate: false
+  xy: 117, 3914
+  size: 108, 54
+  orig: 108, 54
+  offset: 0, 0
+  index: -1
+FG Flower
+  rotate: true
+  xy: 742, 260
+  size: 682, 1301
+  orig: 682, 1301
+  offset: 0, 0
+  index: -1
+FG Tenticle
+  rotate: false
+  xy: 3081, 3403
+  size: 915, 331
+  orig: 916, 334
+  offset: 0, 0
+  index: -1
+Hair Back 1
+  rotate: true
+  xy: 1178, 3812
+  size: 156, 239
+  orig: 156, 239
+  offset: 0, 0
+  index: -1
+Hair Back 2
+  rotate: true
+  xy: 1419, 3789
+  size: 179, 221
+  orig: 180, 221
+  offset: 0, 0
+  index: -1
+Tenticle Back
+  rotate: true
+  xy: 1858, 3077
+  size: 324, 1489
+  orig: 324, 1489
+  offset: 0, 0
+  index: -1
+UpperArm R
+  rotate: false
+  xy: 1887, 3775
+  size: 350, 193
+  orig: 350, 193
+  offset: 0, 0
+  index: -1
+Vergina Down
+  rotate: false
+  xy: 3137, 2016
+  size: 549, 515
+  orig: 662, 532
+  offset: 2, 8
+  index: -1
+Vergina Top
+  rotate: true
+  xy: 2790, 2632
+  size: 443, 481
+  orig: 478, 499
+  offset: 35, 0
+  index: -1
+
+Shiko_Playroom_Wedding_2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG 2
+  rotate: true
+  xy: 2235, 376
+  size: 826, 776
+  orig: 826, 776
+  offset: 0, 0
+  index: -1
+BG 3
+  rotate: true
+  xy: 707, 2
+  size: 802, 779
+  orig: 802, 779
+  offset: 0, 0
+  index: -1
+BG 6
+  rotate: false
+  xy: 3013, 457
+  size: 811, 745
+  orig: 811, 745
+  offset: 0, 0
+  index: -1
+BG 7
+  rotate: true
+  xy: 1488, 8
+  size: 796, 745
+  orig: 796, 745
+  offset: 0, 0
+  index: -1
+FG Ribbon
+  rotate: false
+  xy: 2, 556
+  size: 703, 1489
+  orig: 704, 1489
+  offset: 1, 0
+  index: -1
+Leg L
+  rotate: false
+  xy: 1635, 1204
+  size: 2312, 841
+  orig: 2312, 841
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: true
+  xy: 707, 806
+  size: 1239, 926
+  orig: 1239, 926
+  offset: 0, 0
+  index: -1

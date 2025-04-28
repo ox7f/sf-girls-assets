@@ -1,3 +1,429 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff9b1b13421c544ba1767634c3e7a89531085ef1037880bb798e052327f920c0
-size 6206
+
+Neve_X_Playroom_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A Dots
+  rotate: false
+  xy: 224, 1800
+  size: 151, 75
+  orig: 151, 75
+  offset: 0, 0
+  index: -1
+A Eyebrow
+  rotate: false
+  xy: 377, 1798
+  size: 182, 77
+  orig: 182, 77
+  offset: 0, 0
+  index: -1
+A Eyes
+  rotate: false
+  xy: 745, 1790
+  size: 190, 85
+  orig: 190, 85
+  offset: 0, 0
+  index: -1
+A Mouth
+  rotate: false
+  xy: 29, 1840
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+Air X
+  rotate: false
+  xy: 521, 10
+  size: 592, 385
+  orig: 592, 385
+  offset: 0, 0
+  index: -1
+B Eyebrow
+  rotate: false
+  xy: 561, 1792
+  size: 182, 83
+  orig: 182, 83
+  offset: 0, 0
+  index: -1
+B Eyes
+  rotate: false
+  xy: 937, 1776
+  size: 186, 99
+  orig: 186, 99
+  offset: 0, 0
+  index: -1
+B Mouth
+  rotate: true
+  xy: 145, 1811
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+B Tear
+  rotate: true
+  xy: 79, 1821
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+Boob R
+  rotate: false
+  xy: 416, 774
+  size: 423, 286
+  orig: 423, 286
+  offset: 0, 0
+  index: -1
+Breath a
+  rotate: false
+  xy: 1631, 1721
+  size: 258, 154
+  orig: 258, 154
+  offset: 0, 0
+  index: -1
+Breath b
+  rotate: false
+  xy: 1148, 1314
+  size: 287, 242
+  orig: 287, 242
+  offset: 0, 0
+  index: -1
+Brush
+  rotate: false
+  xy: 1430, 1744
+  size: 199, 131
+  orig: 199, 131
+  offset: 0, 0
+  index: -1
+Chain Skirt
+  rotate: true
+  xy: 416, 1062
+  size: 264, 466
+  orig: 264, 466
+  offset: 0, 0
+  index: -1
+Chain Thigh
+  rotate: false
+  xy: 1266, 1746
+  size: 162, 129
+  orig: 162, 129
+  offset: 0, 0
+  index: -1
+Cloth x
+  rotate: false
+  xy: 841, 709
+  size: 909, 274
+  orig: 909, 274
+  offset: 0, 0
+  index: -1
+Cloth y
+  rotate: false
+  xy: 943, 1568
+  size: 228, 179
+  orig: 228, 179
+  offset: 0, 0
+  index: -1
+Cloth z
+  rotate: true
+  xy: 2, 104
+  size: 367, 517
+  orig: 367, 517
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1437, 1271
+  size: 259, 328
+  orig: 259, 328
+  offset: 0, 0
+  index: -1
+Hair Front A
+  rotate: false
+  xy: 733, 1596
+  size: 208, 178
+  orig: 208, 178
+  offset: 0, 0
+  index: -1
+Hair Front B
+  rotate: true
+  xy: 1145, 390
+  size: 317, 606
+  orig: 317, 606
+  offset: 0, 0
+  index: -1
+Hair Front C
+  rotate: false
+  xy: 2, 794
+  size: 412, 353
+  orig: 412, 353
+  offset: 0, 0
+  index: -1
+Hair Rear
+  rotate: false
+  xy: 446, 1617
+  size: 285, 173
+  orig: 285, 173
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 716, 1328
+  size: 430, 238
+  orig: 430, 238
+  offset: 0, 0
+  index: -1
+Penis
+  rotate: false
+  xy: 578, 397
+  size: 565, 310
+  orig: 565, 310
+  offset: 0, 0
+  index: -1
+Sperm A A
+  rotate: true
+  xy: 2, 1149
+  size: 271, 412
+  orig: 271, 412
+  offset: 0, 0
+  index: -1
+Sperm A B
+  rotate: true
+  xy: 1173, 1558
+  size: 184, 442
+  orig: 184, 442
+  offset: 0, 0
+  index: -1
+Sperm A C
+  rotate: false
+  xy: 2, 1422
+  size: 424, 214
+  orig: 424, 214
+  offset: 0, 0
+  index: -1
+Sperm A D
+  rotate: false
+  xy: 1390, 985
+  size: 532, 282
+  orig: 532, 282
+  offset: 0, 0
+  index: -1
+Sperm A E
+  rotate: true
+  xy: 2, 1851
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Sperm B A
+  rotate: true
+  xy: 884, 1040
+  size: 272, 504
+  orig: 272, 504
+  offset: 0, 0
+  index: -1
+Sperm B B
+  rotate: true
+  xy: 1115, 2
+  size: 386, 543
+  orig: 386, 543
+  offset: 0, 0
+  index: -1
+Sperm B E
+  rotate: false
+  xy: 1125, 1749
+  size: 139, 126
+  orig: 139, 126
+  offset: 0, 0
+  index: -1
+Sperm B F
+  rotate: true
+  xy: 1767, 1269
+  size: 261, 279
+  orig: 261, 279
+  offset: 0, 0
+  index: -1
+Vagina Down A
+  rotate: false
+  xy: 2, 1651
+  size: 220, 158
+  orig: 220, 158
+  offset: 0, 0
+  index: -1
+Vagina Down B
+  rotate: false
+  xy: 224, 1638
+  size: 220, 158
+  orig: 220, 158
+  offset: 0, 0
+  index: -1
+Vagina Up
+  rotate: false
+  xy: 428, 1375
+  size: 286, 240
+  orig: 286, 240
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 1617, 1532
+  size: 256, 187
+  orig: 256, 187
+  offset: 0, 0
+  index: -1
+moon
+  rotate: true
+  xy: 2, 473
+  size: 299, 574
+  orig: 299, 574
+  offset: 0, 0
+  index: -1
+
+Neve_X_Playroom_Skin1_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Calf L
+  rotate: false
+  xy: 2, 2
+  size: 784, 981
+  orig: 784, 981
+  offset: 0, 0
+  index: -1
+Hair Back B
+  rotate: false
+  xy: 2, 985
+  size: 1901, 964
+  orig: 1901, 964
+  offset: 0, 0
+  index: -1
+Thighs R
+  rotate: true
+  xy: 788, 249
+  size: 734, 1011
+  orig: 734, 1011
+  offset: 0, 0
+  index: -1
+
+Neve_X_Playroom_Skin1_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Air Z
+  rotate: false
+  xy: 2, 2
+  size: 578, 579
+  orig: 578, 579
+  offset: 0, 0
+  index: -1
+Boob L
+  rotate: true
+  xy: 582, 4
+  size: 577, 430
+  orig: 577, 430
+  offset: 0, 0
+  index: -1
+Hair Back A
+  rotate: false
+  xy: 2, 583
+  size: 1079, 1436
+  orig: 1079, 1436
+  offset: 0, 0
+  index: -1
+Skirt A
+  rotate: false
+  xy: 1083, 605
+  size: 658, 797
+  orig: 658, 797
+  offset: 0, 0
+  index: -1
+Thighs L
+  rotate: false
+  xy: 1014, 93
+  size: 655, 488
+  orig: 655, 488
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 1083, 1404
+  size: 800, 615
+  orig: 800, 615
+  offset: 0, 0
+  index: -1
+
+Neve_X_Playroom_Skin1_4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Air Y
+  rotate: false
+  xy: 1503, 1158
+  size: 418, 415
+  orig: 418, 415
+  offset: 0, 0
+  index: -1
+Calf R
+  rotate: true
+  xy: 422, 1160
+  size: 413, 1079
+  orig: 413, 1079
+  offset: 0, 0
+  index: -1
+Cloth yy
+  rotate: false
+  xy: 1046, 2
+  size: 971, 703
+  orig: 971, 703
+  offset: 0, 0
+  index: -1
+Headwear
+  rotate: true
+  xy: 2, 242
+  size: 490, 1042
+  orig: 490, 1042
+  offset: 0, 0
+  index: -1
+Skirt B
+  rotate: false
+  xy: 1196, 707
+  size: 467, 449
+  orig: 467, 449
+  offset: 0, 0
+  index: -1
+Sperm B C
+  rotate: true
+  xy: 2, 743
+  size: 415, 737
+  orig: 415, 737
+  offset: 0, 0
+  index: -1
+Sperm B D
+  rotate: false
+  xy: 2, 1177
+  size: 418, 396
+  orig: 418, 396
+  offset: 0, 0
+  index: -1
+Sperm B G
+  rotate: true
+  xy: 741, 734
+  size: 424, 453
+  orig: 424, 453
+  offset: 0, 0
+  index: -1
+
+Neve_X_Playroom_Skin1_5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arms
+  rotate: false
+  xy: 2, 2
+  size: 1094, 1088
+  orig: 1094, 1088
+  offset: 0, 0
+  index: -1

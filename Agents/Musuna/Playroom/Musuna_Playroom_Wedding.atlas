@@ -1,3 +1,417 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81e9c13cd03fff38a5ea76b63d62bd16a379396eec162d80b53709bb7ae2e426
-size 6124
+
+Musuna_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LV1_JJ
+  rotate: false
+  xy: 709, 2649
+  size: 351, 314
+  orig: 351, 314
+  offset: 0, 0
+  index: -1
+LV1_face
+  rotate: true
+  xy: 2232, 2859
+  size: 257, 313
+  orig: 257, 313
+  offset: 0, 0
+  index: -1
+LV1_liquid
+  rotate: false
+  xy: 802, 2965
+  size: 312, 214
+  orig: 312, 214
+  offset: 0, 0
+  index: -1
+LV1_manhand_L
+  rotate: true
+  xy: 2, 2221
+  size: 443, 629
+  orig: 443, 629
+  offset: 0, 0
+  index: -1
+LV2_JJ
+  rotate: false
+  xy: 1062, 2564
+  size: 499, 340
+  orig: 499, 340
+  offset: 0, 0
+  index: -1
+LV2_face
+  rotate: false
+  xy: 360, 2666
+  size: 347, 308
+  orig: 347, 308
+  offset: 0, 0
+  index: -1
+LV2_face2
+  rotate: false
+  xy: 1349, 3172
+  size: 122, 93
+  orig: 122, 93
+  offset: 0, 0
+  index: -1
+LV2_liquid_1
+  rotate: false
+  xy: 1383, 2906
+  size: 245, 221
+  orig: 245, 221
+  offset: 0, 0
+  index: -1
+LV2_liquid_2
+  rotate: false
+  xy: 2, 1439
+  size: 726, 659
+  orig: 726, 659
+  offset: 0, 0
+  index: -1
+LV2_manhand_L
+  rotate: false
+  xy: 633, 2100
+  size: 736, 462
+  orig: 736, 462
+  offset: 0, 0
+  index: -1
+Lv1_Vagina
+  rotate: false
+  xy: 3651, 3080
+  size: 247, 185
+  orig: 247, 185
+  offset: 0, 0
+  index: -1
+Lv2_Vagina
+  rotate: false
+  xy: 1116, 2950
+  size: 265, 220
+  orig: 265, 220
+  offset: 0, 0
+  index: -1
+arm_down_L
+  rotate: false
+  xy: 2553, 2
+  size: 1170, 1115
+  orig: 1170, 1115
+  offset: 0, 0
+  index: -1
+arm_down_R
+  rotate: false
+  xy: 2416, 3118
+  size: 341, 147
+  orig: 341, 147
+  offset: 0, 0
+  index: -1
+arm_up_R
+  rotate: false
+  xy: 2863, 1935
+  size: 1132, 447
+  orig: 1132, 447
+  offset: 0, 0
+  index: -1
+arm_up_R2
+  rotate: false
+  xy: 2019, 2445
+  size: 1166, 386
+  orig: 1166, 386
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2443, 1119
+  size: 1334, 814
+  orig: 1334, 814
+  offset: 0, 0
+  index: -1
+bodyflower
+  rotate: false
+  xy: 2, 3026
+  size: 278, 189
+  orig: 278, 189
+  offset: 0, 0
+  index: -1
+bows_1
+  rotate: true
+  xy: 802, 3185
+  size: 80, 125
+  orig: 80, 125
+  offset: 0, 0
+  index: -1
+bows_2
+  rotate: false
+  xy: 2, 3237
+  size: 105, 28
+  orig: 105, 28
+  offset: 0, 0
+  index: -1
+breast_L
+  rotate: true
+  xy: 589, 2976
+  size: 215, 211
+  orig: 215, 211
+  offset: 0, 0
+  index: -1
+breast_R
+  rotate: false
+  xy: 2949, 3105
+  size: 209, 160
+  orig: 209, 160
+  offset: 0, 0
+  index: -1
+cloth_B_L
+  rotate: false
+  xy: 3187, 2384
+  size: 583, 414
+  orig: 583, 414
+  offset: 0, 0
+  index: -1
+cloth_B_R
+  rotate: false
+  xy: 1630, 2892
+  size: 279, 227
+  orig: 279, 227
+  offset: 0, 0
+  index: -1
+cloth_L
+  rotate: false
+  xy: 1902, 1998
+  size: 959, 445
+  orig: 959, 445
+  offset: 0, 0
+  index: -1
+cloth_R
+  rotate: true
+  xy: 730, 1316
+  size: 685, 998
+  orig: 685, 998
+  offset: 0, 0
+  index: -1
+grass_f1
+  rotate: true
+  xy: 1963, 3119
+  size: 146, 451
+  orig: 146, 451
+  offset: 0, 0
+  index: -1
+grass_f2
+  rotate: false
+  xy: 1233, 3179
+  size: 114, 86
+  orig: 114, 86
+  offset: 0, 0
+  index: -1
+grass_f3
+  rotate: true
+  xy: 109, 3233
+  size: 32, 74
+  orig: 32, 74
+  offset: 0, 0
+  index: -1
+grass_f4
+  rotate: true
+  xy: 368, 3212
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+grass_f5
+  rotate: false
+  xy: 185, 3217
+  size: 115, 48
+  orig: 115, 48
+  offset: 0, 0
+  index: -1
+grass_f6
+  rotate: false
+  xy: 929, 3181
+  size: 302, 84
+  orig: 302, 84
+  offset: 0, 0
+  index: -1
+grass_f7
+  rotate: false
+  xy: 567, 3197
+  size: 158, 68
+  orig: 158, 68
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 1730, 1296
+  size: 711, 700
+  orig: 711, 700
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 2547, 2833
+  size: 928, 249
+  orig: 928, 249
+  offset: 0, 0
+  index: -1
+hair_Rb
+  rotate: false
+  xy: 3160, 3099
+  size: 297, 166
+  orig: 297, 166
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: true
+  xy: 2759, 3109
+  size: 156, 188
+  orig: 156, 188
+  offset: 0, 0
+  index: -1
+hair_f
+  rotate: true
+  xy: 282, 2998
+  size: 197, 305
+  orig: 197, 305
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: true
+  xy: 3459, 3084
+  size: 181, 190
+  orig: 181, 190
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 1473, 3160
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+hand_L3
+  rotate: true
+  xy: 442, 3203
+  size: 62, 123
+  orig: 62, 123
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 3477, 2800
+  size: 345, 278
+  orig: 345, 278
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1563, 2478
+  size: 454, 389
+  orig: 454, 389
+  offset: 0, 0
+  index: -1
+head_sakura_LB1
+  rotate: true
+  xy: 727, 3193
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+head_sakura_LB2
+  rotate: false
+  xy: 302, 3215
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+head_sakura_LF1
+  rotate: true
+  xy: 1594, 3129
+  size: 136, 166
+  orig: 136, 166
+  offset: 0, 0
+  index: -1
+head_sakura_LF2
+  rotate: false
+  xy: 1762, 3121
+  size: 199, 144
+  orig: 199, 144
+  offset: 0, 0
+  index: -1
+head_sakura_R
+  rotate: false
+  xy: 2, 2697
+  size: 356, 299
+  orig: 356, 299
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 2, 458
+  size: 1303, 856
+  orig: 1303, 856
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 1307, 241
+  size: 876, 1244
+  orig: 876, 1244
+  offset: 0, 0
+  index: -1
+manhand_R
+  rotate: false
+  xy: 1371, 2003
+  size: 529, 473
+  orig: 529, 473
+  offset: 0, 0
+  index: -1
+nick
+  rotate: false
+  xy: 1911, 2869
+  size: 319, 248
+  orig: 319, 248
+  offset: 0, 0
+  index: -1
+
+Musuna_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_down_L2
+  rotate: true
+  xy: 1641, 2701
+  size: 1119, 1330
+  orig: 1119, 1330
+  offset: 0, 0
+  index: -1
+cloth_2
+  rotate: true
+  xy: 2, 2753
+  size: 1067, 1637
+  orig: 1067, 1637
+  offset: 0, 0
+  index: -1
+liquid
+  rotate: true
+  xy: 2, 1493
+  size: 1258, 1428
+  orig: 1258, 1428
+  offset: 0, 0
+  index: -1
+shadow_f
+  rotate: false
+  xy: 2, 2
+  size: 2977, 1489
+  orig: 2977, 1489
+  offset: 0, 0
+  index: -1
+
+Musuna_Playroom_Wedding_3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_sakura_new
+  rotate: false
+  xy: 2, 2
+  size: 3345, 1741
+  orig: 3345, 1741
+  offset: 0, 0
+  index: -1

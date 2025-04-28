@@ -1,3 +1,530 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a0cf69043ec8b2bdbc8bed9cf01ae69feffaee5f9921dc1b4e8559ac398ccade
-size 7511
+
+Eiko_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armR
+  rotate: false
+  xy: 3149, 2718
+  size: 755, 430
+  orig: 755, 430
+  offset: 0, 0
+  index: -1
+belly
+  rotate: true
+  xy: 1096, 3344
+  size: 343, 598
+  orig: 343, 598
+  offset: 0, 0
+  index: -1
+bgB
+  rotate: false
+  xy: 1059, 2906
+  size: 612, 436
+  orig: 612, 436
+  offset: 0, 0
+  index: -1
+bgB2
+  rotate: false
+  xy: 1270, 1746
+  size: 1252, 537
+  orig: 1252, 537
+  offset: 0, 0
+  index: -1
+bgdai
+  rotate: true
+  xy: 2008, 2285
+  size: 431, 1201
+  orig: 431, 1201
+  offset: 0, 0
+  index: -1
+boobaL
+  rotate: false
+  xy: 2, 3053
+  size: 544, 412
+  orig: 544, 412
+  offset: 0, 0
+  index: -1
+boobaR
+  rotate: false
+  xy: 548, 3006
+  size: 509, 459
+  orig: 509, 459
+  offset: 0, 0
+  index: -1
+browL1
+  rotate: true
+  xy: 752, 4010
+  size: 64, 134
+  orig: 64, 134
+  offset: 0, 0
+  index: -1
+browL2
+  rotate: true
+  xy: 519, 4015
+  size: 59, 157
+  orig: 59, 157
+  offset: 0, 0
+  index: -1
+browR1
+  rotate: false
+  xy: 2776, 3929
+  size: 158, 145
+  orig: 158, 145
+  offset: 0, 0
+  index: -1
+browR2
+  rotate: true
+  xy: 2623, 3944
+  size: 130, 151
+  orig: 130, 151
+  offset: 0, 0
+  index: -1
+butt
+  rotate: true
+  xy: 851, 183
+  size: 865, 905
+  orig: 865, 905
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 2, 1278
+  size: 766, 540
+  orig: 893, 540
+  offset: 0, 0
+  index: -1
+earR
+  rotate: false
+  xy: 1285, 2332
+  size: 721, 508
+  orig: 721, 508
+  offset: 0, 0
+  index: -1
+eyeHL
+  rotate: true
+  xy: 141, 4031
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+eyeHR
+  rotate: true
+  xy: 188, 4030
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: true
+  xy: 1641, 3971
+  size: 103, 136
+  orig: 103, 136
+  offset: 0, 0
+  index: -1
+eyeL2
+  rotate: true
+  xy: 1779, 3971
+  size: 103, 136
+  orig: 103, 136
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: true
+  xy: 2323, 3950
+  size: 124, 145
+  orig: 124, 145
+  offset: 0, 0
+  index: -1
+eyeR2
+  rotate: true
+  xy: 2058, 3958
+  size: 116, 145
+  orig: 116, 145
+  offset: 0, 0
+  index: -1
+eyeTL
+  rotate: true
+  xy: 335, 4024
+  size: 50, 108
+  orig: 50, 108
+  offset: 0, 0
+  index: -1
+eyeTR
+  rotate: true
+  xy: 236, 4026
+  size: 48, 97
+  orig: 48, 97
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1673, 2842
+  size: 556, 440
+  orig: 556, 440
+  offset: 0, 0
+  index: -1
+footLdai
+  rotate: false
+  xy: 2, 3467
+  size: 1092, 305
+  orig: 1092, 305
+  offset: 0, 0
+  index: -1
+footR
+  rotate: false
+  xy: 2, 2537
+  size: 662, 467
+  orig: 662, 467
+  offset: 0, 0
+  index: -1
+footRdai
+  rotate: true
+  xy: 1693, 3689
+  size: 280, 302
+  orig: 280, 302
+  offset: 0, 0
+  index: -1
+footRi
+  rotate: false
+  xy: 1132, 4003
+  size: 118, 71
+  orig: 118, 71
+  offset: 0, 0
+  index: -1
+footRm
+  rotate: false
+  xy: 1042, 4004
+  size: 88, 70
+  orig: 88, 70
+  offset: 0, 0
+  index: -1
+footRn
+  rotate: false
+  xy: 678, 4014
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+footRp
+  rotate: true
+  xy: 445, 4019
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+footRt
+  rotate: false
+  xy: 2205, 3958
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 3248, 3927
+  size: 165, 147
+  orig: 165, 147
+  offset: 0, 0
+  index: -1
+golddai
+  rotate: false
+  xy: 2524, 1644
+  size: 1556, 539
+  orig: 1556, 539
+  offset: 0, 0
+  index: -1
+hairB
+  rotate: true
+  xy: 1937, 893
+  size: 749, 880
+  orig: 749, 880
+  offset: 0, 0
+  index: -1
+hairBB1
+  rotate: true
+  xy: 1696, 3284
+  size: 363, 682
+  orig: 363, 682
+  offset: 0, 0
+  index: -1
+hairBB2
+  rotate: true
+  xy: 2953, 3173
+  size: 410, 713
+  orig: 410, 713
+  offset: 0, 0
+  index: -1
+hairF
+  rotate: false
+  xy: 2819, 869
+  size: 859, 773
+  orig: 859, 773
+  offset: 0, 0
+  index: -1
+hairF2
+  rotate: false
+  xy: 1252, 4000
+  size: 260, 74
+  orig: 260, 74
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 770, 1050
+  size: 694, 1165
+  orig: 694, 1165
+  offset: 0, 0
+  index: -1
+handL
+  rotate: false
+  xy: 2231, 2752
+  size: 916, 419
+  orig: 916, 419
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 643, 3774
+  size: 722, 224
+  orig: 722, 224
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1758, 2
+  size: 1009, 889
+  orig: 1009, 889
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 3211, 2185
+  size: 712, 531
+  orig: 712, 531
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 2470, 3945
+  size: 129, 151
+  orig: 129, 151
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 2, 4037
+  size: 37, 137
+  orig: 37, 137
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 3583, 3918
+  size: 156, 241
+  orig: 156, 241
+  offset: 0, 0
+  index: -1
+ppin
+  rotate: false
+  xy: 2380, 3217
+  size: 571, 395
+  orig: 571, 395
+  offset: 0, 0
+  index: -1
+roE1
+  rotate: false
+  xy: 888, 4006
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+roE2
+  rotate: false
+  xy: 966, 4006
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+roF
+  rotate: false
+  xy: 3668, 3150
+  size: 419, 433
+  orig: 419, 433
+  offset: 0, 0
+  index: -1
+roR1
+  rotate: false
+  xy: 1997, 3676
+  size: 364, 272
+  orig: 364, 272
+  offset: 0, 0
+  index: -1
+roR2
+  rotate: false
+  xy: 2, 3801
+  size: 402, 221
+  orig: 402, 221
+  offset: 0, 0
+  index: -1
+robot
+  rotate: false
+  xy: 582, 1820
+  size: 686, 600
+  orig: 686, 600
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 2, 1964
+  size: 571, 578
+  orig: 571, 578
+  offset: 0, 0
+  index: -1
+sperm1
+  rotate: true
+  xy: 3415, 3920
+  size: 154, 166
+  orig: 154, 166
+  offset: 0, 0
+  index: -1
+sperm2
+  rotate: false
+  xy: 1917, 3971
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+sperm3
+  rotate: false
+  xy: 1514, 3997
+  size: 125, 77
+  orig: 125, 77
+  offset: 0, 0
+  index: -1
+sperm4
+  rotate: true
+  xy: 2936, 3929
+  size: 145, 154
+  orig: 145, 154
+  offset: 0, 0
+  index: -1
+sperm5
+  rotate: true
+  xy: 2745, 3614
+  size: 312, 371
+  orig: 312, 371
+  offset: 0, 0
+  index: -1
+sperm6
+  rotate: false
+  xy: 406, 3781
+  size: 235, 232
+  orig: 235, 232
+  offset: 0, 0
+  index: -1
+sperm7
+  rotate: false
+  xy: 3826, 3916
+  size: 187, 158
+  orig: 187, 158
+  offset: 0, 0
+  index: -1
+sperm8
+  rotate: true
+  xy: 1367, 3728
+  size: 241, 324
+  orig: 241, 324
+  offset: 0, 0
+  index: -1
+sperm9
+  rotate: true
+  xy: 3092, 3928
+  size: 146, 154
+  orig: 146, 154
+  offset: 0, 0
+  index: -1
+spermout
+  rotate: true
+  xy: 2, 260
+  size: 788, 847
+  orig: 788, 847
+  offset: 0, 0
+  index: -1
+west1
+  rotate: false
+  xy: 666, 2422
+  size: 617, 482
+  orig: 617, 508
+  offset: 0, 9
+  index: -1
+west2
+  rotate: false
+  xy: 3462, 3585
+  size: 428, 329
+  orig: 428, 329
+  offset: 0, 0
+  index: -1
+west2T
+  rotate: true
+  xy: 3118, 3591
+  size: 327, 342
+  orig: 416, 373
+  offset: 20, 12
+  index: -1
+west_juice
+  rotate: false
+  xy: 2363, 3649
+  size: 380, 293
+  orig: 380, 293
+  offset: 0, 0
+  index: -1
+
+Eiko_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgU
+  rotate: true
+  xy: 2, 2
+  size: 1595, 1186
+  orig: 1595, 1211
+  offset: 0, 25
+  index: -1
+bodybase
+  rotate: true
+  xy: 2292, 908
+  size: 1003, 1021
+  orig: 1003, 1021
+  offset: 0, 0
+  index: -1
+footL
+  rotate: true
+  xy: 2019, 2904
+  size: 946, 1508
+  orig: 946, 1508
+  offset: 0, 0
+  index: -1
+headsa
+  rotate: false
+  xy: 2, 1599
+  size: 2015, 2251
+  orig: 2015, 2251
+  offset: 0, 0
+  index: -1
+legL
+  rotate: true
+  xy: 1190, 132
+  size: 1465, 1100
+  orig: 1465, 1100
+  offset: 0, 0
+  index: -1
+legRB
+  rotate: false
+  xy: 2019, 1913
+  size: 1422, 989
+  orig: 1422, 989
+  offset: 0, 0
+  index: -1

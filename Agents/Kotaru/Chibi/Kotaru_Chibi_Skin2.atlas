@@ -1,3 +1,188 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23f5ed066ac346f6012baf7af834eb2d535b72acbc77ac5dbdec83176633f312
-size 2626
+
+Kotaru_Chibi_Skin2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 581, 126
+  size: 87, 128
+  orig: 87, 128
+  offset: 0, 0
+  index: -1
+breast_L_1
+  rotate: false
+  xy: 637, 72
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+breast_L_2
+  rotate: true
+  xy: 581, 72
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+breast_R_1
+  rotate: false
+  xy: 769, 12
+  size: 57, 61
+  orig: 57, 65
+  offset: 0, 2
+  index: -1
+breast_R_2
+  rotate: false
+  xy: 809, 193
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+cloth_1_1
+  rotate: false
+  xy: 751, 184
+  size: 56, 70
+  orig: 57, 70
+  offset: 1, 0
+  index: -1
+cloth_1_2
+  rotate: false
+  xy: 869, 204
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+cloth_1_3
+  rotate: false
+  xy: 816, 137
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+cloth_1_4
+  rotate: false
+  xy: 725, 8
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+cloth_1_5
+  rotate: false
+  xy: 226, 4
+  size: 114, 37
+  orig: 114, 41
+  offset: 0, 0
+  index: -1
+cloth_1_6
+  rotate: true
+  xy: 768, 120
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+cloth_1_7
+  rotate: true
+  xy: 405, 71
+  size: 183, 174
+  orig: 183, 174
+  offset: 0, 0
+  index: -1
+cloth_1_8
+  rotate: false
+  xy: 197, 43
+  size: 206, 211
+  orig: 206, 211
+  offset: 0, 0
+  index: -1
+foot_L_1_1
+  rotate: false
+  xy: 670, 164
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+foot_L_1_2
+  rotate: true
+  xy: 768, 75
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+foot_L_1_3
+  rotate: true
+  xy: 689, 73
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+foot_R_1_1
+  rotate: false
+  xy: 561, 3
+  size: 97, 66
+  orig: 97, 66
+  offset: 0, 0
+  index: -1
+foot_R_1_2
+  rotate: true
+  xy: 197, 3
+  size: 38, 27
+  orig: 38, 31
+  offset: 0, 2
+  index: -1
+foot_R_1_3
+  rotate: true
+  xy: 415, 2
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+hand_L_1_1
+  rotate: false
+  xy: 849, 140
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+hand_L_1_2
+  rotate: true
+  xy: 660, 5
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+hand_L_1_3
+  rotate: true
+  xy: 502, 2
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+hand_R_1_1
+  rotate: true
+  xy: 799, 76
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+hand_R_1_2
+  rotate: false
+  xy: 828, 24
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+hand_R_1_3
+  rotate: false
+  xy: 342, 7
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 7
+  size: 193, 247
+  orig: 193, 249
+  offset: 0, 2
+  index: -1

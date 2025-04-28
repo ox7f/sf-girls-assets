@@ -1,3 +1,362 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aaec92cae8d176e14a4ae7a9580c4a1b9dff6713c0080cb0fa65401c9670a9fa
-size 5317
+
+Yukako_Spine_Skin2.png
+size: 4006,4006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_ArmLower_R
+  rotate: false
+  xy: 2041, 3574
+  size: 403, 287
+  orig: 403, 287
+  offset: 0, 0
+  index: -1
+A_ArmLower_R_FX
+  rotate: false
+  xy: 3220, 3794
+  size: 266, 210
+  orig: 266, 210
+  offset: 0, 0
+  index: -1
+A_Body
+  rotate: true
+  xy: 867, 2632
+  size: 488, 1388
+  orig: 488, 1388
+  offset: 0, 0
+  index: -1
+A_Boobs
+  rotate: false
+  xy: 1489, 3867
+  size: 213, 137
+  orig: 213, 137
+  offset: 0, 0
+  index: -1
+A_Braids_L
+  rotate: true
+  xy: 970, 3150
+  size: 471, 582
+  orig: 471, 582
+  offset: 0, 0
+  index: -1
+A_Braids_R
+  rotate: true
+  xy: 2, 2681
+  size: 587, 863
+  orig: 587, 863
+  offset: 0, 0
+  index: -1
+A_Face
+  rotate: false
+  xy: 2355, 3863
+  size: 154, 141
+  orig: 154, 141
+  offset: 0, 0
+  index: -1
+A_Face_Blush
+  rotate: false
+  xy: 963, 3904
+  size: 172, 100
+  orig: 172, 100
+  offset: 0, 0
+  index: -1
+A_Jacket_L
+  rotate: false
+  xy: 3306, 1570
+  size: 698, 829
+  orig: 698, 829
+  offset: 0, 0
+  index: -1
+A_Jacket_R
+  rotate: true
+  xy: 1051, 1379
+  size: 662, 1165
+  orig: 662, 1165
+  offset: 0, 0
+  index: -1
+A_Leg_L
+  rotate: true
+  xy: 2902, 2891
+  size: 519, 1047
+  orig: 519, 1047
+  offset: 0, 0
+  index: -1
+A_Skirt
+  rotate: false
+  xy: 2, 3705
+  size: 439, 242
+  orig: 439, 242
+  offset: 0, 0
+  index: -1
+ArmLower_L
+  rotate: true
+  xy: 424, 3270
+  size: 381, 544
+  orig: 381, 544
+  offset: 0, 0
+  index: -1
+ArmUpper_R
+  rotate: true
+  xy: 2134, 3866
+  size: 138, 219
+  orig: 138, 219
+  offset: 0, 0
+  index: -1
+B_ArmLower_R
+  rotate: true
+  xy: 2979, 3439
+  size: 353, 441
+  orig: 353, 441
+  offset: 0, 0
+  index: -1
+B_Body
+  rotate: true
+  xy: 2257, 2401
+  size: 488, 1388
+  orig: 488, 1388
+  offset: 0, 0
+  index: -1
+B_Boobs
+  rotate: false
+  xy: 1704, 3867
+  size: 213, 137
+  orig: 213, 137
+  offset: 0, 0
+  index: -1
+B_Braids_L
+  rotate: true
+  xy: 2318, 3076
+  size: 471, 582
+  orig: 471, 582
+  offset: 0, 0
+  index: -1
+B_Braids_R
+  rotate: true
+  xy: 1392, 2043
+  size: 587, 863
+  orig: 587, 863
+  offset: 0, 0
+  index: -1
+B_Face
+  rotate: true
+  xy: 2887, 3848
+  size: 156, 159
+  orig: 156, 159
+  offset: 0, 0
+  index: -1
+B_Face_Blush
+  rotate: false
+  xy: 1137, 3897
+  size: 174, 107
+  orig: 174, 107
+  offset: 0, 0
+  index: -1
+B_Jacket_L
+  rotate: true
+  xy: 2218, 1180
+  size: 698, 829
+  orig: 698, 829
+  offset: 0, 0
+  index: -1
+B_Jacket_R
+  rotate: true
+  xy: 833, 715
+  size: 662, 1165
+  orig: 662, 1165
+  offset: 0, 0
+  index: -1
+B_Leg_L
+  rotate: true
+  xy: 2257, 1880
+  size: 519, 1047
+  orig: 519, 1047
+  offset: 0, 0
+  index: -1
+B_Skirt
+  rotate: false
+  xy: 764, 3653
+  size: 439, 242
+  orig: 439, 242
+  offset: 0, 0
+  index: -1
+C_ArmLower_R
+  rotate: true
+  xy: 2446, 3549
+  size: 297, 531
+  orig: 297, 531
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: true
+  xy: 2, 2142
+  size: 488, 1388
+  orig: 488, 1388
+  offset: 0, 0
+  index: -1
+C_Boobs
+  rotate: false
+  xy: 1919, 3867
+  size: 213, 137
+  orig: 213, 137
+  offset: 0, 0
+  index: -1
+C_Face
+  rotate: true
+  xy: 3048, 3848
+  size: 156, 170
+  orig: 156, 170
+  offset: 0, 0
+  index: -1
+C_Face_Blush
+  rotate: false
+  xy: 1313, 3897
+  size: 174, 107
+  orig: 174, 107
+  offset: 0, 0
+  index: -1
+C_Jacket_L
+  rotate: true
+  xy: 2, 921
+  size: 698, 829
+  orig: 698, 829
+  offset: 0, 0
+  index: -1
+C_Jacket_R
+  rotate: true
+  xy: 2000, 130
+  size: 662, 1165
+  orig: 662, 1165
+  offset: 0, 0
+  index: -1
+C_Leg_L
+  rotate: true
+  xy: 2, 1621
+  size: 519, 1047
+  orig: 519, 1047
+  offset: 0, 0
+  index: -1
+C_Skirt
+  rotate: false
+  xy: 1205, 3623
+  size: 439, 242
+  orig: 439, 242
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: false
+  xy: 3422, 3412
+  size: 576, 366
+  orig: 576, 366
+  offset: 0, 0
+  index: -1
+Cloth_Belt
+  rotate: true
+  xy: 3749, 3780
+  size: 224, 252
+  orig: 224, 252
+  offset: 0, 0
+  index: -1
+FX_A
+  rotate: true
+  xy: 2, 3331
+  size: 372, 420
+  orig: 372, 420
+  offset: 0, 0
+  index: -1
+HairDress_L
+  rotate: true
+  xy: 539, 3939
+  size: 65, 111
+  orig: 65, 111
+  offset: 0, 0
+  index: -1
+HairDress_R
+  rotate: true
+  xy: 652, 3914
+  size: 90, 120
+  orig: 90, 120
+  offset: 0, 0
+  index: -1
+HairMask
+  rotate: true
+  xy: 443, 3669
+  size: 243, 319
+  orig: 243, 319
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: true
+  xy: 1646, 3588
+  size: 277, 393
+  orig: 277, 393
+  offset: 0, 0
+  index: -1
+Hair_Front_A
+  rotate: true
+  xy: 2511, 3857
+  size: 147, 374
+  orig: 147, 374
+  offset: 0, 0
+  index: -1
+Hair_Ponytail
+  rotate: false
+  xy: 3049, 794
+  size: 952, 774
+  orig: 952, 774
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 3488, 3791
+  size: 213, 259
+  orig: 213, 259
+  offset: 0, 0
+  index: -1
+Jacket_Rear
+  rotate: true
+  xy: 774, 3910
+  size: 94, 187
+  orig: 94, 187
+  offset: 0, 0
+  index: -1
+Ribbon_B
+  rotate: false
+  xy: 1554, 3122
+  size: 762, 450
+  orig: 762, 450
+  offset: 0, 0
+  index: -1
+Water
+  rotate: true
+  xy: 2, 3949
+  size: 55, 535
+  orig: 55, 535
+  offset: 0, 0
+  index: -1
+
+Yukako_Spine_Skin2_2.png
+size: 2768,2768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bottle
+  rotate: false
+  xy: 2, 1273
+  size: 1797, 1493
+  orig: 1797, 1493
+  offset: 0, 0
+  index: -1
+FX_B
+  rotate: false
+  xy: 2, 61
+  size: 1596, 1210
+  orig: 1596, 1210
+  offset: 0, 0
+  index: -1
+Ribbon_A
+  rotate: true
+  xy: 1801, 1009
+  size: 1757, 965
+  orig: 1757, 965
+  offset: 0, 0
+  index: -1

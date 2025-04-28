@@ -1,3 +1,543 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7a518b4d5f10e113d32009b7ceebaeaa572e6dadbdf8218869b4c911dab9a7f
-size 7981
+
+Riho_X_Spine_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boobs 1
+  rotate: false
+  xy: 858, 12
+  size: 363, 244
+  orig: 363, 244
+  offset: 0, 0
+  index: -1
+Boobs Bow
+  rotate: true
+  xy: 4014, 57
+  size: 73, 67
+  orig: 73, 67
+  offset: 0, 0
+  index: -1
+Boobs L 2
+  rotate: false
+  xy: 3447, 11
+  size: 211, 203
+  orig: 211, 203
+  offset: 0, 0
+  index: -1
+Boobs L 3
+  rotate: false
+  xy: 3660, 13
+  size: 212, 201
+  orig: 212, 201
+  offset: 0, 0
+  index: -1
+Boobs R 2
+  rotate: true
+  xy: 1416, 77
+  size: 179, 182
+  orig: 179, 182
+  offset: 0, 0
+  index: -1
+Boobs R 3
+  rotate: false
+  xy: 1223, 71
+  size: 191, 185
+  orig: 191, 185
+  offset: 0, 0
+  index: -1
+Eyes 1
+  rotate: false
+  xy: 3125, 6
+  size: 320, 208
+  orig: 320, 208
+  offset: 0, 0
+  index: -1
+Eyes 2
+  rotate: false
+  xy: 250, 42
+  size: 320, 117
+  orig: 320, 117
+  offset: 0, 0
+  index: -1
+Eyes 3
+  rotate: true
+  xy: 3937, 2591
+  size: 310, 150
+  orig: 310, 150
+  offset: 0, 0
+  index: -1
+Face red 3
+  rotate: true
+  xy: 3937, 2332
+  size: 257, 50
+  orig: 257, 50
+  offset: 0, 0
+  index: -1
+Flower Body
+  rotate: false
+  xy: 1600, 84
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+Flower Body Ribbon 2
+  rotate: true
+  xy: 3607, 2369
+  size: 532, 328
+  orig: 532, 328
+  offset: 0, 0
+  index: -1
+Floweres Body 1
+  rotate: false
+  xy: 2, 10
+  size: 246, 149
+  orig: 246, 149
+  offset: 0, 0
+  index: -1
+Floweres Body 2
+  rotate: true
+  xy: 3874, 2
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+Gun flower 2
+  rotate: false
+  xy: 3607, 3465
+  size: 481, 623
+  orig: 481, 623
+  offset: 0, 0
+  index: -1
+Hair 1 - 2
+  rotate: false
+  xy: 4024, 2337
+  size: 57, 17
+  orig: 57, 17
+  offset: 0, 0
+  index: -1
+Hair 4
+  rotate: false
+  xy: 3607, 2903
+  size: 474, 560
+  orig: 474, 560
+  offset: 0, 0
+  index: -1
+L_Arm 3
+  rotate: true
+  xy: 2, 161
+  size: 796, 854
+  orig: 796, 854
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 2500, 149
+  size: 293, 623
+  orig: 293, 623
+  offset: 0, 0
+  index: -1
+Liquid 1
+  rotate: true
+  xy: 3989, 2375
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+Liquid 2
+  rotate: true
+  xy: 4024, 2356
+  size: 17, 58
+  orig: 17, 58
+  offset: 0, 0
+  index: -1
+Liquid 3
+  rotate: false
+  xy: 3989, 2436
+  size: 92, 153
+  orig: 92, 153
+  offset: 0, 0
+  index: -1
+Liquid 4
+  rotate: true
+  xy: 572, 66
+  size: 47, 266
+  orig: 47, 266
+  offset: 0, 0
+  index: -1
+Liquid 5
+  rotate: true
+  xy: 3607, 2339
+  size: 28, 134
+  orig: 28, 134
+  offset: 0, 0
+  index: -1
+R_Leg 1
+  rotate: false
+  xy: 2530, 444
+  size: 632, 1886
+  orig: 632, 1886
+  offset: 0, 0
+  index: -1
+R_thrumb
+  rotate: false
+  xy: 3874, 132
+  size: 213, 82
+  orig: 213, 82
+  offset: 0, 0
+  index: -1
+Ribbon_L_Leg
+  rotate: false
+  xy: 1780, 87
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+Ribbon_R_Leg
+  rotate: false
+  xy: 1981, 87
+  size: 175, 169
+  orig: 175, 169
+  offset: 0, 0
+  index: -1
+Skirt Back 1
+  rotate: false
+  xy: 2, 2523
+  size: 2531, 1565
+  orig: 2531, 1565
+  offset: 0, 0
+  index: -1
+Skirt Back 2
+  rotate: false
+  xy: 2, 959
+  size: 2526, 1562
+  orig: 2526, 1562
+  offset: 0, 0
+  index: -1
+Skirt Back Doc 1
+  rotate: false
+  xy: 858, 598
+  size: 1664, 359
+  orig: 1664, 359
+  offset: 0, 0
+  index: -1
+Skirt Back Doc 2
+  rotate: false
+  xy: 858, 258
+  size: 1640, 338
+  orig: 1640, 338
+  offset: 0, 0
+  index: -1
+Skirt Front 1
+  rotate: true
+  xy: 2535, 2332
+  size: 1756, 1070
+  orig: 1756, 1070
+  offset: 0, 0
+  index: -1
+Skirt Front R 3
+  rotate: false
+  xy: 3164, 216
+  size: 885, 1039
+  orig: 885, 1039
+  offset: 0, 0
+  index: -1
+Tear
+  rotate: false
+  xy: 572, 115
+  size: 269, 44
+  orig: 269, 44
+  offset: 0, 0
+  index: -1
+gun 2
+  rotate: true
+  xy: 3164, 1257
+  size: 1073, 888
+  orig: 1073, 888
+  offset: 0, 0
+  index: -1
+mouth 2
+  rotate: true
+  xy: 3989, 2351
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+mouth 3
+  rotate: false
+  xy: 4014, 8
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+
+Riho_X_Spine_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body 1
+  rotate: true
+  xy: 2, 1957
+  size: 521, 972
+  orig: 521, 972
+  offset: 0, 0
+  index: -1
+Body 2
+  rotate: true
+  xy: 976, 1937
+  size: 521, 972
+  orig: 521, 972
+  offset: 0, 0
+  index: -1
+Body 3
+  rotate: true
+  xy: 1950, 1795
+  size: 521, 966
+  orig: 521, 966
+  offset: 0, 0
+  index: -1
+Flower Body Ribbon 1
+  rotate: false
+  xy: 2606, 2836
+  size: 755, 413
+  orig: 755, 413
+  offset: 0, 0
+  index: -1
+Gun Smoke
+  rotate: true
+  xy: 1023, 3309
+  size: 283, 481
+  orig: 283, 481
+  offset: 0, 0
+  index: -1
+Gun flower 1
+  rotate: true
+  xy: 1571, 2460
+  size: 471, 745
+  orig: 471, 745
+  offset: 0, 0
+  index: -1
+Hair 1
+  rotate: true
+  xy: 2, 3317
+  size: 275, 1019
+  orig: 275, 1019
+  offset: 0, 0
+  index: -1
+Hair 2
+  rotate: true
+  xy: 1211, 2950
+  size: 347, 989
+  orig: 347, 989
+  offset: 0, 0
+  index: -1
+Hair 3
+  rotate: true
+  xy: 2787, 3287
+  size: 305, 474
+  orig: 305, 474
+  offset: 0, 0
+  index: -1
+Hair 5
+  rotate: false
+  xy: 2202, 2933
+  size: 402, 364
+  orig: 402, 364
+  offset: 0, 0
+  index: -1
+Hair 6
+  rotate: true
+  xy: 3140, 1987
+  size: 561, 889
+  orig: 561, 889
+  offset: 0, 0
+  index: -1
+Head 1
+  rotate: false
+  xy: 3711, 3200
+  size: 350, 392
+  orig: 350, 392
+  offset: 0, 0
+  index: -1
+L_Arm 1
+  rotate: true
+  xy: 2, 2971
+  size: 344, 396
+  orig: 344, 396
+  offset: 0, 0
+  index: -1
+L_Arm 2
+  rotate: true
+  xy: 400, 2971
+  size: 344, 396
+  orig: 344, 396
+  offset: 0, 0
+  index: -1
+L_Hand 2
+  rotate: true
+  xy: 2162, 3299
+  size: 293, 623
+  orig: 293, 623
+  offset: 0, 0
+  index: -1
+L_Leg 1
+  rotate: true
+  xy: 2, 1338
+  size: 597, 1868
+  orig: 597, 1868
+  offset: 0, 0
+  index: -1
+L_Leg 3
+  rotate: true
+  xy: 2, 739
+  size: 597, 1868
+  orig: 597, 1868
+  offset: 0, 0
+  index: -1
+R_Arm 1
+  rotate: true
+  xy: 3363, 2550
+  size: 648, 662
+  orig: 648, 662
+  offset: 0, 0
+  index: -1
+R_Arm 2
+  rotate: true
+  xy: 2918, 1337
+  size: 648, 662
+  orig: 648, 662
+  offset: 0, 0
+  index: -1
+R_Arm 3
+  rotate: true
+  xy: 1872, 1145
+  size: 648, 662
+  orig: 648, 662
+  offset: 0, 0
+  index: -1
+R_Leg 2
+  rotate: true
+  xy: 2, 105
+  size: 632, 1886
+  orig: 632, 1886
+  offset: 0, 0
+  index: -1
+R_Leg 3
+  rotate: true
+  xy: 1890, 2
+  size: 632, 1886
+  orig: 632, 1886
+  offset: 0, 0
+  index: -1
+Ribbon_L 1
+  rotate: false
+  xy: 784, 2480
+  size: 785, 468
+  orig: 785, 468
+  offset: 0, 0
+  index: -1
+Ribbon_L 2
+  rotate: false
+  xy: 2, 2506
+  size: 780, 463
+  orig: 780, 463
+  offset: 0, 0
+  index: -1
+Veil Head Back
+  rotate: false
+  xy: 2536, 636
+  size: 1183, 699
+  orig: 1183, 699
+  offset: 0, 0
+  index: -1
+Veil Head Front
+  rotate: false
+  xy: 2318, 2318
+  size: 820, 516
+  orig: 820, 516
+  offset: 0, 0
+  index: -1
+Wing L 1
+  rotate: false
+  xy: 3263, 3251
+  size: 446, 341
+  orig: 446, 341
+  offset: 0, 0
+  index: -1
+Wing L 2
+  rotate: false
+  xy: 1506, 3305
+  size: 330, 287
+  orig: 330, 287
+  offset: 0, 0
+  index: -1
+Wing R 1
+  rotate: false
+  xy: 798, 2963
+  size: 411, 344
+  orig: 411, 344
+  offset: 0, 0
+  index: -1
+Wing R 2
+  rotate: false
+  xy: 1838, 3302
+  size: 322, 290
+  orig: 322, 290
+  offset: 0, 0
+  index: -1
+
+Riho_X_Spine_Wedding_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun 1
+  rotate: false
+  xy: 2, 969
+  size: 1149, 963
+  orig: 1149, 963
+  offset: 0, 0
+  index: -1
+Ribbon_R 1
+  rotate: false
+  xy: 1153, 1186
+  size: 1121, 746
+  orig: 1121, 746
+  offset: 0, 0
+  index: -1
+Ribbon_R 2
+  rotate: false
+  xy: 2276, 1024
+  size: 1121, 746
+  orig: 1121, 746
+  offset: 0, 0
+  index: -1
+Skirt Back 3
+  rotate: false
+  xy: 2, 1934
+  size: 2526, 1562
+  orig: 2526, 1562
+  offset: 0, 0
+  index: -1
+Skirt Front 2
+  rotate: true
+  xy: 2530, 1772
+  size: 1724, 1070
+  orig: 1724, 1070
+  offset: 0, 0
+  index: -1
+Skirt Front L 3
+  rotate: true
+  xy: 2, 257
+  size: 710, 1013
+  orig: 710, 1013
+  offset: 0, 0
+  index: -1
+Veil Head Back 2
+  rotate: true
+  xy: 1153, 2
+  size: 1182, 699
+  orig: 1182, 699
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,411 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0cb7d60365c809ed3942501bbc655d7c9d90a539b2134eb9970e60f1f438630
-size 6107
+
+Wu_Spine_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L_All
+  rotate: true
+  xy: 1403, 1752
+  size: 111, 174
+  orig: 111, 174
+  offset: 0, 0
+  index: -1
+Arm_R_LV1_LV2
+  rotate: false
+  xy: 1558, 1603
+  size: 160, 147
+  orig: 160, 147
+  offset: 0, 0
+  index: -1
+Arm_R_LV3
+  rotate: true
+  xy: 1359, 1608
+  size: 142, 197
+  orig: 142, 197
+  offset: 0, 0
+  index: -1
+Body_LV1
+  rotate: true
+  xy: 898, 1459
+  size: 172, 316
+  orig: 172, 316
+  offset: 0, 0
+  index: -1
+Body_LV2
+  rotate: true
+  xy: 391, 1488
+  size: 171, 316
+  orig: 172, 316
+  offset: 0, 0
+  index: -1
+Body_LV3
+  rotate: true
+  xy: 1216, 1434
+  size: 172, 312
+  orig: 172, 312
+  offset: 0, 0
+  index: -1
+Bread_L_LV1
+  rotate: false
+  xy: 135, 1704
+  size: 122, 116
+  orig: 122, 123
+  offset: 0, 0
+  index: -1
+Bread_L_LV2
+  rotate: false
+  xy: 259, 1695
+  size: 135, 118
+  orig: 135, 118
+  offset: 0, 0
+  index: -1
+Bread_L_LV3
+  rotate: false
+  xy: 1826, 1751
+  size: 127, 112
+  orig: 127, 112
+  offset: 0, 0
+  index: -1
+Bread_R_LV1
+  rotate: true
+  xy: 928, 1645
+  size: 125, 163
+  orig: 125, 163
+  offset: 0, 0
+  index: -1
+Bread_R_LV2
+  rotate: true
+  xy: 396, 1673
+  size: 118, 163
+  orig: 118, 163
+  offset: 0, 0
+  index: -1
+Bread_R_LV3
+  rotate: true
+  xy: 803, 1659
+  size: 120, 123
+  orig: 126, 123
+  offset: 0, 0
+  index: -1
+Cloth_01_L_All
+  rotate: false
+  xy: 666, 863
+  size: 465, 308
+  orig: 465, 309
+  offset: 0, 0
+  index: -1
+Cloth_01_R_All
+  rotate: true
+  xy: 304, 1219
+  size: 251, 589
+  orig: 251, 589
+  offset: 0, 0
+  index: -1
+Cloth_Center_LV1_LV2_01
+  rotate: true
+  xy: 1145, 1766
+  size: 97, 139
+  orig: 97, 139
+  offset: 0, 0
+  index: -1
+Cloth_Center_LV1_LV2_02
+  rotate: true
+  xy: 1103, 401
+  size: 382, 404
+  orig: 382, 404
+  offset: 0, 0
+  index: -1
+Cloth_L_LV1_LV2
+  rotate: true
+  xy: 1212, 1140
+  size: 260, 459
+  orig: 260, 462
+  offset: 0, 3
+  index: -1
+Cloth_R_LV1_LV2
+  rotate: true
+  xy: 669, 2
+  size: 397, 693
+  orig: 397, 693
+  offset: 0, 0
+  index: -1
+Equip_Belt_LV1_LV2
+  rotate: true
+  xy: 895, 1173
+  size: 284, 315
+  orig: 284, 315
+  offset: 0, 0
+  index: -1
+Equip_FootRing_L_LV1_LV2
+  rotate: true
+  xy: 1579, 1752
+  size: 111, 245
+  orig: 111, 245
+  offset: 0, 0
+  index: -1
+Equip_FootRing_R_LV1_LV2
+  rotate: true
+  xy: 1720, 1586
+  size: 163, 228
+  orig: 163, 228
+  offset: 0, 0
+  index: -1
+FX_0_All
+  rotate: true
+  xy: 156, 1824
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+FX_1_All
+  rotate: true
+  xy: 2, 1836
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+FX_2_All
+  rotate: true
+  xy: 50, 1832
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+FX_3_All
+  rotate: true
+  xy: 328, 1820
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+FX_4_All
+  rotate: true
+  xy: 679, 1784
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+FX_5_All
+  rotate: true
+  xy: 2, 1709
+  size: 113, 131
+  orig: 113, 131
+  offset: 0, 0
+  index: -1
+FX_6_All
+  rotate: true
+  xy: 1286, 1761
+  size: 102, 115
+  orig: 102, 115
+  offset: 0, 0
+  index: -1
+FX_7_All
+  rotate: false
+  xy: 109, 1824
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+FX_8_All
+  rotate: true
+  xy: 379, 1815
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+FX_9_All
+  rotate: true
+  xy: 213, 1822
+  size: 41, 113
+  orig: 41, 113
+  offset: 0, 0
+  index: -1
+Face_LV1
+  rotate: false
+  xy: 872, 1781
+  size: 83, 82
+  orig: 83, 86
+  offset: 0, 4
+  index: -1
+Face_LV2
+  rotate: false
+  xy: 509, 1793
+  size: 83, 70
+  orig: 83, 86
+  offset: 0, 14
+  index: -1
+Face_LV3
+  rotate: false
+  xy: 594, 1787
+  size: 83, 76
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+Hair_L_All
+  rotate: true
+  xy: 957, 1772
+  size: 91, 186
+  orig: 91, 186
+  offset: 0, 0
+  index: -1
+Hair_R_All
+  rotate: false
+  xy: 1673, 973
+  size: 267, 427
+  orig: 267, 429
+  offset: 0, 0
+  index: -1
+Hair_Up_All
+  rotate: true
+  xy: 2, 1531
+  size: 171, 203
+  orig: 171, 203
+  offset: 0, 0
+  index: -1
+Hand_L_All
+  rotate: false
+  xy: 455, 1811
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Head_All
+  rotate: true
+  xy: 775, 1782
+  size: 81, 95
+  orig: 81, 98
+  offset: 0, 0
+  index: -1
+Leg_L_LV1
+  rotate: true
+  xy: 1133, 785
+  size: 353, 435
+  orig: 353, 435
+  offset: 0, 0
+  index: -1
+Leg_L_LV2
+  rotate: true
+  xy: 1570, 618
+  size: 353, 435
+  orig: 353, 435
+  offset: 0, 0
+  index: -1
+Leg_L_LV3
+  rotate: true
+  xy: 666, 485
+  size: 376, 435
+  orig: 376, 435
+  offset: 0, 0
+  index: -1
+Leg_R_LV1
+  rotate: true
+  xy: 2, 912
+  size: 305, 662
+  orig: 305, 662
+  offset: 0, 0
+  index: -1
+Leg_R_LV2
+  rotate: true
+  xy: 2, 605
+  size: 305, 662
+  orig: 305, 662
+  offset: 0, 0
+  index: -1
+Leg_R_LV3
+  rotate: true
+  xy: 2, 177
+  size: 306, 665
+  orig: 306, 665
+  offset: 0, 0
+  index: -1
+Light_1_All
+  rotate: false
+  xy: 709, 1472
+  size: 187, 185
+  orig: 187, 185
+  offset: 0, 0
+  index: -1
+Light_2_All
+  rotate: true
+  xy: 207, 1519
+  size: 174, 182
+  orig: 174, 182
+  offset: 0, 0
+  index: -1
+Light_3_All
+  rotate: true
+  xy: 2, 1247
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
+Lion_Head_Down_All
+  rotate: false
+  xy: 1530, 1402
+  size: 382, 182
+  orig: 382, 182
+  offset: 0, 0
+  index: -1
+Lion_Head_Up_All
+  rotate: false
+  xy: 1509, 156
+  size: 501, 460
+  orig: 501, 460
+  offset: 0, 0
+  index: -1
+Lion_eyesSkin_L_All
+  rotate: false
+  xy: 561, 1663
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Lion_eyesSkin_R_All
+  rotate: false
+  xy: 1093, 1633
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+Lion_eyes_L_All
+  rotate: false
+  xy: 682, 1661
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Lion_eyes_R_All
+  rotate: false
+  xy: 1226, 1628
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+
+Wu_Spine_Skin1_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cloth_00_All
+  rotate: false
+  xy: 2, 954
+  size: 1024, 1036
+  orig: 1024, 1036
+  offset: 0, 0
+  index: -1
+Staff_0_LV1_LV2
+  rotate: false
+  xy: 626, 403
+  size: 441, 549
+  orig: 441, 557
+  offset: 0, 0
+  index: -1
+Staff_1_LV1_LV2
+  rotate: true
+  xy: 2, 2
+  size: 950, 622
+  orig: 950, 668
+  offset: 0, 46
+  index: -1

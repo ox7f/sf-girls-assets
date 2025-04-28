@@ -1,3 +1,195 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:16cd8bd47c71bbce236eb639835dd1a5ce842086c07aafe0df1993f82c4e7f08
-size 2786
+
+Sara_Spine_B.png
+size: 1998,2006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_1
+  rotate: true
+  xy: 1618, 2
+  size: 154, 190
+  orig: 154, 190
+  offset: 0, 0
+  index: -1
+L_arm_2
+  rotate: false
+  xy: 281, 88
+  size: 99, 112
+  orig: 99, 112
+  offset: 0, 0
+  index: -1
+L_breast
+  rotate: false
+  xy: 281, 317
+  size: 116, 123
+  orig: 116, 129
+  offset: 0, 6
+  index: -1
+L_dress
+  rotate: true
+  xy: 999, 1032
+  size: 481, 271
+  orig: 481, 271
+  offset: 0, 0
+  index: -1
+L_hair_back
+  rotate: true
+  xy: 1587, 744
+  size: 270, 365
+  orig: 270, 365
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 1180, 185
+  size: 206, 201
+  orig: 206, 201
+  offset: 0, 0
+  index: -1
+R_arm_1
+  rotate: true
+  xy: 1180, 33
+  size: 150, 192
+  orig: 150, 192
+  offset: 0, 0
+  index: -1
+R_arm_2
+  rotate: false
+  xy: 394, 63
+  size: 320, 220
+  orig: 320, 220
+  offset: 0, 0
+  index: -1
+R_breast
+  rotate: false
+  xy: 1815, 58
+  size: 129, 121
+  orig: 142, 122
+  offset: 0, 1
+  index: -1
+R_dress
+  rotate: false
+  xy: 760, 393
+  size: 622, 278
+  orig: 622, 278
+  offset: 0, 0
+  index: -1
+R_hair_back
+  rotate: false
+  xy: 999, 699
+  size: 245, 331
+  orig: 245, 331
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 760, 673
+  size: 237, 840
+  orig: 237, 840
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 399, 285
+  size: 359, 1228
+  orig: 359, 1232
+  offset: 0, 0
+  index: -1
+cloth_chain_1
+  rotate: true
+  xy: 281, 202
+  size: 113, 111
+  orig: 113, 122
+  offset: 0, 11
+  index: -1
+cloth_chain_2
+  rotate: false
+  xy: 281, 8
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+dress
+  rotate: true
+  xy: 1384, 236
+  size: 459, 174
+  orig: 459, 174
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1815, 181
+  size: 223, 181
+  orig: 223, 181
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 1277, 1016
+  size: 988, 687
+  orig: 988, 687
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 1560, 406
+  size: 289, 379
+  orig: 289, 379
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1383, 6
+  size: 228, 233
+  orig: 228, 233
+  offset: 0, 0
+  index: -1
+head_obj
+  rotate: true
+  xy: 2, 7
+  size: 433, 277
+  orig: 433, 277
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 393, 15
+  size: 46, 82
+  orig: 51, 86
+  offset: 2, 3
+  index: -1
+obj_L
+  rotate: false
+  xy: 1246, 697
+  size: 339, 317
+  orig: 339, 317
+  offset: 0, 0
+  index: -1
+obj_R
+  rotate: true
+  xy: 1618, 158
+  size: 246, 195
+  orig: 246, 199
+  offset: 0, 0
+  index: -1
+obj_back_1
+  rotate: false
+  xy: 2, 1515
+  size: 1273, 489
+  orig: 1277, 494
+  offset: 2, 3
+  index: -1
+obj_back_2
+  rotate: false
+  xy: 760, 48
+  size: 418, 343
+  orig: 422, 347
+  offset: 2, 2
+  index: -1
+obj_back_3
+  rotate: true
+  xy: 2, 442
+  size: 1071, 395
+  orig: 1200, 474
+  offset: 3, 77
+  index: -1

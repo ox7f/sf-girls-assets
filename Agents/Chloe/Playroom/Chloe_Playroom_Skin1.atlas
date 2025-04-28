@@ -1,3 +1,582 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31787b44da70ebac5dd9c32af57a7bda10b28251591ed97ab684b503d2701576
-size 8503
+
+Chloe_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L1
+  rotate: false
+  xy: 1872, 2568
+  size: 980, 351
+  orig: 980, 351
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 885, 30
+  size: 749, 957
+  orig: 749, 957
+  offset: 0, 0
+  index: -1
+boobaB
+  rotate: true
+  xy: 845, 1585
+  size: 559, 706
+  orig: 559, 706
+  offset: 0, 0
+  index: -1
+boobaU
+  rotate: true
+  xy: 1553, 1555
+  size: 589, 652
+  orig: 589, 664
+  offset: 0, 0
+  index: -1
+boobaUn
+  rotate: true
+  xy: 2, 3481
+  size: 218, 226
+  orig: 218, 226
+  offset: 0, 0
+  index: -1
+boobanip
+  rotate: true
+  xy: 398, 3694
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+brow1
+  rotate: false
+  xy: 1440, 3646
+  size: 199, 98
+  orig: 199, 98
+  offset: 0, 0
+  index: -1
+brow2
+  rotate: true
+  xy: 183, 3701
+  size: 43, 213
+  orig: 43, 213
+  offset: 0, 0
+  index: -1
+clothesT
+  rotate: false
+  xy: 3081, 691
+  size: 881, 720
+  orig: 881, 720
+  offset: 0, 0
+  index: -1
+clothesTt
+  rotate: false
+  xy: 2, 212
+  size: 881, 720
+  orig: 881, 720
+  offset: 0, 0
+  index: -1
+cumge3
+  rotate: true
+  xy: 675, 934
+  size: 619, 910
+  orig: 619, 910
+  offset: 0, 0
+  index: -1
+dress_shadow
+  rotate: true
+  xy: 1844, 2
+  size: 687, 2058
+  orig: 687, 2058
+  offset: 0, 0
+  index: -1
+drink1
+  rotate: true
+  xy: 2, 2354
+  size: 439, 518
+  orig: 439, 518
+  offset: 0, 0
+  index: -1
+drink2
+  rotate: false
+  xy: 3211, 3548
+  size: 330, 196
+  orig: 348, 196
+  offset: 18, 0
+  index: -1
+drinkHand
+  rotate: false
+  xy: 1052, 3660
+  size: 184, 84
+  orig: 184, 84
+  offset: 0, 0
+  index: -1
+drink_acc1
+  rotate: true
+  xy: 1641, 3633
+  size: 111, 165
+  orig: 111, 165
+  offset: 0, 0
+  index: -1
+drink_acc2
+  rotate: true
+  xy: 2007, 3598
+  size: 146, 165
+  orig: 146, 165
+  offset: 0, 0
+  index: -1
+drink_bun1
+  rotate: false
+  xy: 512, 3685
+  size: 157, 59
+  orig: 157, 59
+  offset: 0, 0
+  index: -1
+drink_ear1
+  rotate: false
+  xy: 1808, 3619
+  size: 197, 125
+  orig: 197, 125
+  offset: 0, 0
+  index: -1
+drink_ear2
+  rotate: false
+  xy: 2174, 3590
+  size: 178, 154
+  orig: 178, 154
+  offset: 0, 0
+  index: -1
+drink_eyepatch1
+  rotate: false
+  xy: 2354, 3589
+  size: 162, 155
+  orig: 162, 155
+  offset: 0, 0
+  index: -1
+drink_eyepatch2
+  rotate: false
+  xy: 2901, 3560
+  size: 308, 184
+  orig: 308, 184
+  offset: 0, 0
+  index: -1
+drink_face1
+  rotate: false
+  xy: 87, 3709
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+drink_face2
+  rotate: false
+  xy: 671, 3673
+  size: 182, 71
+  orig: 182, 71
+  offset: 0, 0
+  index: -1
+drink_hairL
+  rotate: false
+  xy: 2085, 2944
+  size: 473, 358
+  orig: 473, 358
+  offset: 0, 0
+  index: -1
+drink_hairM
+  rotate: false
+  xy: 1238, 3653
+  size: 200, 91
+  orig: 200, 91
+  offset: 0, 0
+  index: -1
+drink_hairR
+  rotate: false
+  xy: 2, 3720
+  size: 83, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 2854, 2516
+  size: 897, 366
+  orig: 897, 366
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 2, 1696
+  size: 553, 841
+  orig: 594, 845
+  offset: 41, 0
+  index: -1
+ear_fluff1
+  rotate: false
+  xy: 1118, 3092
+  size: 327, 311
+  orig: 327, 311
+  offset: 0, 0
+  index: -1
+ear_fluff2
+  rotate: true
+  xy: 3693, 3234
+  size: 300, 308
+  orig: 300, 308
+  offset: 0, 0
+  index: -1
+ear_shadow
+  rotate: true
+  xy: 2, 1077
+  size: 617, 671
+  orig: 617, 671
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 2710, 3574
+  size: 170, 189
+  orig: 170, 189
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 2518, 3576
+  size: 168, 190
+  orig: 168, 190
+  offset: 0, 0
+  index: -1
+eye2swirl
+  rotate: false
+  xy: 451, 3686
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+eyemask
+  rotate: true
+  xy: 1328, 2599
+  size: 425, 542
+  orig: 425, 542
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1587, 781
+  size: 656, 687
+  orig: 656, 687
+  offset: 0, 0
+  index: -1
+face_line
+  rotate: true
+  xy: 3212, 2031
+  size: 483, 534
+  orig: 483, 534
+  offset: 0, 0
+  index: -1
+hairBB
+  rotate: true
+  xy: 2276, 703
+  size: 708, 803
+  orig: 708, 803
+  offset: 0, 0
+  index: -1
+hairL2
+  rotate: false
+  xy: 1198, 3405
+  size: 396, 239
+  orig: 396, 239
+  offset: 0, 0
+  index: -1
+hair_bun2
+  rotate: false
+  xy: 2, 2795
+  size: 610, 370
+  orig: 610, 370
+  offset: 0, 0
+  index: -1
+hair_fk1
+  rotate: false
+  xy: 3543, 3536
+  size: 347, 208
+  orig: 347, 208
+  offset: 0, 0
+  index: -1
+hair_fk2
+  rotate: true
+  xy: 522, 2251
+  size: 453, 608
+  orig: 453, 608
+  offset: 0, 0
+  index: -1
+hair_fkb
+  rotate: true
+  xy: 2104, 3321
+  size: 266, 356
+  orig: 266, 356
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2898, 1413
+  size: 856, 616
+  orig: 856, 616
+  offset: 0, 0
+  index: -1
+hair_frontB
+  rotate: true
+  xy: 2755, 3286
+  size: 272, 310
+  orig: 272, 310
+  offset: 0, 0
+  index: -1
+hair_front_shadow
+  rotate: true
+  xy: 2207, 1439
+  size: 610, 689
+  orig: 610, 689
+  offset: 0, 0
+  index: -1
+hair_shadow1
+  rotate: true
+  xy: 2, 3167
+  size: 287, 751
+  orig: 287, 751
+  offset: 0, 0
+  index: -1
+hair_shadow2
+  rotate: false
+  xy: 2400, 2051
+  size: 810, 463
+  orig: 810, 463
+  offset: 0, 0
+  index: -1
+hairaccL
+  rotate: true
+  xy: 2462, 3304
+  size: 268, 291
+  orig: 268, 291
+  offset: 0, 0
+  index: -1
+hairaccL2
+  rotate: true
+  xy: 230, 3456
+  size: 209, 710
+  orig: 209, 710
+  offset: 0, 0
+  index: -1
+hairaccR
+  rotate: true
+  xy: 942, 3427
+  size: 231, 254
+  orig: 231, 254
+  offset: 0, 0
+  index: -1
+hairaccR2
+  rotate: false
+  xy: 1447, 3026
+  size: 636, 325
+  orig: 636, 325
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 1132, 2146
+  size: 1266, 420
+  orig: 1266, 420
+  offset: 0, 0
+  index: -1
+hand_Rthumb
+  rotate: true
+  xy: 1596, 3353
+  size: 243, 506
+  orig: 243, 543
+  offset: 0, 37
+  index: -1
+jj1
+  rotate: false
+  xy: 2560, 2921
+  size: 699, 347
+  orig: 699, 347
+  offset: 0, 0
+  index: -1
+jj2
+  rotate: false
+  xy: 614, 2706
+  size: 712, 384
+  orig: 712, 384
+  offset: 0, 0
+  index: -1
+jj2_hairB
+  rotate: true
+  xy: 3067, 3270
+  size: 264, 624
+  orig: 264, 624
+  offset: 0, 0
+  index: -1
+jj2_hairT
+  rotate: false
+  xy: 3261, 2884
+  size: 411, 384
+  orig: 411, 384
+  offset: 0, 0
+  index: -1
+jj2_hairU
+  rotate: false
+  xy: 755, 3117
+  size: 361, 308
+  orig: 361, 308
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 963, 3663
+  size: 81, 87
+  orig: 81, 151
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 855, 3667
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1
+
+Chloe_Playroom_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair_bunnyL
+  rotate: true
+  xy: 1867, 155
+  size: 1228, 1982
+  orig: 1228, 1982
+  offset: 0, 0
+  index: -1
+hair_bunnyR
+  rotate: false
+  xy: 2, 2
+  size: 1863, 1381
+  orig: 1863, 1381
+  offset: 0, 0
+  index: -1
+reflection
+  rotate: false
+  xy: 2, 1385
+  size: 3645, 2612
+  orig: 3645, 2612
+  offset: 0, 0
+  index: -1
+
+Chloe_Playroom_Skin1_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L2
+  rotate: false
+  xy: 920, 1068
+  size: 2010, 1011
+  orig: 2010, 1011
+  offset: 0, 0
+  index: -1
+clothes_bottom
+  rotate: true
+  xy: 1644, 2081
+  size: 775, 939
+  orig: 775, 939
+  offset: 0, 0
+  index: -1
+clothes_top
+  rotate: true
+  xy: 2585, 2081
+  size: 775, 939
+  orig: 775, 939
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 2932, 2
+  size: 1142, 2077
+  orig: 1142, 2077
+  offset: 0, 0
+  index: -1
+dress_back
+  rotate: true
+  xy: 2, 37
+  size: 1029, 2139
+  orig: 1029, 2139
+  offset: 0, 0
+  index: -1
+hairBacc
+  rotate: true
+  xy: 2, 2103
+  size: 753, 827
+  orig: 753, 827
+  offset: 0, 0
+  index: -1
+hairL1
+  rotate: false
+  xy: 831, 2094
+  size: 811, 762
+  orig: 811, 762
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 2, 1241
+  size: 851, 916
+  orig: 851, 916
+  offset: 0, 0
+  index: -1
+
+Chloe_Playroom_Skin1_4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 2599, 3518
+  orig: 2599, 3518
+  offset: 0, 0
+  index: -1
+
+Chloe_Playroom_Skin1_5.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+84bg1
+  rotate: false
+  xy: 2, 2
+  size: 2441, 1723
+  orig: 2441, 1723
+  offset: 0, 0
+  index: -1
+84bg3
+  rotate: false
+  xy: 2, 1727
+  size: 2424, 1784
+  orig: 2424, 1784
+  offset: 0, 0
+  index: -1
+
+Chloe_Playroom_Skin1_6.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+84bg2
+  rotate: false
+  xy: 2, 2
+  size: 2178, 1723
+  orig: 2178, 1723
+  offset: 0, 0
+  index: -1
+84bg4
+  rotate: false
+  xy: 2, 1727
+  size: 2195, 1784
+  orig: 2195, 1784
+  offset: 0, 0
+  index: -1

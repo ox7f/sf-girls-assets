@@ -1,3 +1,530 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc4e7f296330c9b74a93c1d3a328df9f968045e48afedba4361f9464658ff016
-size 7726
+
+Cadence_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_1
+  rotate: false
+  xy: 1822, 2427
+  size: 454, 382
+  orig: 454, 382
+  offset: 0, 0
+  index: -1
+B_2
+  rotate: false
+  xy: 1302, 2477
+  size: 518, 362
+  orig: 518, 362
+  offset: 0, 0
+  index: -1
+G_1_1
+  rotate: false
+  xy: 1708, 2841
+  size: 353, 309
+  orig: 353, 309
+  offset: 0, 0
+  index: -1
+G_1_2
+  rotate: true
+  xy: 1669, 3171
+  size: 190, 197
+  orig: 190, 197
+  offset: 0, 0
+  index: -1
+G_2_1
+  rotate: false
+  xy: 1343, 2865
+  size: 363, 304
+  orig: 363, 304
+  offset: 0, 0
+  index: -1
+G_2_2
+  rotate: false
+  xy: 332, 3399
+  size: 115, 37
+  orig: 115, 37
+  offset: 0, 0
+  index: -1
+G_2_3
+  rotate: false
+  xy: 2363, 3343
+  size: 230, 93
+  orig: 230, 93
+  offset: 0, 0
+  index: -1
+G_2_4
+  rotate: false
+  xy: 2707, 3332
+  size: 115, 104
+  orig: 115, 104
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 1104, 2
+  size: 1639, 1107
+  orig: 1639, 1107
+  offset: 0, 0
+  index: -1
+breast_L_1
+  rotate: false
+  xy: 1165, 2053
+  size: 532, 422
+  orig: 532, 422
+  offset: 0, 0
+  index: -1
+breast_L_2_1
+  rotate: true
+  xy: 2595, 3343
+  size: 93, 110
+  orig: 93, 110
+  offset: 0, 0
+  index: -1
+breast_L_2_2
+  rotate: true
+  xy: 2278, 2351
+  size: 400, 439
+  orig: 400, 439
+  offset: 0, 0
+  index: -1
+breast_R_1
+  rotate: false
+  xy: 2719, 2290
+  size: 458, 415
+  orig: 458, 415
+  offset: 0, 0
+  index: -1
+cloth_1_1
+  rotate: false
+  xy: 1065, 3373
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+cloth_1_2
+  rotate: true
+  xy: 2282, 3124
+  size: 217, 335
+  orig: 217, 335
+  offset: 0, 0
+  index: -1
+eye_L_1
+  rotate: true
+  xy: 657, 3384
+  size: 52, 89
+  orig: 52, 89
+  offset: 0, 0
+  index: -1
+eye_L_2
+  rotate: true
+  xy: 1301, 3369
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+eye_R_1
+  rotate: true
+  xy: 935, 3378
+  size: 58, 128
+  orig: 58, 128
+  offset: 0, 0
+  index: -1
+eye_R_2
+  rotate: true
+  xy: 1929, 3362
+  size: 74, 158
+  orig: 74, 158
+  offset: 0, 0
+  index: -1
+eyebow_L_1
+  rotate: true
+  xy: 223, 3405
+  size: 31, 107
+  orig: 31, 107
+  offset: 0, 0
+  index: -1
+eyebow_L_2
+  rotate: true
+  xy: 68, 3418
+  size: 18, 89
+  orig: 18, 89
+  offset: 0, 0
+  index: -1
+eyebow_R_1
+  rotate: true
+  xy: 1794, 3363
+  size: 73, 133
+  orig: 73, 133
+  offset: 0, 0
+  index: -1
+eyebow_R_2
+  rotate: true
+  xy: 1407, 3369
+  size: 67, 141
+  orig: 67, 141
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 2156, 1893
+  size: 559, 456
+  orig: 559, 456
+  offset: 0, 0
+  index: -1
+foot_L_1_1
+  rotate: false
+  xy: 1412, 1281
+  size: 738, 720
+  orig: 738, 720
+  offset: 0, 0
+  index: -1
+foot_R_1_1
+  rotate: true
+  xy: 2, 412
+  size: 1036, 1100
+  orig: 1036, 1100
+  offset: 0, 0
+  index: -1
+foot_R_1_2
+  rotate: false
+  xy: 3721, 3284
+  size: 209, 152
+  orig: 209, 152
+  offset: 0, 0
+  index: -1
+foot_R_1_3
+  rotate: false
+  xy: 2, 2943
+  size: 343, 290
+  orig: 343, 290
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1868, 3152
+  size: 193, 412
+  orig: 193, 412
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 2, 2194
+  size: 431, 418
+  orig: 431, 418
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 3463, 3013
+  size: 269, 276
+  orig: 269, 276
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 2, 3248
+  size: 167, 182
+  orig: 167, 182
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 3020, 3315
+  size: 393, 121
+  orig: 393, 121
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 435, 2138
+  size: 728, 420
+  orig: 728, 420
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 2932, 3051
+  size: 260, 529
+  orig: 260, 529
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1133, 3372
+  size: 166, 64
+  orig: 166, 64
+  offset: 0, 0
+  index: -1
+hair_B_1
+  rotate: false
+  xy: 2, 2614
+  size: 833, 313
+  orig: 833, 313
+  offset: 0, 0
+  index: -1
+hair_B_2
+  rotate: false
+  xy: 2895, 2707
+  size: 509, 342
+  orig: 509, 342
+  offset: 0, 0
+  index: -1
+hair_B_3
+  rotate: false
+  xy: 347, 2929
+  size: 994, 252
+  orig: 994, 252
+  offset: 0, 0
+  index: -1
+hair_B_4
+  rotate: false
+  xy: 2152, 1111
+  size: 884, 681
+  orig: 884, 681
+  offset: 0, 0
+  index: -1
+hair_B_5
+  rotate: true
+  xy: 3038, 819
+  size: 971, 1045
+  orig: 971, 1045
+  offset: 0, 0
+  index: -1
+hair_B_6
+  rotate: false
+  xy: 775, 1450
+  size: 635, 601
+  orig: 635, 601
+  offset: 0, 0
+  index: -1
+hand_L_1_1
+  rotate: false
+  xy: 1550, 3369
+  size: 242, 67
+  orig: 242, 67
+  offset: 0, 0
+  index: -1
+hand_L_1_2
+  rotate: false
+  xy: 855, 3196
+  size: 276, 175
+  orig: 276, 175
+  offset: 0, 0
+  index: -1
+hand_L_1_3
+  rotate: false
+  xy: 1133, 3183
+  size: 534, 184
+  orig: 534, 184
+  offset: 0, 0
+  index: -1
+hand_L_1_4
+  rotate: false
+  xy: 2, 1634
+  size: 771, 502
+  orig: 771, 502
+  offset: 0, 0
+  index: -1
+hand_L_1_5
+  rotate: false
+  xy: 3568, 3290
+  size: 151, 146
+  orig: 151, 146
+  offset: 0, 0
+  index: -1
+hand_L_1_6
+  rotate: true
+  xy: 2237, 3347
+  size: 89, 124
+  orig: 89, 124
+  offset: 0, 0
+  index: -1
+hand_L_2_1
+  rotate: true
+  xy: 3468, 1792
+  size: 475, 535
+  orig: 475, 535
+  offset: 0, 0
+  index: -1
+hand_L_2_2
+  rotate: false
+  xy: 1699, 2003
+  size: 455, 422
+  orig: 455, 422
+  offset: 0, 0
+  index: -1
+hand_L_2_3
+  rotate: true
+  xy: 3741, 3008
+  size: 274, 343
+  orig: 274, 343
+  offset: 0, 0
+  index: -1
+hand_R_1_1
+  rotate: false
+  xy: 2717, 1794
+  size: 749, 473
+  orig: 749, 473
+  offset: 0, 0
+  index: -1
+hand_R_1_2
+  rotate: false
+  xy: 3179, 2269
+  size: 825, 390
+  orig: 825, 390
+  offset: 0, 0
+  index: -1
+hand_R_1_3
+  rotate: false
+  xy: 837, 2560
+  size: 463, 367
+  orig: 463, 367
+  offset: 0, 0
+  index: -1
+hand_R_2_1
+  rotate: true
+  xy: 2619, 3080
+  size: 245, 311
+  orig: 245, 311
+  offset: 0, 0
+  index: -1
+hand_R_2_2
+  rotate: false
+  xy: 2063, 2811
+  size: 405, 311
+  orig: 405, 311
+  offset: 0, 0
+  index: -1
+hand_R_2_3
+  rotate: false
+  xy: 3406, 2661
+  size: 593, 345
+  orig: 593, 345
+  offset: 0, 0
+  index: -1
+liquid_1_1
+  rotate: false
+  xy: 2824, 3327
+  size: 194, 109
+  orig: 194, 109
+  offset: 0, 0
+  index: -1
+liquid_1_10
+  rotate: true
+  xy: 2, 3420
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+liquid_1_11
+  rotate: true
+  xy: 159, 3417
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+liquid_1_12
+  rotate: true
+  xy: 449, 3396
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+liquid_1_2
+  rotate: false
+  xy: 36, 3419
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+liquid_1_3
+  rotate: false
+  xy: 426, 3214
+  size: 427, 163
+  orig: 427, 163
+  offset: 0, 0
+  index: -1
+liquid_1_4
+  rotate: false
+  xy: 3415, 3313
+  size: 151, 123
+  orig: 151, 123
+  offset: 0, 0
+  index: -1
+liquid_1_5
+  rotate: false
+  xy: 748, 3381
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+liquid_1_6
+  rotate: false
+  xy: 192, 3410
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+liquid_1_7
+  rotate: false
+  xy: 2089, 3359
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+liquid_1_8
+  rotate: true
+  xy: 186, 3235
+  size: 162, 238
+  orig: 162, 238
+  offset: 0, 0
+  index: -1
+liquid_1_9
+  rotate: false
+  xy: 2470, 2753
+  size: 423, 325
+  orig: 423, 325
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: true
+  xy: 537, 3390
+  size: 46, 118
+  orig: 46, 118
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: true
+  xy: 814, 3379
+  size: 57, 119
+  orig: 57, 119
+  offset: 0, 0
+  index: -1
+
+Cadence_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloth_1_3
+  rotate: false
+  xy: 2457, 410
+  size: 1472, 1760
+  orig: 1472, 1760
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 2, 2
+  size: 1276, 2168
+  orig: 1276, 2168
+  offset: 0, 0
+  index: -1
+shadow_2
+  rotate: false
+  xy: 1280, 69
+  size: 1175, 2101
+  orig: 1175, 2101
+  offset: 0, 0
+  index: -1

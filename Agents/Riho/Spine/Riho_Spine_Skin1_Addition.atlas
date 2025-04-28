@@ -1,3 +1,279 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1f7fd679a940485a87accd83e761ac97db0e6fc16e46e0f4b6b10b2bf4451c6d
-size 4093
+
+Riho_Spine_Skin1_Addition.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+M_body_1
+  rotate: false
+  xy: 1098, 72
+  size: 194, 203
+  orig: 194, 203
+  offset: 0, 0
+  index: -1
+M_body_2
+  rotate: false
+  xy: 794, 1193
+  size: 186, 260
+  orig: 186, 260
+  offset: 0, 0
+  index: -1
+M_body_3
+  rotate: true
+  xy: 461, 141
+  size: 495, 491
+  orig: 496, 500
+  offset: 0, 0
+  index: -1
+M_body_4
+  rotate: true
+  xy: 2, 635
+  size: 512, 314
+  orig: 512, 314
+  offset: 0, 0
+  index: -1
+M_cloth_1_1
+  rotate: true
+  xy: 805, 2063
+  size: 131, 147
+  orig: 131, 147
+  offset: 0, 0
+  index: -1
+M_cloth_1_2
+  rotate: true
+  xy: 398, 1915
+  size: 137, 291
+  orig: 137, 291
+  offset: 0, 0
+  index: -1
+M_cloth_1_3
+  rotate: false
+  xy: 668, 2196
+  size: 170, 517
+  orig: 170, 517
+  offset: 0, 0
+  index: -1
+M_cloth_2_1
+  rotate: false
+  xy: 2, 2
+  size: 118, 120
+  orig: 118, 121
+  offset: 0, 0
+  index: -1
+M_cloth_2_2
+  rotate: true
+  xy: 686, 4
+  size: 135, 410
+  orig: 140, 412
+  offset: 0, 2
+  index: -1
+M_cloth_2_3
+  rotate: true
+  xy: 457, 37
+  size: 85, 227
+  orig: 86, 229
+  offset: 1, 2
+  index: -1
+M_cloth_3_1
+  rotate: true
+  xy: 824, 1936
+  size: 125, 322
+  orig: 125, 322
+  offset: 0, 0
+  index: -1
+M_cloth_3_2
+  rotate: false
+  xy: 361, 28
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+M_cloth_3_3
+  rotate: true
+  xy: 760, 712
+  size: 59, 154
+  orig: 61, 155
+  offset: 1, 1
+  index: -1
+M_cloth_4_1
+  rotate: true
+  xy: 122, 17
+  size: 105, 237
+  orig: 107, 237
+  offset: 2, 0
+  index: -1
+M_foot_L_1
+  rotate: true
+  xy: 934, 641
+  size: 159, 343
+  orig: 169, 345
+  offset: 10, 2
+  index: -1
+M_foot_L_2
+  rotate: false
+  xy: 760, 773
+  size: 172, 391
+  orig: 172, 391
+  offset: 0, 0
+  index: -1
+M_foot_L_3
+  rotate: false
+  xy: 1294, 85
+  size: 169, 195
+  orig: 172, 197
+  offset: 0, 0
+  index: -1
+M_foot_R_1
+  rotate: false
+  xy: 318, 638
+  size: 223, 509
+  orig: 223, 539
+  offset: 0, 0
+  index: -1
+M_foot_R_2
+  rotate: false
+  xy: 954, 277
+  size: 156, 362
+  orig: 156, 362
+  offset: 0, 0
+  index: -1
+M_foot_R_3
+  rotate: true
+  xy: 1279, 642
+  size: 158, 343
+  orig: 159, 344
+  offset: 1, 1
+  index: -1
+M_foot_R_4
+  rotate: false
+  xy: 1145, 1546
+  size: 169, 388
+  orig: 169, 390
+  offset: 0, 0
+  index: -1
+M_foot_R_5
+  rotate: false
+  xy: 954, 2085
+  size: 179, 208
+  orig: 180, 208
+  offset: 0, 0
+  index: -1
+M_hand_L_1a
+  rotate: false
+  xy: 1291, 869
+  size: 183, 347
+  orig: 183, 347
+  offset: 0, 0
+  index: -1
+M_hand_L_1b
+  rotate: false
+  xy: 543, 656
+  size: 215, 491
+  orig: 215, 491
+  offset: 0, 0
+  index: -1
+M_hand_L_2
+  rotate: false
+  xy: 582, 1438
+  size: 195, 475
+  orig: 195, 475
+  offset: 0, 0
+  index: -1
+M_hand_R_1a
+  rotate: false
+  xy: 1112, 282
+  size: 197, 357
+  orig: 197, 357
+  offset: 0, 0
+  index: -1
+M_hand_R_1b
+  rotate: true
+  xy: 779, 1455
+  size: 466, 364
+  orig: 466, 364
+  offset: 0, 0
+  index: -1
+M_hand_R_2
+  rotate: false
+  xy: 398, 2054
+  size: 268, 659
+  orig: 269, 659
+  offset: 0, 0
+  index: -1
+M_head_1
+  rotate: false
+  xy: 582, 1166
+  size: 210, 270
+  orig: 210, 270
+  offset: 0, 0
+  index: -1
+M_head_2
+  rotate: false
+  xy: 2, 124
+  size: 457, 509
+  orig: 457, 509
+  offset: 0, 0
+  index: -1
+M_head_3
+  rotate: true
+  xy: 2, 1149
+  size: 758, 578
+  orig: 758, 579
+  offset: 0, 0
+  index: -1
+M_head_4
+  rotate: false
+  xy: 934, 802
+  size: 355, 389
+  orig: 355, 389
+  offset: 0, 0
+  index: -1
+M_house_1
+  rotate: false
+  xy: 668, 2058
+  size: 135, 136
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+M_house_2
+  rotate: false
+  xy: 2, 2715
+  size: 1056, 1376
+  orig: 1699, 1376
+  offset: 2, 0
+  index: -1
+M_house_3
+  rotate: true
+  xy: 691, 1923
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+M_house_4
+  rotate: true
+  xy: 2, 1909
+  size: 804, 394
+  orig: 804, 394
+  offset: 0, 0
+  index: -1
+M_house_5
+  rotate: true
+  xy: 982, 1218
+  size: 235, 325
+  orig: 235, 325
+  offset: 0, 0
+  index: -1
+M_house_6
+  rotate: false
+  xy: 840, 2295
+  size: 263, 418
+  orig: 263, 418
+  offset: 0, 0
+  index: -1
+M_house_7
+  rotate: false
+  xy: 1309, 1367
+  size: 155, 177
+  orig: 155, 178
+  offset: 0, 1
+  index: -1

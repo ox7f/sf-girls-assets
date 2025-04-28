@@ -1,3 +1,404 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7c2ee9d66acfc0d414529be8a7b7be8e9046819a43f7f69b407e9e9615d362b6
-size 5795
+
+Setsuna_Spine_Skin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AB_Body
+  rotate: true
+  xy: 2, 147
+  size: 382, 850
+  orig: 382, 850
+  offset: 0, 0
+  index: -1
+AB_Boobs
+  rotate: true
+  xy: 1668, 1335
+  size: 159, 162
+  orig: 159, 162
+  offset: 0, 0
+  index: -1
+AB_Jacket L
+  rotate: true
+  xy: 533, 1672
+  size: 67, 128
+  orig: 67, 128
+  offset: 0, 0
+  index: -1
+AB_Jacket R
+  rotate: true
+  xy: 1068, 1512
+  size: 130, 220
+  orig: 130, 220
+  offset: 0, 0
+  index: -1
+AB_Leg_L
+  rotate: true
+  xy: 409, 1541
+  size: 124, 496
+  orig: 124, 496
+  offset: 0, 0
+  index: -1
+A_Blush
+  rotate: false
+  xy: 978, 1663
+  size: 102, 76
+  orig: 102, 76
+  offset: 0, 0
+  index: -1
+A_Face
+  rotate: false
+  xy: 793, 1668
+  size: 90, 71
+  orig: 90, 71
+  offset: 0, 0
+  index: -1
+A_LowerArmR
+  rotate: false
+  xy: 2, 1425
+  size: 151, 140
+  orig: 151, 140
+  offset: 0, 0
+  index: -1
+A_Ring
+  rotate: true
+  xy: 446, 531
+  size: 388, 466
+  orig: 388, 466
+  offset: 0, 0
+  index: -1
+A_Shirt
+  rotate: false
+  xy: 2, 1240
+  size: 218, 172
+  orig: 218, 172
+  offset: 0, 0
+  index: -1
+A_Vest
+  rotate: false
+  xy: 1755, 1058
+  size: 258, 219
+  orig: 258, 219
+  offset: 0, 0
+  index: -1
+A_Vest_Rear
+  rotate: true
+  xy: 927, 1175
+  size: 177, 309
+  orig: 177, 309
+  offset: 0, 0
+  index: -1
+BC_Vest L
+  rotate: true
+  xy: 195, 1683
+  size: 56, 139
+  orig: 56, 139
+  offset: 0, 0
+  index: -1
+BC_Vest_Rear
+  rotate: true
+  xy: 376, 1399
+  size: 140, 472
+  orig: 140, 472
+  offset: 0, 0
+  index: -1
+B_Blush
+  rotate: false
+  xy: 1448, 1641
+  size: 110, 98
+  orig: 110, 98
+  offset: 0, 0
+  index: -1
+B_Face
+  rotate: false
+  xy: 885, 1667
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+B_LowerArmR
+  rotate: false
+  xy: 277, 1557
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+B_Ring
+  rotate: true
+  xy: 2, 612
+  size: 382, 442
+  orig: 382, 442
+  offset: 0, 0
+  index: -1
+B_Ring pupu
+  rotate: true
+  xy: 1560, 1636
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+B_Shirt
+  rotate: false
+  xy: 222, 1225
+  size: 218, 172
+  orig: 218, 172
+  offset: 0, 0
+  index: -1
+B_Vest R
+  rotate: false
+  xy: 1552, 714
+  size: 384, 342
+  orig: 384, 342
+  offset: 0, 0
+  index: -1
+C Face
+  rotate: false
+  xy: 336, 1675
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+C_Arms R
+  rotate: true
+  xy: 1184, 823
+  size: 299, 366
+  orig: 299, 366
+  offset: 0, 0
+  index: -1
+C_Blush
+  rotate: false
+  xy: 1195, 1644
+  size: 114, 95
+  orig: 114, 95
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: true
+  xy: 854, 2
+  size: 382, 850
+  orig: 382, 850
+  offset: 0, 0
+  index: -1
+C_Boob L
+  rotate: true
+  xy: 1082, 1647
+  size: 92, 111
+  orig: 92, 111
+  offset: 0, 0
+  index: -1
+C_Boob R
+  rotate: true
+  xy: 1311, 1644
+  size: 95, 135
+  orig: 95, 135
+  offset: 0, 0
+  index: -1
+C_Cat
+  rotate: false
+  xy: 238, 996
+  size: 325, 227
+  orig: 325, 227
+  offset: 0, 0
+  index: -1
+C_Jacket L
+  rotate: true
+  xy: 663, 1672
+  size: 67, 128
+  orig: 67, 128
+  offset: 0, 0
+  index: -1
+C_Jacket R
+  rotate: true
+  xy: 1672, 1634
+  size: 105, 220
+  orig: 105, 220
+  offset: 0, 0
+  index: -1
+C_Leg_L
+  rotate: true
+  xy: 1290, 1508
+  size: 124, 496
+  orig: 124, 496
+  offset: 0, 0
+  index: -1
+C_Pants
+  rotate: true
+  xy: 442, 1225
+  size: 172, 265
+  orig: 172, 265
+  offset: 0, 0
+  index: -1
+C_Vest R A
+  rotate: false
+  xy: 2, 1579
+  size: 130, 109
+  orig: 130, 109
+  offset: 0, 0
+  index: -1
+C_Vest R B
+  rotate: false
+  xy: 2, 998
+  size: 234, 225
+  orig: 234, 225
+  offset: 0, 0
+  index: -1
+Cat A
+  rotate: true
+  xy: 709, 1199
+  size: 172, 216
+  orig: 172, 216
+  offset: 0, 0
+  index: -1
+Cat B
+  rotate: true
+  xy: 1238, 1145
+  size: 203, 219
+  orig: 203, 219
+  offset: 0, 0
+  index: -1
+Cat_Tail
+  rotate: true
+  xy: 428, 1673
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+FX_A
+  rotate: true
+  xy: 565, 953
+  size: 244, 345
+  orig: 244, 345
+  offset: 0, 0
+  index: -1
+FX_AA
+  rotate: false
+  xy: 1459, 1124
+  size: 294, 209
+  orig: 294, 209
+  offset: 0, 0
+  index: -1
+FX_B
+  rotate: true
+  xy: 1832, 1279
+  size: 215, 203
+  orig: 215, 203
+  offset: 0, 0
+  index: -1
+FX_C
+  rotate: true
+  xy: 914, 386
+  size: 435, 463
+  orig: 435, 463
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: true
+  xy: 1788, 1496
+  size: 134, 136
+  orig: 134, 136
+  offset: 0, 0
+  index: -1
+Hair_Frontt
+  rotate: true
+  xy: 118, 1690
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+Hair_Rear
+  rotate: true
+  xy: 850, 1373
+  size: 157, 194
+  orig: 157, 194
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 40, 1691
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+HatCat_Front
+  rotate: true
+  xy: 907, 1532
+  size: 129, 159
+  orig: 129, 159
+  offset: 0, 0
+  index: -1
+HatCat_Rear
+  rotate: true
+  xy: 1894, 1632
+  size: 107, 134
+  orig: 107, 134
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 134, 1567
+  size: 114, 141
+  orig: 114, 141
+  offset: 0, 0
+  index: -1
+HeadGear
+  rotate: true
+  xy: 155, 1414
+  size: 141, 219
+  orig: 141, 219
+  offset: 0, 0
+  index: -1
+HeadGear A
+  rotate: true
+  xy: 2, 1709
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Jacket Hat
+  rotate: false
+  xy: 912, 921
+  size: 270, 252
+  orig: 270, 252
+  offset: 0, 0
+  index: -1
+Jacket_Rear
+  rotate: true
+  xy: 1046, 1354
+  size: 152, 350
+  orig: 152, 350
+  offset: 0, 0
+  index: -1
+Shoes
+  rotate: true
+  xy: 1398, 1350
+  size: 156, 268
+  orig: 156, 268
+  offset: 0, 0
+  index: -1
+
+Setsuna_Spine_Skin2_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGG
+  rotate: true
+  xy: 1490, 23
+  size: 1152, 456
+  orig: 1152, 456
+  offset: 0, 0
+  index: -1
+Props
+  rotate: true
+  xy: 874, 2
+  size: 1173, 614
+  orig: 1173, 614
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 54
+  size: 870, 1121
+  orig: 870, 1121
+  offset: 0, 0
+  index: -1

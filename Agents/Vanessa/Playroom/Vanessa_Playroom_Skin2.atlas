@@ -1,3 +1,293 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab8645837f736616cabe291c6b975a8ed2e6da7fad9910464d31e22f3db062fa
-size 4252
+
+Vanessa_Playroom_Skin2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 881, 1018
+  size: 1066, 975
+  orig: 1088, 975
+  offset: 0, 0
+  index: -1
+Boobs L
+  rotate: false
+  xy: 2485, 2251
+  size: 642, 862
+  orig: 654, 862
+  offset: 12, 0
+  index: -1
+Boobs R
+  rotate: false
+  xy: 1175, 274
+  size: 723, 742
+  orig: 726, 827
+  offset: 0, 19
+  index: -1
+Ear
+  rotate: true
+  xy: 1585, 12
+  size: 260, 274
+  orig: 260, 274
+  offset: 0, 0
+  index: -1
+Ear fan
+  rotate: false
+  xy: 2479, 86
+  size: 336, 305
+  orig: 336, 305
+  offset: 0, 0
+  index: -1
+Face 1
+  rotate: false
+  xy: 3345, 150
+  size: 326, 394
+  orig: 328, 394
+  offset: 0, 0
+  index: -1
+Face 2
+  rotate: false
+  xy: 3317, 546
+  size: 326, 366
+  orig: 326, 366
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 3141, 1680
+  size: 462, 601
+  orig: 462, 601
+  offset: 0, 0
+  index: -1
+Hair Back 1
+  rotate: true
+  xy: 2479, 393
+  size: 542, 336
+  orig: 542, 336
+  offset: 0, 0
+  index: -1
+Hair Back 2
+  rotate: true
+  xy: 3530, 3165
+  size: 928, 528
+  orig: 928, 528
+  offset: 0, 0
+  index: -1
+Hair Back 3
+  rotate: true
+  xy: 3645, 559
+  size: 364, 282
+  orig: 364, 282
+  offset: 0, 0
+  index: -1
+Hair Back 4
+  rotate: false
+  xy: 700, 2
+  size: 502, 224
+  orig: 502, 224
+  offset: 0, 0
+  index: -1
+Hair Back 5
+  rotate: false
+  xy: 3410, 925
+  size: 382, 290
+  orig: 382, 290
+  offset: 0, 0
+  index: -1
+Hair Back Tail
+  rotate: false
+  xy: 2137, 124
+  size: 316, 145
+  orig: 316, 145
+  offset: 0, 0
+  index: -1
+Hair Bang 1
+  rotate: false
+  xy: 1204, 28
+  size: 379, 244
+  orig: 379, 244
+  offset: 0, 0
+  index: -1
+Hair Bang 2
+  rotate: false
+  xy: 2817, 244
+  size: 526, 295
+  orig: 526, 295
+  offset: 0, 0
+  index: -1
+Hair Bang 3
+  rotate: false
+  xy: 2137, 77
+  size: 283, 45
+  orig: 314, 45
+  offset: 0, 0
+  index: -1
+Hair Tail
+  rotate: true
+  xy: 2485, 1762
+  size: 487, 654
+  orig: 487, 654
+  offset: 0, 0
+  index: -1
+Hair cut
+  rotate: false
+  xy: 3649, 2344
+  size: 367, 819
+  orig: 375, 819
+  offset: 8, 0
+  index: -1
+Hairbow
+  rotate: false
+  xy: 3673, 208
+  size: 346, 349
+  orig: 346, 349
+  offset: 0, 0
+  index: -1
+Hairpin
+  rotate: true
+  xy: 3514, 1231
+  size: 447, 358
+  orig: 447, 358
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2389, 1217
+  size: 638, 543
+  orig: 638, 543
+  offset: 0, 0
+  index: -1
+JJ
+  rotate: true
+  xy: 3129, 2283
+  size: 830, 518
+  orig: 830, 531
+  offset: 0, 0
+  index: -1
+Juice 1
+  rotate: false
+  xy: 2389, 937
+  size: 449, 278
+  orig: 449, 278
+  offset: 0, 0
+  index: -1
+L Arm
+  rotate: false
+  xy: 2817, 541
+  size: 498, 371
+  orig: 548, 371
+  offset: 0, 0
+  index: -1
+L Hand
+  rotate: false
+  xy: 1949, 935
+  size: 438, 1058
+  orig: 438, 1058
+  offset: 0, 0
+  index: -1
+L Leg
+  rotate: false
+  xy: 2, 3115
+  size: 3526, 978
+  orig: 3526, 978
+  offset: 0, 0
+  index: -1
+Man Hand
+  rotate: true
+  xy: 700, 228
+  size: 779, 473
+  orig: 779, 473
+  offset: 0, 0
+  index: -1
+R Hand
+  rotate: false
+  xy: 2840, 914
+  size: 568, 301
+  orig: 568, 301
+  offset: 0, 0
+  index: -1
+R leg
+  rotate: false
+  xy: 2, 1009
+  size: 877, 2104
+  orig: 877, 2104
+  offset: 0, 0
+  index: -1
+nick
+  rotate: true
+  xy: 3605, 1885
+  size: 396, 291
+  orig: 396, 291
+  offset: 0, 0
+  index: -1
+pussy 1
+  rotate: true
+  xy: 3805, 1716
+  size: 167, 96
+  orig: 225, 107
+  offset: 0, 11
+  index: -1
+pussy 2
+  rotate: false
+  xy: 3605, 1726
+  size: 198, 157
+  orig: 263, 168
+  offset: 0, 4
+  index: -1
+sleeve L
+  rotate: true
+  xy: 2, 33
+  size: 974, 696
+  orig: 974, 708
+  offset: 0, 12
+  index: -1
+sleeve L 2
+  rotate: false
+  xy: 3029, 1217
+  size: 483, 461
+  orig: 483, 461
+  offset: 0, 0
+  index: -1
+sleeve R
+  rotate: false
+  xy: 881, 1995
+  size: 1602, 1118
+  orig: 1602, 1118
+  offset: 0, 0
+  index: -1
+sleeve R 2
+  rotate: false
+  xy: 1861, 4
+  size: 274, 265
+  orig: 274, 265
+  offset: 0, 0
+  index: -1
+sperm 1
+  rotate: false
+  xy: 1900, 271
+  size: 577, 662
+  orig: 577, 662
+  offset: 0, 0
+  index: -1
+sperm 2
+  rotate: false
+  xy: 2389, 1828
+  size: 94, 165
+  orig: 94, 165
+  offset: 0, 0
+  index: -1
+sperm 3
+  rotate: false
+  xy: 3794, 1037
+  size: 139, 192
+  orig: 139, 192
+  offset: 0, 0
+  index: -1
+sperm 4
+  rotate: true
+  xy: 2817, 115
+  size: 127, 417
+  orig: 127, 417
+  offset: 0, 0
+  index: -1

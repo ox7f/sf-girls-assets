@@ -1,3 +1,167 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97c813f5fd79f3a2b130d353d0120e56eac5b245185d15b4b1c58ada21b9a08e
-size 2360
+
+Aoi_Spine_A.png
+size: 1911,1654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm01
+  rotate: true
+  xy: 1237, 49
+  size: 198, 230
+  orig: 198, 230
+  offset: 0, 0
+  index: -1
+L_arm02
+  rotate: false
+  xy: 1469, 29
+  size: 189, 218
+  orig: 189, 219
+  offset: 0, 0
+  index: -1
+L_breast
+  rotate: false
+  xy: 1725, 1003
+  size: 142, 129
+  orig: 142, 129
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: false
+  xy: 1683, 1339
+  size: 210, 313
+  orig: 221, 313
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 1515, 618
+  size: 272, 380
+  orig: 320, 381
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 883, 1318
+  size: 334, 798
+  orig: 334, 798
+  offset: 0, 0
+  index: -1
+R_arm01
+  rotate: false
+  xy: 1616, 278
+  size: 218, 139
+  orig: 233, 139
+  offset: 15, 0
+  index: -1
+R_arm02
+  rotate: false
+  xy: 1725, 1134
+  size: 166, 203
+  orig: 166, 205
+  offset: 0, 2
+  index: -1
+R_breast
+  rotate: false
+  xy: 1789, 875
+  size: 120, 126
+  orig: 120, 126
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 1175, 440
+  size: 113, 452
+  orig: 113, 452
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 2, 26
+  size: 953, 490
+  orig: 953, 490
+  offset: 0, 0
+  index: -1
+ballon
+  rotate: false
+  xy: 2, 981
+  size: 879, 671
+  orig: 879, 671
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 883, 997
+  size: 319, 575
+  orig: 319, 575
+  offset: 0, 0
+  index: -1
+cable
+  rotate: false
+  xy: 849, 438
+  size: 324, 541
+  orig: 324, 541
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1629, 419
+  size: 231, 197
+  orig: 231, 197
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1460, 1000
+  size: 263, 316
+  orig: 263, 316
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 1660, 83
+  size: 150, 193
+  orig: 152, 193
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 494, 2
+  size: 415, 422
+  orig: 415, 422
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 911, 49
+  size: 324, 387
+  orig: 324, 387
+  offset: 0, 0
+  index: -1
+helmat
+  rotate: false
+  xy: 1175, 555
+  size: 338, 440
+  orig: 338, 505
+  offset: 0, 65
+  index: -1
+neck
+  rotate: true
+  xy: 1836, 300
+  size: 117, 73
+  orig: 117, 73
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 1237, 249
+  size: 377, 189
+  orig: 377, 189
+  offset: 0, 0
+  index: -1
+wing
+  rotate: true
+  xy: 494, 426
+  size: 553, 353
+  orig: 553, 353
+  offset: 0, 0
+  index: -1

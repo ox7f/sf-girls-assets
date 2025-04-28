@@ -1,3 +1,460 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:960098448c17eb3fc9eb9929b5afeccd901972ad30a05254f14a1bca6104feca
-size 6820
+
+Midori_Spine_Skin1.png
+size: 4088,4088
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Front L 1
+  rotate: false
+  xy: 424, 3780
+  size: 220, 210
+  orig: 220, 210
+  offset: 0, 0
+  index: -1
+Arm Front L 2
+  rotate: false
+  xy: 3591, 3901
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1
+Arm Front L 3
+  rotate: false
+  xy: 2, 3190
+  size: 518, 346
+  orig: 518, 346
+  offset: 0, 0
+  index: -1
+Arm L 1
+  rotate: true
+  xy: 2921, 3697
+  size: 225, 502
+  orig: 225, 502
+  offset: 0, 0
+  index: -1
+Arm L 2
+  rotate: true
+  xy: 1137, 3759
+  size: 201, 518
+  orig: 201, 518
+  offset: 0, 0
+  index: -1
+Arm L 3
+  rotate: true
+  xy: 415, 3538
+  size: 235, 590
+  orig: 235, 590
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: false
+  xy: 691, 1482
+  size: 731, 598
+  orig: 731, 598
+  offset: 0, 0
+  index: -1
+Arm R Clothes
+  rotate: false
+  xy: 2, 1566
+  size: 687, 563
+  orig: 687, 563
+  offset: 0, 0
+  index: -1
+Baseball Needle 1
+  rotate: true
+  xy: 3397, 3924
+  size: 162, 192
+  orig: 162, 192
+  offset: 0, 0
+  index: -1
+Baseball Needle 2
+  rotate: true
+  xy: 2651, 3377
+  size: 318, 382
+  orig: 318, 382
+  offset: 0, 0
+  index: -1
+Belt 1-1
+  rotate: false
+  xy: 3425, 3665
+  size: 524, 227
+  orig: 524, 227
+  offset: 0, 0
+  index: -1
+Belt 1-2
+  rotate: true
+  xy: 676, 3982
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1
+Belt Back
+  rotate: true
+  xy: 2592, 2416
+  size: 466, 1329
+  orig: 466, 1329
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 2131
+  size: 473, 992
+  orig: 473, 992
+  offset: 0, 0
+  index: -1
+Boob L
+  rotate: true
+  xy: 903, 3139
+  size: 362, 438
+  orig: 362, 438
+  offset: 0, 0
+  index: -1
+Boob R
+  rotate: true
+  xy: 3489, 2884
+  size: 455, 473
+  orig: 455, 473
+  offset: 0, 0
+  index: -1
+BraTop
+  rotate: false
+  xy: 1424, 1459
+  size: 642, 621
+  orig: 642, 621
+  offset: 0, 0
+  index: -1
+Clothes Up
+  rotate: false
+  xy: 2941, 1258
+  size: 707, 621
+  orig: 707, 621
+  offset: 0, 0
+  index: -1
+Coat R 1-1
+  rotate: false
+  xy: 2275, 3418
+  size: 374, 299
+  orig: 374, 299
+  offset: 0, 0
+  index: -1
+Coat R 1-2
+  rotate: true
+  xy: 1343, 3050
+  size: 325, 1586
+  orig: 325, 1586
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: true
+  xy: 2, 2720
+  size: 458, 558
+  orig: 458, 558
+  offset: 0, 0
+  index: -1
+Eye Mask
+  rotate: true
+  xy: 2637, 3719
+  size: 226, 282
+  orig: 226, 282
+  offset: 0, 0
+  index: -1
+Face 1
+  rotate: false
+  xy: 208, 3794
+  size: 214, 200
+  orig: 214, 200
+  offset: 0, 0
+  index: -1
+Face 2
+  rotate: false
+  xy: 2, 3800
+  size: 204, 194
+  orig: 204, 194
+  offset: 0, 0
+  index: -1
+Face 2 Red
+  rotate: true
+  xy: 800, 3976
+  size: 110, 122
+  orig: 110, 122
+  offset: 0, 0
+  index: -1
+Face 3
+  rotate: false
+  xy: 3779, 3894
+  size: 202, 192
+  orig: 202, 192
+  offset: 0, 0
+  index: -1
+Face 3 Saliva
+  rotate: true
+  xy: 2, 4053
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Face 3 red
+  rotate: true
+  xy: 2013, 3951
+  size: 135, 190
+  orig: 135, 190
+  offset: 0, 0
+  index: -1
+Fingers R
+  rotate: false
+  xy: 52, 4004
+  size: 134, 82
+  orig: 134, 82
+  offset: 0, 0
+  index: -1
+Hair Bang 1
+  rotate: true
+  xy: 2397, 3947
+  size: 139, 584
+  orig: 139, 584
+  offset: 0, 0
+  index: -1
+Hair Bang 1 Root
+  rotate: false
+  xy: 1728, 3956
+  size: 132, 130
+  orig: 132, 130
+  offset: 0, 0
+  index: -1
+Hair Bang 1-2
+  rotate: true
+  xy: 2093, 3723
+  size: 222, 542
+  orig: 222, 542
+  offset: 0, 0
+  index: -1
+Hair Bang 2
+  rotate: true
+  xy: 2983, 3934
+  size: 152, 412
+  orig: 152, 412
+  offset: 0, 0
+  index: -1
+Hair Bang 2 Root
+  rotate: true
+  xy: 562, 3992
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+Hair Tail
+  rotate: true
+  xy: 1794, 549
+  size: 707, 1401
+  orig: 707, 1401
+  offset: 0, 0
+  index: -1
+Hand L 1
+  rotate: false
+  xy: 1347, 3469
+  size: 462, 265
+  orig: 462, 265
+  offset: 0, 0
+  index: -1
+Hand L 2
+  rotate: false
+  xy: 1811, 3426
+  size: 462, 295
+  orig: 462, 295
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2931, 2903
+  size: 436, 556
+  orig: 436, 556
+  offset: 0, 0
+  index: -1
+Headband
+  rotate: false
+  xy: 1007, 3503
+  size: 338, 254
+  orig: 338, 254
+  offset: 0, 0
+  index: -1
+Leg L
+  rotate: true
+  xy: 2, 839
+  size: 618, 1790
+  orig: 618, 1790
+  offset: 0, 0
+  index: -1
+Monstar Tongue
+  rotate: false
+  xy: 1361, 3964
+  size: 197, 122
+  orig: 197, 122
+  offset: 0, 0
+  index: -1
+Monster Body
+  rotate: false
+  xy: 3197, 492
+  size: 889, 764
+  orig: 889, 764
+  offset: 0, 0
+  index: -1
+Monster Ear L
+  rotate: true
+  xy: 1657, 3736
+  size: 213, 434
+  orig: 213, 434
+  offset: 0, 0
+  index: -1
+Monster Ear R
+  rotate: true
+  xy: 646, 3775
+  size: 194, 489
+  orig: 194, 489
+  offset: 0, 0
+  index: -1
+Monster Saliva
+  rotate: true
+  xy: 1142, 3970
+  size: 116, 217
+  orig: 116, 217
+  offset: 0, 0
+  index: -1
+Monster Small
+  rotate: false
+  xy: 3035, 3371
+  size: 347, 324
+  orig: 347, 324
+  offset: 0, 0
+  index: -1
+Monster eyes
+  rotate: false
+  xy: 188, 3996
+  size: 372, 90
+  orig: 372, 90
+  offset: 0, 0
+  index: -1
+Monster yellow
+  rotate: false
+  xy: 3384, 3341
+  size: 466, 322
+  orig: 466, 322
+  offset: 0, 0
+  index: -1
+Pants Chain
+  rotate: false
+  xy: 2, 3547
+  size: 411, 245
+  orig: 411, 245
+  offset: 0, 0
+  index: -1
+Shirt Front L
+  rotate: true
+  xy: 2168, 1881
+  size: 533, 1435
+  orig: 533, 1435
+  offset: 0, 0
+  index: -1
+Sleeve L
+  rotate: true
+  xy: 996, 2082
+  size: 522, 1170
+  orig: 522, 1170
+  offset: 0, 0
+  index: -1
+Sleeve R
+  rotate: true
+  xy: 2068, 1281
+  size: 598, 871
+  orig: 598, 871
+  offset: 0, 0
+  index: -1
+String
+  rotate: true
+  xy: 562, 2606
+  size: 442, 2028
+  orig: 442, 2028
+  offset: 0, 0
+  index: -1
+Thumb R 1
+  rotate: false
+  xy: 1862, 3956
+  size: 149, 130
+  orig: 149, 130
+  offset: 0, 0
+  index: -1
+Thumb R 2
+  rotate: false
+  xy: 1560, 3962
+  size: 166, 124
+  orig: 166, 124
+  offset: 0, 0
+  index: -1
+Underware
+  rotate: false
+  xy: 522, 3180
+  size: 379, 356
+  orig: 379, 356
+  offset: 0, 0
+  index: -1
+shoelace L
+  rotate: true
+  xy: 924, 3971
+  size: 115, 216
+  orig: 115, 216
+  offset: 0, 0
+  index: -1
+shoelace R
+  rotate: true
+  xy: 2205, 3948
+  size: 138, 190
+  orig: 138, 190
+  offset: 0, 0
+  index: -1
+
+Midori_Spine_Skin1_2.png
+size: 3292,3292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baseball
+  rotate: false
+  xy: 879, 654
+  size: 845, 1266
+  orig: 845, 1266
+  offset: 0, 0
+  index: -1
+Coat Back
+  rotate: true
+  xy: 1726, 2
+  size: 881, 1112
+  orig: 881, 1112
+  offset: 0, 0
+  index: -1
+Coat L
+  rotate: false
+  xy: 2, 128
+  size: 875, 1792
+  orig: 875, 1792
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 1726, 885
+  size: 1081, 1229
+  orig: 1081, 1229
+  offset: 0, 0
+  index: -1
+Shirt Back
+  rotate: false
+  xy: 1460, 2116
+  size: 1386, 1174
+  orig: 1386, 1174
+  offset: 0, 0
+  index: -1
+Shirt Front R
+  rotate: false
+  xy: 2, 1922
+  size: 1456, 1368
+  orig: 1456, 1368
+  offset: 0, 0
+  index: -1

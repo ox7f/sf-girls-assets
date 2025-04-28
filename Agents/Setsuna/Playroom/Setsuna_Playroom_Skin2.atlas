@@ -1,3 +1,278 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3983cc5567231ab714d764c8200bb37a3c4ce4b6a9d884df37821b9d7b175b6e
-size 3979
+
+Setsuna_Playroom_Skin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_chest_01
+  rotate: true
+  xy: 815, 383
+  size: 388, 391
+  orig: 388, 391
+  offset: 0, 0
+  index: -1
+B_chest_02
+  rotate: true
+  xy: 370, 1565
+  size: 183, 243
+  orig: 183, 243
+  offset: 0, 0
+  index: -1
+B_hand_L
+  rotate: false
+  xy: 973, 1544
+  size: 198, 194
+  orig: 198, 194
+  offset: 0, 0
+  index: -1
+B_hand_R
+  rotate: false
+  xy: 776, 1744
+  size: 230, 114
+  orig: 230, 114
+  offset: 0, 0
+  index: -1
+B_head
+  rotate: false
+  xy: 1119, 1192
+  size: 361, 328
+  orig: 361, 328
+  offset: 0, 0
+  index: -1
+B_tape_01
+  rotate: true
+  xy: 789, 1227
+  size: 315, 328
+  orig: 315, 328
+  offset: 0, 0
+  index: -1
+B_tape_02
+  rotate: false
+  xy: 2, 2
+  size: 498, 455
+  orig: 498, 455
+  offset: 0, 0
+  index: -1
+M_GG
+  rotate: false
+  xy: 455, 1750
+  size: 175, 108
+  orig: 175, 108
+  offset: 0, 0
+  index: -1
+M_GG_B
+  rotate: false
+  xy: 1810, 1718
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+M_body
+  rotate: false
+  xy: 2, 544
+  size: 419, 386
+  orig: 419, 386
+  offset: 0, 0
+  index: -1
+M_hand_B
+  rotate: true
+  xy: 615, 1563
+  size: 179, 356
+  orig: 179, 356
+  offset: 0, 0
+  index: -1
+M_hand_L
+  rotate: false
+  xy: 1173, 1522
+  size: 393, 206
+  orig: 393, 206
+  offset: 0, 0
+  index: -1
+M_hand_R
+  rotate: true
+  xy: 1167, 773
+  size: 381, 586
+  orig: 381, 586
+  offset: 0, 0
+  index: -1
+M_head
+  rotate: false
+  xy: 2, 946
+  size: 330, 351
+  orig: 330, 351
+  offset: 0, 0
+  index: -1
+M_tongue
+  rotate: true
+  xy: 47, 1803
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 1208, 318
+  size: 486, 453
+  orig: 486, 453
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 314, 1754
+  size: 104, 139
+  orig: 104, 139
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 1008, 1742
+  size: 140, 116
+  orig: 140, 116
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 1310, 1735
+  size: 142, 123
+  orig: 142, 123
+  offset: 0, 0
+  index: -1
+exhale
+  rotate: true
+  xy: 354, 1269
+  size: 292, 433
+  orig: 292, 433
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 334, 932
+  size: 367, 335
+  orig: 367, 335
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 423, 459
+  size: 387, 390
+  orig: 387, 390
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 1150, 1740
+  size: 118, 158
+  orig: 118, 158
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: false
+  xy: 1454, 1730
+  size: 148, 128
+  orig: 148, 128
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 632, 1745
+  size: 113, 142
+  orig: 113, 142
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 2, 1658
+  size: 141, 148
+  orig: 141, 148
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1482, 1156
+  size: 361, 328
+  orig: 361, 328
+  offset: 0, 0
+  index: -1
+leg_L_01
+  rotate: true
+  xy: 180, 1766
+  size: 92, 132
+  orig: 92, 132
+  offset: 0, 0
+  index: -1
+leg_L_02
+  rotate: false
+  xy: 1604, 1723
+  size: 204, 135
+  orig: 204, 135
+  offset: 0, 0
+  index: -1
+leg_R_01
+  rotate: true
+  xy: 2, 1299
+  size: 309, 350
+  orig: 309, 350
+  offset: 0, 0
+  index: -1
+leg_R_02
+  rotate: false
+  xy: 1568, 1486
+  size: 340, 230
+  orig: 340, 230
+  offset: 0, 0
+  index: -1
+saliva
+  rotate: false
+  xy: 2, 1836
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+tape_01
+  rotate: false
+  xy: 152, 1610
+  size: 216, 142
+  orig: 216, 142
+  offset: 0, 0
+  index: -1
+tape_02
+  rotate: true
+  xy: 703, 848
+  size: 342, 462
+  orig: 342, 462
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 114, 1801
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+
+Setsuna_Playroom_Skin2_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Body
+  rotate: false
+  xy: 2, 731
+  size: 909, 1065
+  orig: 909, 1065
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 913, 731
+  size: 909, 1065
+  orig: 909, 1065
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 727, 1228
+  orig: 727, 1228
+  offset: 0, 0
+  index: -1

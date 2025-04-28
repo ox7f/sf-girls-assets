@@ -1,3 +1,195 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3a4ab8492828a5ecb8adb8f8d1d3e5a58638bfbe3abd1daa4f7ca9aa5bee3d87
-size 2804
+
+Uzu_Spine_A.png
+size: 1918,1804
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: true
+  xy: 894, 9
+  size: 237, 356
+  orig: 237, 356
+  offset: 0, 0
+  index: -1
+L_breast
+  rotate: true
+  xy: 617, 2
+  size: 244, 275
+  orig: 244, 275
+  offset: 0, 0
+  index: -1
+L_dress
+  rotate: false
+  xy: 1443, 1197
+  size: 262, 385
+  orig: 262, 385
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: false
+  xy: 419, 1498
+  size: 189, 304
+  orig: 193, 304
+  offset: 2, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 1552, 581
+  size: 363, 305
+  orig: 365, 305
+  offset: 0, 0
+  index: -1
+L_leg_1
+  rotate: false
+  xy: 1249, 304
+  size: 301, 582
+  orig: 301, 582
+  offset: 0, 0
+  index: -1
+L_leg_2
+  rotate: true
+  xy: 1011, 295
+  size: 383, 220
+  orig: 383, 220
+  offset: 0, 0
+  index: -1
+L_tentacle
+  rotate: true
+  xy: 617, 1189
+  size: 613, 824
+  orig: 613, 824
+  offset: 0, 0
+  index: -1
+L_tentacle_1
+  rotate: false
+  xy: 1011, 680
+  size: 236, 352
+  orig: 236, 355
+  offset: 0, 3
+  index: -1
+L_tentacle_2
+  rotate: true
+  xy: 176, 3
+  size: 241, 439
+  orig: 241, 439
+  offset: 0, 0
+  index: -1
+R_arm_1
+  rotate: true
+  xy: 1252, 8
+  size: 294, 142
+  orig: 296, 142
+  offset: 1, 0
+  index: -1
+R_breast
+  rotate: false
+  xy: 1508, 32
+  size: 253, 270
+  orig: 253, 270
+  offset: 0, 0
+  index: -1
+R_dress_1
+  rotate: true
+  xy: 1443, 1584
+  size: 95, 433
+  orig: 95, 434
+  offset: 0, 1
+  index: -1
+R_dress_2
+  rotate: true
+  xy: 1443, 1681
+  size: 121, 433
+  orig: 121, 433
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: true
+  xy: 866, 1034
+  size: 153, 362
+  orig: 153, 362
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 1707, 1220
+  size: 362, 201
+  orig: 363, 201
+  offset: 0, 0
+  index: -1
+R_tentacle_1
+  rotate: true
+  xy: 419, 1001
+  size: 495, 166
+  orig: 495, 166
+  offset: 0, 0
+  index: -1
+R_tentacle_1_2
+  rotate: true
+  xy: 1252, 888
+  size: 299, 610
+  orig: 299, 610
+  offset: 0, 0
+  index: -1
+R_tentacle_2
+  rotate: false
+  xy: 419, 248
+  size: 590, 751
+  orig: 590, 751
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 246
+  size: 415, 1556
+  orig: 415, 1557
+  offset: 0, 1
+  index: -1
+body_obj
+  rotate: false
+  xy: 1878, 1708
+  size: 38, 94
+  orig: 38, 94
+  offset: 0, 0
+  index: -1
+body_obj_2
+  rotate: false
+  xy: 587, 1026
+  size: 144, 161
+  orig: 144, 161
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 733, 1030
+  size: 131, 157
+  orig: 131, 157
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1552, 322
+  size: 257, 338
+  orig: 257, 338
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 1396, 27
+  size: 110, 275
+  orig: 110, 275
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 1763, 196
+  size: 124, 134
+  orig: 124, 134
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 172, 242
+  orig: 172, 242
+  offset: 0, 0
+  index: -1

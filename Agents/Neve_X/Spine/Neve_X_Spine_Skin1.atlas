@@ -1,3 +1,339 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:efb3ae490dde6f043955777c4eee9fbb638631f1a3df5230cf37954ba1c8cda5
-size 5123
+
+Neve_X_Spine_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LV123_crown
+  rotate: false
+  xy: 664, 1536
+  size: 140, 102
+  orig: 140, 102
+  offset: 0, 0
+  index: -1
+LV123_earring_L
+  rotate: true
+  xy: 2, 1618
+  size: 20, 66
+  orig: 20, 66
+  offset: 0, 0
+  index: -1
+LV123_earring_R
+  rotate: true
+  xy: 70, 1616
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+LV123_flower_B
+  rotate: true
+  xy: 131, 1583
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+LV123_forearm_R
+  rotate: false
+  xy: 1763, 984
+  size: 271, 267
+  orig: 271, 267
+  offset: 0, 0
+  index: -1
+LV123_forearm_R2
+  rotate: false
+  xy: 524, 825
+  size: 271, 267
+  orig: 271, 267
+  offset: 0, 0
+  index: -1
+LV123_hair_F
+  rotate: true
+  xy: 1398, 1068
+  size: 223, 363
+  orig: 223, 363
+  offset: 0, 0
+  index: -1
+LV123_head
+  rotate: true
+  xy: 1369, 1494
+  size: 144, 184
+  orig: 144, 184
+  offset: 0, 0
+  index: -1
+LV123_head_cloth
+  rotate: true
+  xy: 806, 446
+  size: 340, 468
+  orig: 340, 468
+  offset: 0, 0
+  index: -1
+LV123_head_cloth_F
+  rotate: false
+  xy: 398, 452
+  size: 406, 334
+  orig: 406, 334
+  offset: 0, 0
+  index: -1
+LV123_leg_L
+  rotate: true
+  xy: 797, 788
+  size: 278, 861
+  orig: 278, 861
+  offset: 0, 0
+  index: -1
+LV123_leg_R
+  rotate: true
+  xy: 629, 1094
+  size: 197, 767
+  orig: 197, 767
+  offset: 0, 0
+  index: -1
+LV123_mask
+  rotate: false
+  xy: 1226, 1497
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+LV123_moon
+  rotate: true
+  xy: 932, 1508
+  size: 130, 292
+  orig: 130, 292
+  offset: 0, 0
+  index: -1
+LV123_upperarm_R
+  rotate: true
+  xy: 511, 1363
+  size: 171, 227
+  orig: 171, 227
+  offset: 0, 0
+  index: -1
+LV123_weapon_bow_01
+  rotate: false
+  xy: 1828, 1466
+  size: 183, 172
+  orig: 183, 172
+  offset: 0, 0
+  index: -1
+LV123_weapon_bow_02
+  rotate: true
+  xy: 1555, 1487
+  size: 151, 271
+  orig: 151, 271
+  offset: 0, 0
+  index: -1
+LV123_weapon_cloth_01
+  rotate: true
+  xy: 1228, 1293
+  size: 192, 588
+  orig: 192, 588
+  offset: 0, 0
+  index: -1
+LV12_forearm_L
+  rotate: false
+  xy: 957, 1302
+  size: 269, 193
+  orig: 269, 193
+  offset: 0, 0
+  index: -1
+LV12_skirt_dark_L1
+  rotate: true
+  xy: 2, 1152
+  size: 209, 625
+  orig: 209, 625
+  offset: 0, 0
+  index: -1
+LV12_skirt_dark_L2
+  rotate: false
+  xy: 1276, 311
+  size: 365, 475
+  orig: 365, 475
+  offset: 0, 0
+  index: -1
+LV12_upperarm_L
+  rotate: true
+  xy: 238, 1375
+  size: 161, 271
+  orig: 161, 271
+  offset: 0, 0
+  index: -1
+LV1_body
+  rotate: true
+  xy: 2, 96
+  size: 354, 640
+  orig: 354, 640
+  offset: 0, 0
+  index: -1
+LV1_chest
+  rotate: true
+  xy: 2, 588
+  size: 323, 394
+  orig: 323, 394
+  offset: 0, 0
+  index: -1
+LV1_face
+  rotate: false
+  xy: 316, 1542
+  size: 120, 96
+  orig: 120, 96
+  offset: 0, 0
+  index: -1
+LV2_body
+  rotate: true
+  xy: 644, 90
+  size: 354, 584
+  orig: 354, 584
+  offset: 0, 0
+  index: -1
+LV2_chest
+  rotate: false
+  xy: 1660, 588
+  size: 323, 394
+  orig: 323, 394
+  offset: 0, 0
+  index: -1
+LV2_face
+  rotate: false
+  xy: 189, 1543
+  size: 125, 95
+  orig: 125, 95
+  offset: 0, 0
+  index: -1
+LV2_skirt_F
+  rotate: true
+  xy: 2, 913
+  size: 237, 520
+  orig: 237, 520
+  offset: 0, 0
+  index: -1
+LV3_air
+  rotate: false
+  xy: 438, 1538
+  size: 224, 100
+  orig: 224, 100
+  offset: 0, 0
+  index: -1
+LV3_body
+  rotate: false
+  xy: 1643, 2
+  size: 370, 584
+  orig: 370, 584
+  offset: 0, 0
+  index: -1
+LV3_breast_L
+  rotate: true
+  xy: 1818, 1253
+  size: 211, 225
+  orig: 211, 225
+  offset: 0, 0
+  index: -1
+LV3_face
+  rotate: false
+  xy: 806, 1535
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+LV3_forearm_L
+  rotate: false
+  xy: 2, 1389
+  size: 234, 152
+  orig: 234, 152
+  offset: 0, 0
+  index: -1
+LV3_upperarm_L
+  rotate: true
+  xy: 740, 1313
+  size: 193, 215
+  orig: 193, 215
+  offset: 0, 0
+  index: -1
+
+Neve_X_Spine_Skin1_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LV123_head_cloth_B
+  rotate: true
+  xy: 735, 864
+  size: 554, 583
+  orig: 554, 583
+  offset: 0, 0
+  index: -1
+LV1_skirt_B
+  rotate: false
+  xy: 2, 189
+  size: 869, 673
+  orig: 869, 673
+  offset: 0, 0
+  index: -1
+LV1_skirt_dark_R
+  rotate: true
+  xy: 2, 918
+  size: 500, 731
+  orig: 500, 731
+  offset: 0, 0
+  index: -1
+Lv1_skirt_F
+  rotate: false
+  xy: 873, 2
+  size: 1148, 774
+  orig: 1148, 774
+  offset: 0, 0
+  index: -1
+Lv1_skirt_black
+  rotate: true
+  xy: 1320, 778
+  size: 640, 664
+  orig: 640, 664
+  offset: 0, 0
+  index: -1
+
+Neve_X_Spine_Skin1_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LV123_hair_B1
+  rotate: true
+  xy: 1135, 2
+  size: 1058, 870
+  orig: 1058, 870
+  offset: 0, 0
+  index: -1
+LV123_hair_B3
+  rotate: true
+  xy: 1135, 2
+  size: 1058, 870
+  orig: 1058, 870
+  offset: 0, 0
+  index: -1
+LV123_weapon
+  rotate: true
+  xy: 2, 1062
+  size: 630, 1411
+  orig: 630, 1411
+  offset: 0, 0
+  index: -1
+LV123_weapon_cloth_02
+  rotate: true
+  xy: 2, 233
+  size: 827, 1131
+  orig: 827, 1131
+  offset: 0, 0
+  index: -1
+
+Neve_X_Spine_Skin1_4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LV123_hair_B2
+  rotate: false
+  xy: 2, 2
+  size: 1081, 1183
+  orig: 1081, 1183
+  offset: 0, 0
+  index: -1

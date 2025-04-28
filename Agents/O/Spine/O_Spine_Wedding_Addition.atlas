@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c910117f9b0da884c57fd51d6ad459f07dd478bf3ea96c330f794e597c18a218
-size 510
+
+O_Spine_Wedding_Addition.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect Heart 1
+  rotate: false
+  xy: 2, 2
+  size: 2455, 2446
+  orig: 2455, 2446
+  offset: 0, 0
+  index: -1
+
+O_Spine_Wedding_Addition_2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect 1
+  rotate: false
+  xy: 2067, 2
+  size: 1969, 1960
+  orig: 1969, 1960
+  offset: 0, 0
+  index: -1
+Effect 2
+  rotate: true
+  xy: 2, 19
+  size: 1943, 2063
+  orig: 1943, 2063
+  offset: 0, 0
+  index: -1

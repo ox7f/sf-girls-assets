@@ -1,3 +1,333 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f164453b7d3a95978b62fce55ecd97243b39a431f2a87c5491fe9225b13f523f
-size 4881
+
+Midori_Playroom_Skin1.png
+size: 4094,4094
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: true
+  xy: 2020, 3457
+  size: 363, 904
+  orig: 363, 904
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: false
+  xy: 705, 2602
+  size: 881, 515
+  orig: 881, 515
+  offset: 0, 0
+  index: -1
+Body 2
+  rotate: false
+  xy: 909, 425
+  size: 1069, 1043
+  orig: 1069, 1043
+  offset: 0, 0
+  index: -1
+Boob L
+  rotate: false
+  xy: 2, 2679
+  size: 701, 526
+  orig: 701, 526
+  offset: 0, 0
+  index: -1
+Boob R
+  rotate: false
+  xy: 1588, 2430
+  size: 710, 616
+  orig: 710, 616
+  offset: 0, 0
+  index: -1
+Boob Shirt
+  rotate: true
+  xy: 2, 3207
+  size: 389, 724
+  orig: 389, 724
+  offset: 0, 0
+  index: -1
+Eye Mask
+  rotate: false
+  xy: 344, 3598
+  size: 414, 319
+  orig: 414, 319
+  offset: 0, 0
+  index: -1
+Face 1
+  rotate: false
+  xy: 2815, 3822
+  size: 291, 270
+  orig: 291, 270
+  offset: 0, 0
+  index: -1
+Face 1 Red
+  rotate: false
+  xy: 1700, 3865
+  size: 239, 227
+  orig: 239, 227
+  offset: 0, 0
+  index: -1
+Face 2
+  rotate: false
+  xy: 1941, 3836
+  size: 277, 256
+  orig: 277, 256
+  offset: 0, 0
+  index: -1
+Face 2 Red
+  rotate: false
+  xy: 692, 3919
+  size: 174, 173
+  orig: 174, 173
+  offset: 0, 0
+  index: -1
+Gas 1
+  rotate: true
+  xy: 728, 3119
+  size: 381, 876
+  orig: 381, 876
+  offset: 0, 0
+  index: -1
+Gas 2
+  rotate: true
+  xy: 2, 1945
+  size: 655, 989
+  orig: 655, 989
+  offset: 0, 0
+  index: -1
+Gas 3
+  rotate: false
+  xy: 3016, 1725
+  size: 951, 841
+  orig: 951, 841
+  offset: 0, 0
+  index: -1
+Hair Bang 1
+  rotate: false
+  xy: 2926, 3434
+  size: 496, 372
+  orig: 496, 372
+  offset: 0, 0
+  index: -1
+Hair Bang 2
+  rotate: false
+  xy: 760, 3575
+  size: 524, 322
+  orig: 524, 322
+  offset: 0, 0
+  index: -1
+Hair Bang 3
+  rotate: false
+  xy: 1606, 3048
+  size: 793, 407
+  orig: 793, 407
+  offset: 0, 0
+  index: -1
+Hair Bang Root
+  rotate: true
+  xy: 1440, 3895
+  size: 197, 258
+  orig: 197, 258
+  offset: 0, 0
+  index: -1
+Hair Shaow 1
+  rotate: false
+  xy: 1082, 3899
+  size: 356, 193
+  orig: 356, 193
+  offset: 0, 0
+  index: -1
+Hair Shaow 2
+  rotate: false
+  xy: 2, 3644
+  size: 340, 336
+  orig: 340, 336
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2300, 2318
+  size: 714, 665
+  orig: 714, 665
+  offset: 0, 0
+  index: -1
+Leg L 1
+  rotate: true
+  xy: 2, 594
+  size: 1349, 905
+  orig: 1349, 905
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 2722, 823
+  size: 1358, 900
+  orig: 1358, 900
+  offset: 0, 0
+  index: -1
+Man Finger
+  rotate: true
+  xy: 868, 3913
+  size: 179, 212
+  orig: 179, 212
+  offset: 0, 0
+  index: -1
+Man Hand
+  rotate: true
+  xy: 2220, 3825
+  size: 267, 593
+  orig: 267, 593
+  offset: 0, 0
+  index: -1
+Man Hand 2
+  rotate: false
+  xy: 2401, 2985
+  size: 621, 447
+  orig: 621, 447
+  offset: 0, 0
+  index: -1
+Man Thumb
+  rotate: true
+  xy: 2, 4009
+  size: 83, 228
+  orig: 83, 228
+  offset: 0, 0
+  index: -1
+Monster
+  rotate: false
+  xy: 3024, 2860
+  size: 548, 505
+  orig: 548, 505
+  offset: 0, 0
+  index: -1
+Monster String
+  rotate: true
+  xy: 3424, 3367
+  size: 419, 508
+  orig: 419, 508
+  offset: 0, 0
+  index: -1
+Penis
+  rotate: false
+  xy: 1286, 3502
+  size: 732, 332
+  orig: 732, 332
+  offset: 0, 0
+  index: -1
+Pussy 1
+  rotate: true
+  xy: 512, 3930
+  size: 162, 178
+  orig: 162, 178
+  offset: 0, 0
+  index: -1
+Pussy 2
+  rotate: false
+  xy: 355, 3939
+  size: 155, 153
+  orig: 155, 153
+  offset: 0, 0
+  index: -1
+Pussy 3
+  rotate: true
+  xy: 232, 3982
+  size: 110, 121
+  orig: 110, 121
+  offset: 0, 0
+  index: -1
+Skirt
+  rotate: true
+  xy: 993, 1470
+  size: 846, 1727
+  orig: 846, 1727
+  offset: 0, 0
+  index: -1
+Thigh L Comp
+  rotate: true
+  xy: 3475, 3788
+  size: 304, 325
+  orig: 304, 325
+  offset: 0, 0
+  index: -1
+sperm 1
+  rotate: false
+  xy: 3108, 3808
+  size: 365, 284
+  orig: 365, 284
+  offset: 0, 0
+  index: -1
+sperm 2
+  rotate: true
+  xy: 3574, 2568
+  size: 797, 518
+  orig: 797, 518
+  offset: 0, 0
+  index: -1
+
+Midori_Playroom_Skin1_2.png
+size: 3677,3677
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Feet L
+  rotate: false
+  xy: 1632, 479
+  size: 1805, 1043
+  orig: 1805, 1043
+  offset: 0, 0
+  index: -1
+Gas 4
+  rotate: true
+  xy: 2, 2
+  size: 1520, 1628
+  orig: 1520, 1628
+  offset: 0, 0
+  index: -1
+Pole
+  rotate: false
+  xy: 2, 1524
+  size: 3473, 2151
+  orig: 3473, 2151
+  offset: 0, 0
+  index: -1
+
+Midori_Playroom_Skin1_3.png
+size: 3685,3685
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bat
+  rotate: false
+  xy: 2619, 2179
+  size: 1064, 1504
+  orig: 1064, 1504
+  offset: 0, 0
+  index: -1
+Body Up
+  rotate: true
+  xy: 2, 559
+  size: 1151, 1207
+  orig: 1151, 1207
+  offset: 0, 0
+  index: -1
+Hair Tail
+  rotate: false
+  xy: 2, 1712
+  size: 2615, 1971
+  orig: 2615, 1971
+  offset: 0, 0
+  index: -1
+Skirt Back
+  rotate: false
+  xy: 2400, 583
+  size: 1076, 1127
+  orig: 1076, 1127
+  offset: 0, 0
+  index: -1
+Thigh L
+  rotate: true
+  xy: 1211, 601
+  size: 1109, 1187
+  orig: 1109, 1187
+  offset: 0, 0
+  index: -1

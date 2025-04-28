@@ -1,3 +1,439 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12e3f22e625f29c8a559d36187b01cac0457894fc8ac46efc8cc8cd93e8d760e
-size 6451
+
+Kiyomi_Spine_Skin2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt Back Feather
+  rotate: false
+  xy: 1432, 2463
+  size: 865, 470
+  orig: 865, 470
+  offset: 0, 0
+  index: -1
+Belt Back Knot
+  rotate: false
+  xy: 2, 2029
+  size: 963, 620
+  orig: 963, 620
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2299, 2347
+  size: 502, 824
+  orig: 502, 824
+  offset: 0, 0
+  index: -1
+Boob L 1
+  rotate: true
+  xy: 791, 3422
+  size: 285, 313
+  orig: 285, 313
+  offset: 0, 0
+  index: -1
+Boob L 2
+  rotate: true
+  xy: 1106, 3404
+  size: 285, 313
+  orig: 285, 313
+  offset: 0, 0
+  index: -1
+Boob L 3
+  rotate: true
+  xy: 1421, 3384
+  size: 285, 313
+  orig: 285, 313
+  offset: 0, 0
+  index: -1
+Boob R 1
+  rotate: true
+  xy: 2126, 3668
+  size: 228, 315
+  orig: 228, 315
+  offset: 0, 0
+  index: -1
+Boob R 2
+  rotate: true
+  xy: 2696, 3641
+  size: 228, 315
+  orig: 228, 315
+  offset: 0, 0
+  index: -1
+Boob R 3
+  rotate: true
+  xy: 2696, 3641
+  size: 228, 315
+  orig: 228, 315
+  offset: 0, 0
+  index: -1
+Bra 1
+  rotate: false
+  xy: 2480, 2884
+  size: 558, 413
+  orig: 558, 413
+  offset: 0, 0
+  index: -1
+Bra 2
+  rotate: true
+  xy: 3472, 2595
+  size: 657, 470
+  orig: 657, 470
+  offset: 0, 0
+  index: -1
+Bra 2 Back
+  rotate: true
+  xy: 998, 3939
+  size: 108, 121
+  orig: 108, 121
+  offset: 0, 0
+  index: -1
+Bra Cloth
+  rotate: false
+  xy: 1196, 3691
+  size: 502, 215
+  orig: 502, 215
+  offset: 0, 0
+  index: -1
+Bra Feather L
+  rotate: false
+  xy: 333, 3958
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+Bra Feather R
+  rotate: true
+  xy: 518, 3953
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 2428, 3898
+  size: 283, 149
+  orig: 283, 149
+  offset: 0, 0
+  index: -1
+Face 1
+  rotate: false
+  xy: 2962, 3871
+  size: 284, 176
+  orig: 284, 176
+  offset: 0, 0
+  index: -1
+Face 2
+  rotate: false
+  xy: 3248, 3870
+  size: 284, 177
+  orig: 284, 177
+  offset: 0, 0
+  index: -1
+Face 3
+  rotate: false
+  xy: 3534, 3860
+  size: 284, 187
+  orig: 284, 187
+  offset: 0, 0
+  index: -1
+Hair Bang 1
+  rotate: true
+  xy: 575, 3049
+  size: 371, 494
+  orig: 371, 494
+  offset: 0, 0
+  index: -1
+Hair Bang 2
+  rotate: true
+  xy: 2713, 3888
+  size: 159, 247
+  orig: 159, 247
+  offset: 0, 0
+  index: -1
+Hair Bang 3
+  rotate: true
+  xy: 919, 3709
+  size: 223, 275
+  orig: 223, 275
+  offset: 0, 0
+  index: -1
+Hair Bang 4
+  rotate: true
+  xy: 1905, 3900
+  size: 147, 521
+  orig: 147, 521
+  offset: 0, 0
+  index: -1
+Hair_Doc
+  rotate: true
+  xy: 2, 3763
+  size: 206, 309
+  orig: 206, 309
+  offset: 0, 0
+  index: -1
+Hair_Doc 2
+  rotate: false
+  xy: 2443, 3664
+  size: 251, 232
+  orig: 251, 232
+  offset: 0, 0
+  index: -1
+Hair_Ribbon
+  rotate: true
+  xy: 3040, 2851
+  size: 426, 430
+  orig: 426, 430
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2451, 3317
+  size: 322, 410
+  orig: 322, 410
+  offset: 0, 0
+  index: -1
+Head 2
+  rotate: true
+  xy: 2863, 3299
+  size: 322, 410
+  orig: 322, 410
+  offset: 0, 0
+  index: -1
+L Arm
+  rotate: false
+  xy: 1690, 2935
+  size: 788, 380
+  orig: 788, 380
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 2, 2651
+  size: 369, 1428
+  orig: 369, 1428
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 2, 3461
+  size: 275, 787
+  orig: 275, 787
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 2, 3112
+  size: 347, 571
+  orig: 347, 571
+  offset: 0, 0
+  index: -1
+R_arm 2
+  rotate: true
+  xy: 3634, 3254
+  size: 367, 446
+  orig: 367, 446
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 1346, 3916
+  size: 169, 131
+  orig: 169, 131
+  offset: 0, 0
+  index: -1
+R_hand 2
+  rotate: false
+  xy: 1517, 3908
+  size: 194, 139
+  orig: 194, 139
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: true
+  xy: 2, 774
+  size: 907, 2198
+  orig: 907, 2198
+  offset: 0, 0
+  index: -1
+Shield Ball
+  rotate: true
+  xy: 3820, 3817
+  size: 230, 250
+  orig: 230, 250
+  offset: 0, 0
+  index: -1
+Shield Feathe
+  rotate: false
+  xy: 3125, 1874
+  size: 778, 719
+  orig: 778, 719
+  offset: 0, 0
+  index: -1
+Shoelace L
+  rotate: false
+  xy: 424, 3957
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+Shoelace R
+  rotate: false
+  xy: 238, 3971
+  size: 93, 76
+  orig: 93, 76
+  offset: 0, 0
+  index: -1
+Sperm 1
+  rotate: true
+  xy: 2, 3988
+  size: 59, 234
+  orig: 59, 234
+  offset: 0, 0
+  index: -1
+Sperm 2
+  rotate: true
+  xy: 621, 3952
+  size: 95, 149
+  orig: 95, 149
+  offset: 0, 0
+  index: -1
+Sperm 3
+  rotate: true
+  xy: 1713, 3907
+  size: 140, 190
+  orig: 140, 190
+  offset: 0, 0
+  index: -1
+Sword 1
+  rotate: true
+  xy: 967, 1683
+  size: 662, 1396
+  orig: 662, 1396
+  offset: 0, 0
+  index: -1
+Sword 2
+  rotate: true
+  xy: 2365, 1142
+  size: 730, 1497
+  orig: 730, 1497
+  offset: 0, 0
+  index: -1
+backdrop gold 1
+  rotate: false
+  xy: 1071, 3022
+  size: 617, 360
+  orig: 617, 360
+  offset: 0, 0
+  index: -1
+backdrop gold 2
+  rotate: false
+  xy: 313, 3738
+  size: 604, 203
+  orig: 604, 203
+  offset: 0, 0
+  index: -1
+backdrop gold 3
+  rotate: false
+  xy: 3013, 3623
+  size: 796, 235
+  orig: 796, 235
+  offset: 0, 0
+  index: -1
+belt band 1
+  rotate: true
+  xy: 2202, 2
+  size: 1138, 1290
+  orig: 1138, 1290
+  offset: 0, 0
+  index: -1
+belt_1
+  rotate: false
+  xy: 1700, 3671
+  size: 424, 227
+  orig: 424, 227
+  offset: 0, 0
+  index: -1
+belt_1 Ball
+  rotate: false
+  xy: 3275, 3279
+  size: 357, 342
+  orig: 357, 342
+  offset: 0, 0
+  index: -1
+panties
+  rotate: false
+  xy: 1736, 3359
+  size: 313, 310
+  orig: 313, 310
+  offset: 0, 0
+  index: -1
+panties 2
+  rotate: false
+  xy: 2051, 3343
+  size: 398, 319
+  orig: 398, 319
+  offset: 0, 0
+  index: -1
+shoe_L
+  rotate: true
+  xy: 772, 3943
+  size: 104, 224
+  orig: 104, 224
+  offset: 0, 0
+  index: -1
+shoe_R
+  rotate: true
+  xy: 1121, 3934
+  size: 113, 223
+  orig: 113, 223
+  offset: 0, 0
+  index: -1
+
+Kiyomi_Spine_Skin2_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dress_Back 1
+  rotate: false
+  xy: 2, 1292
+  size: 1910, 1288
+  orig: 1910, 1288
+  offset: 0, 0
+  index: -1
+Dress_Back 2
+  rotate: false
+  xy: 2, 2
+  size: 1910, 1288
+  orig: 1910, 1288
+  offset: 0, 0
+  index: -1
+Hair_Tail
+  rotate: false
+  xy: 2823, 866
+  size: 1157, 1248
+  orig: 1157, 1248
+  offset: 0, 0
+  index: -1
+Shield 2
+  rotate: false
+  xy: 1914, 382
+  size: 907, 2198
+  orig: 907, 2198
+  offset: 0, 0
+  index: -1
+backdrop patten
+  rotate: false
+  xy: 2, 2582
+  size: 2514, 824
+  orig: 2514, 824
+  offset: 0, 0
+  index: -1
+belt band 2
+  rotate: false
+  xy: 2823, 2116
+  size: 1138, 1290
+  orig: 1138, 1290
+  offset: 0, 0
+  index: -1

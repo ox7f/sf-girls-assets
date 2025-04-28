@@ -1,3 +1,551 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9a10ed01c164bb6cabfd5a7d5b0110436d9673ca6fb36fd94f90719ca47775c3
-size 8026
+
+Sayaka_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A Brush
+  rotate: false
+  xy: 1820, 3794
+  size: 163, 144
+  orig: 197, 160
+  offset: 17, 9
+  index: -1
+A Eyebrow
+  rotate: false
+  xy: 53, 3907
+  size: 131, 31
+  orig: 133, 31
+  offset: 2, 0
+  index: -1
+A Eyes
+  rotate: false
+  xy: 1494, 3829
+  size: 161, 109
+  orig: 161, 110
+  offset: 0, 0
+  index: -1
+A Hand R
+  rotate: true
+  xy: 3664, 3496
+  size: 242, 256
+  orig: 242, 345
+  offset: 0, 0
+  index: -1
+A Mouth
+  rotate: false
+  xy: 2, 3922
+  size: 18, 16
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+Arm L
+  rotate: true
+  xy: 933, 3874
+  size: 64, 123
+  orig: 64, 123
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: true
+  xy: 2572, 3514
+  size: 228, 678
+  orig: 295, 701
+  offset: 0, 0
+  index: -1
+Arm R Shadow
+  rotate: true
+  xy: 1217, 3831
+  size: 107, 275
+  orig: 115, 298
+  offset: 0, 3
+  index: -1
+B Brush
+  rotate: false
+  xy: 1985, 3792
+  size: 165, 146
+  orig: 197, 160
+  offset: 15, 9
+  index: -1
+B Eyebrow
+  rotate: false
+  xy: 186, 3907
+  size: 133, 31
+  orig: 133, 31
+  offset: 0, 0
+  index: -1
+B Eyes
+  rotate: false
+  xy: 1657, 3829
+  size: 161, 109
+  orig: 161, 109
+  offset: 0, 0
+  index: -1
+B Hand R
+  rotate: true
+  xy: 2, 3464
+  size: 242, 347
+  orig: 242, 347
+  offset: 0, 0
+  index: -1
+B Mouth
+  rotate: false
+  xy: 22, 3913
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+BG1
+  rotate: false
+  xy: 3320, 746
+  size: 739, 589
+  orig: 739, 589
+  offset: 0, 0
+  index: -1
+BG10
+  rotate: false
+  xy: 1534, 2573
+  size: 979, 323
+  orig: 979, 323
+  offset: 0, 0
+  index: -1
+BG11
+  rotate: false
+  xy: 2618, 1564
+  size: 778, 450
+  orig: 778, 450
+  offset: 0, 0
+  index: -1
+BG12
+  rotate: false
+  xy: 2883, 2466
+  size: 581, 378
+  orig: 581, 378
+  offset: 0, 0
+  index: -1
+BG13
+  rotate: false
+  xy: 2187, 2898
+  size: 476, 320
+  orig: 476, 320
+  offset: 0, 0
+  index: -1
+BG2
+  rotate: false
+  xy: 2006, 1219
+  size: 601, 571
+  orig: 601, 571
+  offset: 0, 0
+  index: -1
+BG3
+  rotate: false
+  xy: 3529, 1872
+  size: 455, 575
+  orig: 455, 575
+  offset: 0, 0
+  index: -1
+BG4
+  rotate: false
+  xy: 489, 3058
+  size: 722, 309
+  orig: 722, 309
+  offset: 0, 0
+  index: -1
+BG5
+  rotate: false
+  xy: 1584, 2901
+  size: 601, 317
+  orig: 601, 317
+  offset: 0, 0
+  index: -1
+BG6
+  rotate: false
+  xy: 2665, 2885
+  size: 654, 322
+  orig: 654, 322
+  offset: 0, 0
+  index: -1
+BG7
+  rotate: false
+  xy: 2609, 1056
+  size: 709, 506
+  orig: 709, 506
+  offset: 0, 0
+  index: -1
+BG8
+  rotate: false
+  xy: 1288, 1320
+  size: 716, 470
+  orig: 716, 470
+  offset: 0, 0
+  index: -1
+BG9
+  rotate: false
+  xy: 2, 1429
+  size: 707, 460
+  orig: 707, 460
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 792
+  size: 585, 710
+  orig: 585, 710
+  offset: 0, 0
+  index: -1
+Boobs
+  rotate: true
+  xy: 3726, 3740
+  size: 198, 337
+  orig: 198, 337
+  offset: 0, 0
+  index: -1
+Cloth Arm R a
+  rotate: true
+  xy: 604, 3886
+  size: 52, 196
+  orig: 52, 196
+  offset: 0, 0
+  index: -1
+Cloth Arm R b
+  rotate: true
+  xy: 711, 1379
+  size: 510, 575
+  orig: 511, 575
+  offset: 1, 0
+  index: -1
+Cloth Arm R c
+  rotate: true
+  xy: 2, 2329
+  size: 387, 698
+  orig: 405, 698
+  offset: 0, 0
+  index: -1
+Cloth Arm R d
+  rotate: true
+  xy: 1236, 3307
+  size: 293, 395
+  orig: 293, 395
+  offset: 0, 0
+  index: -1
+Cloth b
+  rotate: true
+  xy: 1522, 567
+  size: 650, 673
+  orig: 671, 673
+  offset: 0, 0
+  index: -1
+Cloth c
+  rotate: false
+  xy: 3622, 3183
+  size: 313, 311
+  orig: 313, 311
+  offset: 0, 0
+  index: -1
+Cloth e
+  rotate: false
+  xy: 2068, 3520
+  size: 502, 228
+  orig: 502, 228
+  offset: 0, 0
+  index: -1
+Curtain a
+  rotate: false
+  xy: 3398, 1337
+  size: 664, 533
+  orig: 664, 533
+  offset: 0, 0
+  index: -1
+Curtain b
+  rotate: false
+  xy: 714, 702
+  size: 806, 616
+  orig: 806, 616
+  offset: 0, 0
+  index: -1
+Curtain c
+  rotate: true
+  xy: 2197, 259
+  size: 795, 867
+  orig: 795, 867
+  offset: 0, 0
+  index: -1
+FX a
+  rotate: false
+  xy: 702, 2232
+  size: 1306, 339
+  orig: 1306, 339
+  offset: 0, 0
+  index: -1
+FX a2
+  rotate: false
+  xy: 2, 1891
+  size: 1306, 339
+  orig: 1306, 339
+  offset: 0, 0
+  index: -1
+FX a3
+  rotate: false
+  xy: 1310, 1792
+  size: 1306, 339
+  orig: 1306, 339
+  offset: 0, 0
+  index: -1
+FX b
+  rotate: false
+  xy: 2, 3708
+  size: 423, 197
+  orig: 423, 197
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 1213, 2946
+  size: 369, 359
+  orig: 369, 359
+  offset: 0, 0
+  index: -1
+Hair a
+  rotate: true
+  xy: 3466, 2449
+  size: 395, 470
+  orig: 398, 473
+  offset: 0, 2
+  index: -1
+Hair b
+  rotate: true
+  xy: 1766, 3549
+  size: 241, 300
+  orig: 241, 303
+  offset: 0, 3
+  index: -1
+Hair c
+  rotate: true
+  xy: 637, 3369
+  size: 238, 597
+  orig: 238, 597
+  offset: 0, 0
+  index: -1
+Hair d
+  rotate: true
+  xy: 427, 3676
+  size: 204, 425
+  orig: 204, 425
+  offset: 0, 0
+  index: -1
+Hair e
+  rotate: true
+  xy: 2353, 3750
+  size: 188, 334
+  orig: 188, 334
+  offset: 0, 0
+  index: -1
+Halo a
+  rotate: true
+  xy: 1633, 3250
+  size: 297, 311
+  orig: 469, 311
+  offset: 172, 0
+  index: -1
+Halo b
+  rotate: false
+  xy: 2, 3107
+  size: 485, 313
+  orig: 485, 313
+  offset: 0, 0
+  index: -1
+Headset
+  rotate: true
+  xy: 854, 3634
+  size: 212, 215
+  orig: 212, 215
+  offset: 0, 0
+  index: -1
+Headware
+  rotate: false
+  xy: 2817, 3209
+  size: 803, 296
+  orig: 803, 301
+  offset: 0, 0
+  index: -1
+Headware rear
+  rotate: true
+  xy: 511, 3892
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+Man Penis A
+  rotate: false
+  xy: 1327, 3602
+  size: 437, 225
+  orig: 437, 226
+  offset: 0, 0
+  index: -1
+Man Penis A Water
+  rotate: true
+  xy: 1071, 3609
+  size: 220, 254
+  orig: 220, 254
+  offset: 0, 0
+  index: -1
+Man Penis B
+  rotate: false
+  xy: 2, 2746
+  size: 364, 359
+  orig: 364, 359
+  offset: 0, 0
+  index: -1
+Man Penis B Water
+  rotate: true
+  xy: 351, 3422
+  size: 252, 284
+  orig: 252, 284
+  offset: 0, 0
+  index: -1
+Man Penis B Water a
+  rotate: false
+  xy: 2152, 3763
+  size: 199, 175
+  orig: 202, 175
+  offset: 0, 0
+  index: -1
+Man Penis B Water b
+  rotate: false
+  xy: 2515, 2524
+  size: 366, 359
+  orig: 368, 363
+  offset: 0, 4
+  index: -1
+Man Penis B Water c
+  rotate: true
+  xy: 2689, 3748
+  size: 190, 524
+  orig: 190, 524
+  offset: 0, 0
+  index: -1
+Man Penis B Water d
+  rotate: false
+  xy: 368, 2718
+  size: 618, 338
+  orig: 618, 344
+  offset: 0, 6
+  index: -1
+Man Penis B Water e
+  rotate: false
+  xy: 3252, 3507
+  size: 410, 235
+  orig: 413, 239
+  offset: 3, 0
+  index: -1
+Ribbon Arm R a
+  rotate: true
+  xy: 3215, 3744
+  size: 194, 509
+  orig: 194, 509
+  offset: 0, 0
+  index: -1
+Ribbon Arm R b
+  rotate: true
+  xy: 2843, 2016
+  size: 431, 684
+  orig: 443, 722
+  offset: 12, 0
+  index: -1
+Toy
+  rotate: true
+  xy: 2010, 2133
+  size: 389, 831
+  orig: 389, 831
+  offset: 0, 0
+  index: -1
+Water Ass A
+  rotate: true
+  xy: 1058, 3848
+  size: 90, 157
+  orig: 91, 157
+  offset: 1, 0
+  index: -1
+Water Ass B
+  rotate: true
+  xy: 321, 3907
+  size: 31, 188
+  orig: 36, 188
+  offset: 5, 0
+  index: -1
+Water Ass Vigina
+  rotate: true
+  xy: 802, 3882
+  size: 56, 129
+  orig: 56, 129
+  offset: 0, 0
+  index: -1
+Wing L
+  rotate: false
+  xy: 2, 2
+  size: 1191, 698
+  orig: 1191, 698
+  offset: 0, 0
+  index: -1
+Wing R
+  rotate: false
+  xy: 1946, 3220
+  size: 869, 292
+  orig: 869, 292
+  offset: 0, 0
+  index: -1
+WingRoot L
+  rotate: true
+  xy: 988, 2600
+  size: 344, 544
+  orig: 344, 544
+  offset: 0, 0
+  index: -1
+WingRoot R
+  rotate: true
+  xy: 3321, 2846
+  size: 335, 651
+  orig: 344, 665
+  offset: 6, 14
+  index: -1
+
+Sayaka_Playroom_Skin1_2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A Leg L
+  rotate: false
+  xy: 2, 2
+  size: 973, 902
+  orig: 973, 902
+  offset: 0, 0
+  index: -1
+A Leg R
+  rotate: false
+  xy: 1091, 1002
+  size: 814, 1040
+  orig: 881, 1048
+  offset: 0, 0
+  index: -1
+B Leg L
+  rotate: false
+  xy: 977, 3
+  size: 973, 901
+  orig: 973, 901
+  offset: 0, 0
+  index: -1
+B Leg R
+  rotate: false
+  xy: 1907, 1002
+  size: 808, 1040
+  orig: 878, 1048
+  offset: 0, 0
+  index: -1
+Cloth a
+  rotate: false
+  xy: 2, 906
+  size: 1087, 1136
+  orig: 1087, 1136
+  offset: 0, 0
+  index: -1

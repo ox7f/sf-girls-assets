@@ -1,3 +1,789 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a32ffaedacc00d8ea3481d5dab0b5cbb8380e33fca482a08e82aa9868a75c60c
-size 11970
+
+Kura_Spine_Skin2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01 _Waist_tie3
+  rotate: true
+  xy: 1324, 3267
+  size: 178, 974
+  orig: 178, 974
+  offset: 0, 0
+  index: -1
+0102_Cloth_back1
+  rotate: true
+  xy: 1529, 3752
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+0102_Cloth_dec2
+  rotate: false
+  xy: 1684, 3027
+  size: 347, 238
+  orig: 347, 238
+  offset: 0, 0
+  index: -1
+0102_Cloth_neck
+  rotate: false
+  xy: 2999, 3418
+  size: 268, 184
+  orig: 268, 184
+  offset: 0, 0
+  index: -1
+0102_Cloth_tie1
+  rotate: false
+  xy: 1076, 3640
+  size: 153, 121
+  orig: 153, 121
+  offset: 0, 0
+  index: -1
+0102_Cloth_tie2
+  rotate: false
+  xy: 928, 3649
+  size: 146, 114
+  orig: 146, 114
+  offset: 0, 0
+  index: -1
+0102_Cloth_tie3
+  rotate: false
+  xy: 777, 3656
+  size: 149, 107
+  orig: 149, 107
+  offset: 0, 0
+  index: -1
+0102_Hand_L
+  rotate: true
+  xy: 2177, 3
+  size: 682, 720
+  orig: 682, 720
+  offset: 0, 0
+  index: -1
+0102_Hand_L1
+  rotate: true
+  xy: 307, 3682
+  size: 88, 191
+  orig: 88, 191
+  offset: 0, 0
+  index: -1
+0102_Waist_tie3_dec
+  rotate: true
+  xy: 2610, 2973
+  size: 243, 396
+  orig: 243, 396
+  offset: 0, 0
+  index: -1
+0102_Waist_tie4
+  rotate: true
+  xy: 1828, 3625
+  size: 117, 838
+  orig: 117, 838
+  offset: 0, 0
+  index: -1
+0102_body_shadow
+  rotate: true
+  xy: 3636, 3368
+  size: 200, 322
+  orig: 200, 322
+  offset: 0, 0
+  index: -1
+01_Cloth_HandR
+  rotate: true
+  xy: 3423, 2543
+  size: 321, 351
+  orig: 321, 351
+  offset: 0, 0
+  index: -1
+01_Cloth_breast
+  rotate: false
+  xy: 3296, 2876
+  size: 355, 262
+  orig: 355, 262
+  offset: 0, 0
+  index: -1
+01_Cloth_breastCoverL
+  rotate: false
+  xy: 2668, 3617
+  size: 237, 121
+  orig: 237, 121
+  offset: 0, 0
+  index: -1
+01_Cloth_breastCoverR
+  rotate: false
+  xy: 3048, 3607
+  size: 207, 130
+  orig: 207, 130
+  offset: 0, 0
+  index: -1
+01_Cloth_breastL
+  rotate: false
+  xy: 2590, 3432
+  size: 216, 183
+  orig: 216, 183
+  offset: 0, 0
+  index: -1
+01_Cloth_breastR
+  rotate: true
+  xy: 2398, 3441
+  size: 182, 190
+  orig: 182, 190
+  offset: 0, 0
+  index: -1
+01_Cloth_dec
+  rotate: false
+  xy: 3257, 3604
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+01_Waist_Flower_tie
+  rotate: false
+  xy: 2670, 2651
+  size: 390, 306
+  orig: 390, 306
+  offset: 0, 0
+  index: -1
+01_Waist_tie2
+  rotate: true
+  xy: 2855, 687
+  size: 550, 822
+  orig: 550, 822
+  offset: 0, 0
+  index: -1
+01_body_shadow4
+  rotate: false
+  xy: 2, 3691
+  size: 122, 87
+  orig: 122, 87
+  offset: 0, 0
+  index: -1
+01_body_shadow7
+  rotate: true
+  xy: 2, 2096
+  size: 439, 618
+  orig: 439, 618
+  offset: 0, 0
+  index: -1
+01_cloth_hand_l
+  rotate: true
+  xy: 2546, 2236
+  size: 413, 424
+  orig: 413, 424
+  offset: 0, 0
+  index: -1
+01_cloth_shadow
+  rotate: true
+  xy: 814, 2407
+  size: 350, 464
+  orig: 350, 464
+  offset: 0, 0
+  index: -1
+01_eyebottom
+  rotate: false
+  xy: 3352, 3736
+  size: 230, 78
+  orig: 230, 78
+  offset: 0, 0
+  index: -1
+01_eyebow
+  rotate: false
+  xy: 2881, 3740
+  size: 234, 74
+  orig: 234, 74
+  offset: 0, 0
+  index: -1
+01_eyelash
+  rotate: false
+  xy: 1928, 3746
+  size: 240, 68
+  orig: 240, 68
+  offset: 0, 0
+  index: -1
+01_eyelid
+  rotate: false
+  xy: 2, 3780
+  size: 161, 34
+  orig: 161, 34
+  offset: 0, 0
+  index: -1
+01_mouth
+  rotate: false
+  xy: 2170, 3746
+  size: 194, 68
+  orig: 194, 68
+  offset: 0, 0
+  index: -1
+01_weapon_ribbon1
+  rotate: true
+  xy: 2504, 1239
+  size: 422, 1360
+  orig: 422, 1360
+  offset: 0, 0
+  index: -1
+01_weapon_ribbon2
+  rotate: true
+  xy: 2, 3117
+  size: 180, 1082
+  orig: 180, 1082
+  offset: 0, 0
+  index: -1
+01_weapon_ribbon3
+  rotate: false
+  xy: 1154, 3474
+  size: 224, 162
+  orig: 224, 162
+  offset: 0, 0
+  index: -1
+01_weapon_ribbon4
+  rotate: true
+  xy: 3829, 3728
+  size: 86, 179
+  orig: 86, 179
+  offset: 0, 0
+  index: -1
+0203_Eyelash
+  rotate: false
+  xy: 2366, 3746
+  size: 240, 68
+  orig: 240, 68
+  offset: 0, 0
+  index: -1
+0203_eyebottom
+  rotate: false
+  xy: 3584, 3729
+  size: 243, 85
+  orig: 243, 85
+  offset: 0, 0
+  index: -1
+0203_eyebow
+  rotate: false
+  xy: 3117, 3739
+  size: 233, 75
+  orig: 233, 75
+  offset: 0, 0
+  index: -1
+0203_weapon_ribbon1
+  rotate: true
+  xy: 622, 1948
+  size: 398, 1360
+  orig: 398, 1360
+  offset: 0, 0
+  index: -1
+0203_weapon_ribbon2
+  rotate: true
+  xy: 254, 3299
+  size: 173, 1068
+  orig: 173, 1068
+  offset: 0, 0
+  index: -1
+0203_weapon_ribbon3
+  rotate: false
+  xy: 3419, 3586
+  size: 224, 141
+  orig: 224, 141
+  offset: 0, 0
+  index: -1
+0203_weapon_ribbon4
+  rotate: true
+  xy: 126, 3689
+  size: 86, 179
+  orig: 86, 179
+  offset: 0, 0
+  index: -1
+02_Cloth_HandR
+  rotate: true
+  xy: 2033, 2999
+  size: 266, 254
+  orig: 266, 254
+  offset: 0, 0
+  index: -1
+02_Cloth_Hand_L
+  rotate: true
+  xy: 2972, 2153
+  size: 413, 424
+  orig: 413, 424
+  offset: 0, 0
+  index: -1
+02_Cloth_back
+  rotate: true
+  xy: 2899, 2
+  size: 683, 859
+  orig: 683, 859
+  offset: 0, 0
+  index: -1
+02_Cloth_breast
+  rotate: true
+  xy: 2, 3540
+  size: 147, 303
+  orig: 147, 303
+  offset: 0, 0
+  index: -1
+02_Hand_L_shadow
+  rotate: false
+  xy: 3497, 3140
+  size: 290, 226
+  orig: 290, 226
+  offset: 0, 0
+  index: -1
+02_Waist_Flower_tie
+  rotate: false
+  xy: 3062, 2568
+  size: 359, 306
+  orig: 359, 306
+  offset: 0, 0
+  index: -1
+02_Waist_tie3
+  rotate: true
+  xy: 2521, 3218
+  size: 178, 974
+  orig: 178, 974
+  offset: 0, 0
+  index: -1
+02_body_shadow
+  rotate: true
+  xy: 1293, 759
+  size: 478, 1560
+  orig: 478, 1560
+  offset: 0, 0
+  index: -1
+02_mouth
+  rotate: false
+  xy: 1245, 3756
+  size: 130, 58
+  orig: 130, 58
+  offset: 0, 0
+  index: -1
+02_waist_tie2
+  rotate: true
+  xy: 2, 547
+  size: 550, 822
+  orig: 550, 822
+  offset: 0, 0
+  index: -1
+03_Cloth_F
+  rotate: true
+  xy: 2, 2859
+  size: 256, 772
+  orig: 256, 772
+  offset: 0, 0
+  index: -1
+03_Cloth_HandR
+  rotate: false
+  xy: 307, 3515
+  size: 187, 165
+  orig: 187, 165
+  offset: 0, 0
+  index: -1
+03_Cloth_Hand_L
+  rotate: false
+  xy: 3398, 2127
+  size: 421, 414
+  orig: 421, 414
+  offset: 0, 0
+  index: -1
+03_Cloth_back
+  rotate: true
+  xy: 1477, 148
+  size: 609, 698
+  orig: 609, 698
+  offset: 0, 0
+  index: -1
+03_Cloth_neck
+  rotate: false
+  xy: 3789, 3130
+  size: 268, 236
+  orig: 268, 236
+  offset: 0, 0
+  index: -1
+03_Liquid
+  rotate: true
+  xy: 2808, 3425
+  size: 185, 189
+  orig: 185, 189
+  offset: 0, 0
+  index: -1
+03_hand_L
+  rotate: true
+  xy: 2078, 2260
+  size: 409, 466
+  orig: 409, 466
+  offset: 0, 0
+  index: -1
+03_hand_L_ribbon
+  rotate: true
+  xy: 2, 2537
+  size: 306, 810
+  orig: 306, 810
+  offset: 0, 0
+  index: -1
+03_mouth
+  rotate: false
+  xy: 795, 3766
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+03_mouth_1
+  rotate: true
+  xy: 165, 3777
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1610, 1288
+  size: 509, 892
+  orig: 509, 892
+  offset: 0, 0
+  index: -1
+Body_shadow6
+  rotate: false
+  xy: 1231, 3638
+  size: 343, 112
+  orig: 343, 112
+  offset: 0, 0
+  index: -1
+Breast_L
+  rotate: false
+  xy: 1058, 2759
+  size: 275, 272
+  orig: 275, 272
+  offset: 0, 0
+  index: -1
+Breast_R
+  rotate: true
+  xy: 776, 2845
+  size: 270, 280
+  orig: 270, 280
+  offset: 0, 0
+  index: -1
+Breast_shadow
+  rotate: false
+  xy: 2119, 2671
+  size: 549, 300
+  orig: 549, 300
+  offset: 0, 0
+  index: -1
+Cloth_neck_shadow
+  rotate: false
+  xy: 1576, 3630
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+Hair_back
+  rotate: true
+  xy: 3645, 3582
+  size: 144, 186
+  orig: 144, 186
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 1380, 3466
+  size: 170, 185
+  orig: 170, 185
+  offset: 0, 0
+  index: -1
+Hand_R1
+  rotate: false
+  xy: 1335, 2739
+  size: 414, 286
+  orig: 414, 286
+  offset: 0, 0
+  index: -1
+Hand_R2
+  rotate: true
+  xy: 1567, 3455
+  size: 168, 501
+  orig: 168, 501
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1689, 2348
+  size: 356, 387
+  orig: 356, 387
+  offset: 0, 0
+  index: -1
+Head_red
+  rotate: false
+  xy: 2705, 3742
+  size: 174, 72
+  orig: 174, 72
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 2, 1570
+  size: 376, 1606
+  orig: 376, 1606
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 2, 1099
+  size: 469, 1289
+  orig: 469, 1289
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1751, 2706
+  size: 366, 291
+  orig: 366, 291
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 2300, 3221
+  size: 219, 218
+  orig: 219, 218
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 500, 3664
+  size: 104, 275
+  orig: 104, 275
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 2801, 1674
+  size: 477, 588
+  orig: 477, 588
+  offset: 0, 0
+  index: -1
+hair_shdow
+  rotate: false
+  xy: 1412, 3029
+  size: 270, 236
+  orig: 270, 236
+  offset: 0, 0
+  index: -1
+head_hairshadow
+  rotate: false
+  xy: 2289, 2978
+  size: 319, 238
+  orig: 319, 238
+  offset: 0, 0
+  index: -1
+headwear_flower
+  rotate: false
+  xy: 3833, 3570
+  size: 157, 156
+  orig: 157, 156
+  offset: 0, 0
+  index: -1
+headwear_ribbon
+  rotate: false
+  xy: 1280, 2384
+  size: 407, 353
+  orig: 407, 353
+  offset: 0, 0
+  index: -1
+headwear_ribbon1
+  rotate: true
+  xy: 3653, 2866
+  size: 262, 375
+  orig: 262, 375
+  offset: 0, 0
+  index: -1
+headwear_ribbon2
+  rotate: false
+  xy: 856, 3484
+  size: 296, 154
+  orig: 296, 154
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 496, 3505
+  size: 149, 358
+  orig: 149, 358
+  offset: 0, 0
+  index: -1
+helmet1
+  rotate: true
+  xy: 2070, 3447
+  size: 176, 326
+  orig: 176, 326
+  offset: 0, 0
+  index: -1
+helmet2
+  rotate: false
+  xy: 1086, 3033
+  size: 324, 232
+  orig: 324, 232
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 3391, 1663
+  size: 462, 615
+  orig: 462, 615
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: false
+  xy: 826, 203
+  size: 649, 554
+  orig: 649, 554
+  offset: 0, 0
+  index: -1
+weapon4
+  rotate: true
+  xy: 1984, 1799
+  size: 435, 815
+  orig: 435, 815
+  offset: 0, 0
+  index: -1
+weapon_flower
+  rotate: false
+  xy: 3008, 2959
+  size: 286, 257
+  orig: 286, 257
+  offset: 0, 0
+  index: -1
+weapon_flower1
+  rotate: true
+  xy: 2608, 3744
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+weapon_ribbon
+  rotate: true
+  xy: 2, 3335
+  size: 203, 250
+  orig: 203, 250
+  offset: 0, 0
+  index: -1
+weapon_ribbon10
+  rotate: true
+  xy: 644, 3770
+  size: 44, 149
+  orig: 44, 149
+  offset: 0, 0
+  index: -1
+weapon_ribbon11
+  rotate: true
+  xy: 1086, 3763
+  size: 51, 157
+  orig: 51, 157
+  offset: 0, 0
+  index: -1
+weapon_ribbon12
+  rotate: true
+  xy: 1630, 3750
+  size: 64, 160
+  orig: 64, 160
+  offset: 0, 0
+  index: -1
+weapon_ribbon13
+  rotate: false
+  xy: 2907, 3612
+  size: 139, 126
+  orig: 139, 126
+  offset: 0, 0
+  index: -1
+weapon_ribbon13B
+  rotate: true
+  xy: 211, 3777
+  size: 37, 135
+  orig: 37, 135
+  offset: 0, 0
+  index: -1
+weapon_ribbon14B
+  rotate: true
+  xy: 348, 3773
+  size: 41, 138
+  orig: 41, 138
+  offset: 0, 0
+  index: -1
+weapon_ribbon15B
+  rotate: true
+  xy: 1377, 3753
+  size: 61, 150
+  orig: 61, 150
+  offset: 0, 0
+  index: -1
+weapon_ribbon5
+  rotate: true
+  xy: 3269, 3398
+  size: 186, 365
+  orig: 186, 365
+  offset: 0, 0
+  index: -1
+weapon_ribbon7B
+  rotate: true
+  xy: 488, 3772
+  size: 42, 154
+  orig: 42, 154
+  offset: 0, 0
+  index: -1
+weapon_ribbon8B
+  rotate: true
+  xy: 897, 3765
+  size: 49, 187
+  orig: 49, 187
+  offset: 0, 0
+  index: -1
+weapon_ribbon9B
+  rotate: true
+  xy: 1792, 3748
+  size: 66, 134
+  orig: 66, 134
+  offset: 0, 0
+  index: -1
+
+Kura_Spine_Skin2_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_Cloth
+  rotate: false
+  xy: 2, 2414
+  size: 1401, 1680
+  orig: 1401, 1680
+  offset: 0, 0
+  index: -1
+01_Cloth_back
+  rotate: false
+  xy: 1252, 2
+  size: 900, 859
+  orig: 900, 859
+  offset: 0, 0
+  index: -1
+02_Cloth
+  rotate: false
+  xy: 2, 863
+  size: 1347, 1549
+  orig: 1347, 1549
+  offset: 0, 0
+  index: -1
+03_Cloth_F2
+  rotate: true
+  xy: 2, 143
+  size: 718, 1248
+  orig: 718, 1248
+  offset: 0, 0
+  index: -1
+03_Cloth_HandR_shadow
+  rotate: false
+  xy: 1405, 2991
+  size: 1038, 1103
+  orig: 1038, 1103
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 1351, 1000
+  size: 1028, 1412
+  orig: 1028, 1412
+  offset: 0, 0
+  index: -1

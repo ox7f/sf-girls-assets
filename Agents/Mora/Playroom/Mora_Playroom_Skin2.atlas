@@ -1,3 +1,926 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9012e07b4855ff2ff8d7226453a7d588c00c8315d05f90fc9bb1a7959328d68
-size 13701
+
+Mora_Playroom_Skin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dark_L_leg_2_ABC
+  rotate: true
+  xy: 1411, 763
+  size: 192, 595
+  orig: 192, 595
+  offset: 0, 0
+  index: -1
+dark_L_leg_2_D
+  rotate: true
+  xy: 1292, 569
+  size: 192, 595
+  orig: 192, 595
+  offset: 0, 0
+  index: -1
+dma_J_B
+  rotate: false
+  xy: 2, 1686
+  size: 238, 129
+  orig: 238, 139
+  offset: 0, 10
+  index: -1
+dma_J_D1_FLIP
+  rotate: true
+  xy: 862, 1615
+  size: 136, 281
+  orig: 136, 336
+  offset: 0, 55
+  index: -1
+dma_J_D3
+  rotate: true
+  xy: 924, 1286
+  size: 175, 271
+  orig: 175, 271
+  offset: 0, 0
+  index: -1
+dma_J_D3_sperm
+  rotate: true
+  xy: 1582, 1867
+  size: 102, 145
+  orig: 102, 145
+  offset: 0, 0
+  index: -1
+dma_L_arm_AB
+  rotate: true
+  xy: 1223, 1440
+  size: 141, 608
+  orig: 141, 608
+  offset: 0, 0
+  index: -1
+dma_L_arm_C
+  rotate: true
+  xy: 1679, 1723
+  size: 127, 364
+  orig: 127, 364
+  offset: 0, 0
+  index: -1
+dma_R_arm_AB1
+  rotate: true
+  xy: 1646, 957
+  size: 195, 400
+  orig: 195, 400
+  offset: 0, 0
+  index: -1
+dma_R_arm_C1
+  rotate: true
+  xy: 1552, 1583
+  size: 138, 424
+  orig: 138, 424
+  offset: 0, 0
+  index: -1
+dma_R_arm_C2
+  rotate: true
+  xy: 441, 200
+  size: 272, 307
+  orig: 272, 307
+  offset: 0, 0
+  index: -1
+dma_R_arm_C3
+  rotate: true
+  xy: 199, 1507
+  size: 138, 424
+  orig: 138, 424
+  offset: 0, 0
+  index: -1
+dma_R_hand_B1
+  rotate: true
+  xy: 1197, 1257
+  size: 181, 473
+  orig: 181, 475
+  offset: 0, 0
+  index: -1
+dma_R_hand_B2
+  rotate: true
+  xy: 309, 1929
+  size: 56, 115
+  orig: 56, 122
+  offset: 0, 7
+  index: -1
+dma_back_hair_5
+  rotate: false
+  xy: 2, 1824
+  size: 123, 120
+  orig: 123, 120
+  offset: 0, 0
+  index: -1
+oma_back_hair_5
+  rotate: false
+  xy: 2, 1824
+  size: 123, 120
+  orig: 123, 120
+  offset: 0, 0
+  index: -1
+dma_backhair_1
+  rotate: true
+  xy: 260, 912
+  size: 194, 427
+  orig: 194, 427
+  offset: 0, 0
+  index: -1
+dma_backhair_1shadow
+  rotate: true
+  xy: 689, 893
+  size: 194, 427
+  orig: 194, 427
+  offset: 0, 0
+  index: -1
+dma_backhair_2
+  rotate: true
+  xy: 1729, 1852
+  size: 108, 225
+  orig: 108, 225
+  offset: 0, 0
+  index: -1
+oma_backhair_2
+  rotate: true
+  xy: 1729, 1852
+  size: 108, 225
+  orig: 108, 225
+  offset: 0, 0
+  index: -1
+dma_backhair_3
+  rotate: true
+  xy: 667, 1294
+  size: 167, 255
+  orig: 167, 255
+  offset: 0, 0
+  index: -1
+oma_backhair_3
+  rotate: true
+  xy: 667, 1294
+  size: 167, 255
+  orig: 167, 255
+  offset: 0, 0
+  index: -1
+dma_backhair_4
+  rotate: true
+  xy: 510, 1783
+  size: 124, 239
+  orig: 124, 244
+  offset: 0, 0
+  index: -1
+dma_backhair_4shadow
+  rotate: true
+  xy: 751, 1764
+  size: 124, 239
+  orig: 124, 244
+  offset: 0, 0
+  index: -1
+dma_boobs_A
+  rotate: true
+  xy: 599, 474
+  size: 244, 277
+  orig: 244, 277
+  offset: 0, 0
+  index: -1
+dma_boobs_B
+  rotate: true
+  xy: 878, 347
+  size: 246, 276
+  orig: 246, 276
+  offset: 0, 0
+  index: -1
+dma_boobs_B2
+  rotate: true
+  xy: 992, 1753
+  size: 133, 183
+  orig: 165, 183
+  offset: 0, 0
+  index: -1
+dma_boobs_CD1
+  rotate: true
+  xy: 2, 934
+  size: 221, 256
+  orig: 221, 256
+  offset: 0, 0
+  index: -1
+dma_brL1
+  rotate: false
+  xy: 442, 1986
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+dma_brL2
+  rotate: false
+  xy: 195, 1993
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+dma_brL3
+  rotate: false
+  xy: 286, 1988
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+dma_brR1
+  rotate: false
+  xy: 88, 1994
+  size: 74, 17
+  orig: 74, 17
+  offset: 0, 0
+  index: -1
+dma_brR2
+  rotate: false
+  xy: 478, 1985
+  size: 81, 26
+  orig: 81, 26
+  offset: 0, 0
+  index: -1
+dma_brR3
+  rotate: false
+  xy: 1304, 1972
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+dma_breathe
+  rotate: false
+  xy: 1672, 1154
+  size: 266, 210
+  orig: 266, 210
+  offset: 0, 0
+  index: -1
+dma_crown
+  rotate: false
+  xy: 127, 1817
+  size: 246, 110
+  orig: 246, 110
+  offset: 0, 0
+  index: -1
+dma_eyeL1
+  rotate: false
+  xy: 666, 1982
+  size: 45, 29
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+dma_eyeL2
+  rotate: false
+  xy: 961, 1975
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+dma_eyeL3
+  rotate: false
+  xy: 1013, 1975
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+dma_eyeR1
+  rotate: false
+  xy: 96, 1946
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+dma_eyeR2
+  rotate: false
+  xy: 1861, 1968
+  size: 92, 43
+  orig: 92, 43
+  offset: 0, 0
+  index: -1
+dma_eyeR3
+  rotate: false
+  xy: 2, 1949
+  size: 92, 43
+  orig: 92, 43
+  offset: 0, 0
+  index: -1
+dma_fronthair_2
+  rotate: false
+  xy: 625, 1476
+  size: 174, 169
+  orig: 174, 169
+  offset: 0, 0
+  index: -1
+dma_fronthair_3
+  rotate: true
+  xy: 585, 1909
+  size: 70, 236
+  orig: 70, 236
+  offset: 0, 0
+  index: -1
+dma_head_B
+  rotate: true
+  xy: 1685, 2
+  size: 295, 305
+  orig: 295, 305
+  offset: 0, 0
+  index: -1
+dma_mouth1
+  rotate: true
+  xy: 757, 1981
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+dma_mouth2
+  rotate: false
+  xy: 325, 1987
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dma_mouth3
+  rotate: false
+  xy: 1812, 1969
+  size: 47, 42
+  orig: 48, 45
+  offset: 1, 3
+  index: -1
+dma_nose
+  rotate: true
+  xy: 235, 1992
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+dma_saliva
+  rotate: true
+  xy: 1756, 1970
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+dma_sperm_booba
+  rotate: false
+  xy: 1833, 1366
+  size: 173, 215
+  orig: 173, 215
+  offset: 0, 0
+  index: -1
+dma_sperm_mouth
+  rotate: false
+  xy: 908, 1890
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+dma_spermlegL
+  rotate: false
+  xy: 426, 1915
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+oma_sperm_legL
+  rotate: false
+  xy: 426, 1915
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+dma_spermlegR
+  rotate: false
+  xy: 375, 1783
+  size: 133, 127
+  orig: 133, 127
+  offset: 0, 0
+  index: -1
+oma_sperm_legR
+  rotate: false
+  xy: 375, 1783
+  size: 133, 127
+  orig: 133, 127
+  offset: 0, 0
+  index: -1
+dma_tongue
+  rotate: false
+  xy: 923, 1976
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+oma_J_B
+  rotate: false
+  xy: 1438, 1739
+  size: 239, 126
+  orig: 239, 136
+  offset: 0, 10
+  index: -1
+oma_J_D3
+  rotate: true
+  xy: 389, 1310
+  size: 164, 276
+  orig: 168, 276
+  offset: 0, 0
+  index: -1
+oma_J_D3_sperm
+  rotate: true
+  xy: 1334, 1873
+  size: 96, 136
+  orig: 96, 136
+  offset: 0, 0
+  index: -1
+oma_L_arm_A2
+  rotate: true
+  xy: 2, 256
+  size: 268, 437
+  orig: 268, 437
+  offset: 0, 0
+  index: -1
+oma_L_arm_AB1
+  rotate: true
+  xy: 2, 1157
+  size: 195, 377
+  orig: 195, 377
+  offset: 0, 0
+  index: -1
+oma_L_arm_AB2
+  rotate: true
+  xy: 805, 1089
+  size: 195, 377
+  orig: 195, 377
+  offset: 0, 0
+  index: -1
+oma_L_arm_C1
+  rotate: true
+  xy: 801, 1463
+  size: 141, 420
+  orig: 141, 420
+  offset: 0, 0
+  index: -1
+oma_L_arm_C2
+  rotate: false
+  xy: 1434, 316
+  size: 317, 251
+  orig: 317, 251
+  offset: 0, 0
+  index: -1
+oma_L_hand_B1
+  rotate: true
+  xy: 1184, 1065
+  size: 190, 460
+  orig: 200, 463
+  offset: 10, 0
+  index: -1
+oma_L_hand_B2
+  rotate: true
+  xy: 192, 1935
+  size: 51, 115
+  orig: 51, 123
+  offset: 0, 8
+  index: -1
+oma_L_leg_1 ABC
+  rotate: false
+  xy: 1086, 38
+  size: 597, 276
+  orig: 597, 276
+  offset: 0, 0
+  index: -1
+oma_R_arm_AB
+  rotate: true
+  xy: 242, 1647
+  size: 115, 618
+  orig: 115, 618
+  offset: 0, 0
+  index: -1
+oma_R_leg_2
+  rotate: true
+  xy: 2, 526
+  size: 192, 595
+  orig: 192, 595
+  offset: 0, 0
+  index: -1
+oma_back_hair_6
+  rotate: true
+  xy: 1226, 1875
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+oma_back_hair_7
+  rotate: true
+  xy: 1145, 1606
+  size: 139, 240
+  orig: 139, 240
+  offset: 0, 0
+  index: -1
+oma_back_hair_8
+  rotate: false
+  xy: 502, 1912
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+oma_back_hat
+  rotate: false
+  xy: 1472, 1872
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+oma_backhair_1
+  rotate: true
+  xy: 381, 1108
+  size: 184, 422
+  orig: 184, 422
+  offset: 0, 0
+  index: -1
+oma_backhair_4
+  rotate: true
+  xy: 1177, 1747
+  size: 124, 259
+  orig: 124, 259
+  offset: 0, 0
+  index: -1
+oma_blouse_1
+  rotate: false
+  xy: 2, 1354
+  size: 385, 151
+  orig: 385, 151
+  offset: 0, 0
+  index: -1
+oma_boobs_A
+  rotate: true
+  xy: 1156, 321
+  size: 246, 276
+  orig: 246, 276
+  offset: 0, 0
+  index: -1
+oma_boobs_D1
+  rotate: true
+  xy: 1010, 595
+  size: 236, 280
+  orig: 236, 280
+  offset: 0, 0
+  index: -1
+oma_brL1
+  rotate: true
+  xy: 594, 1983
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+oma_brL2
+  rotate: false
+  xy: 885, 1977
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+oma_brL3
+  rotate: true
+  xy: 1065, 1975
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+oma_brR1
+  rotate: false
+  xy: 2, 1995
+  size: 84, 16
+  orig: 84, 16
+  offset: 0, 0
+  index: -1
+oma_brR2
+  rotate: false
+  xy: 359, 1987
+  size: 81, 24
+  orig: 81, 24
+  offset: 0, 0
+  index: -1
+oma_brR3
+  rotate: false
+  xy: 796, 1981
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+oma_breathe
+  rotate: false
+  xy: 1118, 833
+  size: 291, 230
+  orig: 291, 230
+  offset: 0, 0
+  index: -1
+oma_dress_D
+  rotate: true
+  xy: 1753, 299
+  size: 268, 285
+  orig: 268, 285
+  offset: 0, 0
+  index: -1
+oma_eyeL1
+  rotate: false
+  xy: 1259, 1973
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+oma_eyeL2
+  rotate: false
+  xy: 1106, 1975
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+oma_eyeL3
+  rotate: false
+  xy: 1156, 1975
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+oma_eyeR1
+  rotate: false
+  xy: 1955, 1962
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+oma_eyeR2
+  rotate: false
+  xy: 1382, 1971
+  size: 89, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1
+oma_eyeR3
+  rotate: false
+  xy: 1473, 1971
+  size: 89, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1
+oma_fronthair_2
+  rotate: true
+  xy: 2, 1533
+  size: 151, 195
+  orig: 151, 195
+  offset: 0, 0
+  index: -1
+oma_fronthair_3
+  rotate: true
+  xy: 996, 1888
+  size: 85, 228
+  orig: 85, 228
+  offset: 0, 0
+  index: -1
+oma_head_B
+  rotate: true
+  xy: 750, 72
+  size: 273, 334
+  orig: 273, 334
+  offset: 0, 0
+  index: -1
+oma_mouth
+  rotate: true
+  xy: 561, 1984
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+oma_mouth2
+  rotate: true
+  xy: 263, 1992
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+oma_mouth3
+  rotate: false
+  xy: 713, 1982
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+oma_nose
+  rotate: true
+  xy: 164, 1994
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+oma_saliva
+  rotate: true
+  xy: 1206, 1975
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+oma_sperm_arm
+  rotate: true
+  xy: 1564, 1971
+  size: 40, 190
+  orig: 40, 190
+  offset: 0, 0
+  index: -1
+oma_sperm_booba
+  rotate: true
+  xy: 1387, 1588
+  size: 149, 163
+  orig: 149, 163
+  offset: 0, 0
+  index: -1
+oma_sperm_mouth
+  rotate: true
+  xy: 823, 1895
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+oma_tongue
+  rotate: true
+  xy: 628, 1983
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 720
+  size: 1006, 171
+  orig: 1006, 171
+  offset: 0, 0
+  index: -1
+
+Mora_Playroom_Skin2_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dark_R_leg_2_ABC
+  rotate: true
+  xy: 973, 1468
+  size: 320, 552
+  orig: 320, 552
+  offset: 0, 0
+  index: -1
+dark_R_leg_2_D
+  rotate: true
+  xy: 2, 1148
+  size: 320, 552
+  orig: 320, 552
+  offset: 0, 0
+  index: -1
+dma_L_leg_1_ABC
+  rotate: false
+  xy: 679, 803
+  size: 529, 329
+  orig: 529, 329
+  offset: 0, 0
+  index: -1
+dma_L_leg_1_D
+  rotate: false
+  xy: 1210, 803
+  size: 529, 329
+  orig: 529, 329
+  offset: 0, 0
+  index: -1
+dma_R_leg_1_ABC
+  rotate: false
+  xy: 1110, 1134
+  size: 675, 323
+  orig: 675, 323
+  offset: 0, 0
+  index: -1
+dma_R_leg_1_D
+  rotate: false
+  xy: 2, 821
+  size: 675, 323
+  orig: 675, 323
+  offset: 0, 0
+  index: -1
+dma_body_AB
+  rotate: true
+  xy: 2, 45
+  size: 409, 951
+  orig: 409, 951
+  offset: 0, 0
+  index: -1
+dma_body_C
+  rotate: true
+  xy: 955, 2
+  size: 409, 951
+  orig: 409, 951
+  offset: 0, 0
+  index: -1
+dma_fronthair_1
+  rotate: true
+  xy: 499, 1470
+  size: 318, 472
+  orig: 318, 472
+  offset: 0, 0
+  index: -1
+oma_L_leg_2
+  rotate: true
+  xy: 556, 1146
+  size: 320, 552
+  orig: 320, 552
+  offset: 0, 0
+  index: -1
+oma_R_leg_1
+  rotate: false
+  xy: 1527, 1459
+  size: 501, 329
+  orig: 501, 329
+  offset: 0, 0
+  index: -1
+oma_blouse_2
+  rotate: false
+  xy: 1371, 413
+  size: 425, 388
+  orig: 425, 388
+  offset: 0, 0
+  index: -1
+oma_body
+  rotate: true
+  xy: 2, 456
+  size: 345, 974
+  orig: 345, 974
+  offset: 0, 0
+  index: -1
+oma_dress_ABC
+  rotate: true
+  xy: 978, 426
+  size: 375, 391
+  orig: 375, 391
+  offset: 0, 0
+  index: -1
+oma_fronthair_1
+  rotate: true
+  xy: 2, 1507
+  size: 281, 495
+  orig: 281, 495
+  offset: 0, 0
+  index: -1
+
+Mora_Playroom_Skin2_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LL_curtain_1
+  rotate: true
+  xy: 2, 706
+  size: 436, 1122
+  orig: 476, 1122
+  offset: 40, 0
+  index: -1
+L_curtain_1
+  rotate: true
+  xy: 2, 228
+  size: 476, 1373
+  orig: 476, 1373
+  offset: 0, 0
+  index: -1
+L_curtain_2
+  rotate: false
+  xy: 1377, 2
+  size: 608, 1551
+  orig: 608, 1551
+  offset: 0, 0
+  index: -1
+dma_body_D
+  rotate: true
+  xy: 2, 1144
+  size: 409, 951
+  orig: 409, 951
+  offset: 0, 0
+  index: -1
+
+Mora_Playroom_Skin2_4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mirror
+  rotate: false
+  xy: 2, 2
+  size: 1483, 1653
+  orig: 1483, 1653
+  offset: 0, 0
+  index: -1
+
+Mora_Playroom_Skin2_5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_curtain
+  rotate: true
+  xy: 2, 2
+  size: 696, 1654
+  orig: 696, 1654
+  offset: 0, 0
+  index: -1
+table_M
+  rotate: false
+  xy: 2, 700
+  size: 1925, 769
+  orig: 1925, 769
+  offset: 0, 0
+  index: -1

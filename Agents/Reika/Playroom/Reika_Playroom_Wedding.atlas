@@ -1,3 +1,424 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3aa33e7a27a28424f06debb9737e07b123833e825d8b1eeee0c3c0f71a06bbea
-size 6140
+
+Reika_Playroom_Wedding.png
+size: 2040,2040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_R
+  rotate: true
+  xy: 692, 1703
+  size: 180, 196
+  orig: 180, 196
+  offset: 0, 0
+  index: -1
+Arm_R-2
+  rotate: false
+  xy: 2, 1534
+  size: 482, 199
+  orig: 482, 212
+  offset: 0, 0
+  index: -1
+BG_Curtain
+  rotate: true
+  xy: 2, 854
+  size: 364, 855
+  orig: 364, 855
+  offset: 0, 0
+  index: -1
+BG_Petals01
+  rotate: false
+  xy: 44, 2003
+  size: 73, 32
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+BG_Petals02
+  rotate: false
+  xy: 248, 2001
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+BG_Petals03
+  rotate: false
+  xy: 891, 1985
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+BG_Petals04
+  rotate: false
+  xy: 119, 2003
+  size: 66, 32
+  orig: 66, 33
+  offset: 0, 1
+  index: -1
+BG_Petals05
+  rotate: false
+  xy: 1388, 1978
+  size: 71, 57
+  orig: 71, 58
+  offset: 0, 1
+  index: -1
+BG_Petals06
+  rotate: false
+  xy: 2, 2013
+  size: 40, 22
+  orig: 42, 22
+  offset: 1, 0
+  index: -1
+BG_Petals07
+  rotate: false
+  xy: 1237, 1984
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+BG_Petals08
+  rotate: false
+  xy: 1314, 1983
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+BG_Petals09
+  rotate: false
+  xy: 950, 1985
+  size: 68, 50
+  orig: 69, 50
+  offset: 1, 0
+  index: -1
+Bowknot
+  rotate: true
+  xy: 1068, 1145
+  size: 269, 299
+  orig: 269, 299
+  offset: 0, 0
+  index: -1
+Bowknot_BL
+  rotate: true
+  xy: 1695, 953
+  size: 397, 298
+  orig: 397, 298
+  offset: 0, 0
+  index: -1
+Bowknot_BR
+  rotate: true
+  xy: 2, 1746
+  size: 161, 227
+  orig: 161, 227
+  offset: 0, 0
+  index: -1
+Breasts_L
+  rotate: false
+  xy: 1731, 1352
+  size: 288, 242
+  orig: 292, 248
+  offset: 4, 3
+  index: -1
+Breasts_R
+  rotate: false
+  xy: 486, 1483
+  size: 334, 218
+  orig: 334, 218
+  offset: 0, 0
+  index: -1
+Breasts_R-2
+  rotate: false
+  xy: 1096, 1416
+  size: 282, 218
+  orig: 285, 218
+  offset: 3, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 1461, 1978
+  size: 63, 57
+  orig: 66, 60
+  offset: 3, 3
+  index: -1
+F1_Blush
+  rotate: false
+  xy: 551, 1995
+  size: 170, 40
+  orig: 170, 40
+  offset: 0, 0
+  index: -1
+F1_BlushBig
+  rotate: false
+  xy: 696, 1885
+  size: 203, 98
+  orig: 210, 103
+  offset: 5, 2
+  index: -1
+F1_Facial
+  rotate: false
+  xy: 890, 1702
+  size: 212, 169
+  orig: 212, 169
+  offset: 0, 0
+  index: -1
+F2_Blush
+  rotate: false
+  xy: 379, 1998
+  size: 170, 37
+  orig: 171, 38
+  offset: 1, 0
+  index: -1
+F2_BlushBig
+  rotate: false
+  xy: 901, 1873
+  size: 209, 110
+  orig: 213, 115
+  offset: 2, 2
+  index: -1
+F2_Facial
+  rotate: false
+  xy: 1689, 1783
+  size: 207, 157
+  orig: 207, 157
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 2, 1284
+  size: 248, 307
+  orig: 248, 307
+  offset: 0, 0
+  index: -1
+Flower
+  rotate: false
+  xy: 1636, 1596
+  size: 198, 185
+  orig: 198, 185
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 200, 1909
+  size: 242, 87
+  orig: 246, 100
+  offset: 3, 5
+  index: -1
+Hair01
+  rotate: true
+  xy: 460, 1735
+  size: 163, 230
+  orig: 163, 230
+  offset: 0, 0
+  index: -1
+Hair01_S
+  rotate: true
+  xy: 1883, 1942
+  size: 93, 152
+  orig: 93, 152
+  offset: 0, 0
+  index: -1
+Hair02
+  rotate: true
+  xy: 1322, 1636
+  size: 179, 312
+  orig: 181, 312
+  offset: 2, 0
+  index: -1
+Hair03
+  rotate: true
+  xy: 2, 1927
+  size: 73, 196
+  orig: 73, 196
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: true
+  xy: 859, 744
+  size: 399, 428
+  orig: 399, 428
+  offset: 0, 0
+  index: -1
+Hair_F
+  rotate: false
+  xy: 1369, 1062
+  size: 324, 290
+  orig: 324, 290
+  offset: 0, 0
+  index: -1
+Hair_M
+  rotate: true
+  xy: 1104, 1670
+  size: 174, 216
+  orig: 174, 216
+  offset: 0, 0
+  index: -1
+Hair_MS
+  rotate: false
+  xy: 231, 1736
+  size: 227, 162
+  orig: 227, 162
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 822, 1474
+  size: 272, 226
+  orig: 272, 226
+  offset: 0, 0
+  index: -1
+Hand_LB
+  rotate: true
+  xy: 287, 1999
+  size: 36, 90
+  orig: 46, 90
+  offset: 10, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 594, 171
+  size: 983, 479
+  orig: 983, 479
+  offset: 0, 0
+  index: -1
+Liquid_01
+  rotate: true
+  xy: 1526, 1965
+  size: 70, 198
+  orig: 70, 200
+  offset: 0, 1
+  index: -1
+Liquid_02
+  rotate: true
+  xy: 1020, 1985
+  size: 50, 215
+  orig: 57, 216
+  offset: 6, 1
+  index: -1
+Liquid_02-1
+  rotate: true
+  xy: 1504, 1817
+  size: 146, 183
+  orig: 146, 183
+  offset: 0, 0
+  index: -1
+Liquid_02-2
+  rotate: true
+  xy: 723, 1989
+  size: 46, 166
+  orig: 47, 167
+  offset: 0, 0
+  index: -1
+Liquid_03
+  rotate: false
+  xy: 1289, 652
+  size: 403, 408
+  orig: 403, 408
+  offset: 0, 0
+  index: -1
+Liquid_04
+  rotate: true
+  xy: 444, 1900
+  size: 93, 250
+  orig: 93, 250
+  offset: 0, 0
+  index: -1
+Man_Hand
+  rotate: true
+  xy: 2, 321
+  size: 531, 590
+  orig: 531, 590
+  offset: 0, 0
+  index: -1
+Penis_01
+  rotate: false
+  xy: 1259, 1846
+  size: 243, 130
+  orig: 243, 130
+  offset: 0, 0
+  index: -1
+Penis_02
+  rotate: false
+  xy: 311, 1232
+  size: 304, 249
+  orig: 304, 249
+  offset: 0, 0
+  index: -1
+Ribbon_L
+  rotate: true
+  xy: 1112, 1858
+  size: 124, 145
+  orig: 130, 145
+  offset: 6, 0
+  index: -1
+RingShine
+  rotate: true
+  xy: 187, 2002
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+Surroundings_05
+  rotate: false
+  xy: 617, 1220
+  size: 449, 252
+  orig: 449, 252
+  offset: 0, 0
+  index: -1
+UpArm_R-2
+  rotate: false
+  xy: 1380, 1354
+  size: 349, 240
+  orig: 350, 241
+  offset: 0, 0
+  index: -1
+Vaginal
+  rotate: true
+  xy: 1726, 1964
+  size: 71, 155
+  orig: 71, 155
+  offset: 0, 0
+  index: -1
+
+Reika_Playroom_Wedding_2.png
+size: 1768,1768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 770, 1041
+  size: 995, 724
+  orig: 1005, 724
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 2, 1046
+  size: 719, 766
+  orig: 719, 766
+  offset: 0, 0
+  index: -1
+Surroundings_04
+  rotate: false
+  xy: 2, 192
+  size: 1491, 847
+  orig: 1539, 855
+  offset: 29, 0
+  index: -1
+
+Reika_Playroom_Wedding_3.png
+size: 1992,1992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_Bed
+  rotate: false
+  xy: 2, 102
+  size: 1985, 962
+  orig: 1985, 962
+  offset: 0, 0
+  index: -1
+Liquid
+  rotate: true
+  xy: 2, 1066
+  size: 921, 930
+  orig: 921, 930
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,299 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6505654e40791925af6ee70212394a1e609695330d5f7d81598cd3be68ca9aba
-size 4386
+
+Noa_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_R
+  rotate: false
+  xy: 2062, 2991
+  size: 355, 355
+  orig: 355, 355
+  offset: 0, 0
+  index: -1
+blush
+  rotate: false
+  xy: 3180, 3315
+  size: 416, 219
+  orig: 438, 223
+  offset: 9, 1
+  index: -1
+boob_L
+  rotate: true
+  xy: 1250, 3035
+  size: 327, 369
+  orig: 352, 380
+  offset: 0, 0
+  index: -1
+boob_R
+  rotate: true
+  xy: 2419, 2960
+  size: 365, 430
+  orig: 435, 524
+  offset: 35, 43
+  index: -1
+clif_L
+  rotate: true
+  xy: 590, 2648
+  size: 385, 872
+  orig: 407, 872
+  offset: 2, 0
+  index: -1
+dress
+  rotate: false
+  xy: 2512, 762
+  size: 1526, 845
+  orig: 1526, 845
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 326, 3471
+  size: 101, 63
+  orig: 101, 63
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 509, 3459
+  size: 125, 75
+  orig: 125, 76
+  offset: 0, 1
+  index: -1
+eye_br_L
+  rotate: false
+  xy: 57, 3496
+  size: 150, 38
+  orig: 150, 38
+  offset: 0, 0
+  index: -1
+eye_br_R
+  rotate: false
+  xy: 209, 3481
+  size: 115, 53
+  orig: 115, 53
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 2682
+  size: 462, 586
+  orig: 566, 723
+  offset: 49, 72
+  index: -1
+hair_back_a
+  rotate: true
+  xy: 2, 512
+  size: 860, 881
+  orig: 860, 896
+  offset: 0, 0
+  index: -1
+hair_back_c2
+  rotate: false
+  xy: 2077, 1707
+  size: 901, 744
+  orig: 1275, 1376
+  offset: 246, 502
+  index: -1
+hair_back_d
+  rotate: false
+  xy: 1044, 1768
+  size: 1031, 683
+  orig: 1031, 683
+  offset: 0, 0
+  index: -1
+hair_back_e
+  rotate: true
+  xy: 2980, 1609
+  size: 790, 926
+  orig: 790, 950
+  offset: 0, 0
+  index: -1
+hair_back_f
+  rotate: true
+  xy: 885, 931
+  size: 774, 1625
+  orig: 827, 1639
+  offset: 0, 0
+  index: -1
+hair_back_g
+  rotate: false
+  xy: 2, 1374
+  size: 881, 804
+  orig: 881, 806
+  offset: 0, 0
+  index: -1
+hair_front_a
+  rotate: true
+  xy: 1079, 3384
+  size: 150, 317
+  orig: 150, 323
+  offset: 0, 0
+  index: -1
+hair_front_b
+  rotate: true
+  xy: 2, 3222
+  size: 235, 509
+  orig: 354, 634
+  offset: 84, 59
+  index: -1
+hair_front_c
+  rotate: true
+  xy: 1398, 3364
+  size: 170, 258
+  orig: 171, 260
+  offset: 1, 0
+  index: -1
+hair_front_d
+  rotate: true
+  xy: 1963, 3348
+  size: 186, 459
+  orig: 381, 791
+  offset: 0, 321
+  index: -1
+hair_front_d2
+  rotate: true
+  xy: 2851, 2921
+  size: 378, 782
+  orig: 381, 791
+  offset: 3, 9
+  index: -1
+hair_front_e
+  rotate: false
+  xy: 1658, 3357
+  size: 303, 177
+  orig: 303, 177
+  offset: 0, 0
+  index: -1
+hair_side
+  rotate: true
+  xy: 636, 3416
+  size: 118, 441
+  orig: 182, 709
+  offset: 0, 0
+  index: -1
+hat_back
+  rotate: false
+  xy: 2042, 2453
+  size: 1040, 466
+  orig: 1040, 466
+  offset: 0, 0
+  index: -1
+hat_front
+  rotate: false
+  xy: 2, 2180
+  size: 1040, 466
+  orig: 1040, 466
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 885, 2
+  size: 758, 2153
+  orig: 758, 2153
+  offset: 0, 0
+  index: -1
+man_part
+  rotate: false
+  xy: 820, 3063
+  size: 428, 319
+  orig: 428, 319
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 429, 3463
+  size: 71, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 2, 3503
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+pussy
+  rotate: true
+  xy: 2424, 3327
+  size: 207, 376
+  orig: 256, 459
+  offset: 15, 42
+  index: -1
+pussy_front
+  rotate: true
+  xy: 2802, 3327
+  size: 207, 376
+  orig: 256, 459
+  offset: 15, 42
+  index: -1
+semen１
+  rotate: false
+  xy: 3084, 2401
+  size: 827, 518
+  orig: 827, 518
+  offset: 0, 0
+  index: -1
+semen２
+  rotate: true
+  xy: 3598, 3301
+  size: 233, 359
+  orig: 233, 359
+  offset: 0, 0
+  index: -1
+smoke_a
+  rotate: false
+  xy: 1621, 3008
+  size: 439, 338
+  orig: 439, 338
+  offset: 0, 0
+  index: -1
+smoke_b
+  rotate: false
+  xy: 513, 3146
+  size: 305, 268
+  orig: 305, 268
+  offset: 0, 0
+  index: -1
+smoke_c
+  rotate: true
+  xy: 1464, 2494
+  size: 512, 576
+  orig: 512, 576
+  offset: 0, 0
+  index: -1
+
+Noa_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 1065
+  size: 1252, 1637
+  orig: 1252, 1637
+  offset: 0, 0
+  index: -1
+hair_back_b
+  rotate: false
+  xy: 1259, 27
+  size: 983, 1615
+  orig: 1204, 1980
+  offset: 92, 173
+  index: -1
+hair_back_c
+  rotate: true
+  xy: 1256, 1644
+  size: 1058, 1104
+  orig: 1275, 1376
+  offset: 90, 135
+  index: -1
+leg_L
+  rotate: true
+  xy: 2, 2
+  size: 1061, 1255
+  orig: 1061, 1255
+  offset: 0, 0
+  index: -1

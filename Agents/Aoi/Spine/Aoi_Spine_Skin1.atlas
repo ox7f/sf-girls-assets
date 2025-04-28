@@ -1,3 +1,286 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d5d28ec503d58980ddd2e0f55b6901607e4afa44391beba85d3b3839d867633
-size 4011
+
+Aoi_Spine_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm01
+  rotate: false
+  xy: 683, 19
+  size: 208, 229
+  orig: 216, 240
+  offset: 0, 1
+  index: -1
+L_arm02
+  rotate: true
+  xy: 1333, 486
+  size: 194, 225
+  orig: 210, 240
+  offset: 15, 15
+  index: -1
+L_breast
+  rotate: true
+  xy: 893, 5
+  size: 136, 123
+  orig: 136, 123
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: true
+  xy: 401, 384
+  size: 215, 298
+  orig: 228, 298
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 1756, 1293
+  size: 259, 362
+  orig: 305, 362
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 2, 1023
+  size: 381, 760
+  orig: 450, 760
+  offset: 3, 0
+  index: -1
+L_leg2
+  rotate: true
+  xy: 840, 682
+  size: 381, 760
+  orig: 450, 760
+  offset: 3, 0
+  index: -1
+R_arm01
+  rotate: false
+  xy: 1324, 147
+  size: 218, 147
+  orig: 240, 150
+  offset: 18, 3
+  index: -1
+R_arm02
+  rotate: true
+  xy: 893, 143
+  size: 166, 201
+  orig: 168, 210
+  offset: 0, 9
+  index: -1
+R_breast
+  rotate: false
+  xy: 674, 250
+  size: 114, 120
+  orig: 114, 120
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 1602, 633
+  size: 107, 430
+  orig: 107, 430
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 841, 1556
+  size: 913, 489
+  orig: 960, 510
+  offset: 21, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 841, 1065
+  size: 913, 489
+  orig: 960, 510
+  offset: 21, 0
+  index: -1
+ballon
+  rotate: false
+  xy: 2, 1406
+  size: 837, 639
+  orig: 837, 639
+  offset: 0, 0
+  index: -1
+belt1
+  rotate: false
+  xy: 764, 1121
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+belt2
+  rotate: true
+  xy: 708, 679
+  size: 286, 80
+  orig: 286, 80
+  offset: 0, 0
+  index: -1
+belt3
+  rotate: false
+  xy: 764, 1199
+  size: 71, 92
+  orig: 71, 92
+  offset: 0, 0
+  index: -1
+belt4
+  rotate: true
+  xy: 764, 967
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1711, 454
+  size: 303, 534
+  orig: 304, 536
+  offset: 1, 1
+  index: -1
+breast
+  rotate: true
+  xy: 184, 74
+  size: 234, 213
+  orig: 234, 213
+  offset: 0, 0
+  index: -1
+cloth1
+  rotate: false
+  xy: 2, 310
+  size: 397, 314
+  orig: 397, 360
+  offset: 0, 24
+  index: -1
+cloth2
+  rotate: true
+  xy: 406, 601
+  size: 420, 300
+  orig: 420, 300
+  offset: 0, 0
+  index: -1
+cloth3
+  rotate: false
+  xy: 399, 2
+  size: 282, 169
+  orig: 282, 169
+  offset: 0, 0
+  index: -1
+cloth4
+  rotate: true
+  xy: 2, 8
+  size: 300, 180
+  orig: 300, 180
+  offset: 0, 0
+  index: -1
+cloth5
+  rotate: false
+  xy: 1096, 136
+  size: 210, 150
+  orig: 210, 150
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1333, 296
+  size: 222, 188
+  orig: 240, 210
+  offset: 9, 11
+  index: -1
+eye2
+  rotate: false
+  xy: 1100, 288
+  size: 222, 188
+  orig: 240, 210
+  offset: 9, 11
+  index: -1
+eye3
+  rotate: false
+  xy: 1100, 478
+  size: 231, 202
+  orig: 240, 210
+  offset: 0, 4
+  index: -1
+face
+  rotate: false
+  xy: 1756, 990
+  size: 250, 301
+  orig: 250, 301
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 1557, 205
+  size: 143, 184
+  orig: 145, 184
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 2, 626
+  size: 395, 402
+  orig: 395, 402
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 790, 311
+  size: 308, 369
+  orig: 308, 369
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: true
+  xy: 1756, 1657
+  size: 388, 281
+  orig: 388, 281
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 401, 173
+  size: 271, 209
+  orig: 271, 209
+  offset: 0, 0
+  index: -1
+hat3
+  rotate: true
+  xy: 1895, 264
+  size: 188, 146
+  orig: 188, 146
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 764, 1293
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+scarf1
+  rotate: false
+  xy: 764, 1049
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+scarf2
+  rotate: true
+  xy: 1702, 278
+  size: 174, 191
+  orig: 174, 191
+  offset: 0, 0
+  index: -1
+scarf3
+  rotate: true
+  xy: 1560, 391
+  size: 240, 140
+  orig: 240, 140
+  offset: 0, 0
+  index: -1
+scarf4
+  rotate: true
+  xy: 701, 372
+  size: 227, 86
+  orig: 227, 86
+  offset: 0, 0
+  index: -1

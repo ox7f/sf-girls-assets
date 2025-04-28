@@ -1,3 +1,411 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98aa102cd118cbaf98d39ed79632980dbfb5ce564eb6081d9088f9aafeaa6157
-size 6103
+
+Akina_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 3385, 2692
+  size: 341, 397
+  orig: 341, 397
+  offset: 0, 0
+  index: -1
+BG_Word
+  rotate: true
+  xy: 2201, 1755
+  size: 576, 597
+  orig: 576, 597
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1884, 611
+  size: 1249, 1005
+  orig: 1249, 1005
+  offset: 0, 0
+  index: -1
+Body_Shadow
+  rotate: false
+  xy: 2042, 2333
+  size: 818, 378
+  orig: 818, 378
+  offset: 0, 0
+  index: -1
+Breasts_L
+  rotate: true
+  xy: 526, 2024
+  size: 416, 506
+  orig: 416, 506
+  offset: 0, 0
+  index: -1
+EarPhone_L
+  rotate: false
+  xy: 922, 3166
+  size: 349, 237
+  orig: 349, 237
+  offset: 0, 0
+  index: -1
+EarPhone_R
+  rotate: false
+  xy: 249, 3194
+  size: 271, 237
+  orig: 271, 237
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 1830, 2749
+  size: 500, 312
+  orig: 500, 312
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: true
+  xy: 522, 3178
+  size: 227, 398
+  orig: 227, 398
+  offset: 0, 0
+  index: -1
+Hair_BL
+  rotate: false
+  xy: 1515, 2377
+  size: 525, 370
+  orig: 525, 370
+  offset: 0, 0
+  index: -1
+Hair_BL_2
+  rotate: false
+  xy: 1296, 3369
+  size: 204, 150
+  orig: 204, 150
+  offset: 0, 0
+  index: -1
+Hair_BR
+  rotate: false
+  xy: 1831, 3074
+  size: 292, 279
+  orig: 292, 279
+  offset: 0, 0
+  index: -1
+Hair_BR_2
+  rotate: false
+  xy: 1008, 3405
+  size: 286, 114
+  orig: 286, 114
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: false
+  xy: 1034, 1907
+  size: 643, 468
+  orig: 643, 468
+  offset: 0, 0
+  index: -1
+Hair_L_Shadow
+  rotate: true
+  xy: 193, 3461
+  size: 58, 122
+  orig: 58, 122
+  offset: 0, 0
+  index: -1
+Hair_M
+  rotate: false
+  xy: 1273, 3128
+  size: 305, 238
+  orig: 305, 238
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: false
+  xy: 2897, 3305
+  size: 295, 214
+  orig: 295, 214
+  offset: 0, 0
+  index: -1
+Hair_R_Shadow
+  rotate: false
+  xy: 33, 3476
+  size: 101, 43
+  orig: 101, 43
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: true
+  xy: 944, 2821
+  size: 305, 470
+  orig: 305, 470
+  offset: 0, 0
+  index: -1
+Helmet_BL
+  rotate: false
+  xy: 859, 3407
+  size: 147, 112
+  orig: 147, 112
+  offset: 0, 0
+  index: -1
+Helmet_BR
+  rotate: false
+  xy: 461, 3433
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+Helmet_L
+  rotate: false
+  xy: 2332, 2713
+  size: 577, 333
+  orig: 577, 333
+  offset: 0, 0
+  index: -1
+Helmet_R
+  rotate: false
+  xy: 2125, 3063
+  size: 477, 252
+  orig: 477, 252
+  offset: 0, 0
+  index: -1
+Horn_L
+  rotate: false
+  xy: 1902, 3355
+  size: 264, 164
+  orig: 264, 164
+  offset: 0, 0
+  index: -1
+Horn_R
+  rotate: false
+  xy: 554, 3417
+  size: 303, 102
+  orig: 303, 102
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 453, 2898
+  size: 489, 266
+  orig: 489, 266
+  offset: 0, 0
+  index: -1
+Lv1_Arm_R
+  rotate: false
+  xy: 3261, 3035
+  size: 733, 257
+  orig: 733, 257
+  offset: 0, 0
+  index: -1
+Lv1_Arm_R_Shadow
+  rotate: false
+  xy: 2604, 3048
+  size: 655, 252
+  orig: 655, 252
+  offset: 0, 0
+  index: -1
+Lv1_Breasts_R
+  rotate: true
+  xy: 2, 2115
+  size: 413, 522
+  orig: 413, 522
+  offset: 0, 0
+  index: -1
+Lv1_Breasts_R_Shadow
+  rotate: false
+  xy: 1416, 2785
+  size: 412, 337
+  orig: 412, 337
+  offset: 0, 0
+  index: -1
+Lv1_Head
+  rotate: false
+  xy: 2, 2561
+  size: 445, 366
+  orig: 445, 366
+  offset: 0, 0
+  index: -1
+Lv1_Liquid_1
+  rotate: false
+  xy: 2, 2
+  size: 1244, 1061
+  orig: 1244, 1061
+  offset: 0, 0
+  index: -1
+Lv1_Liquid_1_1
+  rotate: false
+  xy: 317, 3458
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+Lv1_Liquid_2_1
+  rotate: false
+  xy: 2, 3490
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Lv1_Liquid_4_1
+  rotate: false
+  xy: 136, 3466
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+Lv1_Liquid_5_1
+  rotate: false
+  xy: 382, 3450
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+Lv2_Breasts_R
+  rotate: true
+  xy: 1679, 1838
+  size: 493, 520
+  orig: 493, 520
+  offset: 0, 0
+  index: -1
+Lv2_Breasts_R_Shadow
+  rotate: false
+  xy: 2911, 2700
+  size: 472, 333
+  orig: 472, 333
+  offset: 0, 0
+  index: -1
+Lv2_Head
+  rotate: false
+  xy: 449, 2530
+  size: 445, 366
+  orig: 445, 366
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_1
+  rotate: false
+  xy: 1580, 3124
+  size: 249, 242
+  orig: 249, 242
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_2
+  rotate: false
+  xy: 2, 3229
+  size: 245, 230
+  orig: 245, 230
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_3
+  rotate: false
+  xy: 2487, 3317
+  size: 408, 202
+  orig: 408, 202
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_body
+  rotate: false
+  xy: 1014, 1065
+  size: 868, 771
+  orig: 868, 771
+  offset: 0, 0
+  index: -1
+Lv2_Liquid_penis
+  rotate: false
+  xy: 2862, 2287
+  size: 741, 403
+  orig: 741, 403
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 3628, 3294
+  size: 225, 317
+  orig: 225, 317
+  offset: 0, 0
+  index: -1
+Penis
+  rotate: false
+  xy: 2, 2929
+  size: 449, 263
+  orig: 449, 263
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 896, 2442
+  size: 617, 341
+  orig: 617, 341
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 3605, 2212
+  size: 478, 480
+  orig: 478, 480
+  offset: 0, 0
+  index: -1
+UpLeg_L
+  rotate: false
+  xy: 2, 1328
+  size: 1010, 694
+  orig: 1010, 694
+  offset: 0, 0
+  index: -1
+UpLeg_R
+  rotate: true
+  xy: 2800, 1618
+  size: 592, 913
+  orig: 592, 913
+  offset: 0, 0
+  index: -1
+UpLeg_R_Shadow
+  rotate: true
+  xy: 3194, 3302
+  size: 217, 432
+  orig: 217, 432
+  offset: 0, 0
+  index: -1
+UpLeg_R_Shadow_b
+  rotate: true
+  xy: 1502, 3368
+  size: 151, 398
+  orig: 151, 398
+  offset: 0, 0
+  index: -1
+Vaginal
+  rotate: false
+  xy: 2168, 3322
+  size: 317, 197
+  orig: 317, 197
+  offset: 0, 0
+  index: -1
+
+Akina_Playroom_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lv1_Liquid_2
+  rotate: true
+  xy: 1252, 13
+  size: 1195, 1258
+  orig: 1195, 1258
+  offset: 0, 0
+  index: -1
+Lv1_Liquid_3
+  rotate: true
+  xy: 2, 2
+  size: 1206, 1248
+  orig: 1206, 1248
+  offset: 0, 0
+  index: -1
+Lv1_Liquid_4
+  rotate: true
+  xy: 1265, 1342
+  size: 1186, 1263
+  orig: 1186, 1263
+  offset: 0, 0
+  index: -1
+Lv1_Liquid_5
+  rotate: false
+  xy: 2, 1210
+  size: 1261, 1318
+  orig: 1261, 1318
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,167 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a566ab4b7a8ee8190ebdf5a3cba35442c9b2a39595a127c6f6d9c18b0e3954d
-size 2380
+
+Gai_Gai_Spine_B.png
+size: 2018,1849
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 883, 315
+  size: 447, 242
+  orig: 447, 242
+  offset: 0, 0
+  index: -1
+L_hair_1
+  rotate: false
+  xy: 830, 1238
+  size: 740, 609
+  orig: 740, 609
+  offset: 0, 0
+  index: -1
+L_hair_2
+  rotate: true
+  xy: 558, 329
+  size: 778, 323
+  orig: 778, 323
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 883, 559
+  size: 454, 677
+  orig: 454, 677
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 324, 18
+  size: 226, 225
+  orig: 226, 225
+  offset: 0, 0
+  index: -1
+R_leg_1
+  rotate: false
+  xy: 2, 4
+  size: 320, 239
+  orig: 324, 239
+  offset: 0, 0
+  index: -1
+R_leg_2
+  rotate: true
+  xy: 979, 36
+  size: 277, 361
+  orig: 278, 361
+  offset: 1, 0
+  index: -1
+belt
+  rotate: false
+  xy: 1342, 148
+  size: 317, 313
+  orig: 317, 314
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1339, 743
+  size: 403, 493
+  orig: 403, 493
+  offset: 0, 0
+  index: -1
+bottle
+  rotate: false
+  xy: 1339, 463
+  size: 440, 278
+  orig: 440, 278
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: true
+  xy: 1572, 1369
+  size: 478, 440
+  orig: 478, 440
+  offset: 0, 0
+  index: -1
+cloth_L
+  rotate: false
+  xy: 1661, 126
+  size: 194, 335
+  orig: 194, 335
+  offset: 0, 0
+  index: -1
+cloth_back_1
+  rotate: true
+  xy: 1781, 510
+  size: 136, 203
+  orig: 136, 227
+  offset: 0, 24
+  index: -1
+cloth_back_2
+  rotate: false
+  xy: 1572, 1246
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1857, 390
+  size: 159, 118
+  orig: 159, 118
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 2, 245
+  size: 554, 862
+  orig: 554, 862
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 1744, 834
+  size: 213, 252
+  orig: 213, 252
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1744, 1088
+  size: 238, 279
+  orig: 238, 279
+  offset: 0, 0
+  index: -1
+jewel_L
+  rotate: false
+  xy: 1781, 648
+  size: 174, 184
+  orig: 174, 184
+  offset: 0, 0
+  index: -1
+jewel_R
+  rotate: false
+  xy: 1342, 53
+  size: 230, 93
+  orig: 230, 93
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1574, 54
+  size: 80, 92
+  orig: 80, 92
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 1109
+  size: 826, 738
+  orig: 827, 777
+  offset: 1, 39
+  index: -1
+weapon_handle
+  rotate: false
+  xy: 558, 2
+  size: 419, 311
+  orig: 419, 311
+  offset: 0, 0
+  index: -1

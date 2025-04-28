@@ -1,3 +1,258 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dfabe8e3a83c072fc1ac94e075f9a0fa903461e19e0ee9a08e2ebf9564c1065c
-size 3615
+
+Sora_X_Spine.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-L
+  rotate: true
+  xy: 2908, 316
+  size: 395, 1091
+  orig: 395, 1091
+  offset: 0, 0
+  index: -1
+arm-R
+  rotate: false
+  xy: 3153, 3054
+  size: 552, 1039
+  orig: 552, 1039
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 3056, 713
+  size: 965, 1382
+  orig: 965, 1382
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 232
+  size: 1451, 1761
+  orig: 1451, 1761
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 1700, 2332
+  size: 1451, 1761
+  orig: 1451, 1761
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 1455, 232
+  size: 1451, 1761
+  orig: 1451, 1761
+  offset: 0, 0
+  index: -1
+boobaL1
+  rotate: true
+  xy: 3153, 2429
+  size: 208, 202
+  orig: 208, 202
+  offset: 0, 0
+  index: -1
+boobaL2
+  rotate: true
+  xy: 3566, 2844
+  size: 208, 202
+  orig: 208, 202
+  offset: 0, 0
+  index: -1
+boobaR1
+  rotate: true
+  xy: 3566, 2646
+  size: 196, 206
+  orig: 196, 206
+  offset: 0, 0
+  index: -1
+boobaR2
+  rotate: true
+  xy: 3698, 2448
+  size: 196, 206
+  orig: 196, 206
+  offset: 0, 0
+  index: -1
+boobaShadow
+  rotate: false
+  xy: 3398, 60
+  size: 357, 254
+  orig: 357, 254
+  offset: 0, 0
+  index: -1
+browL1
+  rotate: false
+  xy: 743, 2
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+browL2
+  rotate: true
+  xy: 1693, 25
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+browR1
+  rotate: false
+  xy: 659, 3
+  size: 82, 24
+  orig: 82, 24
+  offset: 0, 0
+  index: -1
+browR2
+  rotate: false
+  xy: 2, 2
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 1543, 22
+  size: 82, 51
+  orig: 82, 52
+  offset: 0, 0
+  index: -1
+earR
+  rotate: false
+  xy: 1382, 15
+  size: 92, 58
+  orig: 92, 58
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: false
+  xy: 1476, 5
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+eyeL3
+  rotate: false
+  xy: 1627, 8
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: true
+  xy: 2493, 2008
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+eyeR3
+  rotate: false
+  xy: 1292, 5
+  size: 88, 68
+  orig: 88, 68
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 3757, 81
+  size: 186, 233
+  orig: 186, 233
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 3357, 2226
+  size: 339, 411
+  orig: 339, 411
+  offset: 0, 0
+  index: -1
+hairR
+  rotate: true
+  xy: 2761, 31
+  size: 199, 293
+  orig: 199, 293
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 3153, 2639
+  size: 413, 411
+  orig: 413, 411
+  offset: 0, 0
+  index: -1
+leg-L
+  rotate: true
+  xy: 2097, 63
+  size: 167, 662
+  orig: 167, 662
+  offset: 0, 0
+  index: -1
+leg-R
+  rotate: true
+  xy: 2, 20
+  size: 210, 655
+  orig: 210, 655
+  offset: 0, 0
+  index: -1
+light ball
+  rotate: false
+  xy: 3056, 34
+  size: 340, 280
+  orig: 340, 280
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 806, 7
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 1767, 42
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 1736, 29
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+sleeve-L
+  rotate: true
+  xy: 1292, 75
+  size: 155, 803
+  orig: 155, 803
+  offset: 0, 0
+  index: -1
+sleeve-R
+  rotate: true
+  xy: 1700, 2059
+  size: 271, 791
+  orig: 271, 791
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 2, 1995
+  size: 1696, 2098
+  orig: 1696, 2098
+  offset: 0, 0
+  index: -1
+thights-L
+  rotate: true
+  xy: 659, 29
+  size: 201, 631
+  orig: 201, 631
+  offset: 0, 0
+  index: -1
+thights-R
+  rotate: true
+  xy: 2493, 2097
+  size: 233, 673
+  orig: 233, 673
+  offset: 0, 0
+  index: -1

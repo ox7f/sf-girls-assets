@@ -1,3 +1,438 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1da8657588e1e3aab9301cae61c735f0622e5db99502c700b4fac0ec89364e7
-size 6513
+
+Aizawa_Minami_Spine.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: true
+  xy: 2, 1910
+  size: 575, 748
+  orig: 575, 748
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: true
+  xy: 1626, 3535
+  size: 239, 771
+  orig: 239, 771
+  offset: 0, 0
+  index: -1
+Armor Front
+  rotate: true
+  xy: 1948, 1473
+  size: 659, 680
+  orig: 659, 680
+  offset: 0, 0
+  index: -1
+Belt Knot
+  rotate: false
+  xy: 2935, 1974
+  size: 687, 547
+  orig: 687, 547
+  offset: 0, 0
+  index: -1
+Fan String
+  rotate: true
+  xy: 1770, 3776
+  size: 158, 2001
+  orig: 158, 2001
+  offset: 0, 0
+  index: -1
+Finger L 1
+  rotate: true
+  xy: 1540, 3777
+  size: 157, 228
+  orig: 157, 228
+  offset: 0, 0
+  index: -1
+Finger L 2
+  rotate: true
+  xy: 518, 3823
+  size: 111, 280
+  orig: 111, 280
+  offset: 0, 0
+  index: -1
+Finger L 3
+  rotate: true
+  xy: 158, 3857
+  size: 77, 232
+  orig: 77, 232
+  offset: 0, 0
+  index: -1
+Finger L 4
+  rotate: true
+  xy: 2, 3865
+  size: 69, 154
+  orig: 69, 154
+  offset: 0, 0
+  index: -1
+Finger R
+  rotate: false
+  xy: 392, 3828
+  size: 124, 106
+  orig: 124, 106
+  offset: 0, 0
+  index: -1
+Hair 1
+  rotate: true
+  xy: 1282, 3798
+  size: 136, 256
+  orig: 136, 256
+  offset: 0, 0
+  index: -1
+Hair 10
+  rotate: true
+  xy: 1588, 3242
+  size: 291, 669
+  orig: 291, 669
+  offset: 0, 0
+  index: -1
+Hair 2
+  rotate: true
+  xy: 3773, 3715
+  size: 219, 256
+  orig: 219, 256
+  offset: 0, 0
+  index: -1
+Hair 3
+  rotate: true
+  xy: 412, 3644
+  size: 170, 559
+  orig: 170, 559
+  offset: 0, 0
+  index: -1
+Hair 4
+  rotate: true
+  xy: 467, 2911
+  size: 347, 597
+  orig: 347, 597
+  offset: 0, 0
+  index: -1
+Hair 5
+  rotate: true
+  xy: 2, 3009
+  size: 342, 463
+  orig: 342, 463
+  offset: 0, 0
+  index: -1
+Hair 6
+  rotate: true
+  xy: 973, 3552
+  size: 223, 651
+  orig: 223, 651
+  offset: 0, 0
+  index: -1
+Hair 7
+  rotate: true
+  xy: 324, 3353
+  size: 289, 540
+  orig: 289, 540
+  offset: 0, 0
+  index: -1
+Hair 8
+  rotate: false
+  xy: 3072, 2523
+  size: 556, 653
+  orig: 556, 653
+  offset: 0, 0
+  index: -1
+Hair 9
+  rotate: false
+  xy: 3681, 3026
+  size: 340, 424
+  orig: 340, 424
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: true
+  xy: 2513, 2665
+  size: 515, 557
+  orig: 515, 557
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: false
+  xy: 1051, 3802
+  size: 229, 132
+  orig: 229, 132
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: true
+  xy: 1188, 2301
+  size: 545, 790
+  orig: 545, 790
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1570, 2848
+  size: 392, 492
+  orig: 392, 492
+  offset: 0, 0
+  index: -1
+Knot
+  rotate: false
+  xy: 3240, 3514
+  size: 506, 260
+  orig: 506, 260
+  offset: 0, 0
+  index: -1
+Knot String
+  rotate: false
+  xy: 2064, 2802
+  size: 447, 394
+  orig: 447, 394
+  offset: 0, 0
+  index: -1
+Sleeve L 1
+  rotate: true
+  xy: 1980, 2134
+  size: 529, 953
+  orig: 529, 953
+  offset: 0, 0
+  index: -1
+Sleeve L 2
+  rotate: true
+  xy: 1403, 880
+  size: 591, 1042
+  orig: 591, 1042
+  offset: 0, 0
+  index: -1
+Sleeve R 1
+  rotate: false
+  xy: 2259, 3198
+  size: 344, 330
+  orig: 344, 330
+  offset: 0, 0
+  index: -1
+breast_L
+  rotate: false
+  xy: 1066, 2902
+  size: 502, 356
+  orig: 502, 356
+  offset: 0, 0
+  index: -1
+breast_R 1
+  rotate: false
+  xy: 2605, 3182
+  size: 536, 334
+  orig: 536, 334
+  offset: 0, 0
+  index: -1
+breast_R 2
+  rotate: false
+  xy: 3143, 3178
+  size: 536, 334
+  orig: 536, 334
+  offset: 0, 0
+  index: -1
+cloth Upper nick belt
+  rotate: false
+  xy: 2, 3661
+  size: 408, 165
+  orig: 408, 165
+  offset: 0, 0
+  index: -1
+dress armor Belt L 1
+  rotate: false
+  xy: 752, 1755
+  size: 1194, 544
+  orig: 1194, 544
+  offset: 0, 0
+  index: -1
+dress armor Belt L 2
+  rotate: true
+  xy: 866, 3260
+  size: 290, 720
+  orig: 290, 720
+  offset: 0, 0
+  index: -1
+dress armor Belt R 1
+  rotate: false
+  xy: 2447, 769
+  size: 1603, 647
+  orig: 1603, 647
+  offset: 0, 0
+  index: -1
+dress armor Belt R 2
+  rotate: true
+  xy: 2399, 3530
+  size: 244, 490
+  orig: 244, 490
+  offset: 0, 0
+  index: -1
+dress armor L 1
+  rotate: false
+  xy: 1107, 172
+  size: 917, 706
+  orig: 917, 706
+  offset: 0, 0
+  index: -1
+dress armor L 2
+  rotate: true
+  xy: 2, 537
+  size: 659, 1103
+  orig: 659, 1103
+  offset: 0, 0
+  index: -1
+dress armor R 1
+  rotate: false
+  xy: 3110, 2
+  size: 979, 765
+  orig: 979, 765
+  offset: 0, 0
+  index: -1
+dress armor R 2
+  rotate: true
+  xy: 2026, 12
+  size: 755, 1082
+  orig: 755, 1082
+  offset: 0, 0
+  index: -1
+face 1
+  rotate: false
+  xy: 2891, 3518
+  size: 347, 256
+  orig: 347, 256
+  offset: 0, 0
+  index: -1
+face 2
+  rotate: false
+  xy: 3748, 3452
+  size: 344, 261
+  orig: 344, 261
+  offset: 0, 0
+  index: -1
+face 3
+  rotate: false
+  xy: 2, 3387
+  size: 320, 272
+  orig: 320, 272
+  offset: 0, 0
+  index: -1
+fan 1
+  rotate: false
+  xy: 2, 1198
+  size: 1399, 555
+  orig: 1399, 555
+  offset: 0, 0
+  index: -1
+fan 2
+  rotate: false
+  xy: 2630, 1418
+  size: 1399, 554
+  orig: 1399, 554
+  offset: 0, 0
+  index: -1
+helmet String
+  rotate: false
+  xy: 800, 3816
+  size: 249, 118
+  orig: 249, 118
+  offset: 0, 0
+  index: -1
+helmet back
+  rotate: false
+  xy: 2, 2487
+  size: 1184, 413
+  orig: 1184, 413
+  offset: 0, 0
+  index: -1
+
+Aizawa_Minami_Spine_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body 1
+  rotate: true
+  xy: 2, 2
+  size: 1209, 1551
+  orig: 1209, 1551
+  offset: 0, 0
+  index: -1
+Body 2
+  rotate: true
+  xy: 1555, 2
+  size: 1209, 1551
+  orig: 1209, 1551
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 2, 1213
+  size: 3461, 2869
+  orig: 3461, 2869
+  offset: 0, 0
+  index: -1
+
+Aizawa_Minami_Spine_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sleeve L 3
+  rotate: true
+  xy: 922, 7
+  size: 1358, 776
+  orig: 1358, 776
+  offset: 0, 0
+  index: -1
+Sleeve R 2
+  rotate: false
+  xy: 2136, 2933
+  size: 1650, 1153
+  orig: 1650, 1153
+  offset: 0, 0
+  index: -1
+Thigh L
+  rotate: false
+  xy: 2, 1367
+  size: 1169, 2719
+  orig: 1169, 2719
+  offset: 0, 0
+  index: -1
+Thigh R
+  rotate: false
+  xy: 1173, 2008
+  size: 961, 2078
+  orig: 961, 2078
+  offset: 0, 0
+  index: -1
+cloth Upper
+  rotate: false
+  xy: 2, 62
+  size: 918, 1303
+  orig: 918, 1303
+  offset: 0, 0
+  index: -1
+dress armor Belt L 3
+  rotate: true
+  xy: 3178, 460
+  size: 1408, 776
+  orig: 1408, 776
+  offset: 0, 0
+  index: -1
+dress armor Belt R 3
+  rotate: false
+  xy: 1700, 1033
+  size: 1476, 835
+  orig: 1476, 835
+  offset: 0, 0
+  index: -1
+dress back
+  rotate: false
+  xy: 2136, 1870
+  size: 1460, 1061
+  orig: 1460, 1061
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 1700, 2
+  size: 1182, 1029
+  orig: 1182, 1029
+  offset: 0, 0
+  index: -1

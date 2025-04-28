@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e892a29a8eaaa8e749ffc87548911069af4cfe65b93aed2f10d6c6cad937d7ae
-size 405
+
+Sora_X_Spine_Addition.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_M
+  rotate: false
+  xy: 2, 1895
+  size: 1884, 1891
+  orig: 1884, 1891
+  offset: 0, 0
+  index: -1
+back_f
+  rotate: false
+  xy: 2, 2
+  size: 1884, 1891
+  orig: 1884, 1891
+  offset: 0, 0
+  index: -1
+back_outer
+  rotate: false
+  xy: 1888, 1895
+  size: 1884, 1891
+  orig: 1884, 1891
+  offset: 0, 0
+  index: -1

@@ -1,3 +1,426 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bdf9cc1d2005ac863d20982a8db2b21f4801627afae84da1346d14339b3401c9
-size 6073
+
+Neugena_Spine.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARML
+  rotate: true
+  xy: 1221, 3376
+  size: 152, 241
+  orig: 152, 241
+  offset: 0, 0
+  index: -1
+ARMR
+  rotate: true
+  xy: 1031, 3929
+  size: 164, 184
+  orig: 164, 184
+  offset: 0, 0
+  index: -1
+ARMR2
+  rotate: true
+  xy: 1031, 3763
+  size: 164, 184
+  orig: 164, 184
+  offset: 0, 0
+  index: -1
+Layer 42
+  rotate: true
+  xy: 1686, 3159
+  size: 289, 173
+  orig: 313, 188
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: true
+  xy: 2, 569
+  size: 1018, 655
+  orig: 1024, 679
+  offset: 1, 24
+  index: -1
+arrows
+  rotate: true
+  xy: 923, 1036
+  size: 551, 296
+  orig: 1001, 635
+  offset: 163, 339
+  index: -1
+belt
+  rotate: true
+  xy: 1689, 3647
+  size: 197, 59
+  orig: 197, 59
+  offset: 0, 0
+  index: -1
+belt2
+  rotate: true
+  xy: 1096, 3
+  size: 44, 140
+  orig: 67, 143
+  offset: 21, 1
+  index: -1
+body
+  rotate: false
+  xy: 1340, 98
+  size: 347, 500
+  orig: 347, 500
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 1757, 3746
+  size: 347, 500
+  orig: 347, 500
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 1031, 2803
+  size: 347, 500
+  orig: 347, 500
+  offset: 0, 0
+  index: -1
+boo_L
+  rotate: true
+  xy: 1031, 3534
+  size: 227, 183
+  orig: 227, 183
+  offset: 0, 0
+  index: -1
+boo_L2
+  rotate: true
+  xy: 1031, 3305
+  size: 227, 183
+  orig: 227, 183
+  offset: 0, 0
+  index: -1
+boo_L3
+  rotate: true
+  xy: 2003, 34
+  size: 227, 183
+  orig: 227, 183
+  offset: 0, 0
+  index: -1
+boo_L3_part
+  rotate: true
+  xy: 773, 582
+  size: 14, 136
+  orig: 14, 136
+  offset: 0, 0
+  index: -1
+boo_R
+  rotate: true
+  xy: 1031, 1589
+  size: 210, 205
+  orig: 210, 205
+  offset: 0, 0
+  index: -1
+boo_R2
+  rotate: true
+  xy: 1238, 1589
+  size: 210, 205
+  orig: 210, 205
+  offset: 0, 0
+  index: -1
+boo_R3
+  rotate: true
+  xy: 1555, 2824
+  size: 210, 204
+  orig: 210, 205
+  offset: 0, 0
+  index: -1
+boo_R3_part
+  rotate: true
+  xy: 1238, 9
+  size: 38, 96
+  orig: 38, 96
+  offset: 0, 0
+  index: -1
+bow
+  rotate: false
+  xy: 2, 2842
+  size: 1027, 1251
+  orig: 1028, 1251
+  offset: 1, 0
+  index: -1
+bow2
+  rotate: false
+  xy: 2, 1589
+  size: 1027, 1251
+  orig: 1028, 1251
+  offset: 1, 0
+  index: -1
+clothesL
+  rotate: false
+  xy: 1467, 3450
+  size: 220, 394
+  orig: 220, 410
+  offset: 0, 15
+  index: -1
+clothesL2
+  rotate: false
+  xy: 1249, 2407
+  size: 220, 394
+  orig: 220, 410
+  offset: 0, 15
+  index: -1
+clothesR
+  rotate: false
+  xy: 659, 598
+  size: 411, 434
+  orig: 411, 434
+  offset: 0, 0
+  index: -1
+clothesR2
+  rotate: false
+  xy: 1072, 600
+  size: 411, 434
+  orig: 411, 434
+  offset: 0, 0
+  index: -1
+clothesback
+  rotate: true
+  xy: 726, 30
+  size: 547, 305
+  orig: 547, 305
+  offset: 0, 0
+  index: -1
+clothesback2
+  rotate: true
+  xy: 1033, 49
+  size: 547, 305
+  orig: 547, 305
+  offset: 0, 0
+  index: -1
+cylinder font
+  rotate: false
+  xy: 1221, 3530
+  size: 243, 168
+  orig: 243, 168
+  offset: 0, 0
+  index: -1
+cylinderback
+  rotate: true
+  xy: 1606, 17
+  size: 79, 149
+  orig: 79, 149
+  offset: 0, 0
+  index: -1
+earL
+  rotate: true
+  xy: 1340, 4
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
+earR
+  rotate: false
+  xy: 1412, 5
+  size: 117, 91
+  orig: 117, 91
+  offset: 0, 0
+  index: -1
+earRing
+  rotate: true
+  xy: 1033, 2
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1689, 3481
+  size: 164, 137
+  orig: 164, 137
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 1828, 3580
+  size: 164, 137
+  orig: 164, 137
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 1837, 118
+  size: 164, 143
+  orig: 164, 143
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1380, 2816
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 1249, 1864
+  size: 173, 218
+  orig: 173, 218
+  offset: 0, 0
+  index: -1
+green cothes
+  rotate: true
+  xy: 1547, 2192
+  size: 299, 133
+  orig: 299, 149
+  offset: 0, 15
+  index: -1
+green cothes2
+  rotate: true
+  xy: 1682, 2192
+  size: 299, 133
+  orig: 299, 149
+  offset: 0, 15
+  index: -1
+hair1
+  rotate: false
+  xy: 1689, 263
+  size: 349, 401
+  orig: 356, 401
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 1424, 1869
+  size: 213, 282
+  orig: 215, 290
+  offset: 0, 8
+  index: -1
+hair3
+  rotate: false
+  xy: 1221, 1092
+  size: 373, 495
+  orig: 373, 508
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 1221, 3858
+  size: 258, 235
+  orig: 260, 235
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 1485, 3846
+  size: 247, 265
+  orig: 247, 265
+  offset: 0, 0
+  index: -1
+hair_front2
+  rotate: false
+  xy: 1689, 111
+  size: 146, 150
+  orig: 146, 150
+  offset: 0, 0
+  index: -1
+hair_front3
+  rotate: true
+  xy: 1757, 33
+  size: 76, 164
+  orig: 76, 164
+  offset: 0, 0
+  index: -1
+handR
+  rotate: true
+  xy: 1445, 1654
+  size: 213, 183
+  orig: 214, 183
+  offset: 1, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 2, 4
+  size: 228, 563
+  orig: 229, 563
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 462, 14
+  size: 262, 553
+  orig: 263, 553
+  offset: 1, 0
+  index: -1
+leg_L23
+  rotate: false
+  xy: 659, 1034
+  size: 262, 553
+  orig: 263, 553
+  offset: 1, 0
+  index: -1
+leg_L3
+  rotate: false
+  xy: 232, 4
+  size: 228, 563
+  orig: 229, 563
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 1031, 2302
+  size: 216, 499
+  orig: 233, 500
+  offset: 0, 1
+  index: -1
+leg_R2
+  rotate: true
+  xy: 1249, 2084
+  size: 321, 296
+  orig: 321, 296
+  offset: 0, 0
+  index: -1
+leg_R23
+  rotate: true
+  xy: 1471, 2493
+  size: 321, 296
+  orig: 321, 296
+  offset: 0, 0
+  index: -1
+leg_R3
+  rotate: false
+  xy: 1031, 1801
+  size: 216, 499
+  orig: 233, 500
+  offset: 0, 1
+  index: -1
+leg_sock
+  rotate: true
+  xy: 659, 579
+  size: 17, 112
+  orig: 17, 112
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1531, 14
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+pornL
+  rotate: false
+  xy: 1380, 3036
+  size: 304, 338
+  orig: 304, 338
+  offset: 0, 0
+  index: -1
+pornR
+  rotate: true
+  xy: 1485, 666
+  size: 424, 346
+  orig: 523, 346
+  offset: 99, 0
+  index: -1
+tail
+  rotate: true
+  xy: 1221, 3700
+  size: 156, 244
+  orig: 156, 244
+  offset: 0, 0
+  index: -1

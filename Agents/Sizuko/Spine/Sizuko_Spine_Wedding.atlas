@@ -1,3 +1,558 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05dc8b97cf456600dfddfefc81eacf5e96e636aba985885576a9bea5dcac2027
-size 7922
+
+Sizuko_Spine_Wedding.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM
+  rotate: true
+  xy: 463, 1763
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+ARML3
+  rotate: true
+  xy: 699, 1736
+  size: 112, 200
+  orig: 112, 200
+  offset: 0, 0
+  index: -1
+EARring1
+  rotate: true
+  xy: 1055, 1847
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+EARring2
+  rotate: true
+  xy: 584, 1852
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+EYE1
+  rotate: false
+  xy: 437, 1871
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+EYE2
+  rotate: false
+  xy: 484, 1871
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+EYE3
+  rotate: false
+  xy: 391, 1872
+  size: 44, 30
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+armL
+  rotate: true
+  xy: 995, 1590
+  size: 136, 206
+  orig: 157, 206
+  offset: 0, 0
+  index: -1
+armR
+  rotate: true
+  xy: 2, 1795
+  size: 82, 213
+  orig: 82, 213
+  offset: 0, 0
+  index: -1
+body_flower
+  rotate: false
+  xy: 1052, 1730
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+boobaL1
+  rotate: true
+  xy: 189, 1497
+  size: 146, 163
+  orig: 146, 163
+  offset: 0, 0
+  index: -1
+boobaL2
+  rotate: true
+  xy: 567, 1416
+  size: 181, 222
+  orig: 181, 225
+  offset: 0, 0
+  index: -1
+boobaL3
+  rotate: true
+  xy: 1726, 1697
+  size: 122, 154
+  orig: 122, 154
+  offset: 0, 0
+  index: -1
+boobaR1
+  rotate: true
+  xy: 354, 1436
+  size: 165, 211
+  orig: 173, 211
+  offset: 0, 0
+  index: -1
+boobaR2
+  rotate: true
+  xy: 552, 1603
+  size: 131, 203
+  orig: 131, 203
+  offset: 0, 0
+  index: -1
+br1
+  rotate: false
+  xy: 281, 1873
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+br2
+  rotate: false
+  xy: 93, 1882
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+br3
+  rotate: false
+  xy: 52, 1883
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+brush
+  rotate: false
+  xy: 531, 1864
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+clothesL2
+  rotate: true
+  xy: 901, 1735
+  size: 112, 149
+  orig: 112, 149
+  offset: 0, 0
+  index: -1
+clothesL3
+  rotate: true
+  xy: 352, 1774
+  size: 95, 109
+  orig: 97, 109
+  offset: 0, 0
+  index: -1
+clothesR2
+  rotate: true
+  xy: 1404, 1574
+  size: 139, 160
+  orig: 139, 160
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 1566, 1571
+  size: 140, 149
+  orig: 140, 149
+  offset: 0, 0
+  index: -1
+gem1
+  rotate: false
+  xy: 1124, 1847
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+gem2
+  rotate: true
+  xy: 1282, 1845
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+gem3
+  rotate: true
+  xy: 650, 1850
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+gem4
+  rotate: false
+  xy: 1209, 1847
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 320, 1873
+  size: 29, 69
+  orig: 29, 69
+  offset: 0, 0
+  index: -1
+hairM
+  rotate: true
+  xy: 1432, 1715
+  size: 121, 139
+  orig: 121, 139
+  offset: 0, 0
+  index: -1
+hairMS
+  rotate: true
+  xy: 217, 1782
+  size: 89, 133
+  orig: 89, 133
+  offset: 0, 0
+  index: -1
+hairSAL
+  rotate: true
+  xy: 2, 1218
+  size: 277, 327
+  orig: 277, 327
+  offset: 0, 0
+  index: -1
+hairSAR
+  rotate: false
+  xy: 1774, 1165
+  size: 261, 382
+  orig: 261, 382
+  offset: 0, 0
+  index: -1
+handL
+  rotate: true
+  xy: 757, 1599
+  size: 134, 236
+  orig: 134, 236
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 2, 1509
+  size: 185, 142
+  orig: 185, 142
+  offset: 0, 0
+  index: -1
+handringLB
+  rotate: true
+  xy: 1724, 1836
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+handringLF
+  rotate: true
+  xy: 1610, 1837
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+handringRB
+  rotate: true
+  xy: 1838, 1821
+  size: 81, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+handringRF
+  rotate: true
+  xy: 1523, 1838
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+linL
+  rotate: false
+  xy: 331, 1140
+  size: 372, 274
+  orig: 428, 277
+  offset: 0, 0
+  index: -1
+linLS
+  rotate: true
+  xy: 583, 1740
+  size: 108, 114
+  orig: 116, 121
+  offset: 0, 7
+  index: -1
+linR
+  rotate: false
+  xy: 1315, 1349
+  size: 457, 202
+  orig: 518, 202
+  offset: 61, 0
+  index: -1
+linRS
+  rotate: false
+  xy: 791, 1407
+  size: 282, 181
+  orig: 353, 181
+  offset: 50, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 23, 1886
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 172, 1880
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 141, 1881
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 135, 1653
+  size: 137, 127
+  orig: 137, 127
+  offset: 0, 0
+  index: -1
+necklace2
+  rotate: false
+  xy: 274, 1645
+  size: 137, 127
+  orig: 137, 127
+  offset: 0, 0
+  index: -1
+ribbonF
+  rotate: false
+  xy: 1862, 1549
+  size: 169, 140
+  orig: 169, 140
+  offset: 0, 0
+  index: -1
+ribbonFS
+  rotate: true
+  xy: 1203, 1580
+  size: 137, 199
+  orig: 137, 199
+  offset: 0, 0
+  index: -1
+shoulderFBL
+  rotate: false
+  xy: 734, 1850
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+shoulderFBR
+  rotate: true
+  xy: 1366, 1841
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+shoulderFL
+  rotate: true
+  xy: 1925, 1815
+  size: 87, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+shoulderFR
+  rotate: false
+  xy: 1430, 1839
+  size: 91, 63
+  orig: 91, 67
+  offset: 0, 4
+  index: -1
+skin
+  rotate: true
+  xy: 1573, 1713
+  size: 121, 151
+  orig: 121, 151
+  offset: 0, 0
+  index: -1
+skirtB
+  rotate: false
+  xy: 529, 2
+  size: 711, 582
+  orig: 711, 582
+  offset: 0, 0
+  index: -1
+skirtLF
+  rotate: true
+  xy: 705, 1096
+  size: 293, 375
+  orig: 300, 375
+  offset: 0, 0
+  index: -1
+skirtLF2
+  rotate: true
+  xy: 1082, 1038
+  size: 309, 408
+  orig: 309, 408
+  offset: 0, 0
+  index: -1
+skirtLM
+  rotate: true
+  xy: 487, 644
+  size: 450, 489
+  orig: 450, 491
+  offset: 0, 2
+  index: -1
+skirtLM2
+  rotate: true
+  xy: 978, 586
+  size: 450, 489
+  orig: 450, 491
+  offset: 0, 2
+  index: -1
+skirtRF
+  rotate: true
+  xy: 1492, 793
+  size: 370, 483
+  orig: 370, 483
+  offset: 0, 0
+  index: -1
+skirtRF2
+  rotate: true
+  xy: 2, 768
+  size: 370, 483
+  orig: 370, 483
+  offset: 0, 0
+  index: -1
+skirtRM
+  rotate: false
+  xy: 2, 149
+  size: 525, 493
+  orig: 540, 493
+  offset: 15, 0
+  index: -1
+skirtRM2
+  rotate: false
+  xy: 1469, 301
+  size: 528, 490
+  orig: 540, 490
+  offset: 12, 0
+  index: -1
+sweatarmR
+  rotate: true
+  xy: 203, 1879
+  size: 23, 76
+  orig: 23, 76
+  offset: 0, 0
+  index: -1
+sweatface
+  rotate: true
+  xy: 971, 1849
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+sweathandR
+  rotate: true
+  xy: 2, 1892
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+weaponF
+  rotate: true
+  xy: 1075, 1391
+  size: 187, 238
+  orig: 187, 238
+  offset: 0, 0
+  index: -1
+weaponflower1
+  rotate: true
+  xy: 413, 1634
+  size: 127, 137
+  orig: 127, 137
+  offset: 0, 0
+  index: -1
+weaponflower2
+  rotate: true
+  xy: 1882, 1691
+  size: 122, 137
+  orig: 122, 137
+  offset: 0, 0
+  index: -1
+weaponflower3
+  rotate: true
+  xy: 2, 1669
+  size: 124, 131
+  orig: 124, 131
+  offset: 0, 0
+  index: -1
+weaponflower4
+  rotate: false
+  xy: 1717, 1553
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+weaponflower5
+  rotate: false
+  xy: 1293, 1719
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+weaponflower6
+  rotate: true
+  xy: 1175, 1728
+  size: 115, 116
+  orig: 115, 116
+  offset: 0, 0
+  index: -1
+westcover
+  rotate: false
+  xy: 792, 1850
+  size: 177, 52
+  orig: 187, 52
+  offset: 10, 0
+  index: -1
+
+Sizuko_Spine_Wedding_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: true
+  xy: 2, 157
+  size: 646, 1261
+  orig: 646, 1261
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 1317, 734
+  size: 647, 1258
+  orig: 647, 1261
+  offset: 0, 3
+  index: -1
+hairB
+  rotate: false
+  xy: 1265, 2
+  size: 773, 730
+  orig: 773, 730
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 805
+  size: 1313, 1187
+  orig: 1313, 1187
+  offset: 0, 0
+  index: -1

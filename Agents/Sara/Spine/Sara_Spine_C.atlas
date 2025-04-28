@@ -1,3 +1,160 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2cc86036369df00c5effaf0f1798b766e9e5cf5c6505fc516ca2134fc585b732
-size 2290
+
+Sara_Spine_C.png
+size: 1965,1827
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_1
+  rotate: false
+  xy: 1244, 60
+  size: 154, 190
+  orig: 154, 190
+  offset: 0, 0
+  index: -1
+L_arm_2
+  rotate: false
+  xy: 1842, 40
+  size: 99, 112
+  orig: 99, 112
+  offset: 0, 0
+  index: -1
+L_breast
+  rotate: true
+  xy: 1717, 36
+  size: 116, 123
+  orig: 116, 129
+  offset: 0, 6
+  index: -1
+L_hair_back
+  rotate: false
+  xy: 992, 969
+  size: 270, 365
+  orig: 270, 365
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 1041, 42
+  size: 206, 201
+  orig: 206, 201
+  offset: 0, 0
+  index: -1
+R_arm_1
+  rotate: true
+  xy: 1400, 78
+  size: 150, 192
+  orig: 150, 192
+  offset: 0, 0
+  index: -1
+R_arm_2
+  rotate: true
+  xy: 1495, 230
+  size: 365, 220
+  orig: 371, 220
+  offset: 2, 0
+  index: -1
+R_breast
+  rotate: true
+  xy: 1594, 99
+  size: 129, 121
+  orig: 142, 122
+  offset: 0, 1
+  index: -1
+R_hair_back
+  rotate: false
+  xy: 1717, 337
+  size: 245, 331
+  orig: 245, 331
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 2, 11
+  size: 237, 840
+  orig: 237, 840
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1277, 597
+  size: 359, 1228
+  orig: 359, 1232
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1717, 154
+  size: 223, 181
+  orig: 223, 181
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 647
+  size: 988, 687
+  orig: 988, 687
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 1638, 1011
+  size: 289, 379
+  orig: 289, 379
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 992, 734
+  size: 228, 233
+  orig: 228, 233
+  offset: 0, 0
+  index: -1
+head_obj
+  rotate: true
+  xy: 1638, 1392
+  size: 433, 277
+  orig: 433, 277
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 1917, 1743
+  size: 46, 82
+  orig: 51, 86
+  offset: 2, 3
+  index: -1
+obj_L
+  rotate: true
+  xy: 1638, 670
+  size: 339, 317
+  orig: 339, 317
+  offset: 0, 0
+  index: -1
+obj_R
+  rotate: true
+  xy: 844, 2
+  size: 246, 195
+  orig: 246, 199
+  offset: 0, 0
+  index: -1
+obj_back_1
+  rotate: false
+  xy: 2, 1336
+  size: 1273, 489
+  orig: 1277, 494
+  offset: 2, 3
+  index: -1
+obj_back_2
+  rotate: false
+  xy: 1075, 252
+  size: 418, 343
+  orig: 422, 347
+  offset: 2, 2
+  index: -1
+obj_back_3
+  rotate: false
+  xy: 2, 250
+  size: 1071, 395
+  orig: 1200, 474
+  offset: 3, 77
+  index: -1

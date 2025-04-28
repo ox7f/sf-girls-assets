@@ -1,3 +1,308 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c6ce239e9223fb7c86184094ff1aa6618ab0410d02f738f19128418647273136
-size 4486
+
+Uzu_Playroom_Wedding.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L_02
+  rotate: false
+  xy: 2, 658
+  size: 932, 374
+  orig: 932, 374
+  offset: 0, 0
+  index: -1
+Blusg
+  rotate: true
+  xy: 1427, 1227
+  size: 277, 386
+  orig: 277, 386
+  offset: 0, 0
+  index: -1
+Breasts_R
+  rotate: true
+  xy: 678, 2
+  size: 485, 674
+  orig: 485, 674
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 1695, 1506
+  size: 193, 313
+  orig: 193, 313
+  offset: 0, 0
+  index: -1
+Eyebrow_01
+  rotate: true
+  xy: 279, 1598
+  size: 101, 212
+  orig: 101, 212
+  offset: 0, 0
+  index: -1
+Eyebrow_02
+  rotate: true
+  xy: 493, 1593
+  size: 106, 233
+  orig: 106, 233
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1632, 789
+  size: 436, 399
+  orig: 436, 399
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: true
+  xy: 936, 489
+  size: 380, 456
+  orig: 380, 456
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: false
+  xy: 1034, 871
+  size: 596, 354
+  orig: 596, 354
+  offset: 0, 0
+  index: -1
+Hair_L_S
+  rotate: false
+  xy: 728, 1588
+  size: 277, 111
+  orig: 277, 111
+  offset: 0, 0
+  index: -1
+Hair_M
+  rotate: false
+  xy: 461, 1372
+  size: 330, 214
+  orig: 330, 214
+  offset: 0, 0
+  index: -1
+Hair_M_S
+  rotate: false
+  xy: 793, 1332
+  size: 329, 228
+  orig: 329, 228
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: true
+  xy: 1394, 338
+  size: 449, 548
+  orig: 449, 548
+  offset: 0, 0
+  index: -1
+HeadFlower
+  rotate: false
+  xy: 1007, 1562
+  size: 267, 137
+  orig: 267, 137
+  offset: 0, 0
+  index: -1
+HeadRibbon
+  rotate: false
+  xy: 2, 1394
+  size: 457, 202
+  orig: 457, 202
+  offset: 0, 0
+  index: -1
+Headwear
+  rotate: true
+  xy: 1276, 1539
+  size: 160, 236
+  orig: 160, 236
+  offset: 0, 0
+  index: -1
+Liquid_02-2
+  rotate: false
+  xy: 2, 1100
+  size: 447, 292
+  orig: 447, 292
+  offset: 0, 0
+  index: -1
+Mouth_01
+  rotate: true
+  xy: 2, 1631
+  size: 68, 122
+  orig: 68, 122
+  offset: 0, 0
+  index: -1
+Mouth_02
+  rotate: true
+  xy: 1514, 1526
+  size: 173, 179
+  orig: 173, 179
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 126, 1605
+  size: 151, 94
+  orig: 151, 94
+  offset: 0, 0
+  index: -1
+Penis_02
+  rotate: false
+  xy: 2, 226
+  size: 674, 430
+  orig: 674, 430
+  offset: 0, 0
+  index: -1
+UpArm_L_02
+  rotate: false
+  xy: 451, 1034
+  size: 581, 296
+  orig: 581, 296
+  offset: 0, 0
+  index: -1
+Vaginal
+  rotate: false
+  xy: 1124, 1266
+  size: 301, 271
+  orig: 301, 271
+  offset: 0, 0
+  index: -1
+
+Uzu_Playroom_Wedding_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Breasts_L
+  rotate: false
+  xy: 2, 1420
+  size: 693, 522
+  orig: 693, 522
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 697, 1357
+  size: 1156, 585
+  orig: 1156, 585
+  offset: 0, 0
+  index: -1
+Liquid_02
+  rotate: false
+  xy: 928, 747
+  size: 967, 608
+  orig: 967, 608
+  offset: 0, 0
+  index: -1
+Tentacle_BR
+  rotate: false
+  xy: 954, 2
+  size: 1007, 743
+  orig: 1007, 743
+  offset: 0, 0
+  index: -1
+Tentacle_FR
+  rotate: false
+  xy: 2, 126
+  size: 950, 619
+  orig: 950, 619
+  offset: 0, 0
+  index: -1
+UpArm_L_01
+  rotate: false
+  xy: 2, 757
+  size: 924, 598
+  orig: 924, 598
+  offset: 0, 0
+  index: -1
+
+Uzu_Playroom_Wedding_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 2, 2
+  size: 1955, 1489
+  orig: 1955, 1489
+  offset: 0, 0
+  index: -1
+
+Uzu_Playroom_Wedding_4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 1528, 1663
+  orig: 1528, 1663
+  offset: 0, 0
+  index: -1
+
+Uzu_Playroom_Wedding_5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Liquid_01
+  rotate: false
+  xy: 2, 987
+  size: 1553, 990
+  orig: 1553, 990
+  offset: 0, 0
+  index: -1
+UpLeg_L
+  rotate: true
+  xy: 2, 2
+  size: 983, 1276
+  orig: 983, 1276
+  offset: 0, 0
+  index: -1
+
+Uzu_Playroom_Wedding_6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tentacle_FL
+  rotate: true
+  xy: 2, 1087
+  size: 658, 1284
+  orig: 658, 1284
+  offset: 0, 0
+  index: -1
+UpLeg_R
+  rotate: false
+  xy: 2, 289
+  size: 1072, 796
+  orig: 1072, 796
+  offset: 0, 0
+  index: -1
+Veil
+  rotate: false
+  xy: 1076, 2
+  size: 898, 1083
+  orig: 898, 1083
+  offset: 0, 0
+  index: -1
+
+Uzu_Playroom_Wedding_7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leg_L
+  rotate: true
+  xy: 2, 2
+  size: 955, 1156
+  orig: 955, 1156
+  offset: 0, 0
+  index: -1
+Tentacle_BL
+  rotate: false
+  xy: 2, 959
+  size: 1301, 819
+  orig: 1301, 819
+  offset: 0, 0
+  index: -1

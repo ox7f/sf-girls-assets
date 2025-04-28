@@ -1,3 +1,195 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:52a11dbb2ffc3095751323571740dd2310219f2d64b691cedb75cf8172131bbc
-size 2738
+
+Aoi_Spine_Wedding_A.png
+size: 2028,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: true
+  xy: 702, 806
+  size: 224, 208
+  orig: 224, 208
+  offset: 0, 0
+  index: -1
+backcloak
+  rotate: true
+  xy: 702, 1032
+  size: 327, 227
+  orig: 327, 228
+  offset: 0, 0
+  index: -1
+backdress
+  rotate: true
+  xy: 2, 387
+  size: 1159, 698
+  orig: 1296, 698
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 702, 1361
+  size: 229, 185
+  orig: 229, 186
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 946, 804
+  size: 742, 787
+  orig: 782, 787
+  offset: 2, 0
+  index: -1
+bow
+  rotate: true
+  xy: 946, 27
+  size: 364, 187
+  orig: 364, 188
+  offset: 0, 1
+  index: -1
+brow
+  rotate: true
+  xy: 1135, 272
+  size: 119, 40
+  orig: 119, 40
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: false
+  xy: 1135, 8
+  size: 363, 262
+  orig: 363, 263
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 1516, 315
+  size: 108, 64
+  orig: 108, 65
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 6
+  size: 330, 379
+  orig: 330, 379
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1702, 206
+  size: 202, 203
+  orig: 202, 203
+  offset: 0, 0
+  index: -1
+hand bouquet
+  rotate: false
+  xy: 1735, 769
+  size: 287, 339
+  orig: 328, 538
+  offset: 0, 199
+  index: -1
+hand gun
+  rotate: true
+  xy: 1261, 300
+  size: 79, 127
+  orig: 113, 127
+  offset: 34, 0
+  index: -1
+head
+  rotate: false
+  xy: 1699, 2
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+headribbon
+  rotate: false
+  xy: 1702, 564
+  size: 315, 203
+  orig: 315, 203
+  offset: 0, 0
+  index: -1
+leg left
+  rotate: true
+  xy: 334, 21
+  size: 364, 610
+  orig: 364, 610
+  offset: 0, 0
+  index: -1
+leg right
+  rotate: false
+  xy: 1735, 1110
+  size: 291, 436
+  orig: 291, 436
+  offset: 0, 0
+  index: -1
+lips
+  rotate: false
+  xy: 334, 3
+  size: 28, 16
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 1544, 8
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 1390, 309
+  size: 124, 70
+  orig: 124, 70
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 1177, 274
+  size: 105, 82
+  orig: 105, 82
+  offset: 0, 0
+  index: -1
+spaceship
+  rotate: false
+  xy: 702, 393
+  size: 474, 409
+  orig: 474, 409
+  offset: 0, 0
+  index: -1
+spaceship2
+  rotate: true
+  xy: 1178, 381
+  size: 421, 522
+  orig: 421, 608
+  offset: 0, 86
+  index: -1
+tie1
+  rotate: true
+  xy: 1500, 50
+  size: 257, 197
+  orig: 257, 197
+  offset: 0, 0
+  index: -1
+tie2
+  rotate: true
+  xy: 1702, 410
+  size: 152, 313
+  orig: 173, 314
+  offset: 0, 0
+  index: -1
+topeye
+  rotate: false
+  xy: 1500, 2
+  size: 42, 46
+  orig: 44, 46
+  offset: 2, 0
+  index: -1
+topeye2
+  rotate: true
+  xy: 1626, 321
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1

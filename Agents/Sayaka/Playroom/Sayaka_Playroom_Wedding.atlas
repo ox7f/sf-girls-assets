@@ -1,3 +1,327 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:081a1ab08ff8fcfdef1da9bd8701af0f395221ad62c042a6ca19f7a3c722e2af
-size 4749
+
+Sayaka_Playroom_Wedding.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AS-feather
+  rotate: true
+  xy: 2, 1701
+  size: 157, 227
+  orig: 157, 227
+  offset: 0, 0
+  index: -1
+AS-headwear
+  rotate: false
+  xy: 2, 1049
+  size: 328, 317
+  orig: 328, 317
+  offset: 0, 0
+  index: -1
+J1
+  rotate: false
+  xy: 1335, 1249
+  size: 504, 286
+  orig: 504, 286
+  offset: 0, 0
+  index: -1
+J2
+  rotate: false
+  xy: 628, 1602
+  size: 282, 223
+  orig: 282, 223
+  offset: 0, 0
+  index: -1
+brow-left-v1
+  rotate: false
+  xy: 492, 1854
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+brow-left-v2
+  rotate: false
+  xy: 675, 1852
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+brow-right-v1
+  rotate: true
+  xy: 589, 1854
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+brow-right-v2
+  rotate: false
+  xy: 407, 1855
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+e-v2
+  rotate: false
+  xy: 1284, 1809
+  size: 168, 128
+  orig: 168, 128
+  offset: 0, 0
+  index: -1
+ev1
+  rotate: false
+  xy: 1454, 1806
+  size: 151, 131
+  orig: 151, 131
+  offset: 0, 0
+  index: -1
+eye-left
+  rotate: false
+  xy: 148, 1872
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+eye-right
+  rotate: false
+  xy: 2, 1874
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 912, 1580
+  size: 230, 251
+  orig: 230, 251
+  offset: 0, 0
+  index: -1
+hair-back
+  rotate: true
+  xy: 1008, 1272
+  size: 293, 325
+  orig: 293, 325
+  offset: 0, 0
+  index: -1
+hair-fornt
+  rotate: true
+  xy: 711, 938
+  size: 332, 377
+  orig: 332, 377
+  offset: 0, 0
+  index: -1
+hair-shadow
+  rotate: true
+  xy: 332, 986
+  size: 332, 377
+  orig: 332, 377
+  offset: 0, 0
+  index: -1
+hand-left
+  rotate: false
+  xy: 591, 1320
+  size: 415, 258
+  orig: 415, 258
+  offset: 0, 0
+  index: -1
+hand-left2
+  rotate: false
+  xy: 1607, 1787
+  size: 307, 150
+  orig: 307, 150
+  offset: 0, 0
+  index: -1
+hand-left2.1
+  rotate: false
+  xy: 305, 1368
+  size: 284, 324
+  orig: 284, 324
+  offset: 0, 0
+  index: -1
+hand-left3
+  rotate: true
+  xy: 231, 1694
+  size: 158, 395
+  orig: 158, 395
+  offset: 0, 0
+  index: -1
+head-feather
+  rotate: true
+  xy: 1096, 1812
+  size: 125, 186
+  orig: 125, 186
+  offset: 0, 0
+  index: -1
+leg-left
+  rotate: false
+  xy: 1090, 928
+  size: 752, 319
+  orig: 752, 319
+  offset: 0, 0
+  index: -1
+leg-left2
+  rotate: false
+  xy: 1007, 516
+  size: 468, 410
+  orig: 468, 410
+  offset: 0, 0
+  index: -1
+leg-left2-water
+  rotate: false
+  xy: 1477, 516
+  size: 468, 410
+  orig: 468, 410
+  offset: 0, 0
+  index: -1
+les-back1
+  rotate: true
+  xy: 1279, 2
+  size: 512, 594
+  orig: 512, 594
+  offset: 0, 0
+  index: -1
+les-back2
+  rotate: true
+  xy: 785, 25
+  size: 489, 492
+  orig: 489, 492
+  offset: 0, 0
+  index: -1
+manko-back
+  rotate: true
+  xy: 306, 1859
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+manko1
+  rotate: true
+  xy: 779, 1827
+  size: 110, 153
+  orig: 110, 153
+  offset: 0, 0
+  index: -1
+manko2
+  rotate: true
+  xy: 934, 1822
+  size: 115, 160
+  orig: 115, 160
+  offset: 0, 0
+  index: -1
+mouth-v1
+  rotate: false
+  xy: 78, 1873
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+mouth-v2
+  rotate: false
+  xy: 224, 1860
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+oppai-left
+  rotate: true
+  xy: 1165, 1567
+  size: 240, 259
+  orig: 240, 259
+  offset: 0, 0
+  index: -1
+oppai-left-water
+  rotate: true
+  xy: 1426, 1545
+  size: 240, 259
+  orig: 240, 259
+  offset: 0, 0
+  index: -1
+oppai-right
+  rotate: true
+  xy: 1687, 1537
+  size: 248, 301
+  orig: 248, 301
+  offset: 0, 0
+  index: -1
+oppai-right-water
+  rotate: true
+  xy: 2, 1444
+  size: 248, 301
+  orig: 248, 301
+  offset: 0, 0
+  index: -1
+sperm2
+  rotate: true
+  xy: 2, 615
+  size: 369, 444
+  orig: 369, 444
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 87
+  size: 781, 478
+  orig: 781, 478
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 448, 567
+  size: 557, 369
+  orig: 557, 369
+  offset: 0, 0
+  index: -1
+
+Sayaka_Playroom_Wedding_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 1296
+  size: 956, 526
+  orig: 956, 526
+  offset: 0, 0
+  index: -1
+foot-left
+  rotate: true
+  xy: 725, 629
+  size: 625, 641
+  orig: 625, 641
+  offset: 0, 0
+  index: -1
+foot-left-water
+  rotate: true
+  xy: 694, 2
+  size: 625, 641
+  orig: 625, 641
+  offset: 0, 0
+  index: -1
+head-wear
+  rotate: false
+  xy: 2, 16
+  size: 690, 620
+  orig: 690, 620
+  offset: 0, 0
+  index: -1
+head-wear2
+  rotate: false
+  xy: 2, 638
+  size: 721, 656
+  orig: 721, 656
+  offset: 0, 0
+  index: -1
+les-front
+  rotate: true
+  xy: 960, 1256
+  size: 566, 689
+  orig: 566, 689
+  offset: 0, 0
+  index: -1
+sperm1
+  rotate: false
+  xy: 1368, 661
+  size: 528, 593
+  orig: 528, 593
+  offset: 0, 0
+  index: -1

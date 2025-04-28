@@ -1,3 +1,453 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a324b352dda207a0d677a03ab3b254f389e739126191ed3acc03e4b9dc07e18b
-size 6699
+
+Feme_Spine_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChestChain_DF1
+  rotate: false
+  xy: 2, 1470
+  size: 270, 205
+  orig: 270, 205
+  offset: 0, 0
+  index: -1
+ChestChain_DF2
+  rotate: true
+  xy: 179, 1997
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Eye_DF1
+  rotate: false
+  xy: 773, 1976
+  size: 106, 55
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+Eye_DF2
+  rotate: false
+  xy: 881, 1976
+  size: 106, 55
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+Eye_DF3
+  rotate: false
+  xy: 989, 1976
+  size: 106, 55
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+Eyebrow_DF1
+  rotate: false
+  xy: 417, 1981
+  size: 114, 50
+  orig: 114, 50
+  offset: 0, 0
+  index: -1
+Eyebrow_DF2
+  rotate: false
+  xy: 653, 1978
+  size: 118, 53
+  orig: 118, 53
+  offset: 0, 0
+  index: -1
+Eyebrow_DF3
+  rotate: false
+  xy: 533, 1979
+  size: 118, 52
+  orig: 118, 52
+  offset: 0, 0
+  index: -1
+HandChain_DF12
+  rotate: false
+  xy: 1752, 1517
+  size: 214, 200
+  orig: 214, 200
+  offset: 0, 0
+  index: -1
+NeckBandage_DF123
+  rotate: false
+  xy: 32, 2016
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+ShoulderPads_B_DF1
+  rotate: true
+  xy: 1344, 966
+  size: 295, 632
+  orig: 295, 632
+  offset: 0, 0
+  index: -1
+ShoulderPads_B_DF2
+  rotate: true
+  xy: 1025, 1824
+  size: 128, 314
+  orig: 128, 314
+  offset: 0, 0
+  index: -1
+ShoulderPads_DF1
+  rotate: true
+  xy: 706, 1850
+  size: 124, 317
+  orig: 124, 317
+  offset: 0, 0
+  index: -1
+ShoulderPads_DF2
+  rotate: false
+  xy: 580, 1854
+  size: 124, 122
+  orig: 124, 122
+  offset: 0, 0
+  index: -1
+SkirtChain_D F123
+  rotate: true
+  xy: 1873, 1719
+  size: 197, 151
+  orig: 197, 151
+  offset: 0, 0
+  index: -1
+Tail_base
+  rotate: false
+  xy: 1531, 612
+  size: 357, 352
+  orig: 357, 352
+  offset: 0, 0
+  index: -1
+bandage_DF1
+  rotate: true
+  xy: 2, 852
+  size: 314, 576
+  orig: 314, 576
+  offset: 0, 0
+  index: -1
+bandage_DF23
+  rotate: true
+  xy: 580, 758
+  size: 314, 576
+  orig: 314, 576
+  offset: 0, 0
+  index: -1
+blush_DF1
+  rotate: false
+  xy: 1097, 1957
+  size: 121, 74
+  orig: 121, 74
+  offset: 0, 0
+  index: -1
+blush_DF2
+  rotate: false
+  xy: 1220, 1954
+  size: 126, 77
+  orig: 126, 77
+  offset: 0, 0
+  index: -1
+blush_DF3
+  rotate: false
+  xy: 1348, 1954
+  size: 126, 77
+  orig: 126, 77
+  offset: 0, 0
+  index: -1
+body_base
+  rotate: true
+  xy: 2, 454
+  size: 302, 1001
+  orig: 302, 1001
+  offset: 0, 0
+  index: -1
+bracelet_B_DF12
+  rotate: true
+  xy: 1612, 1944
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+bracelet_F_DF12
+  rotate: true
+  xy: 1702, 1941
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+calf_L_base
+  rotate: true
+  xy: 183, 1677
+  size: 179, 253
+  orig: 179, 253
+  offset: 0, 0
+  index: -1
+chest_DF1
+  rotate: false
+  xy: 729, 1658
+  size: 294, 190
+  orig: 294, 190
+  offset: 0, 0
+  index: -1
+chest_DF2
+  rotate: false
+  xy: 1025, 1632
+  size: 284, 190
+  orig: 284, 190
+  offset: 0, 0
+  index: -1
+chest_DF3
+  rotate: false
+  xy: 438, 1665
+  size: 289, 183
+  orig: 289, 183
+  offset: 0, 0
+  index: -1
+chest_shadow_DF3
+  rotate: false
+  xy: 2, 1896
+  size: 179, 99
+  orig: 179, 99
+  offset: 0, 0
+  index: -1
+ear_base
+  rotate: false
+  xy: 1311, 1619
+  size: 209, 193
+  orig: 209, 193
+  offset: 0, 0
+  index: -1
+hair_B_base
+  rotate: true
+  xy: 2, 1712
+  size: 182, 179
+  orig: 182, 179
+  offset: 0, 0
+  index: -1
+hair_F_base
+  rotate: true
+  xy: 1522, 1596
+  size: 197, 228
+  orig: 197, 228
+  offset: 0, 0
+  index: -1
+hair_F_shadow_base
+  rotate: true
+  xy: 1937, 1918
+  size: 113, 97
+  orig: 113, 97
+  offset: 0, 0
+  index: -1
+hand01_DF12
+  rotate: false
+  xy: 1796, 1936
+  size: 139, 95
+  orig: 139, 95
+  offset: 0, 0
+  index: -1
+hand01_DF3
+  rotate: true
+  xy: 332, 1858
+  size: 119, 246
+  orig: 119, 246
+  offset: 0, 0
+  index: -1
+hand02_DF12
+  rotate: true
+  xy: 1158, 650
+  size: 314, 371
+  orig: 314, 371
+  offset: 0, 0
+  index: -1
+hand_DF1
+  rotate: true
+  xy: 1534, 1801
+  size: 141, 147
+  orig: 141, 147
+  offset: 0, 0
+  index: -1
+hand_R_B
+  rotate: false
+  xy: 1476, 1948
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+head_base
+  rotate: true
+  xy: 1341, 1814
+  size: 132, 191
+  orig: 132, 191
+  offset: 0, 0
+  index: -1
+headdress_base
+  rotate: true
+  xy: 274, 1449
+  size: 214, 237
+  orig: 214, 237
+  offset: 0, 0
+  index: -1
+leg_DF23
+  rotate: true
+  xy: 227, 1995
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+mouth_DF1
+  rotate: false
+  xy: 68, 2013
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+mouth_DF2
+  rotate: false
+  xy: 100, 2012
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+mouth_DF3
+  rotate: false
+  xy: 131, 2006
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+nose_DF1
+  rotate: true
+  xy: 2, 2024
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+nose_DF2
+  rotate: true
+  xy: 15, 2017
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+nose_DF3
+  rotate: true
+  xy: 15, 2017
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+panties_base
+  rotate: false
+  xy: 1683, 1795
+  size: 188, 139
+  orig: 188, 139
+  offset: 0, 0
+  index: -1
+pectoral_base
+  rotate: false
+  xy: 183, 1871
+  size: 147, 112
+  orig: 147, 112
+  offset: 0, 0
+  index: -1
+skirt01_DF23
+  rotate: false
+  xy: 295, 1985
+  size: 120, 46
+  orig: 120, 46
+  offset: 0, 0
+  index: -1
+skirt02_DF1
+  rotate: false
+  xy: 2, 2
+  size: 545, 450
+  orig: 545, 450
+  offset: 0, 0
+  index: -1
+skirt02_DF23
+  rotate: true
+  xy: 1005, 213
+  size: 435, 449
+  orig: 435, 449
+  offset: 0, 0
+  index: -1
+skirt03_B_DF1
+  rotate: false
+  xy: 1454, 1263
+  size: 277, 331
+  orig: 277, 331
+  offset: 0, 0
+  index: -1
+skirt03_B_DF23
+  rotate: true
+  xy: 1146, 1366
+  size: 251, 306
+  orig: 251, 306
+  offset: 0, 0
+  index: -1
+skirt03_DF1
+  rotate: true
+  xy: 747, 1074
+  size: 290, 595
+  orig: 290, 595
+  offset: 0, 0
+  index: -1
+skirt03_DF23
+  rotate: true
+  xy: 339, 1168
+  size: 268, 406
+  orig: 268, 406
+  offset: 0, 0
+  index: -1
+skirt04_DF1
+  rotate: true
+  xy: 1456, 172
+  size: 438, 580
+  orig: 438, 580
+  offset: 0, 0
+  index: -1
+skirt04_DF2
+  rotate: true
+  xy: 2, 1189
+  size: 258, 335
+  orig: 258, 335
+  offset: 0, 0
+  index: -1
+thigh_L_base
+  rotate: true
+  xy: 513, 1438
+  size: 218, 359
+  orig: 218, 359
+  offset: 0, 0
+  index: -1
+weapon2_DF123
+  rotate: true
+  xy: 874, 1387
+  size: 243, 270
+  orig: 243, 270
+  offset: 0, 0
+  index: -1
+
+Feme_Spine_Skin1_2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon1_DF1
+  rotate: true
+  xy: 2, 2
+  size: 986, 683
+  orig: 986, 683
+  offset: 0, 0
+  index: -1
+weapon1_DF2
+  rotate: true
+  xy: 687, 2
+  size: 986, 546
+  orig: 986, 546
+  offset: 0, 0
+  index: -1
+weapon1_DF3
+  rotate: true
+  xy: 1235, 3
+  size: 985, 546
+  orig: 985, 546
+  offset: 0, 0
+  index: -1

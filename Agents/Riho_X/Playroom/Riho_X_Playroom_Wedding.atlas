@@ -1,3 +1,397 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5eb0487e225d212db5a8962dd8698953ba7796a7a64ed4b561b80e98d4c58a60
-size 5952
+
+Riho_X_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JJ
+  rotate: false
+  xy: 1472, 3265
+  size: 411, 348
+  orig: 411, 348
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 959, 20
+  size: 1194, 1173
+  orig: 1194, 1173
+  offset: 0, 0
+  index: -1
+body_hand
+  rotate: false
+  xy: 2134, 2
+  size: 1577, 917
+  orig: 1577, 917
+  offset: 0, 0
+  index: -1
+dressRunder
+  rotate: false
+  xy: 166, 3993
+  size: 409, 87
+  orig: 409, 87
+  offset: 0, 0
+  index: -1
+dress_L
+  rotate: true
+  xy: 2397, 1746
+  size: 711, 866
+  orig: 711, 866
+  offset: 0, 0
+  index: -1
+dress_Lfront
+  rotate: false
+  xy: 3265, 1591
+  size: 711, 866
+  orig: 711, 866
+  offset: 0, 0
+  index: -1
+dress_R2
+  rotate: false
+  xy: 2, 2208
+  size: 1074, 645
+  orig: 1074, 645
+  offset: 0, 0
+  index: -1
+dress_ass_ flower
+  rotate: false
+  xy: 1207, 3635
+  size: 328, 259
+  orig: 328, 259
+  offset: 0, 0
+  index: -1
+dress_ass_ribbon
+  rotate: false
+  xy: 1077, 1216
+  size: 1064, 803
+  orig: 1064, 803
+  offset: 0, 0
+  index: -1
+dress_ass_shadow
+  rotate: false
+  xy: 2, 1460
+  size: 1073, 746
+  orig: 1073, 746
+  offset: 0, 0
+  index: -1
+dress_back
+  rotate: false
+  xy: 1078, 2021
+  size: 1317, 688
+  orig: 1317, 688
+  offset: 0, 0
+  index: -1
+dress_top
+  rotate: true
+  xy: 840, 3314
+  size: 319, 630
+  orig: 319, 630
+  offset: 0, 0
+  index: -1
+drink
+  rotate: true
+  xy: 677, 3974
+  size: 106, 340
+  orig: 106, 340
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 1537, 3619
+  size: 335, 268
+  orig: 335, 268
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1874, 3615
+  size: 322, 270
+  orig: 322, 270
+  offset: 0, 0
+  index: -1
+eyebrown
+  rotate: false
+  xy: 1981, 3888
+  size: 195, 192
+  orig: 195, 192
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 816, 2855
+  size: 493, 457
+  orig: 493, 457
+  offset: 0, 0
+  index: -1
+face_cheek
+  rotate: false
+  xy: 2, 3434
+  size: 353, 330
+  orig: 353, 330
+  offset: 0, 0
+  index: -1
+hair_back_1
+  rotate: false
+  xy: 1746, 3889
+  size: 233, 191
+  orig: 233, 191
+  offset: 0, 0
+  index: -1
+hair_back_2
+  rotate: true
+  xy: 2721, 3883
+  size: 197, 574
+  orig: 197, 574
+  offset: 0, 0
+  index: -1
+hair_back_3
+  rotate: false
+  xy: 2198, 3593
+  size: 546, 288
+  orig: 546, 288
+  offset: 0, 0
+  index: -1
+hair_back_4
+  rotate: false
+  xy: 1311, 2728
+  size: 575, 527
+  orig: 575, 527
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 2143, 921
+  size: 823, 1071
+  orig: 823, 1071
+  offset: 0, 0
+  index: -1
+hair_front_shadow
+  rotate: true
+  xy: 2714, 3202
+  size: 362, 413
+  orig: 362, 413
+  offset: 0, 0
+  index: -1
+hair_side_1
+  rotate: false
+  xy: 3633, 3119
+  size: 433, 424
+  orig: 433, 424
+  offset: 0, 0
+  index: -1
+hair_side_2
+  rotate: true
+  xy: 1224, 3901
+  size: 179, 268
+  orig: 179, 268
+  offset: 0, 0
+  index: -1
+hair_side_3
+  rotate: true
+  xy: 2, 3017
+  size: 411, 812
+  orig: 411, 812
+  offset: 0, 0
+  index: -1
+hair_side_4
+  rotate: false
+  xy: 3605, 3545
+  size: 338, 312
+  orig: 338, 312
+  offset: 0, 0
+  index: -1
+hair_side_shadow
+  rotate: true
+  xy: 3243, 2459
+  size: 658, 741
+  orig: 658, 741
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 1885, 3257
+  size: 827, 334
+  orig: 827, 334
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 73, 3995
+  size: 91, 85
+  orig: 91, 85
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 577, 3987
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 2, 4020
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+pants
+  rotate: true
+  xy: 2, 3766
+  size: 225, 477
+  orig: 225, 477
+  offset: 0, 0
+  index: -1
+pants_wet
+  rotate: true
+  xy: 481, 3747
+  size: 225, 477
+  orig: 225, 477
+  offset: 0, 0
+  index: -1
+pussy_back
+  rotate: true
+  xy: 2178, 3887
+  size: 193, 272
+  orig: 193, 272
+  offset: 0, 0
+  index: -1
+pussy_front
+  rotate: true
+  xy: 2452, 3886
+  size: 194, 267
+  orig: 194, 267
+  offset: 0, 0
+  index: -1
+veil_clown
+  rotate: false
+  xy: 2746, 3587
+  size: 346, 294
+  orig: 346, 294
+  offset: 0, 0
+  index: -1
+veil_flower_big_1
+  rotate: true
+  xy: 1494, 3896
+  size: 184, 250
+  orig: 184, 250
+  offset: 0, 0
+  index: -1
+veil_flower_big_2
+  rotate: false
+  xy: 960, 3657
+  size: 245, 303
+  orig: 245, 303
+  offset: 0, 0
+  index: -1
+veil_flower_big_3
+  rotate: true
+  xy: 3548, 3869
+  size: 211, 278
+  orig: 211, 278
+  offset: 0, 0
+  index: -1
+veil_flower_blue
+  rotate: false
+  xy: 3297, 3879
+  size: 249, 201
+  orig: 249, 201
+  offset: 0, 0
+  index: -1
+veil_flower_cloth
+  rotate: true
+  xy: 3129, 3180
+  size: 363, 502
+  orig: 363, 502
+  offset: 0, 0
+  index: -1
+veil_flower_shadow
+  rotate: true
+  xy: 357, 3430
+  size: 315, 481
+  orig: 315, 481
+  offset: 0, 0
+  index: -1
+veil_flower_small
+  rotate: true
+  xy: 3828, 3859
+  size: 221, 236
+  orig: 221, 236
+  offset: 0, 0
+  index: -1
+veil_flower_white
+  rotate: false
+  xy: 1019, 3962
+  size: 203, 118
+  orig: 203, 118
+  offset: 0, 0
+  index: -1
+veil_front
+  rotate: true
+  xy: 2, 352
+  size: 1106, 955
+  orig: 1106, 955
+  offset: 0, 0
+  index: -1
+veil_front_shadow
+  rotate: false
+  xy: 2492, 2545
+  size: 749, 633
+  orig: 749, 633
+  offset: 0, 0
+  index: -1
+wing_back
+  rotate: false
+  xy: 3094, 3566
+  size: 509, 301
+  orig: 509, 301
+  offset: 0, 0
+  index: -1
+wing_front
+  rotate: true
+  xy: 1888, 2711
+  size: 544, 602
+  orig: 544, 602
+  offset: 0, 0
+  index: -1
+
+Riho_X_Playroom_Wedding_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_lower
+  rotate: true
+  xy: 2, 2
+  size: 1567, 1292
+  orig: 1567, 1292
+  offset: 0, 0
+  index: -1
+body_upper
+  rotate: false
+  xy: 1296, 422
+  size: 1577, 917
+  orig: 1577, 917
+  offset: 0, 0
+  index: -1
+dress_R1
+  rotate: false
+  xy: 2, 1571
+  size: 1938, 1457
+  orig: 1938, 1457
+  offset: 0, 0
+  index: -1
+dress_shadow
+  rotate: true
+  xy: 1942, 1341
+  size: 1687, 1369
+  orig: 1687, 1369
+  offset: 0, 0
+  index: -1
+veil_back
+  rotate: true
+  xy: 2875, 41
+  size: 1298, 1052
+  orig: 1298, 1052
+  offset: 0, 0
+  index: -1

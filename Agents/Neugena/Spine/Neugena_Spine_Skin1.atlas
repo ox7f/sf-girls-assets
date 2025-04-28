@@ -1,3 +1,454 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b79a17e795d9367ba1028cd52dc529d62a3ca1ac41ca32e9052a1e5e6238358f
-size 6595
+
+Neugena_Spine_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: true
+  xy: 2419, 706
+  size: 361, 428
+  orig: 361, 428
+  offset: 0, 0
+  index: -1
+Arm L 2
+  rotate: true
+  xy: 2476, 345
+  size: 359, 428
+  orig: 359, 428
+  offset: 0, 0
+  index: -1
+Arm L Cloth
+  rotate: true
+  xy: 1705, 1566
+  size: 257, 373
+  orig: 257, 373
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: false
+  xy: 1239, 3437
+  size: 542, 657
+  orig: 542, 657
+  offset: 0, 0
+  index: -1
+Arm R Cloth
+  rotate: true
+  xy: 2260, 1946
+  size: 266, 258
+  orig: 266, 258
+  offset: 0, 0
+  index: -1
+Arm R Coat
+  rotate: true
+  xy: 1126, 61
+  size: 190, 356
+  orig: 190, 356
+  offset: 0, 0
+  index: -1
+Arm R Coat 2
+  rotate: false
+  xy: 2425, 1766
+  size: 173, 178
+  orig: 173, 178
+  offset: 0, 0
+  index: -1
+Arrow_Bag_Rope
+  rotate: false
+  xy: 1239, 2367
+  size: 526, 317
+  orig: 526, 317
+  offset: 0, 0
+  index: -1
+Bell Body B
+  rotate: false
+  xy: 1484, 10
+  size: 93, 63
+  orig: 93, 63
+  offset: 0, 0
+  index: -1
+Bell Body F
+  rotate: true
+  xy: 1813, 593
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+Bell D
+  rotate: true
+  xy: 2, 8
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+Bell Leave
+  rotate: false
+  xy: 1362, 585
+  size: 168, 102
+  orig: 168, 102
+  offset: 0, 0
+  index: -1
+Body 1
+  rotate: false
+  xy: 1239, 2686
+  size: 439, 749
+  orig: 439, 749
+  offset: 0, 0
+  index: -1
+Body 2
+  rotate: false
+  xy: 1680, 2686
+  size: 439, 749
+  orig: 439, 749
+  offset: 0, 0
+  index: -1
+Body Cloths 1
+  rotate: true
+  xy: 716, 1520
+  size: 773, 632
+  orig: 773, 632
+  offset: 0, 0
+  index: -1
+Body Cloths 2
+  rotate: true
+  xy: 758, 585
+  size: 773, 602
+  orig: 773, 602
+  offset: 0, 0
+  index: -1
+Boob L 1
+  rotate: true
+  xy: 2125, 7
+  size: 276, 342
+  orig: 276, 342
+  offset: 0, 0
+  index: -1
+Boob L 2
+  rotate: true
+  xy: 1767, 2409
+  size: 275, 353
+  orig: 275, 353
+  offset: 0, 0
+  index: -1
+Boob L 3
+  rotate: true
+  xy: 1350, 1548
+  size: 275, 353
+  orig: 275, 353
+  offset: 0, 0
+  index: -1
+Boob R 1
+  rotate: false
+  xy: 2398, 2546
+  size: 281, 290
+  orig: 281, 290
+  offset: 0, 0
+  index: -1
+Boob R 2
+  rotate: false
+  xy: 2797, 28
+  size: 293, 315
+  orig: 293, 315
+  offset: 0, 0
+  index: -1
+Boob R 3
+  rotate: false
+  xy: 2260, 2214
+  size: 287, 294
+  orig: 287, 294
+  offset: 0, 0
+  index: -1
+Bow
+  rotate: false
+  xy: 2, 2295
+  size: 1235, 1799
+  orig: 1235, 1799
+  offset: 0, 0
+  index: -1
+Coat Back
+  rotate: true
+  xy: 1971, 940
+  size: 512, 394
+  orig: 512, 394
+  offset: 0, 0
+  index: -1
+Coat Back 2
+  rotate: true
+  xy: 2367, 1069
+  size: 501, 332
+  orig: 501, 332
+  offset: 0, 0
+  index: -1
+Coat L
+  rotate: true
+  xy: 1808, 85
+  size: 166, 315
+  orig: 166, 315
+  offset: 0, 0
+  index: -1
+Coat L 2
+  rotate: true
+  xy: 716, 1360
+  size: 158, 240
+  orig: 158, 240
+  offset: 0, 0
+  index: -1
+Collar_Rope 1
+  rotate: true
+  xy: 1350, 1825
+  size: 540, 452
+  orig: 540, 452
+  offset: 0, 0
+  index: -1
+Collar_Rope 2
+  rotate: true
+  xy: 958, 1454
+  size: 64, 445
+  orig: 64, 445
+  offset: 0, 0
+  index: -1
+Collar_Rope 3
+  rotate: true
+  xy: 54, 2
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Collar_Rope 4
+  rotate: true
+  xy: 1177, 1401
+  size: 51, 295
+  orig: 51, 295
+  offset: 0, 0
+  index: -1
+Face 1
+  rotate: false
+  xy: 2267, 3588
+  size: 220, 178
+  orig: 220, 178
+  offset: 0, 0
+  index: -1
+Face 2
+  rotate: false
+  xy: 2182, 733
+  size: 235, 205
+  orig: 235, 205
+  offset: 0, 0
+  index: -1
+Face 3
+  rotate: true
+  xy: 1971, 704
+  size: 234, 209
+  orig: 234, 209
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: true
+  xy: 2080, 1572
+  size: 322, 343
+  orig: 322, 343
+  offset: 0, 0
+  index: -1
+Hair Bang 1
+  rotate: true
+  xy: 758, 48
+  size: 203, 366
+  orig: 203, 366
+  offset: 0, 0
+  index: -1
+Hair Bang 2
+  rotate: true
+  xy: 1474, 1411
+  size: 135, 194
+  orig: 135, 194
+  offset: 0, 0
+  index: -1
+Hair Bang 3
+  rotate: true
+  xy: 1783, 3439
+  size: 106, 181
+  orig: 106, 181
+  offset: 0, 0
+  index: -1
+Hair Bang 4
+  rotate: true
+  xy: 1673, 601
+  size: 86, 138
+  orig: 86, 138
+  offset: 0, 0
+  index: -1
+Hair Bang 5
+  rotate: true
+  xy: 958, 1368
+  size: 84, 217
+  orig: 84, 217
+  offset: 0, 0
+  index: -1
+Hair Bang 6
+  rotate: true
+  xy: 1670, 1436
+  size: 110, 232
+  orig: 110, 232
+  offset: 0, 0
+  index: -1
+Hair Bang 7
+  rotate: true
+  xy: 1904, 1454
+  size: 110, 179
+  orig: 110, 179
+  offset: 0, 0
+  index: -1
+Hair Tail
+  rotate: false
+  xy: 1362, 689
+  size: 607, 710
+  orig: 607, 710
+  offset: 0, 0
+  index: -1
+Hair Tail Lights
+  rotate: true
+  xy: 1783, 3547
+  size: 547, 482
+  orig: 547, 482
+  offset: 0, 0
+  index: -1
+Hair doc
+  rotate: true
+  xy: 2085, 1456
+  size: 114, 133
+  orig: 114, 133
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2469, 9
+  size: 274, 326
+  orig: 274, 326
+  offset: 0, 0
+  index: -1
+Head 2
+  rotate: false
+  xy: 2122, 2510
+  size: 274, 326
+  orig: 274, 326
+  offset: 0, 0
+  index: -1
+Head 3
+  rotate: false
+  xy: 2267, 3768
+  size: 274, 326
+  orig: 274, 326
+  offset: 0, 0
+  index: -1
+Leg L
+  rotate: true
+  xy: 758, 253
+  size: 330, 1310
+  orig: 330, 1310
+  offset: 0, 0
+  index: -1
+Leg L Doc
+  rotate: true
+  xy: 1484, 75
+  size: 176, 322
+  orig: 176, 322
+  offset: 0, 0
+  index: -1
+Leg R 1
+  rotate: false
+  xy: 2, 38
+  size: 376, 1317
+  orig: 376, 1317
+  offset: 0, 0
+  index: -1
+Leg R 2
+  rotate: false
+  xy: 380, 38
+  size: 376, 1317
+  orig: 376, 1317
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 2121, 3148
+  size: 397, 365
+  orig: 397, 365
+  offset: 0, 0
+  index: -1
+arrow bag
+  rotate: true
+  xy: 2, 1357
+  size: 936, 712
+  orig: 936, 712
+  offset: 0, 0
+  index: -1
+ear L
+  rotate: false
+  xy: 1532, 586
+  size: 139, 101
+  orig: 139, 101
+  offset: 0, 0
+  index: -1
+ear L Doc
+  rotate: true
+  xy: 1254, 8
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+ear R
+  rotate: false
+  xy: 1808, 2
+  size: 129, 81
+  orig: 129, 81
+  offset: 0, 0
+  index: -1
+ear R Doc
+  rotate: true
+  xy: 758, 2
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+fingers R
+  rotate: false
+  xy: 1931, 593
+  size: 111, 94
+  orig: 111, 94
+  offset: 0, 0
+  index: -1
+horn L
+  rotate: true
+  xy: 1804, 1896
+  size: 511, 454
+  orig: 511, 454
+  offset: 0, 0
+  index: -1
+horn L Lights
+  rotate: true
+  xy: 2121, 2838
+  size: 308, 295
+  orig: 308, 295
+  offset: 0, 0
+  index: -1
+horn R
+  rotate: false
+  xy: 2070, 285
+  size: 404, 417
+  orig: 404, 417
+  offset: 0, 0
+  index: -1
+horn R Lights
+  rotate: false
+  xy: 2418, 2876
+  size: 257, 270
+  orig: 257, 270
+  offset: 0, 0
+  index: -1
+thumb R
+  rotate: false
+  xy: 1126, 12
+  size: 126, 47
+  orig: 126, 47
+  offset: 0, 0
+  index: -1

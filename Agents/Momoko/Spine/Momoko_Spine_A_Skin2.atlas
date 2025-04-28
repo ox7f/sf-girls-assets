@@ -1,3 +1,278 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99e6b26a58fa0c69f4bb67ed2a36fbea29a8f6dbafcdb67f3d580239885e0e0c
-size 3947
+
+Momoko_Spine_A_Skin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L_part
+  rotate: true
+  xy: 1346, 1387
+  size: 262, 425
+  orig: 275, 468
+  offset: 13, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 1609, 1651
+  size: 354, 232
+  orig: 354, 232
+  offset: 0, 0
+  index: -1
+Arm_R_part
+  rotate: true
+  xy: 1227, 1660
+  size: 225, 380
+  orig: 275, 440
+  offset: 0, 0
+  index: -1
+Arm_R_part2
+  rotate: true
+  xy: 1620, 1885
+  size: 137, 365
+  orig: 139, 365
+  offset: 2, 0
+  index: -1
+Dress_part
+  rotate: false
+  xy: 168, 1968
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+Effect1
+  rotate: false
+  xy: 2, 1822
+  size: 271, 137
+  orig: 271, 137
+  offset: 0, 0
+  index: -1
+Effect2
+  rotate: false
+  xy: 473, 307
+  size: 541, 420
+  orig: 541, 420
+  offset: 0, 0
+  index: -1
+Effect3
+  rotate: false
+  xy: 668, 1448
+  size: 315, 252
+  orig: 315, 252
+  offset: 0, 0
+  index: -1
+Gun_Parts_R
+  rotate: false
+  xy: 754, 1755
+  size: 162, 170
+  orig: 162, 170
+  offset: 0, 0
+  index: -1
+Gun_R
+  rotate: true
+  xy: 792, 729
+  size: 396, 507
+  orig: 396, 507
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: true
+  xy: 2, 1552
+  size: 245, 305
+  orig: 245, 305
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: true
+  xy: 918, 1702
+  size: 195, 307
+  orig: 195, 307
+  offset: 0, 0
+  index: -1
+Layer22
+  rotate: true
+  xy: 602, 1127
+  size: 273, 732
+  orig: 273, 732
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 256, 1961
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+Part2
+  rotate: false
+  xy: 329, 1959
+  size: 111, 63
+  orig: 111, 63
+  offset: 0, 0
+  index: -1
+Part4
+  rotate: true
+  xy: 442, 1941
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 803, 1927
+  size: 95, 118
+  orig: 95, 118
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1465, 98
+  size: 553, 557
+  orig: 553, 557
+  offset: 0, 0
+  index: -1
+cloth1
+  rotate: true
+  xy: 2, 351
+  size: 417, 469
+  orig: 417, 469
+  offset: 0, 0
+  index: -1
+cloth2
+  rotate: true
+  xy: 2, 1980
+  size: 42, 164
+  orig: 42, 164
+  offset: 0, 0
+  index: -1
+cloth3
+  rotate: true
+  xy: 1301, 653
+  size: 409, 432
+  orig: 409, 432
+  offset: 0, 0
+  index: -1
+cloth5
+  rotate: false
+  xy: 352, 770
+  size: 438, 355
+  orig: 438, 355
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 2, 1242
+  size: 598, 297
+  orig: 598, 399
+  offset: 0, 102
+  index: -1
+eye
+  rotate: false
+  xy: 275, 1799
+  size: 261, 140
+  orig: 261, 140
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 1016, 227
+  size: 447, 424
+  orig: 447, 501
+  offset: 0, 77
+  index: -1
+hand_L
+  rotate: true
+  xy: 309, 1541
+  size: 246, 357
+  orig: 328, 376
+  offset: 16, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 985, 1402
+  size: 256, 359
+  orig: 1062, 422
+  offset: 0, 63
+  index: -1
+hat1
+  rotate: true
+  xy: 1336, 1064
+  size: 321, 401
+  orig: 321, 402
+  offset: 0, 1
+  index: -1
+hat2
+  rotate: false
+  xy: 1300, 1894
+  size: 164, 128
+  orig: 164, 128
+  offset: 0, 0
+  index: -1
+hat3
+  rotate: false
+  xy: 582, 1936
+  size: 219, 86
+  orig: 219, 86
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 917
+  size: 323, 348
+  orig: 323, 348
+  offset: 0, 0
+  index: -1
+part1
+  rotate: true
+  xy: 1466, 1887
+  size: 135, 152
+  orig: 135, 152
+  offset: 0, 0
+  index: -1
+part5
+  rotate: true
+  xy: 1130, 1899
+  size: 123, 168
+  orig: 140, 168
+  offset: 17, 0
+  index: -1
+ribon1
+  rotate: false
+  xy: 538, 1789
+  size: 214, 145
+  orig: 214, 145
+  offset: 0, 0
+  index: -1
+ribon2
+  rotate: false
+  xy: 923, 1904
+  size: 205, 118
+  orig: 205, 118
+  offset: 0, 0
+  index: -1
+
+Momoko_Spine_A_Skin2_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun_L
+  rotate: true
+  xy: 726, 871
+  size: 585, 730
+  orig: 585, 730
+  offset: 0, 0
+  index: -1
+Layer23
+  rotate: true
+  xy: 2, 968
+  size: 488, 722
+  orig: 488, 722
+  offset: 0, 0
+  index: -1
+cloth4
+  rotate: false
+  xy: 2, 271
+  size: 1069, 598
+  orig: 1069, 598
+  offset: 0, 0
+  index: -1

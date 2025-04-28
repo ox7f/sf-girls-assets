@@ -1,3 +1,279 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:df79cf5251af33541673039453719e7193b8a01a2eb40755b3bca8ea8f339e1d
-size 3876
+
+Sichigen_Chibi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 135, 2
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+breast_L_1
+  rotate: false
+  xy: 325, 219
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+breast_L_2
+  rotate: false
+  xy: 298, 125
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+breast_R_1
+  rotate: true
+  xy: 262, 157
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+breast_R_2
+  rotate: true
+  xy: 262, 120
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+cloth_1_1
+  rotate: true
+  xy: 2, 2
+  size: 87, 131
+  orig: 87, 131
+  offset: 0, 0
+  index: -1
+cloth_1_2
+  rotate: false
+  xy: 2, 91
+  size: 111, 151
+  orig: 111, 151
+  offset: 0, 0
+  index: -1
+eye_L_1
+  rotate: false
+  xy: 328, 173
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+eye_L_2
+  rotate: false
+  xy: 138, 92
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+eye_R_1
+  rotate: true
+  xy: 298, 93
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+eye_R_2
+  rotate: true
+  xy: 280, 91
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+eyebrow_L_1
+  rotate: false
+  xy: 304, 442
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+eyebrow_L_2
+  rotate: false
+  xy: 115, 91
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+eyebrow_R_1
+  rotate: false
+  xy: 317, 200
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+eyebrow_R_2
+  rotate: false
+  xy: 299, 371
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: true
+  xy: 208, 3
+  size: 86, 101
+  orig: 86, 101
+  offset: 0, 0
+  index: -1
+foot_L_1_1
+  rotate: false
+  xy: 259, 369
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+foot_L_1_2
+  rotate: true
+  xy: 200, 91
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+foot_L_1_3
+  rotate: false
+  xy: 299, 380
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+foot_R_1_1
+  rotate: false
+  xy: 259, 304
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+foot_R_1_2
+  rotate: false
+  xy: 253, 92
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+foot_R_1_3
+  rotate: false
+  xy: 304, 451
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 186, 117
+  size: 74, 125
+  orig: 74, 125
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 259, 435
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 115, 107
+  size: 69, 135
+  orig: 69, 135
+  offset: 0, 0
+  index: -1
+hand_L_1_1
+  rotate: false
+  xy: 292, 217
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+hand_L_1_2
+  rotate: true
+  xy: 292, 195
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+hand_L_1_3
+  rotate: true
+  xy: 259, 246
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+hand_L_2_1
+  rotate: true
+  xy: 262, 194
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+hand_L_2_2
+  rotate: false
+  xy: 311, 304
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+hand_L_2_3
+  rotate: true
+  xy: 330, 269
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+hand_R_1_1
+  rotate: false
+  xy: 291, 254
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+hand_R_1_2
+  rotate: false
+  xy: 225, 92
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+hand_R_1_3
+  rotate: false
+  xy: 311, 331
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 179, 97
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 160, 93
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 329, 442
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+neck_1
+  rotate: true
+  xy: 298, 159
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 244
+  size: 255, 259
+  orig: 255, 259
+  offset: 0, 0
+  index: -1

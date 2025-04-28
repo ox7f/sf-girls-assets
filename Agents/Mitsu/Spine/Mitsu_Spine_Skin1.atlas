@@ -1,3 +1,711 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:253470d7d0c0c61b444fca1c838996d015a74a6f69c395adfab28cd5ac000817
-size 10778
+
+Mitsu_Spine_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm L 1
+  rotate: false
+  xy: 2, 3110
+  size: 466, 261
+  orig: 466, 261
+  offset: 0, 0
+  index: -1
+arm L 2
+  rotate: false
+  xy: 470, 3096
+  size: 672, 261
+  orig: 672, 261
+  offset: 0, 0
+  index: -1
+arm L 2 skirt 2
+  rotate: false
+  xy: 3769, 3649
+  size: 177, 154
+  orig: 177, 154
+  offset: 0, 0
+  index: -1
+arm L 2 skirt 2 back
+  rotate: true
+  xy: 2, 3779
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+arm L 3
+  rotate: false
+  xy: 1144, 3037
+  size: 514, 265
+  orig: 514, 265
+  offset: 0, 0
+  index: -1
+arm L skirt 2
+  rotate: true
+  xy: 2874, 3483
+  size: 178, 231
+  orig: 178, 231
+  offset: 0, 0
+  index: -1
+arm L skirt 2 back
+  rotate: true
+  xy: 1653, 3710
+  size: 93, 182
+  orig: 93, 182
+  offset: 0, 0
+  index: -1
+arm R
+  rotate: false
+  xy: 2, 2830
+  size: 834, 264
+  orig: 834, 264
+  offset: 0, 0
+  index: -1
+arm R 2
+  rotate: false
+  xy: 2115, 2988
+  size: 838, 261
+  orig: 838, 261
+  offset: 0, 0
+  index: -1
+arm R 2  skirt 2
+  rotate: true
+  xy: 1837, 3705
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: -1
+arm R skirt 2
+  rotate: true
+  xy: 1444, 3712
+  size: 91, 207
+  orig: 91, 207
+  offset: 0, 0
+  index: -1
+body skirt
+  rotate: false
+  xy: 1111, 1819
+  size: 971, 415
+  orig: 971, 415
+  offset: 0, 0
+  index: -1
+body skirt 2
+  rotate: false
+  xy: 2836, 1632
+  size: 913, 421
+  orig: 913, 421
+  offset: 0, 0
+  index: -1
+body skirt 2 String
+  rotate: false
+  xy: 789, 3725
+  size: 176, 78
+  orig: 176, 78
+  offset: 0, 0
+  index: -1
+body skirt 3
+  rotate: false
+  xy: 2, 2486
+  size: 456, 342
+  orig: 456, 342
+  offset: 0, 0
+  index: -1
+body skirt back
+  rotate: false
+  xy: 2, 2
+  size: 1244, 743
+  orig: 1244, 743
+  offset: 0, 0
+  index: -1
+body skirt back 2
+  rotate: false
+  xy: 2575, 396
+  size: 1175, 698
+  orig: 1175, 698
+  offset: 0, 0
+  index: -1
+body skirt back 3
+  rotate: false
+  xy: 712, 747
+  size: 1109, 631
+  orig: 1109, 631
+  offset: 0, 0
+  index: -1
+body skirt back 3 chest
+  rotate: false
+  xy: 45, 3763
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+body skirt chest B2
+  rotate: false
+  xy: 2627, 3692
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+body skirt flower 1
+  rotate: false
+  xy: 255, 3738
+  size: 96, 65
+  orig: 96, 65
+  offset: 0, 0
+  index: -1
+body skirt flower 2
+  rotate: true
+  xy: 512, 3728
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+body upper
+  rotate: false
+  xy: 3473, 2829
+  size: 483, 306
+  orig: 483, 306
+  offset: 0, 0
+  index: -1
+chest  L 1
+  rotate: false
+  xy: 2730, 3251
+  size: 280, 230
+  orig: 280, 230
+  offset: 0, 0
+  index: -1
+chest  L 2 & 3
+  rotate: false
+  xy: 3364, 3221
+  size: 280, 236
+  orig: 280, 236
+  offset: 0, 0
+  index: -1
+chest R 1
+  rotate: false
+  xy: 3335, 3473
+  size: 268, 183
+  orig: 268, 183
+  offset: 0, 0
+  index: -1
+chest R 2 & 3
+  rotate: true
+  xy: 3878, 3379
+  size: 268, 193
+  orig: 268, 193
+  offset: 0, 0
+  index: -1
+chest R nipple
+  rotate: false
+  xy: 593, 3727
+  size: 113, 76
+  orig: 113, 76
+  offset: 0, 0
+  index: -1
+chest skirt
+  rotate: false
+  xy: 1940, 3295
+  size: 507, 222
+  orig: 507, 222
+  offset: 0, 0
+  index: -1
+eyes 1
+  rotate: false
+  xy: 896, 3553
+  size: 268, 166
+  orig: 268, 166
+  offset: 0, 0
+  index: -1
+eyes 1 V2
+  rotate: false
+  xy: 2359, 3693
+  size: 266, 110
+  orig: 266, 110
+  offset: 0, 0
+  index: -1
+eyes 1 close
+  rotate: false
+  xy: 133, 3762
+  size: 120, 41
+  orig: 120, 41
+  offset: 0, 0
+  index: -1
+eyes 1 open
+  rotate: false
+  xy: 1335, 3713
+  size: 107, 90
+  orig: 107, 90
+  offset: 0, 0
+  index: -1
+eyes 2
+  rotate: false
+  xy: 875, 3359
+  size: 269, 192
+  orig: 269, 192
+  offset: 0, 0
+  index: -1
+eyes 3
+  rotate: false
+  xy: 2269, 3519
+  size: 272, 172
+  orig: 272, 172
+  offset: 0, 0
+  index: -1
+hair back
+  rotate: true
+  xy: 2376, 2145
+  size: 452, 482
+  orig: 452, 482
+  offset: 0, 0
+  index: -1
+hair back 2
+  rotate: false
+  xy: 3646, 3137
+  size: 419, 240
+  orig: 419, 240
+  offset: 0, 0
+  index: -1
+hair bing 1  trans
+  rotate: true
+  xy: 2952, 3663
+  size: 140, 370
+  orig: 140, 370
+  offset: 0, 0
+  index: -1
+hair bing 2
+  rotate: true
+  xy: 472, 3563
+  size: 160, 422
+  orig: 160, 422
+  offset: 0, 0
+  index: -1
+hair bing 3
+  rotate: true
+  xy: 2, 3386
+  size: 189, 377
+  orig: 189, 377
+  offset: 0, 0
+  index: -1
+hair bing 4
+  rotate: true
+  xy: 1146, 3315
+  size: 223, 411
+  orig: 223, 411
+  offset: 0, 0
+  index: -1
+hair bing 5
+  rotate: true
+  xy: 2201, 3695
+  size: 108, 156
+  orig: 108, 156
+  offset: 0, 0
+  index: -1
+hair bing 6
+  rotate: true
+  xy: 2083, 2652
+  size: 334, 477
+  orig: 334, 477
+  offset: 0, 0
+  index: -1
+hair bun
+  rotate: false
+  xy: 3154, 2460
+  size: 428, 367
+  orig: 428, 367
+  offset: 0, 0
+  index: -1
+hair bun flower
+  rotate: true
+  xy: 3607, 3652
+  size: 151, 160
+  orig: 151, 160
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: true
+  xy: 1166, 3541
+  size: 170, 206
+  orig: 170, 206
+  offset: 0, 0
+  index: -1
+hand L skirt 1 & 2
+  rotate: true
+  xy: 3012, 3241
+  size: 230, 350
+  orig: 230, 350
+  offset: 0, 0
+  index: -1
+hand L skirt 3
+  rotate: true
+  xy: 1559, 3304
+  size: 228, 379
+  orig: 228, 379
+  offset: 0, 0
+  index: -1
+hand L skirt back
+  rotate: false
+  xy: 3107, 3476
+  size: 226, 180
+  orig: 226, 180
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: false
+  xy: 2, 3599
+  size: 206, 161
+  orig: 206, 161
+  offset: 0, 0
+  index: -1
+head 1
+  rotate: true
+  xy: 838, 2708
+  size: 327, 409
+  orig: 327, 409
+  offset: 0, 0
+  index: -1
+head 2
+  rotate: true
+  xy: 1249, 2681
+  size: 327, 415
+  orig: 327, 415
+  offset: 0, 0
+  index: -1
+head 3
+  rotate: true
+  xy: 1666, 2681
+  size: 327, 415
+  orig: 327, 415
+  offset: 0, 0
+  index: -1
+head face filter
+  rotate: false
+  xy: 3584, 2460
+  size: 500, 367
+  orig: 500, 367
+  offset: 0, 0
+  index: -1
+leg L 1
+  rotate: true
+  xy: 460, 2332
+  size: 347, 1038
+  orig: 347, 1038
+  offset: 0, 0
+  index: -1
+leg L shoes
+  rotate: true
+  xy: 2955, 2935
+  size: 284, 516
+  orig: 284, 516
+  offset: 0, 0
+  index: -1
+leg R 1
+  rotate: true
+  xy: 519, 1380
+  size: 437, 1404
+  orig: 437, 1404
+  offset: 0, 0
+  index: -1
+leg flower L
+  rotate: true
+  xy: 1126, 3721
+  size: 82, 108
+  orig: 82, 108
+  offset: 0, 0
+  index: -1
+leg flower R
+  rotate: true
+  xy: 1643, 3534
+  size: 169, 309
+  orig: 169, 309
+  offset: 0, 0
+  index: -1
+leg flower R 3
+  rotate: true
+  xy: 2757, 3668
+  size: 135, 193
+  orig: 135, 193
+  offset: 0, 0
+  index: -1
+leg rebbin L
+  rotate: true
+  xy: 2449, 3263
+  size: 228, 279
+  orig: 228, 279
+  offset: 0, 0
+  index: -1
+leg rebbin L 2
+  rotate: true
+  xy: 3324, 3658
+  size: 145, 281
+  orig: 145, 281
+  offset: 0, 0
+  index: -1
+leg rebbin L 3
+  rotate: true
+  xy: 1236, 3721
+  size: 82, 97
+  orig: 82, 97
+  offset: 0, 0
+  index: -1
+leg rebbin R
+  rotate: false
+  xy: 1947, 2236
+  size: 427, 414
+  orig: 427, 414
+  offset: 0, 0
+  index: -1
+leg rebbin R 2
+  rotate: false
+  xy: 1660, 3010
+  size: 453, 283
+  orig: 453, 283
+  offset: 0, 0
+  index: -1
+leg rebbin R 3
+  rotate: false
+  xy: 381, 3373
+  size: 492, 188
+  orig: 492, 188
+  offset: 0, 0
+  index: -1
+mouth 1
+  rotate: false
+  xy: 353, 3736
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+mouth 2
+  rotate: false
+  xy: 432, 3735
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+mouth 3
+  rotate: true
+  xy: 708, 3727
+  size: 76, 79
+  orig: 76, 79
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 1374, 3540
+  size: 267, 170
+  orig: 267, 170
+  offset: 0, 0
+  index: -1
+ribbon  L w
+  rotate: false
+  xy: 2, 1924
+  size: 1107, 406
+  orig: 1107, 406
+  offset: 0, 0
+  index: -1
+ribbon  R
+  rotate: false
+  xy: 2673, 1096
+  size: 1249, 534
+  orig: 1249, 534
+  offset: 0, 0
+  index: -1
+ribbon  R 2
+  rotate: false
+  xy: 2860, 2055
+  size: 1122, 403
+  orig: 1122, 403
+  offset: 0, 0
+  index: -1
+ribbon  R 3
+  rotate: false
+  xy: 1500, 2276
+  size: 445, 403
+  orig: 445, 403
+  offset: 0, 0
+  index: -1
+ribbon 2
+  rotate: false
+  xy: 3605, 3459
+  size: 271, 188
+  orig: 271, 188
+  offset: 0, 0
+  index: -1
+skirt black 1
+  rotate: false
+  xy: 1823, 461
+  size: 750, 663
+  orig: 750, 663
+  offset: 0, 0
+  index: -1
+skirt black 2
+  rotate: false
+  xy: 2084, 1639
+  size: 750, 504
+  orig: 750, 504
+  offset: 0, 0
+  index: -1
+smosk mouth
+  rotate: false
+  xy: 210, 3577
+  size: 260, 156
+  orig: 260, 156
+  offset: 0, 0
+  index: -1
+upper_wing L light effect
+  rotate: false
+  xy: 2543, 3493
+  size: 329, 173
+  orig: 329, 173
+  offset: 0, 0
+  index: -1
+upper_wing R light effect
+  rotate: false
+  xy: 1954, 3524
+  size: 313, 169
+  orig: 313, 169
+  offset: 0, 0
+  index: -1
+wing down L smoke
+  rotate: false
+  xy: 2, 1415
+  size: 515, 507
+  orig: 515, 507
+  offset: 0, 0
+  index: -1
+wing down R smoke
+  rotate: true
+  xy: 2562, 2599
+  size: 334, 590
+  orig: 334, 590
+  offset: 0, 0
+  index: -1
+wing upper L smoke
+  rotate: true
+  xy: 1925, 1126
+  size: 511, 746
+  orig: 511, 746
+  offset: 0, 0
+  index: -1
+wing upper R smoke
+  rotate: true
+  xy: 2, 833
+  size: 545, 708
+  orig: 545, 708
+  offset: 0, 0
+  index: -1
+yellow flower
+  rotate: false
+  xy: 967, 3724
+  size: 157, 79
+  orig: 157, 79
+  offset: 0, 0
+  index: -1
+yellow flower 2
+  rotate: false
+  xy: 2042, 3699
+  size: 157, 104
+  orig: 157, 104
+  offset: 0, 0
+  index: -1
+
+Mitsu_Spine_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body 2
+  rotate: true
+  xy: 762, 190
+  size: 761, 1824
+  orig: 761, 1824
+  offset: 0, 0
+  index: -1
+body 3
+  rotate: false
+  xy: 2, 228
+  size: 758, 1906
+  orig: 758, 1906
+  offset: 0, 0
+  index: -1
+wing down L
+  rotate: true
+  xy: 1467, 953
+  size: 1296, 1354
+  orig: 1296, 1354
+  offset: 0, 0
+  index: -1
+wing down R
+  rotate: true
+  xy: 2854, 1000
+  size: 1326, 1100
+  orig: 1326, 1100
+  offset: 0, 0
+  index: -1
+wing down red light L
+  rotate: false
+  xy: 2854, 2328
+  size: 1186, 1253
+  orig: 1186, 1253
+  offset: 0, 0
+  index: -1
+wing down red light R
+  rotate: false
+  xy: 2823, 2
+  size: 1203, 996
+  orig: 1203, 996
+  offset: 0, 0
+  index: -1
+wing upper L
+  rotate: false
+  xy: 2, 2136
+  size: 1463, 1445
+  orig: 1463, 1445
+  offset: 0, 0
+  index: -1
+wing upper R
+  rotate: true
+  xy: 1467, 2251
+  size: 1330, 1385
+  orig: 1330, 1385
+  offset: 0, 0
+  index: -1
+
+Mitsu_Spine_Skin1_3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+red chiffon
+  rotate: false
+  xy: 2, 23
+  size: 898, 863
+  orig: 898, 863
+  offset: 0, 0
+  index: -1
+red chiffon 2 & 3
+  rotate: false
+  xy: 902, 2
+  size: 881, 863
+  orig: 881, 863
+  offset: 0, 0
+  index: -1
+ribbon  L
+  rotate: true
+  xy: 2, 888
+  size: 831, 921
+  orig: 831, 921
+  offset: 0, 0
+  index: -1
+wing red light L
+  rotate: false
+  xy: 2204, 862
+  size: 1387, 857
+  orig: 1387, 857
+  offset: 0, 0
+  index: -1
+wing red light R
+  rotate: false
+  xy: 925, 867
+  size: 1277, 852
+  orig: 1277, 852
+  offset: 0, 0
+  index: -1

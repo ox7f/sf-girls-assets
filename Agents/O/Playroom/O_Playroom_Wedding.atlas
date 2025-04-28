@@ -1,3 +1,251 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9295682fda97a99d413fb23ed5aca4e8a5eaaaceb55f0aadfd618c5dee266802
-size 3669
+
+O_Playroom_Wedding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 1758, 688
+  size: 527, 153
+  orig: 527, 153
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 760
+  size: 1196, 515
+  orig: 1196, 515
+  offset: 0, 0
+  index: -1
+Butt
+  rotate: false
+  xy: 2, 1985
+  size: 2216, 2046
+  orig: 2216, 2046
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: true
+  xy: 3655, 2895
+  size: 689, 434
+  orig: 689, 434
+  offset: 0, 0
+  index: -1
+EyeBrows 1
+  rotate: false
+  xy: 1758, 843
+  size: 506, 204
+  orig: 506, 204
+  offset: 0, 0
+  index: -1
+EyeBrows 2
+  rotate: false
+  xy: 1758, 1049
+  size: 506, 232
+  orig: 506, 232
+  offset: 0, 0
+  index: -1
+Eye_HighLight 1
+  rotate: true
+  xy: 3972, 2410
+  size: 351, 107
+  orig: 351, 107
+  offset: 0, 0
+  index: -1
+Eye_HighLight 2
+  rotate: false
+  xy: 2970, 1050
+  size: 335, 96
+  orig: 335, 96
+  offset: 0, 0
+  index: -1
+Eye_ball 1
+  rotate: false
+  xy: 3655, 2763
+  size: 401, 130
+  orig: 401, 130
+  offset: 0, 0
+  index: -1
+Eye_ball 2
+  rotate: true
+  xy: 3618, 1205
+  size: 353, 157
+  orig: 353, 157
+  offset: 0, 0
+  index: -1
+Eyes white 1
+  rotate: true
+  xy: 3618, 1560
+  size: 448, 146
+  orig: 448, 146
+  offset: 0, 0
+  index: -1
+Eyes white 2
+  rotate: true
+  xy: 3766, 1591
+  size: 448, 148
+  orig: 448, 148
+  offset: 0, 0
+  index: -1
+Face Red 1
+  rotate: true
+  xy: 859, 52
+  size: 706, 323
+  orig: 706, 323
+  offset: 0, 0
+  index: -1
+Face Red 2
+  rotate: true
+  xy: 3109, 2717
+  size: 823, 544
+  orig: 823, 544
+  offset: 0, 0
+  index: -1
+Feet_L
+  rotate: false
+  xy: 2220, 3542
+  size: 1240, 489
+  orig: 1240, 489
+  offset: 0, 0
+  index: -1
+Feet_R
+  rotate: false
+  xy: 3067, 2010
+  size: 624, 705
+  orig: 624, 705
+  offset: 0, 0
+  index: -1
+Hair Back 2
+  rotate: false
+  xy: 2673, 867
+  size: 295, 263
+  orig: 295, 263
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: false
+  xy: 2, 2
+  size: 855, 756
+  orig: 855, 756
+  offset: 0, 0
+  index: -1
+Hair_Bang 1
+  rotate: true
+  xy: 1495, 1283
+  size: 700, 797
+  orig: 700, 797
+  offset: 0, 0
+  index: -1
+Hair_Bang 2
+  rotate: false
+  xy: 3777, 1196
+  size: 137, 393
+  orig: 137, 393
+  offset: 0, 0
+  index: -1
+Hair_Bang 3
+  rotate: false
+  xy: 3314, 1211
+  size: 302, 797
+  orig: 302, 797
+  offset: 0, 0
+  index: -1
+Hair_Bun
+  rotate: true
+  xy: 2294, 1132
+  size: 931, 618
+  orig: 931, 618
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: false
+  xy: 2678, 685
+  size: 256, 180
+  orig: 256, 180
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: true
+  xy: 2287, 542
+  size: 309, 389
+  orig: 309, 389
+  offset: 0, 0
+  index: -1
+Head 1
+  rotate: false
+  xy: 1200, 679
+  size: 556, 596
+  orig: 556, 596
+  offset: 0, 0
+  index: -1
+Head 2
+  rotate: false
+  xy: 1184, 81
+  size: 556, 596
+  orig: 556, 596
+  offset: 0, 0
+  index: -1
+JJ 1
+  rotate: true
+  xy: 2914, 1148
+  size: 860, 398
+  orig: 860, 398
+  offset: 0, 0
+  index: -1
+JJ 2
+  rotate: true
+  xy: 3462, 3586
+  size: 445, 557
+  orig: 445, 557
+  offset: 0, 0
+  index: -1
+Mouth 2
+  rotate: false
+  xy: 2678, 561
+  size: 109, 122
+  orig: 109, 122
+  offset: 0, 0
+  index: -1
+Root Hair 1
+  rotate: true
+  xy: 3693, 2041
+  size: 341, 284
+  orig: 341, 284
+  offset: 0, 0
+  index: -1
+Root Hair 2
+  rotate: false
+  xy: 2220, 2766
+  size: 887, 774
+  orig: 887, 774
+  offset: 0, 0
+  index: -1
+Sperm
+  rotate: false
+  xy: 2220, 2065
+  size: 845, 699
+  orig: 845, 699
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 1277
+  size: 1491, 706
+  orig: 1491, 706
+  offset: 0, 0
+  index: -1
+pussy 1
+  rotate: false
+  xy: 2266, 853
+  size: 405, 277
+  orig: 405, 277
+  offset: 0, 0
+  index: -1
+pussy 2
+  rotate: true
+  xy: 3693, 2384
+  size: 377, 277
+  orig: 377, 277
+  offset: 0, 0
+  index: -1

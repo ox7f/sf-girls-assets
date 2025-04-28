@@ -1,3 +1,223 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4869de070b641d6106991a0218e594f0ac49e6d50a9ef9a2f6c5cb8636e1ba0a
-size 3263
+
+Meteli_Spine_Skin1_Addition.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foot_L_1_1
+  rotate: false
+  xy: 2123, 2928
+  size: 332, 532
+  orig: 332, 532
+  offset: 0, 0
+  index: -1
+foot_L_1_2
+  rotate: false
+  xy: 1707, 3462
+  size: 515, 624
+  orig: 515, 624
+  offset: 0, 0
+  index: -1
+foot_L_1_3
+  rotate: true
+  xy: 2, 44
+  size: 859, 532
+  orig: 859, 532
+  offset: 0, 0
+  index: -1
+foot_R_1_1
+  rotate: false
+  xy: 1677, 2134
+  size: 436, 589
+  orig: 436, 589
+  offset: 0, 0
+  index: -1
+foot_R_1_2
+  rotate: true
+  xy: 1598, 375
+  size: 583, 494
+  orig: 583, 494
+  offset: 0, 0
+  index: -1
+foot_R_1_3
+  rotate: false
+  xy: 2094, 412
+  size: 475, 555
+  orig: 475, 555
+  offset: 0, 0
+  index: -1
+foot_R_1_4
+  rotate: false
+  xy: 1924, 969
+  size: 581, 457
+  orig: 581, 457
+  offset: 0, 0
+  index: -1
+hand_L_1_1
+  rotate: true
+  xy: 1598, 2
+  size: 371, 583
+  orig: 371, 583
+  offset: 0, 0
+  index: -1
+hand_L_1_2
+  rotate: false
+  xy: 2, 1973
+  size: 1130, 2113
+  orig: 1130, 2113
+  offset: 0, 0
+  index: -1
+hand_L_1_3
+  rotate: false
+  xy: 1536, 2725
+  size: 585, 662
+  orig: 585, 662
+  offset: 0, 0
+  index: -1
+hand_L_1_4
+  rotate: false
+  xy: 891, 957
+  size: 487, 1014
+  orig: 487, 1014
+  offset: 0, 0
+  index: -1
+hand_R_1_1
+  rotate: false
+  xy: 2183, 8
+  size: 369, 402
+  orig: 369, 402
+  offset: 0, 0
+  index: -1
+hand_R_1_2
+  rotate: false
+  xy: 1956, 1587
+  size: 491, 545
+  orig: 491, 545
+  offset: 0, 0
+  index: -1
+hand_R_1_3
+  rotate: false
+  xy: 2554, 19
+  size: 357, 391
+  orig: 357, 391
+  offset: 0, 0
+  index: -1
+hand_R_1_4
+  rotate: false
+  xy: 1134, 2706
+  size: 400, 681
+  orig: 400, 681
+  offset: 0, 0
+  index: -1
+hand_R_1_5
+  rotate: false
+  xy: 961, 207
+  size: 320, 748
+  orig: 320, 748
+  offset: 0, 0
+  index: -1
+hand_R_1_6
+  rotate: true
+  xy: 1380, 960
+  size: 466, 542
+  orig: 466, 542
+  offset: 0, 0
+  index: -1
+hand_R_1_7
+  rotate: false
+  xy: 2224, 3571
+  size: 455, 515
+  orig: 455, 515
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 2449, 1555
+  size: 304, 280
+  orig: 304, 280
+  offset: 0, 0
+  index: -1
+head_10
+  rotate: true
+  xy: 1283, 249
+  size: 706, 313
+  orig: 706, 313
+  offset: 0, 0
+  index: -1
+head_11
+  rotate: true
+  xy: 536, 11
+  size: 127, 124
+  orig: 127, 124
+  offset: 0, 0
+  index: -1
+head_12
+  rotate: false
+  xy: 536, 140
+  size: 423, 763
+  orig: 423, 763
+  offset: 0, 0
+  index: -1
+head_13
+  rotate: true
+  xy: 1380, 1428
+  size: 604, 574
+  orig: 604, 574
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 1134, 3389
+  size: 571, 697
+  orig: 571, 697
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: true
+  xy: 2449, 1861
+  size: 319, 300
+  orig: 319, 300
+  offset: 0, 0
+  index: -1
+head_4
+  rotate: false
+  xy: 2115, 2182
+  size: 476, 541
+  orig: 476, 541
+  offset: 0, 0
+  index: -1
+head_5
+  rotate: true
+  xy: 961, 19
+  size: 186, 169
+  orig: 186, 169
+  offset: 0, 0
+  index: -1
+head_6
+  rotate: false
+  xy: 1354, 18
+  size: 214, 229
+  orig: 214, 229
+  offset: 0, 0
+  index: -1
+head_7
+  rotate: false
+  xy: 2, 905
+  size: 887, 1066
+  orig: 887, 1066
+  offset: 0, 0
+  index: -1
+head_8
+  rotate: true
+  xy: 1134, 2034
+  size: 670, 541
+  orig: 670, 541
+  offset: 0, 0
+  index: -1
+head_9
+  rotate: true
+  xy: 1132, 24
+  size: 181, 220
+  orig: 181, 220
+  offset: 0, 0
+  index: -1

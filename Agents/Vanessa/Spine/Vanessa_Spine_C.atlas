@@ -1,3 +1,153 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:682538cf1c5bbe72a990550f9f99d9dd609bd0ee0a593633e4cfdc008e9bfe1f
-size 2179
+
+Vanessa_Spine_C.png
+size: 1929,1627
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun
+  rotate: true
+  xy: 2, 493
+  size: 313, 928
+  orig: 313, 928
+  offset: 0, 0
+  index: -1
+L_arm2
+  rotate: false
+  xy: 249, 45
+  size: 223, 170
+  orig: 223, 170
+  offset: 0, 0
+  index: -1
+L_breast
+  rotate: false
+  xy: 2, 51
+  size: 245, 164
+  orig: 247, 164
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 15
+  size: 31, 34
+  orig: 34, 38
+  offset: 3, 4
+  index: -1
+R_arm
+  rotate: false
+  xy: 1682, 580
+  size: 131, 240
+  orig: 131, 240
+  offset: 0, 0
+  index: -1
+R_arm2
+  rotate: true
+  xy: 895, 30
+  size: 185, 173
+  orig: 185, 173
+  offset: 0, 0
+  index: -1
+R_breast
+  rotate: false
+  xy: 689, 36
+  size: 204, 179
+  orig: 204, 179
+  offset: 0, 0
+  index: -1
+R_breast_Top
+  rotate: false
+  xy: 932, 520
+  size: 36, 39
+  orig: 37, 39
+  offset: 1, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 932, 561
+  size: 259, 748
+  orig: 259, 748
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 217
+  size: 274, 1074
+  orig: 274, 1074
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1809, 1231
+  size: 103, 88
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 1809, 1336
+  size: 87, 115
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 1669, 359
+  size: 134, 200
+  orig: 134, 200
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 1809, 1453
+  size: 118, 172
+  orig: 118, 172
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 1669, 2
+  size: 185, 153
+  orig: 185, 153
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1669, 157
+  size: 197, 200
+  orig: 197, 200
+  offset: 0, 0
+  index: -1
+mouht2
+  rotate: false
+  xy: 932, 493
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+umbrella_back
+  rotate: false
+  xy: 2, 808
+  size: 895, 817
+  orig: 895, 817
+  offset: 0, 0
+  index: -1
+umbrella_front
+  rotate: false
+  xy: 899, 822
+  size: 908, 803
+  orig: 908, 803
+  offset: 0, 0
+  index: -1
+umbrella_handle
+  rotate: false
+  xy: 474, 38
+  size: 213, 177
+  orig: 213, 177
+  offset: 0, 0
+  index: -1
+umbrella_handle2
+  rotate: true
+  xy: 1078, 16
+  size: 543, 589
+  orig: 543, 589
+  offset: 0, 0
+  index: -1

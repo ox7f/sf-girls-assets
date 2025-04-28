@@ -1,3 +1,202 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7800049c57a03f9ccbb14072b8863c54e98d43b69e5bed5995f024394105d07a
-size 2869
+
+Eiko_Spine_B.png
+size: 2024,1924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 935, 14
+  size: 649, 269
+  orig: 649, 269
+  offset: 0, 0
+  index: -1
+L_breast
+  rotate: true
+  xy: 2, 2
+  size: 174, 212
+  orig: 174, 212
+  offset: 0, 0
+  index: -1
+L_hair
+  rotate: false
+  xy: 1154, 1143
+  size: 185, 542
+  orig: 185, 542
+  offset: 0, 0
+  index: -1
+L_headphone
+  rotate: false
+  xy: 678, 986
+  size: 92, 148
+  orig: 92, 148
+  offset: 0, 0
+  index: -1
+L_leg_1
+  rotate: false
+  xy: 1147, 309
+  size: 282, 368
+  orig: 282, 368
+  offset: 0, 0
+  index: -1
+L_leg_2
+  rotate: false
+  xy: 1341, 913
+  size: 236, 255
+  orig: 236, 255
+  offset: 0, 0
+  index: -1
+L_scarf
+  rotate: false
+  xy: 533, 1136
+  size: 619, 786
+  orig: 623, 790
+  offset: 0, 4
+  index: -1
+R_arm
+  rotate: true
+  xy: 1431, 330
+  size: 347, 283
+  orig: 347, 283
+  offset: 0, 0
+  index: -1
+R_breast
+  rotate: true
+  xy: 1340, 718
+  size: 193, 184
+  orig: 193, 184
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: true
+  xy: 1586, 1687
+  size: 235, 436
+  orig: 235, 438
+  offset: 0, 2
+  index: -1
+R_hair_1
+  rotate: true
+  xy: 772, 1005
+  size: 129, 485
+  orig: 129, 485
+  offset: 0, 0
+  index: -1
+R_hair_2_1
+  rotate: true
+  xy: 765, 189
+  size: 36, 113
+  orig: 38, 113
+  offset: 0, 0
+  index: -1
+R_hair_2_2
+  rotate: false
+  xy: 216, 13
+  size: 67, 163
+  orig: 67, 164
+  offset: 0, 1
+  index: -1
+R_leg
+  rotate: false
+  xy: 2, 967
+  size: 529, 955
+  orig: 529, 955
+  offset: 0, 0
+  index: -1
+R_scarf
+  rotate: true
+  xy: 2, 178
+  size: 787, 761
+  orig: 787, 761
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1716, 344
+  size: 295, 333
+  orig: 295, 333
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 765, 227
+  size: 108, 56
+  orig: 124, 56
+  offset: 0, 0
+  index: -1
+candy
+  rotate: false
+  xy: 1716, 9
+  size: 199, 333
+  orig: 199, 333
+  offset: 0, 0
+  index: -1
+dress_1
+  rotate: true
+  xy: 765, 285
+  size: 699, 380
+  orig: 699, 380
+  offset: 0, 0
+  index: -1
+dress_2_back
+  rotate: false
+  xy: 564, 17
+  size: 369, 159
+  orig: 369, 159
+  offset: 0, 0
+  index: -1
+dress_obj
+  rotate: false
+  xy: 285, 14
+  size: 277, 162
+  orig: 277, 162
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 533, 986
+  size: 148, 143
+  orig: 150, 143
+  offset: 1, 0
+  index: -1
+gun
+  rotate: false
+  xy: 1586, 679
+  size: 368, 489
+  orig: 368, 489
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 1368, 1170
+  size: 487, 641
+  orig: 487, 641
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 1341, 1571
+  size: 25, 117
+  orig: 25, 117
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1373, 1659
+  size: 205, 263
+  orig: 205, 263
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1154, 1690
+  size: 232, 217
+  orig: 232, 217
+  offset: 0, 0
+  index: -1
+pet
+  rotate: false
+  xy: 1147, 756
+  size: 191, 247
+  orig: 191, 247
+  offset: 0, 0
+  index: -1

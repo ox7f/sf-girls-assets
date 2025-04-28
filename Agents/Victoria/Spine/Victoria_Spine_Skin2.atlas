@@ -1,3 +1,691 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c062f96786b000c881b8a47f1c4d6e1aa3e3f5ab958b87cec0f76b4768ffd885
-size 10087
+
+Victoria_Spine_Skin2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest_A
+  rotate: false
+  xy: 1332, 3327
+  size: 411, 282
+  orig: 411, 282
+  offset: 0, 0
+  index: -1
+Chest_B
+  rotate: false
+  xy: 2, 2656
+  size: 410, 408
+  orig: 410, 408
+  offset: 0, 0
+  index: -1
+Chest_C_L
+  rotate: false
+  xy: 242, 3427
+  size: 235, 241
+  orig: 235, 241
+  offset: 0, 0
+  index: -1
+Chest_C_R
+  rotate: false
+  xy: 2, 3457
+  size: 238, 218
+  orig: 238, 218
+  offset: 0, 0
+  index: -1
+Eye_L_A
+  rotate: true
+  xy: 1082, 3789
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+Eye_L_B
+  rotate: false
+  xy: 952, 3794
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Eye_L_C
+  rotate: false
+  xy: 1020, 3794
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+Eye_R_A
+  rotate: true
+  xy: 1552, 3778
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+Eye_R_B
+  rotate: false
+  xy: 634, 3798
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+Eye_R_C
+  rotate: false
+  xy: 566, 3803
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+Eyebrow_L_A
+  rotate: true
+  xy: 481, 3809
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Eyebrow_L_B
+  rotate: true
+  xy: 320, 3813
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Eyebrow_L_C
+  rotate: true
+  xy: 360, 3813
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Eyebrow_R_A
+  rotate: false
+  xy: 34, 3827
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+Eyebrow_R_B
+  rotate: false
+  xy: 191, 3814
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+Eyebrow_R_C
+  rotate: false
+  xy: 128, 3817
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+Face_A
+  rotate: true
+  xy: 3029, 3550
+  size: 194, 223
+  orig: 194, 223
+  offset: 0, 0
+  index: -1
+Face_B
+  rotate: true
+  xy: 3254, 3534
+  size: 194, 223
+  orig: 194, 223
+  offset: 0, 0
+  index: -1
+Face_C
+  rotate: true
+  xy: 2807, 3552
+  size: 193, 220
+  orig: 193, 220
+  offset: 0, 0
+  index: -1
+GOLD_BACK _A
+  rotate: false
+  xy: 3575, 3724
+  size: 183, 120
+  orig: 183, 120
+  offset: 0, 0
+  index: -1
+jewelry_04_A
+  rotate: false
+  xy: 3575, 3724
+  size: 183, 120
+  orig: 183, 120
+  offset: 0, 0
+  index: -1
+GOLD_BACK _BC
+  rotate: false
+  xy: 707, 3798
+  size: 152, 46
+  orig: 152, 46
+  offset: 0, 0
+  index: -1
+Leg_L_A
+  rotate: true
+  xy: 2630, 1856
+  size: 530, 1147
+  orig: 530, 1147
+  offset: 0, 0
+  index: -1
+Leg_L_B
+  rotate: true
+  xy: 2, 1647
+  size: 530, 1147
+  orig: 530, 1147
+  offset: 0, 0
+  index: -1
+Leg_L_C
+  rotate: true
+  xy: 1151, 1408
+  size: 530, 1147
+  orig: 530, 1147
+  offset: 0, 0
+  index: -1
+Leg_R_A
+  rotate: true
+  xy: 414, 2551
+  size: 367, 1301
+  orig: 367, 1301
+  offset: 0, 0
+  index: -1
+Leg_R_B
+  rotate: true
+  xy: 1717, 2485
+  size: 367, 1301
+  orig: 367, 1301
+  offset: 0, 0
+  index: -1
+Leg_R_C
+  rotate: true
+  xy: 2, 2179
+  size: 370, 1301
+  orig: 370, 1301
+  offset: 0, 0
+  index: -1
+arm_L_A
+  rotate: true
+  xy: 1745, 3315
+  size: 285, 350
+  orig: 285, 350
+  offset: 0, 0
+  index: -1
+arm_L_B
+  rotate: true
+  xy: 2097, 3293
+  size: 285, 339
+  orig: 285, 339
+  offset: 0, 0
+  index: -1
+arm_L_C
+  rotate: true
+  xy: 3180, 2817
+  size: 373, 728
+  orig: 373, 728
+  offset: 0, 0
+  index: -1
+arm_R_A
+  rotate: false
+  xy: 3483, 3192
+  size: 486, 324
+  orig: 486, 324
+  offset: 0, 0
+  index: -1
+arm_R_B
+  rotate: false
+  xy: 2, 3066
+  size: 486, 324
+  orig: 486, 324
+  offset: 0, 0
+  index: -1
+arm_R_C
+  rotate: false
+  xy: 490, 3046
+  size: 486, 324
+  orig: 486, 324
+  offset: 0, 0
+  index: -1
+bead_01_A
+  rotate: false
+  xy: 3020, 2388
+  size: 764, 427
+  orig: 764, 427
+  offset: 0, 0
+  index: -1
+bead_01_B
+  rotate: false
+  xy: 2539, 3562
+  size: 266, 190
+  orig: 266, 190
+  offset: 0, 0
+  index: -1
+bead_02_A
+  rotate: false
+  xy: 3013, 3747
+  size: 102, 97
+  orig: 102, 97
+  offset: 0, 0
+  index: -1
+body_A
+  rotate: true
+  xy: 978, 2977
+  size: 348, 734
+  orig: 348, 734
+  offset: 0, 0
+  index: -1
+body_B
+  rotate: true
+  xy: 1714, 2920
+  size: 348, 734
+  orig: 348, 734
+  offset: 0, 0
+  index: -1
+body_C
+  rotate: true
+  xy: 2450, 2854
+  size: 348, 728
+  orig: 348, 728
+  offset: 0, 0
+  index: -1
+bracelet01_B_AB
+  rotate: true
+  xy: 2218, 3763
+  size: 81, 101
+  orig: 81, 101
+  offset: 0, 0
+  index: -1
+bracelet01_B_C
+  rotate: true
+  xy: 2106, 3766
+  size: 78, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1
+bracelet01_F_AB
+  rotate: true
+  xy: 2665, 3754
+  size: 90, 124
+  orig: 90, 124
+  offset: 0, 0
+  index: -1
+bracelet01_F_C
+  rotate: true
+  xy: 2521, 3756
+  size: 88, 142
+  orig: 88, 142
+  offset: 0, 0
+  index: -1
+bracelet02_B_ABC
+  rotate: true
+  xy: 1434, 3781
+  size: 63, 116
+  orig: 63, 116
+  offset: 0, 0
+  index: -1
+bracelet02_F_ABC
+  rotate: true
+  xy: 1695, 3777
+  size: 67, 119
+  orig: 67, 119
+  offset: 0, 0
+  index: -1
+glass_02_B
+  rotate: false
+  xy: 1623, 3778
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+glass_02_C
+  rotate: false
+  xy: 1816, 3775
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+glass_A
+  rotate: true
+  xy: 2, 3677
+  size: 135, 246
+  orig: 135, 246
+  offset: 0, 0
+  index: -1
+glass_B
+  rotate: true
+  xy: 2321, 3761
+  size: 83, 198
+  orig: 83, 198
+  offset: 0, 0
+  index: -1
+hair_ABC
+  rotate: false
+  xy: 2438, 3270
+  size: 344, 290
+  orig: 344, 290
+  offset: 0, 0
+  index: -1
+hair_B01_ABC
+  rotate: true
+  xy: 3280, 3734
+  size: 110, 129
+  orig: 110, 129
+  offset: 0, 0
+  index: -1
+hair_B02_ABC
+  rotate: true
+  xy: 3918, 3712
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+hand_01_A
+  rotate: true
+  xy: 3411, 3730
+  size: 114, 162
+  orig: 114, 162
+  offset: 0, 0
+  index: -1
+hand_01_B
+  rotate: true
+  xy: 3117, 3746
+  size: 98, 161
+  orig: 98, 161
+  offset: 0, 0
+  index: -1
+hand_A
+  rotate: true
+  xy: 1981, 3771
+  size: 73, 123
+  orig: 73, 123
+  offset: 0, 0
+  index: -1
+hand_B
+  rotate: true
+  xy: 1289, 3784
+  size: 60, 143
+  orig: 60, 143
+  offset: 0, 0
+  index: -1
+headflower_A
+  rotate: false
+  xy: 657, 3652
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+headflower_BC
+  rotate: false
+  xy: 1077, 3643
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+jewelry_01_A
+  rotate: false
+  xy: 250, 3670
+  size: 227, 138
+  orig: 227, 138
+  offset: 0, 0
+  index: -1
+jewelry_01_B
+  rotate: false
+  xy: 1257, 3617
+  size: 234, 162
+  orig: 234, 162
+  offset: 0, 0
+  index: -1
+jewelry_01_C
+  rotate: false
+  xy: 1143, 3789
+  size: 144, 55
+  orig: 144, 55
+  offset: 0, 0
+  index: -1
+jewelry_02_ABC
+  rotate: false
+  xy: 479, 3656
+  size: 176, 140
+  orig: 176, 140
+  offset: 0, 0
+  index: -1
+jewelry_03_ABC
+  rotate: true
+  xy: 3760, 3716
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+mouth_A
+  rotate: false
+  xy: 11, 3830
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+mouth_B
+  rotate: true
+  xy: 97, 3818
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+mouth_C
+  rotate: true
+  xy: 519, 3806
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+nose_A
+  rotate: false
+  xy: 2, 3837
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+nose_B
+  rotate: false
+  xy: 2, 3837
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+ribbon_A
+  rotate: true
+  xy: 1041, 3337
+  size: 278, 289
+  orig: 278, 289
+  offset: 0, 0
+  index: -1
+ribbon_BC
+  rotate: false
+  xy: 761, 3372
+  size: 278, 276
+  orig: 278, 276
+  offset: 0, 0
+  index: -1
+shawl_L_A
+  rotate: true
+  xy: 1137, 698
+  size: 708, 894
+  orig: 708, 894
+  offset: 0, 0
+  index: -1
+shawl_L_B
+  rotate: false
+  xy: 3294, 966
+  size: 706, 888
+  orig: 706, 888
+  offset: 0, 0
+  index: -1
+shawl_R02_B
+  rotate: true
+  xy: 2213, 3580
+  size: 174, 324
+  orig: 174, 324
+  offset: 0, 0
+  index: -1
+shawl_R_A
+  rotate: true
+  xy: 2, 991
+  size: 654, 1133
+  orig: 654, 1133
+  offset: 0, 0
+  index: -1
+shawl_R_B
+  rotate: true
+  xy: 1889, 1940
+  size: 543, 739
+  orig: 543, 739
+  offset: 0, 0
+  index: -1
+skirt_01_BA
+  rotate: true
+  xy: 3479, 3518
+  size: 192, 446
+  orig: 192, 446
+  offset: 0, 0
+  index: -1
+skirt_01_B_AB
+  rotate: true
+  xy: 1493, 3611
+  size: 162, 358
+  orig: 162, 358
+  offset: 0, 0
+  index: -1
+skirt_01_FA
+  rotate: true
+  xy: 2300, 1290
+  size: 564, 992
+  orig: 564, 992
+  offset: 0, 0
+  index: -1
+skirt_01_FAB
+  rotate: true
+  xy: 1305, 2021
+  size: 462, 582
+  orig: 462, 582
+  offset: 0, 0
+  index: -1
+skirt_02_BA
+  rotate: false
+  xy: 3111, 3204
+  size: 370, 312
+  orig: 370, 312
+  offset: 0, 0
+  index: -1
+skirt_02_B_AB
+  rotate: false
+  xy: 2784, 3257
+  size: 325, 291
+  orig: 325, 291
+  offset: 0, 0
+  index: -1
+skirt_02_FA
+  rotate: true
+  xy: 837, 3650
+  size: 142, 238
+  orig: 142, 238
+  offset: 0, 0
+  index: -1
+skirt_02_FAB
+  rotate: true
+  xy: 1853, 3602
+  size: 162, 358
+  orig: 162, 358
+  offset: 0, 0
+  index: -1
+thumbs_A
+  rotate: true
+  xy: 400, 3810
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: -1
+thumbs_B
+  rotate: true
+  xy: 861, 3796
+  size: 48, 89
+  orig: 48, 89
+  offset: 0, 0
+  index: -1
+weapon flower_ABC
+  rotate: true
+  xy: 479, 3392
+  size: 258, 280
+  orig: 258, 280
+  offset: 0, 0
+  index: -1
+weapon_02_A
+  rotate: true
+  xy: 2033, 301
+  size: 987, 1087
+  orig: 987, 1087
+  offset: 0, 0
+  index: -1
+weapon_02_B
+  rotate: true
+  xy: 2, 2
+  size: 987, 1087
+  orig: 987, 1087
+  offset: 0, 0
+  index: -1
+weapon_02_C
+  rotate: true
+  xy: 2, 2
+  size: 987, 1087
+  orig: 987, 1087
+  offset: 0, 0
+  index: -1
+wine_01_A
+  rotate: true
+  xy: 2791, 3754
+  size: 90, 107
+  orig: 90, 107
+  offset: 0, 0
+  index: -1
+wine_01_B
+  rotate: true
+  xy: 1888, 3775
+  size: 69, 91
+  orig: 69, 91
+  offset: 0, 0
+  index: -1
+wine_02_A
+  rotate: true
+  xy: 2900, 3753
+  size: 91, 111
+  orig: 91, 111
+  offset: 0, 0
+  index: -1
+wine_B
+  rotate: true
+  xy: 254, 3814
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+
+Victoria_Spine_Skin2_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon_01_A
+  rotate: false
+  xy: 2, 2
+  size: 1375, 2096
+  orig: 1375, 2096
+  offset: 0, 0
+  index: -1
+weapon_01_B
+  rotate: false
+  xy: 1379, 2
+  size: 1375, 2096
+  orig: 1375, 2096
+  offset: 0, 0
+  index: -1
+weapon_01_C
+  rotate: false
+  xy: 1379, 2
+  size: 1375, 2096
+  orig: 1375, 2096
+  offset: 0, 0
+  index: -1

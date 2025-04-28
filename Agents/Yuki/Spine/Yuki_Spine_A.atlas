@@ -1,3 +1,125 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbb9d763e7b2583781fb0f4f189d680478ab885b9d0d4009909cba4131d87509
-size 1779
+
+Yuki_Spine_A.png
+size: 1819,1770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm1
+  rotate: false
+  xy: 1500, 334
+  size: 252, 350
+  orig: 253, 350
+  offset: 0, 0
+  index: -1
+L_breast
+  rotate: true
+  xy: 1477, 44
+  size: 140, 147
+  orig: 141, 147
+  offset: 0, 0
+  index: -1
+L_hair_back
+  rotate: false
+  xy: 1157, 966
+  size: 451, 802
+  orig: 451, 802
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: false
+  xy: 1041, 99
+  size: 334, 311
+  orig: 334, 312
+  offset: 0, 1
+  index: -1
+L_leg2
+  rotate: true
+  xy: 1610, 1397
+  size: 371, 207
+  orig: 371, 207
+  offset: 0, 0
+  index: -1
+L_sword
+  rotate: false
+  xy: 627, 38
+  size: 412, 656
+  orig: 420, 697
+  offset: 2, 0
+  index: -1
+R_Breast
+  rotate: false
+  xy: 1477, 186
+  size: 175, 146
+  orig: 175, 146
+  offset: 0, 0
+  index: -1
+R_arm1
+  rotate: false
+  xy: 1377, 84
+  size: 98, 326
+  orig: 98, 329
+  offset: 0, 2
+  index: -1
+R_arm2
+  rotate: false
+  xy: 1654, 198
+  size: 119, 134
+  orig: 119, 134
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 2, 2
+  size: 623, 692
+  orig: 626, 697
+  offset: 2, 3
+  index: -1
+R_leg
+  rotate: false
+  xy: 816, 730
+  size: 339, 1038
+  orig: 339, 1038
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1157, 686
+  size: 278, 547
+  orig: 278, 547
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 1041, 412
+  size: 457, 272
+  orig: 457, 275
+  offset: 0, 2
+  index: -1
+eye
+  rotate: true
+  xy: 1706, 862
+  size: 126, 111
+  orig: 137, 111
+  offset: 3, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 696
+  size: 812, 1072
+  orig: 812, 1072
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 1610, 1152
+  size: 243, 196
+  orig: 243, 197
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1610, 990
+  size: 183, 160
+  orig: 189, 160
+  offset: 0, 0
+  index: -1

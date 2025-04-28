@@ -1,3 +1,489 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:24cbb301742e1e214e1278809ab4fda972363968b8b71f377d7171dc6cd73981
-size 7273
+
+Seina_Spine.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ABC_Calf
+  rotate: false
+  xy: 2597, 242
+  size: 184, 160
+  orig: 184, 160
+  offset: 0, 0
+  index: -1
+AB_Arm_L
+  rotate: false
+  xy: 2420, 738
+  size: 252, 341
+  orig: 252, 341
+  offset: 0, 0
+  index: -1
+AB_Arm_R
+  rotate: false
+  xy: 2588, 1725
+  size: 264, 319
+  orig: 264, 319
+  offset: 0, 0
+  index: -1
+A_Belt
+  rotate: false
+  xy: 1456, 222
+  size: 267, 109
+  orig: 267, 109
+  offset: 0, 0
+  index: -1
+A_Belt_Shadow
+  rotate: false
+  xy: 1725, 229
+  size: 254, 102
+  orig: 255, 102
+  offset: 1, 0
+  index: -1
+A_Body
+  rotate: false
+  xy: 2, 901
+  size: 439, 1143
+  orig: 439, 1143
+  offset: 0, 0
+  index: -1
+A_Boobs
+  rotate: true
+  xy: 2588, 1501
+  size: 222, 216
+  orig: 222, 227
+  offset: 0, 11
+  index: -1
+A_Expression
+  rotate: false
+  xy: 2550, 623
+  size: 127, 113
+  orig: 127, 113
+  offset: 0, 0
+  index: -1
+A_Hair_Shadow
+  rotate: true
+  xy: 3049, 709
+  size: 205, 127
+  orig: 205, 127
+  offset: 0, 0
+  index: -1
+A_Head
+  rotate: true
+  xy: 2783, 254
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+A_Skirt
+  rotate: false
+  xy: 2679, 634
+  size: 368, 197
+  orig: 368, 197
+  offset: 0, 0
+  index: -1
+A_Torso
+  rotate: false
+  xy: 3090, 1116
+  size: 177, 135
+  orig: 177, 135
+  offset: 0, 0
+  index: -1
+Armor_Back
+  rotate: true
+  xy: 2139, 611
+  size: 416, 279
+  orig: 416, 279
+  offset: 0, 0
+  index: -1
+Armor_Back a
+  rotate: true
+  xy: 3090, 1253
+  size: 160, 156
+  orig: 160, 156
+  offset: 0, 0
+  index: -1
+Armor_Back b
+  rotate: true
+  xy: 2902, 1204
+  size: 200, 186
+  orig: 200, 186
+  offset: 0, 0
+  index: -1
+BC_Face_Overlay
+  rotate: true
+  xy: 3178, 813
+  size: 146, 137
+  orig: 146, 137
+  offset: 0, 0
+  index: -1
+BC_Hair_Shadow
+  rotate: false
+  xy: 3036, 1415
+  size: 206, 127
+  orig: 206, 127
+  offset: 0, 0
+  index: -1
+B_Body
+  rotate: true
+  xy: 2, 460
+  size: 439, 1143
+  orig: 439, 1143
+  offset: 0, 0
+  index: -1
+B_Boobs
+  rotate: true
+  xy: 2988, 2
+  size: 256, 225
+  orig: 256, 226
+  offset: 0, 1
+  index: -1
+B_Expression
+  rotate: false
+  xy: 2420, 613
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1
+B_Head
+  rotate: true
+  xy: 2981, 260
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+B_Skirt
+  rotate: false
+  xy: 1981, 231
+  size: 370, 141
+  orig: 370, 141
+  offset: 0, 0
+  index: -1
+B_Torso
+  rotate: true
+  xy: 3024, 916
+  size: 178, 147
+  orig: 187, 147
+  offset: 9, 0
+  index: -1
+C_Arm_L
+  rotate: true
+  xy: 2033, 29
+  size: 200, 518
+  orig: 200, 518
+  offset: 0, 0
+  index: -1
+C_Arm_L_Shadow
+  rotate: true
+  xy: 2137, 1336
+  size: 127, 270
+  orig: 127, 270
+  offset: 0, 0
+  index: -1
+C_Arm_R
+  rotate: true
+  xy: 2558, 404
+  size: 217, 351
+  orig: 217, 359
+  offset: 0, 8
+  index: -1
+C_Body
+  rotate: true
+  xy: 2, 19
+  size: 439, 1143
+  orig: 439, 1143
+  offset: 0, 0
+  index: -1
+C_Boob_L
+  rotate: true
+  xy: 2209, 1466
+  size: 119, 168
+  orig: 132, 177
+  offset: 10, 6
+  index: -1
+C_Boob_R
+  rotate: false
+  xy: 3173, 961
+  size: 137, 153
+  orig: 219, 164
+  offset: 0, 4
+  index: -1
+C_Collar
+  rotate: false
+  xy: 1328, 926
+  size: 132, 90
+  orig: 133, 93
+  offset: 0, 3
+  index: -1
+C_Expression
+  rotate: false
+  xy: 2902, 1096
+  size: 124, 106
+  orig: 124, 106
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 3179, 260
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+C_Tear
+  rotate: false
+  xy: 1634, 1449
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+C_Torso
+  rotate: false
+  xy: 2841, 1406
+  size: 193, 136
+  orig: 193, 136
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 2723, 1141
+  size: 223, 177
+  orig: 223, 177
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 2063, 1465
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+Hair_a
+  rotate: true
+  xy: 2674, 833
+  size: 246, 348
+  orig: 246, 348
+  offset: 0, 0
+  index: -1
+Hair_b
+  rotate: true
+  xy: 2379, 1481
+  size: 104, 150
+  orig: 104, 150
+  offset: 0, 0
+  index: -1
+Hair_c
+  rotate: false
+  xy: 1489, 1371
+  size: 145, 65
+  orig: 145, 65
+  offset: 0, 0
+  index: -1
+Headress
+  rotate: true
+  xy: 3215, 7
+  size: 251, 224
+  orig: 251, 224
+  offset: 0, 0
+  index: -1
+Pantsu
+  rotate: false
+  xy: 2631, 1366
+  size: 208, 133
+  orig: 208, 133
+  offset: 0, 0
+  index: -1
+Skirt_Back_L
+  rotate: false
+  xy: 1964, 1464
+  size: 97, 55
+  orig: 97, 55
+  offset: 0, 0
+  index: -1
+Skirt_Back_R
+  rotate: false
+  xy: 2135, 1528
+  size: 72, 57
+  orig: 72, 58
+  offset: 0, 1
+  index: -1
+Weapon_Gun_L
+  rotate: false
+  xy: 1456, 333
+  size: 280, 591
+  orig: 280, 591
+  offset: 0, 0
+  index: -1
+Weapon_Gun_L_Belt
+  rotate: true
+  xy: 1956, 1029
+  size: 300, 397
+  orig: 432, 397
+  offset: 0, 0
+  index: -1
+Weapon_Gun_R
+  rotate: true
+  xy: 1147, 215
+  size: 700, 307
+  orig: 700, 307
+  offset: 0, 0
+  index: -1
+Weapon_Gun_R_Belt
+  rotate: true
+  xy: 2806, 1544
+  size: 179, 257
+  orig: 179, 257
+  offset: 0, 0
+  index: -1
+Weapon_L_Base
+  rotate: true
+  xy: 443, 1325
+  size: 719, 606
+  orig: 719, 606
+  offset: 0, 0
+  index: -1
+Weapon_L_Blade
+  rotate: true
+  xy: 2353, 234
+  size: 146, 242
+  orig: 147, 242
+  offset: 1, 0
+  index: -1
+Weapon_L_Blade a
+  rotate: true
+  xy: 1738, 409
+  size: 616, 213
+  orig: 616, 213
+  offset: 0, 0
+  index: -1
+Weapon_L_Blade b
+  rotate: true
+  xy: 1953, 374
+  size: 651, 184
+  orig: 653, 184
+  offset: 2, 0
+  index: -1
+Weapon_L_Blade c
+  rotate: false
+  xy: 1051, 1361
+  size: 436, 75
+  orig: 436, 75
+  offset: 0, 0
+  index: -1
+Weapon_L_Blade d
+  rotate: false
+  xy: 2553, 42
+  size: 433, 190
+  orig: 433, 190
+  offset: 0, 0
+  index: -1
+Weapon_L_Cover
+  rotate: true
+  xy: 2139, 382
+  size: 227, 417
+  orig: 227, 417
+  offset: 0, 0
+  index: -1
+Weapon_L_Eyes
+  rotate: false
+  xy: 2355, 1081
+  size: 366, 253
+  orig: 368, 254
+  offset: 2, 1
+  index: -1
+Weapon_L_Face
+  rotate: false
+  xy: 443, 1018
+  size: 890, 305
+  orig: 890, 305
+  offset: 0, 0
+  index: -1
+Weapon_L_Missile
+  rotate: false
+  xy: 1051, 1438
+  size: 581, 606
+  orig: 581, 606
+  offset: 0, 0
+  index: -1
+Weapon_R_Base
+  rotate: false
+  xy: 1335, 1027
+  size: 619, 296
+  orig: 619, 296
+  offset: 0, 0
+  index: -1
+Weapon_R_Blade
+  rotate: true
+  xy: 2409, 1352
+  size: 127, 220
+  orig: 127, 220
+  offset: 0, 0
+  index: -1
+Weapon_R_Blade a
+  rotate: false
+  xy: 1636, 1331
+  size: 499, 116
+  orig: 499, 116
+  offset: 0, 0
+  index: -1
+Weapon_R_Blade b
+  rotate: false
+  xy: 1051, 1325
+  size: 574, 34
+  orig: 574, 34
+  offset: 0, 0
+  index: -1
+Weapon_R_Blade c
+  rotate: false
+  xy: 928, 917
+  size: 398, 99
+  orig: 398, 99
+  offset: 0, 0
+  index: -1
+Weapon_R_Blade d
+  rotate: false
+  xy: 443, 932
+  size: 483, 84
+  orig: 483, 84
+  offset: 0, 0
+  index: -1
+Weapon_R_Eyes
+  rotate: false
+  xy: 2911, 410
+  size: 336, 222
+  orig: 336, 225
+  offset: 0, 2
+  index: -1
+Weapon_R_Face
+  rotate: false
+  xy: 1147, 7
+  size: 884, 206
+  orig: 884, 225
+  offset: 0, 7
+  index: -1
+Weapon_R_Missile
+  rotate: true
+  xy: 1634, 1521
+  size: 523, 499
+  orig: 523, 499
+  offset: 0, 0
+  index: -1
+Weapon_R_Rear
+  rotate: false
+  xy: 2135, 1587
+  size: 451, 457
+  orig: 451, 457
+  offset: 0, 0
+  index: -1
+Weapon_Trigger_L
+  rotate: true
+  xy: 1746, 1453
+  size: 66, 109
+  orig: 66, 109
+  offset: 0, 0
+  index: -1
+Weapon_Trigger_R
+  rotate: true
+  xy: 1857, 1458
+  size: 61, 105
+  orig: 61, 105
+  offset: 0, 0
+  index: -1

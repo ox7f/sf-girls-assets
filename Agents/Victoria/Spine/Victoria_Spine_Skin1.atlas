@@ -1,3 +1,453 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:362776c35b0779341b4a7c2b434f9c08d8b0b6d708b4c53f18f5c254923441d3
-size 6671
+
+Victoria_Spine_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple1
+  rotate: true
+  xy: 3798, 3691
+  size: 161, 182
+  orig: 161, 182
+  offset: 0, 0
+  index: -1
+apple2
+  rotate: true
+  xy: 2, 3648
+  size: 162, 182
+  orig: 162, 182
+  offset: 0, 0
+  index: -1
+arm_L_cloth_1
+  rotate: false
+  xy: 2396, 2537
+  size: 890, 445
+  orig: 890, 445
+  offset: 0, 0
+  index: -1
+arm_L_cloth_2
+  rotate: false
+  xy: 2, 2274
+  size: 890, 445
+  orig: 890, 445
+  offset: 0, 0
+  index: -1
+arm_L_cloth_ribbon
+  rotate: true
+  xy: 1613, 3499
+  size: 222, 256
+  orig: 222, 256
+  offset: 0, 0
+  index: -1
+arm_L_hand_1
+  rotate: true
+  xy: 212, 3811
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+arm_L_hand_2
+  rotate: true
+  xy: 2908, 3710
+  size: 142, 432
+  orig: 142, 432
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 532, 3593
+  size: 197, 280
+  orig: 197, 280
+  offset: 0, 0
+  index: -1
+arm_R_cloth_1
+  rotate: true
+  xy: 2, 3245
+  size: 354, 455
+  orig: 354, 455
+  offset: 0, 0
+  index: -1
+arm_R_cloth_2
+  rotate: false
+  xy: 2538, 3715
+  size: 152, 137
+  orig: 152, 137
+  offset: 0, 0
+  index: -1
+arm_R_cloth_3
+  rotate: false
+  xy: 2373, 1905
+  size: 826, 630
+  orig: 826, 630
+  offset: 0, 0
+  index: -1
+arm_R_cloth_4
+  rotate: false
+  xy: 1104, 3523
+  size: 275, 214
+  orig: 275, 214
+  offset: 0, 0
+  index: -1
+arm_R_cloth_back_1
+  rotate: false
+  xy: 819, 3136
+  size: 787, 378
+  orig: 787, 378
+  offset: 0, 0
+  index: -1
+arm_R_cloth_back_2
+  rotate: false
+  xy: 1608, 3118
+  size: 787, 378
+  orig: 787, 378
+  offset: 0, 0
+  index: -1
+arm_R_hand
+  rotate: false
+  xy: 2692, 3714
+  size: 214, 138
+  orig: 214, 138
+  offset: 0, 0
+  index: -1
+arm_R_ribbon
+  rotate: true
+  xy: 2397, 3020
+  size: 431, 532
+  orig: 431, 532
+  offset: 0, 0
+  index: -1
+arm_R_ribbonCross
+  rotate: true
+  xy: 511, 3793
+  size: 59, 116
+  orig: 59, 116
+  offset: 0, 0
+  index: -1
+back_bone1
+  rotate: true
+  xy: 2624, 304
+  size: 1599, 1172
+  orig: 1599, 1172
+  offset: 0, 0
+  index: -1
+back_redStar
+  rotate: false
+  xy: 1651, 1958
+  size: 720, 720
+  orig: 720, 720
+  offset: 0, 0
+  index: -1
+back_redStar_2
+  rotate: false
+  xy: 2, 1552
+  size: 720, 720
+  orig: 720, 720
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 1871, 3498
+  size: 637, 218
+  orig: 637, 218
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 3288, 2251
+  size: 595, 755
+  orig: 595, 755
+  offset: 0, 0
+  index: -1
+body3
+  rotate: true
+  xy: 894, 2083
+  size: 595, 755
+  orig: 595, 755
+  offset: 0, 0
+  index: -1
+breast
+  rotate: false
+  xy: 3501, 2848
+  size: 560, 487
+  orig: 560, 487
+  offset: 0, 0
+  index: -1
+breast2
+  rotate: false
+  xy: 2931, 2984
+  size: 568, 437
+  orig: 568, 437
+  offset: 0, 0
+  index: -1
+breast2_shadow
+  rotate: false
+  xy: 2510, 3477
+  size: 286, 235
+  orig: 286, 235
+  offset: 0, 0
+  index: -1
+cloth_1
+  rotate: false
+  xy: 186, 3601
+  size: 344, 190
+  orig: 344, 190
+  offset: 0, 0
+  index: -1
+cloth_2
+  rotate: false
+  xy: 1381, 3516
+  size: 230, 221
+  orig: 230, 221
+  offset: 0, 0
+  index: -1
+dress_2
+  rotate: false
+  xy: 2, 2
+  size: 2354, 941
+  orig: 2354, 941
+  offset: 0, 0
+  index: -1
+dress_back_1
+  rotate: false
+  xy: 2, 2721
+  size: 919, 413
+  orig: 919, 413
+  offset: 0, 0
+  index: -1
+earCross
+  rotate: true
+  xy: 154, 3812
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 1648, 3723
+  size: 219, 129
+  orig: 219, 129
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1869, 3723
+  size: 219, 129
+  orig: 219, 129
+  offset: 0, 0
+  index: -1
+eyeBrown
+  rotate: false
+  xy: 629, 3792
+  size: 187, 60
+  orig: 187, 60
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2798, 3453
+  size: 266, 255
+  orig: 266, 255
+  offset: 0, 0
+  index: -1
+face_red
+  rotate: false
+  xy: 3569, 3706
+  size: 227, 146
+  orig: 227, 146
+  offset: 0, 0
+  index: -1
+hairAss_1
+  rotate: true
+  xy: 1149, 3773
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+hairAss_2
+  rotate: false
+  xy: 3066, 3423
+  size: 540, 281
+  orig: 540, 281
+  offset: 0, 0
+  index: -1
+hairAss_3
+  rotate: false
+  xy: 887, 3779
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+hairFront_1
+  rotate: true
+  xy: 1245, 3740
+  size: 112, 131
+  orig: 112, 131
+  offset: 0, 0
+  index: -1
+hairFront_2
+  rotate: true
+  xy: 2090, 3719
+  size: 133, 295
+  orig: 133, 295
+  offset: 0, 0
+  index: -1
+hairFront_3
+  rotate: true
+  xy: 814, 3577
+  size: 196, 288
+  orig: 196, 288
+  offset: 0, 0
+  index: -1
+hairFront_4
+  rotate: true
+  xy: 3342, 3710
+  size: 142, 225
+  orig: 142, 225
+  offset: 0, 0
+  index: -1
+hair_back_1
+  rotate: false
+  xy: 1378, 3739
+  size: 124, 113
+  orig: 124, 113
+  offset: 0, 0
+  index: -1
+hair_back_2
+  rotate: false
+  xy: 459, 3220
+  size: 358, 355
+  orig: 358, 355
+  offset: 0, 0
+  index: -1
+hair_back_3
+  rotate: false
+  xy: 818, 3789
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+hair_back_4
+  rotate: true
+  xy: 963, 3775
+  size: 77, 184
+  orig: 77, 184
+  offset: 0, 0
+  index: -1
+hair_back_5
+  rotate: false
+  xy: 1504, 3739
+  size: 142, 113
+  orig: 142, 113
+  offset: 0, 0
+  index: -1
+hex
+  rotate: true
+  xy: 2387, 3718
+  size: 134, 149
+  orig: 134, 149
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 923, 2680
+  size: 436, 1471
+  orig: 436, 1471
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 724, 1425
+  size: 478, 1898
+  orig: 478, 1898
+  offset: 0, 0
+  index: -1
+leg_R_sup
+  rotate: true
+  xy: 2, 945
+  size: 478, 1898
+  orig: 478, 1898
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 112, 3816
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 2, 3834
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 33, 3828
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 83, 3826
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 3608, 3337
+  size: 433, 352
+  orig: 433, 352
+  offset: 0, 0
+  index: -1
+saliva
+  rotate: false
+  xy: 287, 3798
+  size: 222, 54
+  orig: 222, 54
+  offset: 0, 0
+  index: -1
+
+Victoria_Spine_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_bone2
+  rotate: false
+  xy: 2, 2
+  size: 1599, 1172
+  orig: 1599, 1172
+  offset: 0, 0
+  index: -1
+back_bone3
+  rotate: false
+  xy: 2005, 537
+  size: 1599, 1172
+  orig: 1599, 1172
+  offset: 0, 0
+  index: -1
+dress
+  rotate: true
+  xy: 2948, 1711
+  size: 2354, 941
+  orig: 2354, 941
+  offset: 0, 0
+  index: -1
+dress_back_reference2
+  rotate: true
+  xy: 2005, 1711
+  size: 2354, 941
+  orig: 2354, 941
+  offset: 0, 0
+  index: -1
+weapon_Cross
+  rotate: false
+  xy: 2, 1176
+  size: 2001, 2889
+  orig: 2001, 2889
+  offset: 0, 0
+  index: -1

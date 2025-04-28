@@ -1,3 +1,405 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:78e1342cf325b962a927c598917c5ebf892ba0175a2ac6cb11f67e8a055921a0
-size 5959
+
+Hestia_Playroom_A.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GG
+  rotate: false
+  xy: 3689, 3102
+  size: 391, 436
+  orig: 391, 436
+  offset: 0, 0
+  index: -1
+LEG_L
+  rotate: true
+  xy: 2, 540
+  size: 1008, 457
+  orig: 1010, 559
+  offset: 2, 0
+  index: -1
+LEG_L_1
+  rotate: true
+  xy: 2548, 1231
+  size: 503, 104
+  orig: 503, 104
+  offset: 0, 0
+  index: -1
+LEG_R
+  rotate: false
+  xy: 3355, 1404
+  size: 693, 1220
+  orig: 697, 1220
+  offset: 0, 0
+  index: -1
+LEG_R_1
+  rotate: false
+  xy: 2, 1550
+  size: 1156, 565
+  orig: 1156, 565
+  offset: 0, 0
+  index: -1
+WINDOW_CLOTH
+  rotate: true
+  xy: 1718, 891
+  size: 843, 474
+  orig: 2977, 1174
+  offset: 0, 700
+  index: -1
+WINDOW_CLOTH2
+  rotate: true
+  xy: 461, 101
+  size: 593, 454
+  orig: 2977, 1174
+  offset: 2384, 720
+  index: -1
+arm_L
+  rotate: true
+  xy: 937, 218
+  size: 785, 367
+  orig: 785, 367
+  offset: 0, 0
+  index: -1
+arm_R2
+  rotate: false
+  xy: 1718, 1739
+  size: 512, 376
+  orig: 512, 376
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1160, 1191
+  size: 556, 924
+  orig: 561, 924
+  offset: 0, 0
+  index: -1
+bodyB_water_01
+  rotate: false
+  xy: 937, 1212
+  size: 204, 336
+  orig: 223, 385
+  offset: 4, 44
+  index: -1
+bodyB_water_02
+  rotate: true
+  xy: 2360, 1737
+  size: 56, 186
+  orig: 57, 219
+  offset: 1, 32
+  index: -1
+bodyB_water_03
+  rotate: false
+  xy: 2232, 1754
+  size: 126, 113
+  orig: 133, 113
+  offset: 0, 0
+  index: -1
+body_water
+  rotate: false
+  xy: 1504, 1060
+  size: 211, 129
+  orig: 211, 129
+  offset: 0, 0
+  index: -1
+boobB_water_01
+  rotate: true
+  xy: 261, 57
+  size: 84, 181
+  orig: 88, 190
+  offset: 2, 0
+  index: -1
+boobB_water_02
+  rotate: true
+  xy: 3225, 1392
+  size: 59, 95
+  orig: 67, 95
+  offset: 8, 0
+  index: -1
+boobB_water_03
+  rotate: true
+  xy: 2965, 1239
+  size: 61, 221
+  orig: 76, 226
+  offset: 13, 1
+  index: -1
+boobB_water_04
+  rotate: false
+  xy: 3236, 1555
+  size: 55, 179
+  orig: 61, 180
+  offset: 0, 1
+  index: -1
+boob_L
+  rotate: false
+  xy: 2970, 1453
+  size: 264, 281
+  orig: 266, 281
+  offset: 2, 0
+  index: -1
+boob_R
+  rotate: true
+  xy: 2972, 914
+  size: 323, 260
+  orig: 323, 260
+  offset: 0, 0
+  index: -1
+boob_water_L
+  rotate: true
+  xy: 1567, 1030
+  size: 28, 65
+  orig: 28, 65
+  offset: 0, 0
+  index: -1
+boob_water_R
+  rotate: false
+  xy: 461, 696
+  size: 474, 852
+  orig: 521, 1097
+  offset: 0, 0
+  index: -1
+brow_2_2
+  rotate: false
+  xy: 3039, 1313
+  size: 240, 59
+  orig: 242, 59
+  offset: 0, 0
+  index: -1
+brow_idle
+  rotate: false
+  xy: 2654, 1391
+  size: 248, 51
+  orig: 248, 51
+  offset: 0, 0
+  index: -1
+ear_ring
+  rotate: false
+  xy: 1669, 898
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+eyes_2_2
+  rotate: false
+  xy: 2654, 1251
+  size: 241, 77
+  orig: 241, 77
+  offset: 0, 0
+  index: -1
+eyes_idle
+  rotate: false
+  xy: 2360, 1795
+  size: 259, 72
+  orig: 259, 89
+  offset: 0, 17
+  index: -1
+face_water
+  rotate: true
+  xy: 1349, 1058
+  size: 131, 153
+  orig: 907, 1041
+  offset: 479, 888
+  index: -1
+fly
+  rotate: false
+  xy: 2, 2662
+  size: 2741, 1380
+  orig: 2741, 1385
+  offset: 0, 5
+  index: -1
+fool_water
+  rotate: false
+  xy: 261, 193
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1
+girl_taril
+  rotate: false
+  xy: 2, 2117
+  size: 2624, 507
+  orig: 2624, 740
+  offset: 0, 0
+  index: -1
+hair_BK
+  rotate: true
+  xy: 3689, 3540
+  size: 502, 399
+  orig: 502, 399
+  offset: 0, 0
+  index: -1
+hair_F_BK
+  rotate: true
+  xy: 1135, 1025
+  size: 164, 212
+  orig: 164, 212
+  offset: 0, 0
+  index: -1
+hair_F_UP
+  rotate: true
+  xy: 937, 1005
+  size: 205, 196
+  orig: 205, 196
+  offset: 0, 0
+  index: -1
+hand_R1_1
+  rotate: true
+  xy: 3689, 2642
+  size: 458, 378
+  orig: 458, 378
+  offset: 0, 0
+  index: -1
+hand_R1_2
+  rotate: false
+  xy: 2526, 949
+  size: 444, 280
+  orig: 466, 280
+  offset: 0, 0
+  index: -1
+hand_R_2
+  rotate: false
+  xy: 2194, 901
+  size: 330, 406
+  orig: 330, 406
+  offset: 0, 0
+  index: -1
+head_OK
+  rotate: true
+  xy: 1306, 608
+  size: 415, 361
+  orig: 458, 382
+  offset: 8, 21
+  index: -1
+legB_water_L01
+  rotate: true
+  xy: 2970, 1374
+  size: 77, 253
+  orig: 95, 256
+  offset: 18, 3
+  index: -1
+legB_water_L02
+  rotate: true
+  xy: 2904, 1275
+  size: 167, 59
+  orig: 167, 59
+  offset: 0, 0
+  index: -1
+legB_water_R01
+  rotate: false
+  xy: 388, 143
+  size: 62, 395
+  orig: 65, 425
+  offset: 2, 0
+  index: -1
+legB_water_R02
+  rotate: false
+  xy: 2, 2
+  size: 257, 536
+  orig: 268, 549
+  offset: 11, 0
+  index: -1
+legWater_01
+  rotate: true
+  xy: 2654, 1330
+  size: 59, 243
+  orig: 59, 243
+  offset: 0, 0
+  index: -1
+leg_water_L
+  rotate: true
+  xy: 261, 247
+  size: 291, 125
+  orig: 301, 134
+  offset: 10, 9
+  index: -1
+leg_water_R01
+  rotate: true
+  xy: 1504, 1028
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+leg_water_R02
+  rotate: true
+  xy: 2548, 1740
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+meme
+  rotate: true
+  xy: 2654, 1444
+  size: 290, 314
+  orig: 290, 314
+  offset: 0, 0
+  index: -1
+mouth_2_2
+  rotate: false
+  xy: 261, 144
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+mouth_idle
+  rotate: true
+  xy: 3293, 1667
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+mouth_trail_2_2
+  rotate: true
+  xy: 1669, 992
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+mouth_trail_idle
+  rotate: false
+  xy: 3236, 1502
+  size: 63, 51
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+mouth_water_idle
+  rotate: true
+  xy: 2965, 1302
+  size: 70, 72
+  orig: 70, 105
+  offset: 0, 33
+  index: -1
+nose
+  rotate: true
+  xy: 326, 156
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+rung_bk
+  rotate: true
+  xy: 2745, 2626
+  size: 1416, 942
+  orig: 1416, 942
+  offset: 0, 0
+  index: -1
+smoke_Fx
+  rotate: false
+  xy: 2628, 1736
+  size: 725, 888
+  orig: 725, 888
+  offset: 0, 0
+  index: -1
+water_mei_01
+  rotate: false
+  xy: 2194, 1309
+  size: 352, 425
+  orig: 352, 425
+  offset: 0, 0
+  index: -1
+water_mei_02
+  rotate: true
+  xy: 2232, 1869
+  size: 246, 377
+  orig: 259, 377
+  offset: 13, 0
+  index: -1

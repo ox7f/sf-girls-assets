@@ -1,3 +1,559 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e00769c253ae0a3a2cacc69274d04bb6eee6b523e29c8e5a49913eea44b745c
-size 8300
+
+Akari_Spine_Skin1.png
+size: 3778,3778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm R
+  rotate: false
+  xy: 1479, 18
+  size: 123, 134
+  orig: 123, 134
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1254, 252
+  size: 321, 495
+  orig: 321, 495
+  offset: 0, 0
+  index: -1
+Body Low
+  rotate: true
+  xy: 2084, 55
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: -1
+Boob L
+  rotate: false
+  xy: 3225, 454
+  size: 316, 255
+  orig: 316, 255
+  offset: 0, 0
+  index: -1
+Boob R
+  rotate: true
+  xy: 3042, 166
+  size: 278, 251
+  orig: 278, 251
+  offset: 0, 0
+  index: -1
+Bow Tie Knot
+  rotate: false
+  xy: 1207, 1101
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+Bow Tie L
+  rotate: true
+  xy: 3537, 221
+  size: 222, 138
+  orig: 222, 138
+  offset: 0, 0
+  index: -1
+Bow Tie R
+  rotate: true
+  xy: 2266, 76
+  size: 111, 234
+  orig: 111, 234
+  offset: 0, 0
+  index: -1
+Bow Tie R 2
+  rotate: true
+  xy: 3724, 1867
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+Coat Arm L 1 - 1
+  rotate: false
+  xy: 3374, 1698
+  size: 348, 226
+  orig: 348, 226
+  offset: 0, 0
+  index: -1
+Coat Arm L 1 - 2
+  rotate: true
+  xy: 2, 3
+  size: 98, 331
+  orig: 98, 331
+  offset: 0, 0
+  index: -1
+Coat Arm R 1 - 1
+  rotate: true
+  xy: 2965, 1406
+  size: 290, 443
+  orig: 290, 443
+  offset: 0, 0
+  index: -1
+Coat Arm R 1 - 2
+  rotate: false
+  xy: 3702, 3494
+  size: 53, 282
+  orig: 53, 282
+  offset: 0, 0
+  index: -1
+Coat Arm R Body
+  rotate: true
+  xy: 1460, 154
+  size: 96, 134
+  orig: 96, 134
+  offset: 0, 0
+  index: -1
+Coat Arm R Broken
+  rotate: false
+  xy: 3206, 26
+  size: 113, 138
+  orig: 113, 138
+  offset: 0, 0
+  index: -1
+Coat Back
+  rotate: true
+  xy: 1753, 307
+  size: 319, 562
+  orig: 319, 562
+  offset: 0, 0
+  index: -1
+Coat L 1 - 1
+  rotate: false
+  xy: 3304, 2730
+  size: 396, 1046
+  orig: 396, 1046
+  offset: 0, 0
+  index: -1
+Coat L 1 - 2
+  rotate: false
+  xy: 2542, 1421
+  size: 421, 891
+  orig: 421, 891
+  offset: 0, 0
+  index: -1
+Coat R 1
+  rotate: false
+  xy: 2, 805
+  size: 690, 1489
+  orig: 690, 1489
+  offset: 0, 0
+  index: -1
+Electricity 1
+  rotate: true
+  xy: 1596, 168
+  size: 82, 138
+  orig: 82, 138
+  offset: 0, 0
+  index: -1
+Electricity 2
+  rotate: true
+  xy: 3581, 704
+  size: 284, 154
+  orig: 284, 154
+  offset: 0, 0
+  index: -1
+Electricity 3
+  rotate: true
+  xy: 2763, 176
+  size: 268, 277
+  orig: 268, 277
+  offset: 0, 0
+  index: -1
+Electricity 4
+  rotate: false
+  xy: 3321, 26
+  size: 122, 175
+  orig: 122, 175
+  offset: 0, 0
+  index: -1
+Electricity 5
+  rotate: false
+  xy: 1604, 41
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1
+Electricity 6
+  rotate: true
+  xy: 335, 15
+  size: 86, 122
+  orig: 86, 122
+  offset: 0, 0
+  index: -1
+Electricity 7
+  rotate: false
+  xy: 3295, 203
+  size: 152, 249
+  orig: 152, 249
+  offset: 0, 0
+  index: -1
+Electricity 8
+  rotate: false
+  xy: 1187, 50
+  size: 83, 176
+  orig: 83, 176
+  offset: 0, 0
+  index: -1
+Electricity 9
+  rotate: true
+  xy: 699, 38
+  size: 71, 105
+  orig: 71, 105
+  offset: 0, 0
+  index: -1
+Face 1
+  rotate: false
+  xy: 1272, 147
+  size: 186, 103
+  orig: 186, 103
+  offset: 0, 0
+  index: -1
+Face 2
+  rotate: true
+  xy: 2763, 451
+  size: 193, 100
+  orig: 193, 100
+  offset: 0, 0
+  index: -1
+Face 3
+  rotate: false
+  xy: 2702, 646
+  size: 193, 173
+  orig: 193, 173
+  offset: 0, 0
+  index: -1
+Hair Tail
+  rotate: false
+  xy: 2, 2296
+  size: 982, 1480
+  orig: 982, 1480
+  offset: 0, 0
+  index: -1
+Hair bang
+  rotate: true
+  xy: 2712, 26
+  size: 148, 193
+  orig: 148, 193
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: true
+  xy: 3031, 22
+  size: 142, 173
+  orig: 142, 173
+  offset: 0, 0
+  index: -1
+Hand L  Thumb
+  rotate: true
+  xy: 585, 40
+  size: 69, 112
+  orig: 69, 112
+  offset: 0, 0
+  index: -1
+Hand L Finger
+  rotate: false
+  xy: 3678, 460
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: false
+  xy: 1272, 2
+  size: 76, 143
+  orig: 76, 143
+  offset: 0, 0
+  index: -1
+Hand R Finger 1
+  rotate: true
+  xy: 2398, 4
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+Hand R Finger 2
+  rotate: false
+  xy: 2702, 583
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+Hand R Finger 3
+  rotate: false
+  xy: 1716, 57
+  size: 33, 109
+  orig: 33, 109
+  offset: 0, 0
+  index: -1
+Hand R mid Finger
+  rotate: true
+  xy: 2266, 2
+  size: 72, 130
+  orig: 72, 130
+  offset: 0, 0
+  index: -1
+Head 1
+  rotate: true
+  xy: 3248, 711
+  size: 277, 331
+  orig: 277, 331
+  offset: 0, 0
+  index: -1
+Head 2
+  rotate: true
+  xy: 1751, 28
+  size: 277, 331
+  orig: 277, 331
+  offset: 0, 0
+  index: -1
+Head 3
+  rotate: true
+  xy: 2897, 446
+  size: 277, 326
+  orig: 277, 326
+  offset: 0, 0
+  index: -1
+Headband
+  rotate: false
+  xy: 2907, 28
+  size: 122, 146
+  orig: 122, 146
+  offset: 0, 0
+  index: -1
+Headband 1
+  rotate: true
+  xy: 3543, 445
+  size: 257, 133
+  orig: 257, 133
+  offset: 0, 0
+  index: -1
+Headset L
+  rotate: true
+  xy: 459, 29
+  size: 80, 124
+  orig: 80, 124
+  offset: 0, 0
+  index: -1
+Headset R
+  rotate: true
+  xy: 1350, 7
+  size: 138, 127
+  orig: 138, 127
+  offset: 0, 0
+  index: -1
+Headset handel
+  rotate: true
+  xy: 3449, 214
+  size: 238, 86
+  orig: 238, 86
+  offset: 0, 0
+  index: -1
+Leg L
+  rotate: false
+  xy: 2965, 1698
+  size: 407, 826
+  orig: 407, 826
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 2434, 1021
+  size: 103, 302
+  orig: 103, 302
+  offset: 0, 0
+  index: -1
+Leg R_2
+  rotate: true
+  xy: 846, 75
+  size: 151, 339
+  orig: 151, 339
+  offset: 0, 0
+  index: -1
+Loadspeaker String 1
+  rotate: false
+  xy: 694, 805
+  size: 511, 324
+  orig: 511, 324
+  offset: 0, 0
+  index: -1
+Loadspeaker String 2
+  rotate: false
+  xy: 3388, 990
+  size: 382, 290
+  orig: 382, 290
+  offset: 0, 0
+  index: -1
+Loadspeaker String 4
+  rotate: true
+  xy: 2702, 821
+  size: 250, 206
+  orig: 250, 206
+  offset: 0, 0
+  index: -1
+Loadspeaker String 5
+  rotate: false
+  xy: 1753, 628
+  size: 562, 390
+  orig: 562, 390
+  offset: 0, 0
+  index: -1
+Loadspeaker handle
+  rotate: true
+  xy: 2502, 30
+  size: 157, 208
+  orig: 157, 208
+  offset: 0, 0
+  index: -1
+Loudspeaker Body
+  rotate: true
+  xy: 1254, 575
+  size: 572, 497
+  orig: 572, 497
+  offset: 0, 0
+  index: -1
+Loudspeaker Effect 1
+  rotate: false
+  xy: 3410, 1282
+  size: 322, 414
+  orig: 322, 414
+  offset: 0, 0
+  index: -1
+Pants L 1
+  rotate: false
+  xy: 694, 1131
+  size: 556, 1163
+  orig: 556, 1163
+  offset: 0, 0
+  index: -1
+Pants L 2
+  rotate: false
+  xy: 1252, 1149
+  size: 556, 1163
+  orig: 556, 1163
+  offset: 0, 0
+  index: -1
+Pants L 3
+  rotate: false
+  xy: 2720, 2526
+  size: 582, 1250
+  orig: 582, 1250
+  offset: 0, 0
+  index: -1
+Pants L 3 Back
+  rotate: false
+  xy: 435, 111
+  size: 409, 692
+  orig: 409, 692
+  offset: 0, 0
+  index: -1
+Pants Pocket
+  rotate: false
+  xy: 3678, 524
+  size: 84, 178
+  orig: 84, 178
+  offset: 0, 0
+  index: -1
+Pants R 1
+  rotate: false
+  xy: 986, 2314
+  size: 576, 1462
+  orig: 576, 1462
+  offset: 0, 0
+  index: -1
+Pants R 2
+  rotate: false
+  xy: 1564, 2314
+  size: 576, 1462
+  orig: 576, 1462
+  offset: 0, 0
+  index: -1
+Pants R 3
+  rotate: false
+  xy: 2142, 2314
+  size: 576, 1462
+  orig: 576, 1462
+  offset: 0, 0
+  index: -1
+Pants String
+  rotate: false
+  xy: 3304, 2611
+  size: 50, 117
+  orig: 50, 117
+  offset: 0, 0
+  index: -1
+Pants straps
+  rotate: false
+  xy: 846, 228
+  size: 406, 575
+  orig: 406, 575
+  offset: 0, 0
+  index: -1
+Shirt
+  rotate: true
+  xy: 2317, 574
+  size: 444, 383
+  orig: 444, 383
+  offset: 0, 0
+  index: -1
+Shirt 2
+  rotate: false
+  xy: 2317, 189
+  size: 444, 383
+  orig: 444, 383
+  offset: 0, 0
+  index: -1
+Shirt 3
+  rotate: false
+  xy: 2542, 1073
+  size: 406, 346
+  orig: 406, 346
+  offset: 0, 0
+  index: -1
+Speaker Effect
+  rotate: true
+  xy: 2, 103
+  size: 700, 431
+  orig: 700, 431
+  offset: 0, 0
+  index: -1
+Speaker Up
+  rotate: true
+  xy: 1810, 1325
+  size: 987, 730
+  orig: 987, 730
+  offset: 0, 0
+  index: -1
+Speaker Up Handle
+  rotate: false
+  xy: 1810, 1020
+  size: 622, 303
+  orig: 622, 303
+  offset: 0, 0
+  index: -1
+Speaker Up Strap
+  rotate: false
+  xy: 3374, 1926
+  size: 402, 802
+  orig: 402, 802
+  offset: 0, 0
+  index: -1
+Wrench
+  rotate: true
+  xy: 2720, 2365
+  size: 159, 219
+  orig: 159, 219
+  offset: 0, 0
+  index: -1
+smoke 1
+  rotate: true
+  xy: 2910, 725
+  size: 278, 336
+  orig: 278, 336
+  offset: 0, 0
+  index: -1
+smoke 2
+  rotate: true
+  xy: 2950, 1005
+  size: 399, 436
+  orig: 399, 436
+  offset: 0, 0
+  index: -1

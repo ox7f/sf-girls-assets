@@ -1,3 +1,353 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b4c12bf0a22e5870d89a83eb2677cac49f1888d6204ad5457bdc98cc6c8c249
-size 5178
+
+Victoria_Spine.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+301
+  rotate: true
+  xy: 2129, 3646
+  size: 177, 201
+  orig: 177, 201
+  offset: 0, 0
+  index: -1
+back_wing
+  rotate: false
+  xy: 2, 2181
+  size: 1088, 577
+  orig: 1088, 577
+  offset: 0, 0
+  index: -1
+back_wingv2
+  rotate: false
+  xy: 2, 1602
+  size: 1088, 577
+  orig: 1088, 577
+  offset: 0, 0
+  index: -1
+body-lower
+  rotate: true
+  xy: 1704, 3187
+  size: 457, 618
+  orig: 457, 618
+  offset: 0, 0
+  index: -1
+body-lowerv2
+  rotate: true
+  xy: 2324, 3116
+  size: 457, 618
+  orig: 457, 618
+  offset: 0, 0
+  index: -1
+body_armor
+  rotate: false
+  xy: 1759, 3665
+  size: 368, 158
+  orig: 368, 158
+  offset: 0, 0
+  index: -1
+body_upper
+  rotate: false
+  xy: 3579, 3046
+  size: 513, 511
+  orig: 513, 511
+  offset: 0, 0
+  index: -1
+body_upperv2
+  rotate: false
+  xy: 2, 2953
+  size: 513, 511
+  orig: 513, 511
+  offset: 0, 0
+  index: -1
+body_v3
+  rotate: true
+  xy: 1207, 2653
+  size: 532, 860
+  orig: 532, 860
+  offset: 0, 0
+  index: -1
+boob_left
+  rotate: true
+  xy: 3288, 3561
+  size: 262, 280
+  orig: 262, 280
+  offset: 0, 0
+  index: -1
+boob_right
+  rotate: true
+  xy: 3570, 3559
+  size: 264, 295
+  orig: 264, 295
+  offset: 0, 0
+  index: -1
+brow
+  rotate: false
+  xy: 538, 3739
+  size: 212, 84
+  orig: 212, 84
+  offset: 0, 0
+  index: -1
+brow_v2
+  rotate: false
+  xy: 147, 3754
+  size: 199, 69
+  orig: 199, 69
+  offset: 0, 0
+  index: -1
+eye-left
+  rotate: false
+  xy: 449, 3746
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: false
+  xy: 752, 3733
+  size: 112, 90
+  orig: 112, 90
+  offset: 0, 0
+  index: -1
+eye_v2
+  rotate: false
+  xy: 866, 3731
+  size: 213, 92
+  orig: 213, 92
+  offset: 0, 0
+  index: -1
+eye_v3
+  rotate: false
+  xy: 1081, 3731
+  size: 212, 92
+  orig: 212, 92
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 3481
+  size: 280, 271
+  orig: 280, 271
+  offset: 0, 0
+  index: -1
+face_v3
+  rotate: false
+  xy: 566, 3460
+  size: 280, 271
+  orig: 280, 271
+  offset: 0, 0
+  index: -1
+facev2
+  rotate: false
+  xy: 284, 3466
+  size: 280, 271
+  orig: 280, 271
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 1273, 3247
+  size: 419, 429
+  orig: 419, 429
+  offset: 0, 0
+  index: -1
+hair_left
+  rotate: true
+  xy: 1467, 3668
+  size: 155, 290
+  orig: 155, 290
+  offset: 0, 0
+  index: -1
+hair_right
+  rotate: true
+  xy: 2332, 3577
+  size: 246, 308
+  orig: 246, 308
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: false
+  xy: 2944, 3088
+  size: 633, 469
+  orig: 633, 469
+  offset: 0, 0
+  index: -1
+hand_left2_v3
+  rotate: true
+  xy: 1295, 3697
+  size: 126, 170
+  orig: 126, 170
+  offset: 0, 0
+  index: -1
+hand_left_v3
+  rotate: true
+  xy: 848, 3357
+  size: 372, 423
+  orig: 372, 423
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 2642, 3575
+  size: 321, 248
+  orig: 321, 248
+  offset: 0, 0
+  index: -1
+hand_right2
+  rotate: true
+  xy: 517, 2760
+  size: 595, 688
+  orig: 595, 688
+  offset: 0, 0
+  index: -1
+hand_right2_v3
+  rotate: true
+  xy: 2783, 1404
+  size: 630, 692
+  orig: 630, 692
+  offset: 0, 0
+  index: -1
+hand_right2v2
+  rotate: true
+  xy: 1092, 2056
+  size: 595, 688
+  orig: 595, 688
+  offset: 0, 0
+  index: -1
+hand_rightv2
+  rotate: false
+  xy: 2965, 3575
+  size: 321, 248
+  orig: 321, 248
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: false
+  xy: 3477, 983
+  size: 561, 1556
+  orig: 561, 1556
+  offset: 0, 0
+  index: -1
+leg_leftv2
+  rotate: true
+  xy: 2, 968
+  size: 561, 1556
+  orig: 561, 1556
+  offset: 0, 0
+  index: -1
+leg_leftv3
+  rotate: true
+  xy: 1560, 841
+  size: 561, 1556
+  orig: 561, 1556
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: true
+  xy: 2069, 2541
+  size: 503, 1689
+  orig: 503, 1689
+  offset: 0, 0
+  index: -1
+leg_rightv2
+  rotate: true
+  xy: 1782, 2036
+  size: 503, 1689
+  orig: 503, 1689
+  offset: 0, 0
+  index: -1
+leg_rightv3
+  rotate: true
+  xy: 1092, 1531
+  size: 503, 1689
+  orig: 503, 1689
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 83, 3762
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+mouth_v2
+  rotate: false
+  xy: 2, 3772
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+mouth_v3
+  rotate: false
+  xy: 348, 3750
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+skirt_left
+  rotate: true
+  xy: 3118, 293
+  size: 688, 733
+  orig: 688, 733
+  offset: 0, 0
+  index: -1
+skirt_left_v2
+  rotate: true
+  xy: 2, 278
+  size: 688, 733
+  orig: 688, 733
+  offset: 0, 0
+  index: -1
+skirt_right
+  rotate: false
+  xy: 737, 2
+  size: 1079, 837
+  orig: 1079, 837
+  offset: 0, 0
+  index: -1
+skirt_rightv2
+  rotate: false
+  xy: 1818, 2
+  size: 1079, 837
+  orig: 1079, 837
+  offset: 0, 0
+  index: -1
+
+Victoria_Spine_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon_v2_v3
+  rotate: true
+  xy: 2, 2
+  size: 2453, 2552
+  orig: 2453, 2552
+  offset: 0, 0
+  index: -1
+
+Victoria_Spine_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon_v3
+  rotate: true
+  xy: 2, 2
+  size: 2453, 2552
+  orig: 2453, 2552
+  offset: 0, 0
+  index: -1
+
+Victoria_Spine_4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon
+  rotate: false
+  xy: 2, 2
+  size: 2463, 2562
+  orig: 2463, 2562
+  offset: 0, 0
+  index: -1

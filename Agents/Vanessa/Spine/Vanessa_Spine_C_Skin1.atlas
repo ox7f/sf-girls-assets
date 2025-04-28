@@ -1,3 +1,174 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9aed229d548590dfed85daf68adf52a23f0fed295ba2553b5e18354b8abe4290
-size 2472
+
+Vanessa_Spine_C_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun
+  rotate: false
+  xy: 856, 324
+  size: 298, 884
+  orig: 298, 884
+  offset: 0, 0
+  index: -1
+L_arm2
+  rotate: false
+  xy: 385, 8
+  size: 212, 162
+  orig: 212, 162
+  offset: 0, 0
+  index: -1
+L_breast
+  rotate: true
+  xy: 653, 975
+  size: 233, 156
+  orig: 235, 156
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 304, 988
+  size: 31, 34
+  orig: 33, 36
+  offset: 2, 2
+  index: -1
+R_arm
+  rotate: true
+  xy: 599, 45
+  size: 125, 228
+  orig: 125, 228
+  offset: 0, 0
+  index: -1
+R_arm2
+  rotate: false
+  xy: 207, 5
+  size: 176, 165
+  orig: 176, 165
+  offset: 0, 0
+  index: -1
+R_breast
+  rotate: false
+  xy: 457, 1037
+  size: 194, 171
+  orig: 194, 171
+  offset: 0, 0
+  index: -1
+R_breast_Top
+  rotate: true
+  xy: 265, 984
+  size: 35, 37
+  orig: 36, 37
+  offset: 1, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 856, 75
+  size: 247, 712
+  orig: 247, 712
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 952
+  size: 261, 1023
+  orig: 261, 1023
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1132, 1223
+  size: 98, 84
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 457, 952
+  size: 83, 110
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 1156, 1031
+  size: 128, 190
+  orig: 128, 190
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 1310, 1343
+  size: 112, 164
+  orig: 112, 164
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 1132, 1309
+  size: 176, 146
+  orig: 176, 146
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: true
+  xy: 569, 960
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 1232, 1237
+  size: 91, 70
+  orig: 91, 70
+  offset: 0, 0
+  index: -1
+hat3
+  rotate: false
+  xy: 1156, 925
+  size: 110, 104
+  orig: 110, 104
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 265, 1021
+  size: 187, 190
+  orig: 187, 190
+  offset: 0, 0
+  index: -1
+mouht2
+  rotate: true
+  xy: 340, 998
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+umbrella_back
+  rotate: false
+  xy: 2, 172
+  size: 852, 778
+  orig: 852, 778
+  offset: 0, 0
+  index: -1
+umbrella_front
+  rotate: false
+  xy: 265, 1210
+  size: 865, 765
+  orig: 865, 765
+  offset: 0, 0
+  index: -1
+umbrella_handle
+  rotate: false
+  xy: 2, 2
+  size: 203, 168
+  orig: 203, 168
+  offset: 0, 0
+  index: -1
+umbrella_handle2
+  rotate: true
+  xy: 1132, 1457
+  size: 518, 561
+  orig: 518, 561
+  offset: 0, 0
+  index: -1

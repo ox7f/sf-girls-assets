@@ -1,3 +1,356 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:41cd94cabcca950327739af0d27a16e824c826dc28039f7ef759ed8e5a8b9e6d
-size 5064
+
+Laura_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: true
+  xy: 357, 211
+  size: 197, 224
+  orig: 197, 224
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 2591
+  size: 3040, 1492
+  orig: 3040, 1492
+  offset: 0, 0
+  index: -1
+bodybase
+  rotate: true
+  xy: 3044, 2039
+  size: 676, 598
+  orig: 676, 598
+  offset: 0, 0
+  index: -1
+boobaL
+  rotate: true
+  xy: 3564, 575
+  size: 314, 246
+  orig: 314, 246
+  offset: 0, 0
+  index: -1
+boobaL2
+  rotate: true
+  xy: 3788, 259
+  size: 314, 246
+  orig: 314, 246
+  offset: 0, 0
+  index: -1
+boobaR
+  rotate: true
+  xy: 2474, 2067
+  size: 253, 308
+  orig: 253, 308
+  offset: 0, 0
+  index: -1
+browsL1
+  rotate: false
+  xy: 3815, 2720
+  size: 93, 14
+  orig: 93, 14
+  offset: 0, 0
+  index: -1
+browsR1
+  rotate: true
+  xy: 2968, 2238
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+curL
+  rotate: false
+  xy: 1804, 745
+  size: 1257, 1292
+  orig: 1257, 1292
+  offset: 0, 0
+  index: -1
+curR
+  rotate: false
+  xy: 3063, 37
+  size: 499, 1640
+  orig: 499, 1640
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: true
+  xy: 3999, 2897
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: true
+  xy: 3999, 3014
+  size: 122, 83
+  orig: 122, 83
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 3684, 2764
+  size: 313, 372
+  orig: 313, 372
+  offset: 0, 0
+  index: -1
+footL
+  rotate: true
+  xy: 2, 410
+  size: 537, 782
+  orig: 537, 782
+  offset: 0, 0
+  index: -1
+footR
+  rotate: true
+  xy: 1804, 2040
+  size: 549, 668
+  orig: 549, 668
+  offset: 0, 0
+  index: -1
+hair_BL
+  rotate: true
+  xy: 2, 211
+  size: 197, 353
+  orig: 197, 353
+  offset: 0, 0
+  index: -1
+hair_BR
+  rotate: true
+  xy: 3063, 1752
+  size: 285, 325
+  orig: 285, 325
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 3788, 16
+  size: 241, 286
+  orig: 241, 286
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 786, 368
+  size: 217, 353
+  orig: 217, 353
+  offset: 0, 0
+  index: -1
+hair_LB
+  rotate: true
+  xy: 786, 723
+  size: 224, 364
+  orig: 224, 364
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 3390, 1679
+  size: 183, 358
+  orig: 183, 358
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 1152, 599
+  size: 227, 348
+  orig: 227, 348
+  offset: 0, 0
+  index: -1
+hair_mid
+  rotate: false
+  xy: 4023, 3454
+  size: 66, 208
+  orig: 66, 208
+  offset: 0, 0
+  index: -1
+hair_mid2
+  rotate: false
+  xy: 3939, 1663
+  size: 133, 234
+  orig: 133, 234
+  offset: 0, 0
+  index: -1
+hair_shadow
+  rotate: true
+  xy: 3684, 3664
+  size: 419, 352
+  orig: 419, 352
+  offset: 0, 0
+  index: -1
+hairmoL
+  rotate: false
+  xy: 4023, 3214
+  size: 62, 138
+  orig: 62, 138
+  offset: 0, 0
+  index: -1
+hairmoL2
+  rotate: true
+  xy: 3742, 2728
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+hairmoL3
+  rotate: false
+  xy: 3999, 2720
+  size: 62, 175
+  orig: 62, 175
+  offset: 0, 0
+  index: -1
+hairmoM
+  rotate: true
+  xy: 3815, 2736
+  size: 26, 125
+  orig: 26, 125
+  offset: 0, 0
+  index: -1
+hairmoM2
+  rotate: false
+  xy: 4063, 2787
+  size: 28, 108
+  orig: 28, 108
+  offset: 0, 0
+  index: -1
+hairmoR
+  rotate: true
+  xy: 3564, 2
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 3644, 1679
+  size: 455, 293
+  orig: 455, 293
+  offset: 0, 0
+  index: -1
+handL
+  rotate: true
+  xy: 2474, 2322
+  size: 267, 563
+  orig: 267, 563
+  offset: 0, 0
+  index: -1
+handL2
+  rotate: true
+  xy: 3564, 131
+  size: 442, 222
+  orig: 442, 222
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 3939, 1899
+  size: 138, 235
+  orig: 138, 235
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 3564, 891
+  size: 460, 248
+  orig: 460, 248
+  offset: 0, 0
+  index: -1
+heartL
+  rotate: false
+  xy: 4038, 4023
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+heartR
+  rotate: false
+  xy: 4023, 3145
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+juice_out
+  rotate: false
+  xy: 583, 185
+  size: 184, 223
+  orig: 184, 223
+  offset: 0, 0
+  index: -1
+legbase
+  rotate: true
+  xy: 3044, 2717
+  size: 1366, 638
+  orig: 1366, 638
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 3684, 2719
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 4023, 3354
+  size: 66, 98
+  orig: 66, 98
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 3564, 1353
+  size: 253, 308
+  orig: 253, 308
+  offset: 0, 0
+  index: -1
+pp
+  rotate: false
+  xy: 2784, 2042
+  size: 182, 278
+  orig: 182, 278
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 949
+  size: 1800, 1640
+  orig: 1800, 1640
+  offset: 0, 0
+  index: -1
+sperm
+  rotate: true
+  xy: 3684, 3138
+  size: 524, 337
+  orig: 524, 337
+  offset: 0, 0
+  index: -1
+sperm2
+  rotate: false
+  xy: 3819, 1417
+  size: 157, 244
+  orig: 157, 244
+  offset: 0, 0
+  index: -1
+upperbodybase
+  rotate: true
+  xy: 3644, 2136
+  size: 579, 433
+  orig: 579, 433
+  offset: 0, 0
+  index: -1
+west1
+  rotate: false
+  xy: 3812, 581
+  size: 242, 308
+  orig: 242, 308
+  offset: 0, 0
+  index: -1
+west2
+  rotate: false
+  xy: 3814, 1043
+  size: 242, 308
+  orig: 242, 308
+  offset: 0, 0
+  index: -1

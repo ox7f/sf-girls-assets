@@ -1,3 +1,417 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:06769c2d5beb8752ea614e0b675bbce9406e7feab638b11783397d4a08611c89
-size 6293
+
+Gai_gai_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloth_whiteF
+  rotate: false
+  xy: 3410, 3494
+  size: 554, 238
+  orig: 554, 238
+  offset: 0, 0
+  index: -1
+cloth_whiteL
+  rotate: false
+  xy: 2, 435
+  size: 1590, 662
+  orig: 1590, 662
+  offset: 0, 0
+  index: -1
+giel_skirt 1
+  rotate: true
+  xy: 2654, 1535
+  size: 648, 1351
+  orig: 656, 1372
+  offset: 0, 21
+  index: -1
+girl_R_arm
+  rotate: false
+  xy: 2750, 2779
+  size: 776, 407
+  orig: 776, 407
+  offset: 0, 0
+  index: -1
+girl_R_fingers
+  rotate: true
+  xy: 578, 2993
+  size: 358, 374
+  orig: 358, 374
+  offset: 0, 0
+  index: -1
+girl_R_fingers hand
+  rotate: true
+  xy: 773, 3597
+  size: 135, 280
+  orig: 135, 280
+  offset: 0, 0
+  index: -1
+girl_breast_L
+  rotate: false
+  xy: 1220, 1791
+  size: 758, 626
+  orig: 758, 626
+  offset: 0, 0
+  index: -1
+girl_breast_R
+  rotate: false
+  xy: 1980, 1626
+  size: 672, 628
+  orig: 672, 628
+  offset: 0, 0
+  index: -1
+girl_dec1
+  rotate: true
+  xy: 1046, 3320
+  size: 250, 477
+  orig: 250, 482
+  offset: 0, 0
+  index: -1
+girl_dec2
+  rotate: true
+  xy: 2689, 3544
+  size: 188, 194
+  orig: 189, 194
+  offset: 0, 0
+  index: -1
+girl_dec2 shadow
+  rotate: false
+  xy: 227, 3638
+  size: 179, 94
+  orig: 179, 94
+  offset: 0, 0
+  index: -1
+girl_dec3
+  rotate: false
+  xy: 126, 3641
+  size: 99, 91
+  orig: 99, 91
+  offset: 0, 0
+  index: -1
+girl_face 1
+  rotate: false
+  xy: 2, 2601
+  size: 526, 440
+  orig: 526, 440
+  offset: 0, 0
+  index: -1
+girl_face 2
+  rotate: false
+  xy: 1807, 2419
+  size: 518, 454
+  orig: 518, 454
+  offset: 0, 0
+  index: -1
+girl_feet
+  rotate: true
+  xy: 555, 3353
+  size: 242, 489
+  orig: 430, 489
+  offset: 0, 0
+  index: -1
+girl_finger
+  rotate: true
+  xy: 3169, 3188
+  size: 304, 325
+  orig: 304, 325
+  offset: 0, 0
+  index: -1
+girl_hair_ back
+  rotate: true
+  xy: 1708, 900
+  size: 724, 893
+  orig: 778, 893
+  offset: 54, 0
+  index: -1
+girl_hair_bang 1
+  rotate: true
+  xy: 2058, 3554
+  size: 178, 629
+  orig: 178, 629
+  offset: 0, 0
+  index: -1
+girl_hair_bang 1 down
+  rotate: true
+  xy: 1872, 3557
+  size: 175, 184
+  orig: 175, 184
+  offset: 0, 0
+  index: -1
+girl_hair_bang 2
+  rotate: true
+  xy: 2, 3043
+  size: 308, 574
+  orig: 308, 574
+  offset: 0, 0
+  index: -1
+girl_hair_bang 3
+  rotate: true
+  xy: 2143, 3283
+  size: 259, 630
+  orig: 259, 630
+  offset: 0, 0
+  index: -1
+girl_hair_bang 4
+  rotate: true
+  xy: 1525, 3298
+  size: 254, 616
+  orig: 254, 616
+  offset: 0, 0
+  index: -1
+girl_hair_head
+  rotate: false
+  xy: 700, 1099
+  size: 1006, 690
+  orig: 1006, 692
+  offset: 0, 2
+  index: -1
+girl_head
+  rotate: false
+  xy: 2, 1252
+  size: 696, 670
+  orig: 696, 670
+  offset: 0, 0
+  index: -1
+girl_leps
+  rotate: false
+  xy: 2, 3677
+  size: 122, 55
+  orig: 122, 57
+  offset: 0, 2
+  index: -1
+girl_ponyTail 2
+  rotate: false
+  xy: 2, 3396
+  size: 551, 240
+  orig: 551, 240
+  offset: 0, 0
+  index: -1
+girl_ring 1
+  rotate: true
+  xy: 530, 2511
+  size: 436, 606
+  orig: 436, 606
+  offset: 0, 0
+  index: -1
+girl_ring 2
+  rotate: true
+  xy: 1138, 2429
+  size: 448, 667
+  orig: 448, 667
+  offset: 0, 0
+  index: -1
+head  bun
+  rotate: false
+  xy: 2603, 837
+  size: 1241, 696
+  orig: 1241, 715
+  offset: 0, 19
+  index: -1
+head  bun2
+  rotate: true
+  xy: 1246, 3572
+  size: 160, 624
+  orig: 160, 624
+  offset: 0, 0
+  index: -1
+head  bun3
+  rotate: true
+  xy: 408, 3638
+  size: 94, 363
+  orig: 94, 363
+  offset: 0, 0
+  index: -1
+headFlower_1
+  rotate: true
+  xy: 2327, 2256
+  size: 521, 566
+  orig: 521, 566
+  offset: 0, 0
+  index: -1
+headFlower_2
+  rotate: true
+  xy: 954, 2949
+  size: 369, 430
+  orig: 369, 430
+  offset: 0, 0
+  index: -1
+juice 1
+  rotate: true
+  xy: 3496, 3188
+  size: 304, 408
+  orig: 306, 408
+  offset: 2, 0
+  index: -1
+juice 2-1
+  rotate: false
+  xy: 1386, 2879
+  size: 522, 417
+  orig: 525, 434
+  offset: 3, 0
+  index: -1
+juice 2-2
+  rotate: false
+  xy: 1910, 2875
+  size: 838, 406
+  orig: 838, 406
+  offset: 0, 0
+  index: -1
+juice 2-3
+  rotate: true
+  xy: 1055, 3590
+  size: 142, 189
+  orig: 142, 189
+  offset: 0, 0
+  index: -1
+juice 3
+  rotate: false
+  xy: 3528, 2760
+  size: 530, 426
+  orig: 530, 426
+  offset: 0, 0
+  index: -1
+man L arm
+  rotate: false
+  xy: 1594, 116
+  size: 847, 782
+  orig: 847, 782
+  offset: 0, 0
+  index: -1
+man UpArm2
+  rotate: false
+  xy: 2895, 2185
+  size: 781, 573
+  orig: 781, 573
+  offset: 0, 0
+  index: -1
+man finger
+  rotate: false
+  xy: 2775, 3242
+  size: 392, 297
+  orig: 392, 297
+  offset: 0, 0
+  index: -1
+man head
+  rotate: false
+  xy: 2443, 2
+  size: 921, 833
+  orig: 921, 833
+  offset: 0, 0
+  index: -1
+man jj
+  rotate: true
+  xy: 2, 1924
+  size: 503, 1216
+  orig: 503, 1216
+  offset: 0, 0
+  index: -1
+yodare
+  rotate: false
+  xy: 3155, 3541
+  size: 253, 191
+  orig: 253, 191
+  offset: 0, 0
+  index: -1
+yodare  shadow
+  rotate: false
+  xy: 2885, 3544
+  size: 268, 188
+  orig: 270, 195
+  offset: 0, 7
+  index: -1
+
+Gai_gai_Playroom_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloth_whiteB
+  rotate: false
+  xy: 2, 2
+  size: 2910, 1381
+  orig: 2910, 1381
+  offset: 0, 0
+  index: -1
+giel_skirt 2
+  rotate: true
+  xy: 3236, 1385
+  size: 1986, 783
+  orig: 1986, 783
+  offset: 0, 0
+  index: -1
+girl_leg
+  rotate: true
+  xy: 1921, 1502
+  size: 891, 924
+  orig: 1102, 926
+  offset: 0, 2
+  index: -1
+girl_upBody
+  rotate: false
+  xy: 2, 1471
+  size: 1917, 922
+  orig: 1917, 922
+  offset: 0, 0
+  index: -1
+girl_waist
+  rotate: true
+  xy: 2914, 93
+  size: 1290, 1107
+  orig: 1290, 1128
+  offset: 0, 21
+  index: -1
+man leg
+  rotate: false
+  xy: 2, 2395
+  size: 3232, 976
+  orig: 3232, 976
+  offset: 0, 0
+  index: -1
+
+Gai_gai_Playroom_Skin1_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl_butt
+  rotate: false
+  xy: 2, 2
+  size: 1778, 1427
+  orig: 1778, 1427
+  offset: 0, 0
+  index: -1
+girl_leg_2
+  rotate: false
+  xy: 2673, 626
+  size: 891, 924
+  orig: 1102, 926
+  offset: 0, 2
+  index: -1
+girl_ponyTail
+  rotate: false
+  xy: 2, 1431
+  size: 1938, 2234
+  orig: 1938, 2234
+  offset: 0, 0
+  index: -1
+man L hand
+  rotate: false
+  xy: 1942, 2604
+  size: 1308, 1061
+  orig: 1308, 1061
+  offset: 0, 0
+  index: -1
+man body
+  rotate: true
+  xy: 1782, 398
+  size: 1031, 889
+  orig: 1031, 889
+  offset: 0, 0
+  index: -1
+man hand 2
+  rotate: false
+  xy: 1942, 1552
+  size: 1314, 1050
+  orig: 1314, 1050
+  offset: 0, 0
+  index: -1

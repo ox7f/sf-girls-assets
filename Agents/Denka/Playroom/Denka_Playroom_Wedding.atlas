@@ -1,3 +1,286 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7cc56bc82d91b30c25941de88fe291d76c482ad4320b9d0c18063ff0eb878989
-size 4129
+
+Denka_Playroom_Wedding.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BK_bear
+  rotate: false
+  xy: 2, 1295
+  size: 872, 751
+  orig: 1241, 751
+  offset: 29, 0
+  index: -1
+B_Fx
+  rotate: true
+  xy: 2, 391
+  size: 902, 498
+  orig: 902, 507
+  offset: 0, 9
+  index: -1
+B_Fx_water_1
+  rotate: true
+  xy: 1474, 1064
+  size: 379, 94
+  orig: 404, 100
+  offset: 22, 6
+  index: -1
+B_Fx_water_2
+  rotate: false
+  xy: 476, 50
+  size: 346, 271
+  orig: 600, 479
+  offset: 254, 45
+  index: -1
+B_Fx_water_22
+  rotate: true
+  xy: 1738, 572
+  size: 129, 163
+  orig: 600, 479
+  offset: 77, 142
+  index: -1
+B_Fx_water_233
+  rotate: false
+  xy: 1555, 426
+  size: 124, 42
+  orig: 600, 479
+  offset: 288, 41
+  index: -1
+GG
+  rotate: false
+  xy: 1333, 21
+  size: 138, 114
+  orig: 138, 114
+  offset: 0, 0
+  index: -1
+GG_B
+  rotate: false
+  xy: 1534, 700
+  size: 186, 102
+  orig: 186, 102
+  offset: 0, 0
+  index: -1
+HAT
+  rotate: true
+  xy: 943, 287
+  size: 345, 377
+  orig: 345, 377
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 882, 634
+  size: 464, 311
+  orig: 568, 329
+  offset: 51, 5
+  index: -1
+boob_L
+  rotate: false
+  xy: 1717, 838
+  size: 210, 151
+  orig: 210, 151
+  offset: 0, 0
+  index: -1
+boob_R
+  rotate: false
+  xy: 1570, 991
+  size: 215, 193
+  orig: 215, 193
+  offset: 0, 0
+  index: -1
+cloth_down
+  rotate: false
+  xy: 502, 585
+  size: 378, 708
+  orig: 384, 708
+  offset: 6, 0
+  index: -1
+cloth_up
+  rotate: false
+  xy: 1166, 2
+  size: 165, 283
+  orig: 217, 398
+  offset: 0, 0
+  index: -1
+cloth_up01
+  rotate: true
+  xy: 1787, 991
+  size: 193, 169
+  orig: 195, 172
+  offset: 0, 3
+  index: -1
+cloth_up222
+  rotate: false
+  xy: 1322, 400
+  size: 135, 156
+  orig: 217, 398
+  offset: 81, 241
+  index: -1
+doll
+  rotate: false
+  xy: 824, 30
+  size: 340, 255
+  orig: 340, 255
+  offset: 0, 0
+  index: -1
+eyes_B
+  rotate: true
+  xy: 1942, 1236
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+eyes_idle
+  rotate: false
+  xy: 1563, 343
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+eyesbrow
+  rotate: true
+  xy: 1489, 304
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1534, 804
+  size: 181, 185
+  orig: 181, 185
+  offset: 0, 0
+  index: -1
+hair_bk
+  rotate: true
+  xy: 1942, 1343
+  size: 165, 63
+  orig: 166, 65
+  offset: 0, 1
+  index: -1
+hair_bk01
+  rotate: false
+  xy: 1348, 700
+  size: 184, 245
+  orig: 184, 246
+  offset: 0, 0
+  index: -1
+hair_f
+  rotate: false
+  xy: 1333, 137
+  size: 135, 150
+  orig: 136, 150
+  offset: 0, 0
+  index: -1
+hair_f_L
+  rotate: false
+  xy: 1459, 409
+  size: 94, 147
+  orig: 97, 156
+  offset: 3, 0
+  index: -1
+hair_f_L01
+  rotate: false
+  xy: 1348, 558
+  size: 195, 140
+  orig: 195, 141
+  offset: 0, 1
+  index: -1
+hair_f_R
+  rotate: false
+  xy: 1322, 289
+  size: 165, 109
+  orig: 165, 109
+  offset: 0, 0
+  index: -1
+hair_f_R01
+  rotate: true
+  xy: 1545, 579
+  size: 119, 191
+  orig: 119, 191
+  offset: 0, 0
+  index: -1
+hand_A
+  rotate: false
+  xy: 1570, 1186
+  size: 370, 322
+  orig: 372, 323
+  offset: 0, 1
+  index: -1
+hand_B
+  rotate: false
+  xy: 2, 40
+  size: 472, 349
+  orig: 472, 349
+  offset: 0, 0
+  index: -1
+head_sa_bk
+  rotate: false
+  xy: 876, 1445
+  size: 671, 601
+  orig: 700, 602
+  offset: 3, 0
+  index: -1
+head_sa_up
+  rotate: false
+  xy: 1549, 1510
+  size: 476, 536
+  orig: 479, 536
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 882, 947
+  size: 294, 496
+  orig: 294, 496
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 1178, 947
+  size: 294, 496
+  orig: 294, 496
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 502, 323
+  size: 439, 260
+  orig: 439, 260
+  offset: 0, 0
+  index: -1
+meiemei_down
+  rotate: false
+  xy: 1720, 461
+  size: 134, 109
+  orig: 134, 109
+  offset: 0, 0
+  index: -1
+meiemei_up
+  rotate: true
+  xy: 1722, 703
+  size: 133, 210
+  orig: 135, 210
+  offset: 0, 0
+  index: -1
+mouth_B
+  rotate: false
+  xy: 882, 604
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+mouth_idle
+  rotate: false
+  xy: 2, 11
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1555, 470
+  size: 163, 107
+  orig: 192, 141
+  offset: 27, 16
+  index: -1

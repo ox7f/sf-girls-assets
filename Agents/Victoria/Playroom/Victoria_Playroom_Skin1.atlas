@@ -1,3 +1,412 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8bcc7d628ef0747ab2459ea6e07255c8a9a6437e2920c565f4e0fb9c036204fa
-size 5899
+
+Victoria_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GG
+  rotate: false
+  xy: 2602, 121
+  size: 294, 289
+  orig: 294, 289
+  offset: 0, 0
+  index: -1
+apple
+  rotate: true
+  xy: 3493, 3664
+  size: 204, 152
+  orig: 204, 152
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 688, 387
+  size: 410, 166
+  orig: 410, 166
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2021, 982
+  size: 1114, 1013
+  orig: 1114, 1013
+  offset: 0, 0
+  index: -1
+breast_L
+  rotate: false
+  xy: 2602, 657
+  size: 294, 323
+  orig: 294, 323
+  offset: 0, 0
+  index: -1
+breast_R
+  rotate: true
+  xy: 358, 300
+  size: 253, 328
+  orig: 253, 328
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 1653, 488
+  size: 366, 330
+  orig: 366, 330
+  offset: 0, 0
+  index: -1
+cloth_back
+  rotate: true
+  xy: 1845, 2
+  size: 159, 164
+  orig: 159, 164
+  offset: 0, 0
+  index: -1
+cross
+  rotate: true
+  xy: 3334, 200
+  size: 142, 92
+  orig: 142, 92
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 2021, 2380
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+ear_cross
+  rotate: true
+  xy: 1985, 800
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+eyeBrown
+  rotate: false
+  xy: 2021, 2183
+  size: 56, 195
+  orig: 56, 195
+  offset: 0, 0
+  index: -1
+eyes1
+  rotate: true
+  xy: 2514, 10
+  size: 109, 236
+  orig: 109, 236
+  offset: 0, 0
+  index: -1
+eyes2
+  rotate: false
+  xy: 3015, 742
+  size: 117, 238
+  orig: 117, 238
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1100, 241
+  size: 312, 245
+  orig: 312, 245
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 3015, 425
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: false
+  xy: 2021, 2603
+  size: 77, 99
+  orig: 77, 99
+  offset: 0, 0
+  index: -1
+hair_back_1
+  rotate: true
+  xy: 624, 16
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+hair_back_2
+  rotate: true
+  xy: 2021, 2470
+  size: 131, 76
+  orig: 131, 76
+  offset: 0, 0
+  index: -1
+hair_back_3
+  rotate: true
+  xy: 1845, 163
+  size: 323, 172
+  orig: 323, 172
+  offset: 0, 0
+  index: -1
+hair_back_3_ass
+  rotate: false
+  xy: 2021, 2072
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+hair_back_4
+  rotate: false
+  xy: 966, 244
+  size: 121, 141
+  orig: 121, 141
+  offset: 0, 0
+  index: -1
+hair_front_1
+  rotate: false
+  xy: 358, 80
+  size: 264, 218
+  orig: 264, 218
+  offset: 0, 0
+  index: -1
+hair_front_2
+  rotate: true
+  xy: 2866, 6
+  size: 106, 109
+  orig: 106, 109
+  offset: 0, 0
+  index: -1
+hair_front_3
+  rotate: true
+  xy: 2898, 114
+  size: 296, 231
+  orig: 296, 231
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 3433, 64
+  size: 442, 438
+  orig: 442, 438
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 1347, 314
+  size: 304, 540
+  orig: 304, 540
+  offset: 0, 0
+  index: -1
+hand3
+  rotate: true
+  xy: 3015, 514
+  size: 226, 116
+  orig: 226, 116
+  offset: 0, 0
+  index: -1
+hand4
+  rotate: true
+  xy: 2, 61
+  size: 226, 259
+  orig: 226, 259
+  offset: 0, 0
+  index: -1
+head_ass_1
+  rotate: true
+  xy: 2021, 2130
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+head_ass_2
+  rotate: false
+  xy: 2898, 412
+  size: 115, 568
+  orig: 115, 568
+  offset: 0, 0
+  index: -1
+head_ass_3
+  rotate: true
+  xy: 2021, 2030
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+leg_L_1
+  rotate: true
+  xy: 1353, 1780
+  size: 922, 666
+  orig: 922, 666
+  offset: 0, 0
+  index: -1
+leg_L_2
+  rotate: true
+  xy: 1353, 856
+  size: 922, 666
+  orig: 922, 666
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 2071, 2088
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 3334, 141
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 3334, 97
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+pussy_1
+  rotate: false
+  xy: 2752, 10
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+pussy_2
+  rotate: false
+  xy: 2602, 422
+  size: 255, 233
+  orig: 255, 233
+  offset: 0, 0
+  index: -1
+pussy_3
+  rotate: true
+  xy: 3493, 3870
+  size: 224, 199
+  orig: 224, 199
+  offset: 0, 0
+  index: -1
+ribbon1
+  rotate: true
+  xy: 2406, 20
+  size: 386, 106
+  orig: 386, 106
+  offset: 0, 0
+  index: -1
+ribbon2
+  rotate: false
+  xy: 3493, 3422
+  size: 134, 240
+  orig: 134, 240
+  offset: 0, 0
+  index: -1
+ribbon3
+  rotate: true
+  xy: 1347, 16
+  size: 296, 253
+  orig: 296, 253
+  offset: 0, 0
+  index: -1
+semem
+  rotate: false
+  xy: 942, 555
+  size: 403, 555
+  orig: 403, 555
+  offset: 0, 0
+  index: -1
+semem2
+  rotate: false
+  xy: 2021, 408
+  size: 579, 572
+  orig: 579, 572
+  offset: 0, 0
+  index: -1
+swea_tbreast_R
+  rotate: true
+  xy: 3137, 344
+  size: 852, 294
+  orig: 852, 294
+  offset: 0, 0
+  index: -1
+sweat_body
+  rotate: false
+  xy: 3433, 504
+  size: 388, 692
+  orig: 388, 692
+  offset: 0, 0
+  index: -1
+sweat_breast_L
+  rotate: false
+  xy: 966, 35
+  size: 248, 204
+  orig: 248, 204
+  offset: 0, 0
+  index: -1
+sweat_leg_L
+  rotate: false
+  xy: 688, 153
+  size: 276, 232
+  orig: 276, 232
+  offset: 0, 0
+  index: -1
+圖層 71
+  rotate: false
+  xy: 3131, 9
+  size: 201, 333
+  orig: 201, 333
+  offset: 0, 0
+  index: -1
+圖層 75
+  rotate: false
+  xy: 1653, 60
+  size: 190, 426
+  orig: 190, 426
+  offset: 0, 0
+  index: -1
+圖層 76
+  rotate: false
+  xy: 2, 555
+  size: 938, 555
+  orig: 938, 555
+  offset: 0, 0
+  index: -1
+圖層 761
+  rotate: true
+  xy: 3137, 1198
+  size: 797, 618
+  orig: 797, 618
+  offset: 0, 0
+  index: -1
+圖層 77
+  rotate: false
+  xy: 2019, 123
+  size: 385, 283
+  orig: 385, 283
+  offset: 0, 0
+  index: -1
+圖層 771
+  rotate: false
+  xy: 2, 289
+  size: 354, 264
+  orig: 354, 264
+  offset: 0, 0
+  index: -1
+棺
+  rotate: false
+  xy: 2, 2704
+  size: 2097, 1390
+  orig: 2097, 1390
+  offset: 0, 0
+  index: -1
+花
+  rotate: true
+  xy: 2101, 1997
+  size: 2097, 1390
+  orig: 2097, 1390
+  offset: 0, 0
+  index: -1
+花2
+  rotate: true
+  xy: 2, 1112
+  size: 1590, 1349
+  orig: 1590, 1349
+  offset: 0, 0
+  index: -1

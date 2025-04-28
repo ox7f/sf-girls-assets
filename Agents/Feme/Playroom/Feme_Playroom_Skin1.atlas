@@ -1,3 +1,313 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75caf22eb4251dc8d64972ea7d1569d8cc240dc5f2e03804372c00e7165cab77
-size 4610
+
+Feme_Playroom_Skin1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest_DF1
+  rotate: false
+  xy: 1045, 3036
+  size: 718, 501
+  orig: 718, 501
+  offset: 0, 0
+  index: -1
+Chest_DF2
+  rotate: false
+  xy: 476, 3154
+  size: 567, 426
+  orig: 567, 426
+  offset: 0, 0
+  index: -1
+Chest_R_DF2
+  rotate: false
+  xy: 2337, 2790
+  size: 922, 538
+  orig: 922, 538
+  offset: 0, 0
+  index: -1
+Chest_chain_DF1
+  rotate: false
+  xy: 104, 3926
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+Chest_chain_DF2
+  rotate: false
+  xy: 162, 3914
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+Chest_shadow_DF2
+  rotate: false
+  xy: 2601, 3797
+  size: 499, 166
+  orig: 499, 166
+  offset: 0, 0
+  index: -1
+Eyebrow_DF1
+  rotate: false
+  xy: 297, 3903
+  size: 278, 60
+  orig: 278, 60
+  offset: 0, 0
+  index: -1
+Eyebrow_DF2
+  rotate: false
+  xy: 733, 3872
+  size: 302, 91
+  orig: 302, 91
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2080, 1
+  size: 1281, 996
+  orig: 1281, 996
+  offset: 0, 0
+  index: -1
+blush_DF1
+  rotate: false
+  xy: 2252, 3801
+  size: 347, 162
+  orig: 347, 162
+  offset: 0, 0
+  index: -1
+blush_DF2
+  rotate: false
+  xy: 2252, 3801
+  size: 347, 162
+  orig: 347, 162
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 3085, 1857
+  size: 905, 801
+  orig: 905, 801
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 2266, 3468
+  size: 595, 327
+  orig: 595, 327
+  offset: 0, 0
+  index: -1
+coffin_F
+  rotate: true
+  xy: 1, 1808
+  size: 633, 1262
+  orig: 633, 1262
+  offset: 0, 0
+  index: -1
+dick
+  rotate: true
+  xy: 3102, 3704
+  size: 259, 318
+  orig: 259, 318
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 1852, 3479
+  size: 412, 320
+  orig: 412, 320
+  offset: 0, 0
+  index: -1
+effects_03
+  rotate: true
+  xy: 2682, 999
+  size: 856, 1242
+  orig: 856, 1242
+  offset: 0, 0
+  index: -1
+eye_DF1
+  rotate: false
+  xy: 1037, 3867
+  size: 290, 96
+  orig: 290, 96
+  offset: 0, 0
+  index: -1
+eye_DF2
+  rotate: false
+  xy: 1642, 3855
+  size: 305, 108
+  orig: 305, 108
+  offset: 0, 0
+  index: -1
+eyelashes_UP_DF1
+  rotate: false
+  xy: 1949, 3851
+  size: 301, 112
+  orig: 301, 112
+  offset: 0, 0
+  index: -1
+eyelashes_UP_DF2
+  rotate: false
+  xy: 1329, 3857
+  size: 311, 106
+  orig: 311, 106
+  offset: 0, 0
+  index: -1
+floor shadow_DF2
+  rotate: false
+  xy: 1, 3582
+  size: 1050, 283
+  orig: 1050, 283
+  offset: 0, 0
+  index: -1
+floor_ shadow_DF1
+  rotate: false
+  xy: 1, 782
+  size: 2077, 660
+  orig: 2077, 660
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1765, 2936
+  size: 530, 570
+  orig: 530, 570
+  offset: 0, 0
+  index: -1
+hair_F_shadow
+  rotate: false
+  xy: 3422, 3699
+  size: 274, 264
+  orig: 274, 264
+  offset: 0, 0
+  index: -1
+hair_accessories
+  rotate: false
+  xy: 1, 2561
+  size: 658, 591
+  orig: 658, 591
+  offset: 0, 0
+  index: -1
+hair_shadow
+  rotate: true
+  xy: 1, 3178
+  size: 402, 473
+  orig: 402, 473
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 3698, 3645
+  size: 384, 318
+  orig: 384, 318
+  offset: 0, 0
+  index: -1
+hand_DF1
+  rotate: false
+  xy: 1265, 1444
+  size: 1415, 849
+  orig: 1415, 849
+  offset: 0, 0
+  index: -1
+hand_DF2
+  rotate: false
+  xy: 661, 2443
+  size: 1067, 591
+  orig: 1067, 591
+  offset: 0, 0
+  index: -1
+hand_shadow_DF1
+  rotate: false
+  xy: 1730, 2295
+  size: 1353, 493
+  orig: 1353, 493
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2863, 3330
+  size: 372, 505
+  orig: 372, 505
+  offset: 0, 0
+  index: -1
+left calf
+  rotate: false
+  xy: 3370, 3249
+  size: 576, 394
+  orig: 576, 394
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 1053, 3539
+  size: 314, 797
+  orig: 314, 797
+  offset: 0, 0
+  index: -1
+mouth_DF1
+  rotate: false
+  xy: 21, 3938
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+mouth_DF2
+  rotate: false
+  xy: 224, 3909
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+nose_DF1
+  rotate: true
+  xy: 1, 3949
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+nose_DF2
+  rotate: true
+  xy: 1, 3949
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+saliva_DF2
+  rotate: false
+  xy: 577, 3883
+  size: 154, 80
+  orig: 154, 80
+  offset: 0, 0
+  index: -1
+semen
+  rotate: false
+  xy: 3261, 2660
+  size: 595, 587
+  orig: 595, 587
+  offset: 0, 0
+  index: -1
+
+Feme_Playroom_Skin1_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coffin_B
+  rotate: false
+  xy: 1, 1
+  size: 1852, 1188
+  orig: 1852, 1188
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 1, 1191
+  size: 2920, 1423
+  orig: 2920, 1423
+  offset: 0, 0
+  index: -1
+fog
+  rotate: true
+  xy: 2923, 132
+  size: 2482, 1123
+  orig: 2482, 1123
+  offset: 0, 0
+  index: -1

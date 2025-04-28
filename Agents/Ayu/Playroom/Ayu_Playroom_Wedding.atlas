@@ -1,3 +1,298 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d864bc3831894fb17c9b7320c3214235e408375e9842cecc4a038bfc063feec
-size 4396
+
+Ayu_Playroom_Wedding.png
+size: 4000,3720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L Upper
+  rotate: false
+  xy: 426, 2697
+  size: 722, 443
+  orig: 722, 443
+  offset: 0, 0
+  index: -1
+Body Up
+  rotate: false
+  xy: 729, 1315
+  size: 822, 726
+  orig: 822, 726
+  offset: 0, 0
+  index: -1
+Boobs
+  rotate: false
+  xy: 3033, 1870
+  size: 963, 647
+  orig: 963, 647
+  offset: 0, 0
+  index: -1
+Calf R
+  rotate: true
+  xy: 559, 2043
+  size: 571, 1315
+  orig: 571, 1315
+  offset: 0, 0
+  index: -1
+Ear Ring 1
+  rotate: false
+  xy: 2, 3663
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+Ear Ring 2
+  rotate: true
+  xy: 501, 3614
+  size: 102, 106
+  orig: 102, 106
+  offset: 0, 0
+  index: -1
+Hair 1
+  rotate: true
+  xy: 2, 3284
+  size: 342, 403
+  orig: 342, 403
+  offset: 0, 0
+  index: -1
+Hair 1 Shadow
+  rotate: true
+  xy: 2787, 3466
+  size: 250, 304
+  orig: 250, 304
+  offset: 0, 0
+  index: -1
+Hair 2
+  rotate: false
+  xy: 3093, 3458
+  size: 581, 258
+  orig: 581, 258
+  offset: 0, 0
+  index: -1
+Hair 2A
+  rotate: true
+  xy: 3275, 3069
+  size: 378, 454
+  orig: 378, 454
+  offset: 0, 0
+  index: -1
+Hair 3
+  rotate: false
+  xy: 2, 2141
+  size: 555, 554
+  orig: 555, 554
+  offset: 0, 0
+  index: -1
+Hair 7
+  rotate: true
+  xy: 1150, 2616
+  size: 519, 839
+  orig: 519, 839
+  offset: 0, 0
+  index: -1
+Hair5
+  rotate: false
+  xy: 2, 2776
+  size: 422, 405
+  orig: 422, 405
+  offset: 0, 0
+  index: -1
+Hair6
+  rotate: false
+  xy: 1553, 1138
+  size: 1091, 796
+  orig: 1091, 796
+  offset: 0, 0
+  index: -1
+Hand R Shadow
+  rotate: false
+  xy: 2138, 3117
+  size: 502, 349
+  orig: 502, 349
+  offset: 0, 0
+  index: -1
+Hand R V2
+  rotate: false
+  xy: 1393, 3137
+  size: 743, 339
+  orig: 743, 339
+  offset: 0, 0
+  index: -1
+Hat Back R
+  rotate: true
+  xy: 910, 2
+  size: 1134, 1618
+  orig: 1134, 1618
+  offset: 0, 0
+  index: -1
+Hat Top
+  rotate: false
+  xy: 2, 1317
+  size: 725, 724
+  orig: 725, 724
+  offset: 0, 0
+  index: -1
+Headwear
+  rotate: false
+  xy: 3155, 2519
+  size: 753, 548
+  orig: 753, 548
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 939, 3142
+  size: 346, 452
+  orig: 346, 452
+  offset: 0, 0
+  index: -1
+Sperm1
+  rotate: false
+  xy: 1876, 1936
+  size: 1155, 631
+  orig: 1155, 631
+  offset: 0, 0
+  index: -1
+Sperm2
+  rotate: true
+  xy: 609, 3553
+  size: 163, 200
+  orig: 163, 200
+  offset: 0, 0
+  index: -1
+Swear1
+  rotate: true
+  xy: 273, 3628
+  size: 88, 226
+  orig: 88, 226
+  offset: 0, 0
+  index: -1
+Swear2
+  rotate: true
+  xy: 84, 3640
+  size: 76, 187
+  orig: 76, 187
+  offset: 0, 0
+  index: -1
+Thigh Cloth
+  rotate: false
+  xy: 1668, 3478
+  size: 651, 238
+  orig: 651, 238
+  offset: 0, 0
+  index: -1
+Type A Arm L Lower
+  rotate: true
+  xy: 2, 412
+  size: 901, 906
+  orig: 901, 906
+  offset: 0, 0
+  index: -1
+Type A Eyebrow
+  rotate: true
+  xy: 1107, 3498
+  size: 218, 283
+  orig: 218, 283
+  offset: 0, 0
+  index: -1
+Type A Eyeleash
+  rotate: true
+  xy: 3676, 3449
+  size: 267, 308
+  orig: 267, 308
+  offset: 0, 0
+  index: -1
+Type A GG
+  rotate: false
+  xy: 407, 3183
+  size: 530, 330
+  orig: 530, 330
+  offset: 0, 0
+  index: -1
+Type A Head V2
+  rotate: false
+  xy: 1991, 2587
+  size: 580, 528
+  orig: 580, 528
+  offset: 0, 0
+  index: -1
+Type B Arm L Lower
+  rotate: false
+  xy: 2646, 1030
+  size: 970, 838
+  orig: 970, 838
+  offset: 0, 0
+  index: -1
+Type B Eyebrow
+  rotate: true
+  xy: 1392, 3490
+  size: 226, 274
+  orig: 226, 274
+  offset: 0, 0
+  index: -1
+Type B GG
+  rotate: false
+  xy: 2642, 3099
+  size: 631, 357
+  orig: 631, 357
+  offset: 0, 0
+  index: -1
+Type B Head V2
+  rotate: false
+  xy: 2573, 2569
+  size: 580, 528
+  orig: 580, 528
+  offset: 0, 0
+  index: -1
+Vergina
+  rotate: true
+  xy: 2321, 3468
+  size: 248, 464
+  orig: 248, 464
+  offset: 0, 0
+  index: -1
+Vergina in
+  rotate: true
+  xy: 811, 3515
+  size: 201, 294
+  orig: 201, 294
+  offset: 0, 0
+  index: -1
+
+Ayu_Playroom_Wedding_2.png
+size: 3704,3612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body Down
+  rotate: true
+  xy: 2, 2
+  size: 2342, 2057
+  orig: 2342, 2057
+  offset: 0, 0
+  index: -1
+Calf L
+  rotate: true
+  xy: 2, 2346
+  size: 1264, 2234
+  orig: 1264, 2234
+  offset: 0, 0
+  index: -1
+Hat Back L
+  rotate: true
+  xy: 2238, 1742
+  size: 1868, 1464
+  orig: 1868, 1464
+  offset: 0, 0
+  index: -1
+
+Ayu_Playroom_Wedding_3.png
+size: 2568,1952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hair4
+  rotate: false
+  xy: 2, 2
+  size: 2561, 1946
+  orig: 2561, 1946
+  offset: 0, 0
+  index: -1
