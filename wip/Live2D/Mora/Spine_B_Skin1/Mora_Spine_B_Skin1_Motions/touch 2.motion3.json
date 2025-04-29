@@ -1,0 +1,757 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 1.433,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 40,
+    "TotalSegmentCount": 138,
+    "TotalPointCount": 140,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHairBang1Z1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.233,
+        26,
+        0,
+        0.567,
+        -24.142,
+        0,
+        1.033,
+        26,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHairBang1Z2",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.267,
+        19.061,
+        0,
+        0.7,
+        -13.331,
+        0,
+        1.067,
+        19.061,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHairBang2Z1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.333,
+        30,
+        0,
+        0.6,
+        -24,
+        0,
+        1.1,
+        30,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHairBang2Z2",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.333,
+        27.5,
+        2,
+        1.1,
+        27.5,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHairBang3Z1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.233,
+        7,
+        0,
+        0.667,
+        -19,
+        0,
+        1.033,
+        7,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHairBang4Z1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.167,
+        19,
+        0,
+        0.7,
+        -23,
+        0,
+        1,
+        19,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamHairBang5Z1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.2,
+        30,
+        0,
+        0.667,
+        -30,
+        0,
+        1.033,
+        30,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamHairBang5Z2",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.367,
+        30,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHairBack1Z1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.167,
+        -25.324,
+        0,
+        0.7,
+        30,
+        0,
+        1.033,
+        -25.324,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHairBack2Z1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.333,
+        -21.972,
+        0,
+        0.667,
+        21.088,
+        0,
+        1.1,
+        -21.972,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHairBack3Z1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.233,
+        30,
+        0,
+        0.6,
+        -30,
+        0,
+        1.033,
+        30,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_bell",
+      "Segments": [
+        0,
+        0.1,
+        0,
+        0.267,
+        0.099,
+        0,
+        0.5,
+        0.999,
+        0,
+        0.833,
+        0,
+        0,
+        1.167,
+        0.4,
+        1,
+        1.256,
+        0.4,
+        1.344,
+        0.163,
+        1.433,
+        0.11
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_bell1",
+      "Segments": [
+        0,
+        0.1,
+        2,
+        0.133,
+        0.1,
+        0,
+        0.367,
+        1,
+        0,
+        0.7,
+        0,
+        0,
+        1.033,
+        0.4,
+        0,
+        1.433,
+        0.1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_shoe",
+      "Segments": [
+        0,
+        0.1,
+        2,
+        0.133,
+        0.1,
+        0,
+        0.367,
+        1,
+        0,
+        0.7,
+        0,
+        0,
+        1.033,
+        0.4,
+        0,
+        1.433,
+        0.1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_paper",
+      "Segments": [
+        0,
+        0.1,
+        2,
+        0.133,
+        0.1,
+        0,
+        0.433,
+        1,
+        0,
+        0.833,
+        0,
+        0,
+        1.233,
+        0.4,
+        0,
+        1.433,
+        0.1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamRLegAnim",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.233,
+        -23,
+        0,
+        0.567,
+        0,
+        0,
+        1,
+        -12,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamRHandAnim",
+      "Segments": [
+        0,
+        30,
+        2,
+        0.567,
+        30,
+        0,
+        1,
+        -30,
+        0,
+        1.267,
+        22,
+        0,
+        1.433,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamRArmAnim",
+      "Segments": [
+        0,
+        -30,
+        2,
+        0.567,
+        -30,
+        0,
+        1,
+        -5,
+        0,
+        1.433,
+        -30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHeadY",
+      "Segments": [
+        0,
+        -11,
+        0,
+        0.233,
+        -30,
+        0,
+        0.667,
+        8,
+        0,
+        1.067,
+        -17,
+        0,
+        1.433,
+        -11
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamBoobsY",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.167,
+        3,
+        0,
+        0.433,
+        -30,
+        0,
+        0.767,
+        30,
+        0,
+        1.033,
+        -17,
+        0,
+        1.2,
+        2,
+        0,
+        1.333,
+        -5,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamButtY",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.267,
+        -29.456,
+        0,
+        0.5,
+        28.316,
+        0,
+        0.733,
+        -25.202,
+        0,
+        1,
+        14.296,
+        0,
+        1.2,
+        -9.796,
+        0,
+        1.333,
+        3,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamBodyY",
+      "Segments": [
+        0,
+        -14,
+        0,
+        0.2,
+        -30,
+        0,
+        0.567,
+        0,
+        0,
+        0.9,
+        -16,
+        0,
+        1.2,
+        -12.523,
+        0,
+        1.433,
+        -14
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamUpperBodyX",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.2,
+        -30,
+        0,
+        0.567,
+        15,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamScarfKnotZ2",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.233,
+        -14,
+        0,
+        0.667,
+        30,
+        0,
+        1.033,
+        -3,
+        0,
+        1.267,
+        2,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamScarfKnotZ1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.233,
+        -21,
+        0,
+        0.667,
+        25,
+        0,
+        1.033,
+        -5,
+        0,
+        1.267,
+        3,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamEyesOpen",
+      "Segments": [
+        0,
+        1,
+        2,
+        0.2,
+        1,
+        0,
+        0.333,
+        0,
+        0,
+        0.433,
+        1,
+        2,
+        1.433,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamSkirtLAnimZ1",
+      "Segments": [
+        0,
+        27,
+        0,
+        0.167,
+        -21.339,
+        0,
+        0.5,
+        30,
+        0,
+        0.933,
+        -13.677,
+        0,
+        1.433,
+        27
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamSkirtRAnimZ1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.167,
+        -30,
+        0,
+        0.5,
+        30,
+        0,
+        0.867,
+        -14,
+        0,
+        1.2,
+        9,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamBreath",
+      "Segments": [
+        0,
+        0,
+        2,
+        0.2,
+        0,
+        0,
+        0.567,
+        0.7,
+        0,
+        0.9,
+        0,
+        0,
+        1.2,
+        0.2,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamForms",
+      "Segments": [
+        0,
+        4,
+        0,
+        1.433,
+        4
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHairBang3Z2",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHairBack2Z2",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamLArmAnimOnOff",
+      "Segments": [
+        0,
+        -1,
+        0,
+        1.433,
+        -1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamLArmAnim",
+      "Segments": [
+        0,
+        30,
+        0,
+        1.433,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamLLegIdleOnOff",
+      "Segments": [
+        0,
+        1,
+        0,
+        1.433,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamHeadX",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamBoobsX",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamButtBouncing",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamEyeBallX",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "T80_ParamMouthOpenY",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        0
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}

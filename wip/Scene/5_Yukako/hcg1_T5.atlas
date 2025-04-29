@@ -1,0 +1,278 @@
+
+hcg1_T5.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackHair
+  rotate: true
+  xy: 1111, 1393
+  size: 1108, 1318
+  orig: 1108, 1318
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 2
+  size: 2037, 1389
+  orig: 2037, 1389
+  offset: 0, 0
+  index: -1
+Butt
+  rotate: false
+  xy: 1554, 3143
+  size: 461, 376
+  orig: 461, 376
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: false
+  xy: 3474, 2978
+  size: 516, 492
+  orig: 516, 492
+  offset: 0, 0
+  index: -1
+Eye_brow
+  rotate: false
+  xy: 1012, 3541
+  size: 266, 208
+  orig: 266, 208
+  offset: 0, 0
+  index: -1
+Eyes_V1
+  rotate: false
+  xy: 3050, 3492
+  size: 325, 257
+  orig: 325, 257
+  offset: 0, 0
+  index: -1
+Eyes_V2
+  rotate: false
+  xy: 1571, 3532
+  size: 257, 217
+  orig: 257, 217
+  offset: 0, 0
+  index: -1
+Eyes_V3
+  rotate: false
+  xy: 3377, 3486
+  size: 280, 263
+  orig: 280, 263
+  offset: 0, 0
+  index: -1
+HairBang1
+  rotate: true
+  xy: 2413, 3110
+  size: 382, 561
+  orig: 382, 561
+  offset: 0, 0
+  index: -1
+HairBang2
+  rotate: false
+  xy: 2017, 3111
+  size: 394, 394
+  orig: 394, 394
+  offset: 0, 0
+  index: -1
+HairBang3
+  rotate: true
+  xy: 605, 3244
+  size: 295, 525
+  orig: 295, 525
+  offset: 0, 0
+  index: -1
+Hair_Trans_color
+  rotate: true
+  xy: 371, 3682
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 2976, 3051
+  size: 496, 433
+  orig: 496, 433
+  offset: 0, 0
+  index: -1
+Head_
+  rotate: true
+  xy: 1132, 3158
+  size: 376, 420
+  orig: 376, 420
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 2593, 2441
+  size: 608, 840
+  orig: 608, 840
+  offset: 0, 0
+  index: -1
+L_Hand_V1
+  rotate: true
+  xy: 736, 3562
+  size: 187, 274
+  orig: 187, 274
+  offset: 0, 0
+  index: -1
+L_Hand_V2
+  rotate: true
+  xy: 3659, 3472
+  size: 277, 379
+  orig: 277, 379
+  offset: 0, 0
+  index: -1
+Man
+  rotate: true
+  xy: 2431, 554
+  size: 1885, 1154
+  orig: 1885, 1154
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 59, 3709
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 204, 3703
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: true
+  xy: 464, 3674
+  size: 75, 107
+  orig: 75, 107
+  offset: 0, 0
+  index: -1
+Noce_3
+  rotate: true
+  xy: 29, 3727
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+PShadow_
+  rotate: true
+  xy: 573, 3618
+  size: 131, 161
+  orig: 131, 161
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 561, 2764
+  size: 1421, 377
+  orig: 1421, 377
+  offset: 0, 0
+  index: -1
+R_Hand_1
+  rotate: false
+  xy: 1280, 3536
+  size: 289, 213
+  orig: 289, 213
+  offset: 0, 0
+  index: -1
+R_Hand_2
+  rotate: false
+  xy: 1830, 3521
+  size: 452, 228
+  orig: 452, 228
+  offset: 0, 0
+  index: -1
+Sperm_01
+  rotate: false
+  xy: 1984, 2503
+  size: 607, 605
+  orig: 607, 605
+  offset: 0, 0
+  index: -1
+Sperm_02
+  rotate: true
+  xy: 2, 2799
+  size: 526, 557
+  orig: 526, 557
+  offset: 0, 0
+  index: -1
+Sperm_03
+  rotate: false
+  xy: 2, 1959
+  size: 1107, 803
+  orig: 1107, 803
+  offset: 0, 0
+  index: -1
+Sperm_Chest
+  rotate: true
+  xy: 2576, 3494
+  size: 255, 472
+  orig: 255, 472
+  offset: 0, 0
+  index: -1
+Sperm_HairL
+  rotate: false
+  xy: 104, 3708
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+Sperm_HairR
+  rotate: true
+  xy: 274, 3687
+  size: 62, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+flush1
+  rotate: false
+  xy: 2284, 3507
+  size: 290, 242
+  orig: 290, 242
+  offset: 0, 0
+  index: -1
+flush2
+  rotate: false
+  xy: 2, 3399
+  size: 299, 286
+  orig: 299, 286
+  offset: 0, 0
+  index: -1
+flush3
+  rotate: false
+  xy: 303, 3327
+  size: 300, 289
+  orig: 300, 289
+  offset: 0, 0
+  index: -1
+noce_1
+  rotate: true
+  xy: 2, 3730
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+
+hcg1_T52.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Low_Body
+  rotate: false
+  xy: 2, 1525
+  size: 2758, 1521
+  orig: 2758, 1521
+  offset: 0, 0
+  index: -1
+Rope
+  rotate: false
+  xy: 2, 2
+  size: 2758, 1521
+  orig: 2758, 1521
+  offset: 0, 0
+  index: -1

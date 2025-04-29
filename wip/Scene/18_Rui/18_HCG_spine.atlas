@@ -1,0 +1,194 @@
+
+18_HCG_spine.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Front_bang
+  rotate: true
+  xy: 2560, 3311
+  size: 324, 342
+  orig: 324, 342
+  offset: 0, 0
+  index: -1
+Girl_L_arm
+  rotate: false
+  xy: 566, 2298
+  size: 953, 624
+  orig: 953, 624
+  offset: 0, 0
+  index: -1
+Girl_L_leg
+  rotate: false
+  xy: 1363, 2
+  size: 2109, 954
+  orig: 2109, 954
+  offset: 0, 0
+  index: -1
+Girl_R_arm
+  rotate: false
+  xy: 2904, 3278
+  size: 902, 357
+  orig: 902, 357
+  offset: 0, 0
+  index: -1
+Girl_R_leg
+  rotate: false
+  xy: 2, 77
+  size: 1359, 1234
+  orig: 1359, 1234
+  offset: 0, 0
+  index: -1
+Girl_hairback
+  rotate: true
+  xy: 2574, 1893
+  size: 843, 1015
+  orig: 843, 1015
+  offset: 0, 0
+  index: -1
+Girl_head
+  rotate: false
+  xy: 2, 2458
+  size: 562, 527
+  orig: 562, 527
+  offset: 0, 0
+  index: -1
+Hair_accessories
+  rotate: true
+  xy: 1521, 2026
+  size: 782, 1051
+  orig: 782, 1051
+  offset: 0, 0
+  index: -1
+JJ
+  rotate: true
+  xy: 3538, 2738
+  size: 538, 546
+  orig: 538, 546
+  offset: 0, 0
+  index: -1
+LChest
+  rotate: true
+  xy: 3012, 2771
+  size: 505, 524
+  orig: 505, 524
+  offset: 0, 0
+  index: -1
+L_HairBang
+  rotate: false
+  xy: 2, 3421
+  size: 353, 214
+  orig: 353, 214
+  offset: 0, 0
+  index: -1
+L_SideHair
+  rotate: false
+  xy: 2181, 3316
+  size: 377, 319
+  orig: 377, 319
+  offset: 0, 0
+  index: -1
+ManBody
+  rotate: true
+  xy: 1376, 958
+  size: 933, 2078
+  orig: 933, 2078
+  offset: 0, 0
+  index: -1
+ManHand
+  rotate: false
+  xy: 689, 3372
+  size: 851, 263
+  orig: 851, 263
+  offset: 0, 0
+  index: -1
+RChest
+  rotate: false
+  xy: 980, 2958
+  size: 533, 412
+  orig: 533, 412
+  offset: 0, 0
+  index: -1
+R_HairBang
+  rotate: false
+  xy: 1542, 3365
+  size: 337, 270
+  orig: 337, 270
+  offset: 0, 0
+  index: -1
+R_SideHair
+  rotate: false
+  xy: 379, 2987
+  size: 599, 383
+  orig: 599, 383
+  offset: 0, 0
+  index: -1
+VG2
+  rotate: false
+  xy: 2, 3014
+  size: 375, 366
+  orig: 375, 366
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 2, 1313
+  size: 1372, 983
+  orig: 1372, 983
+  offset: 0, 0
+  index: -1
+face1&2
+  rotate: true
+  xy: 1515, 2924
+  size: 426, 507
+  orig: 426, 507
+  offset: 0, 0
+  index: -1
+face3
+  rotate: true
+  xy: 2508, 2810
+  size: 466, 502
+  orig: 466, 502
+  offset: 0, 0
+  index: -1
+face4
+  rotate: true
+  xy: 2024, 2876
+  size: 438, 482
+  orig: 438, 482
+  offset: 0, 0
+  index: -1
+juice
+  rotate: true
+  xy: 357, 3382
+  size: 253, 330
+  orig: 253, 330
+  offset: 0, 0
+  index: -1
+sperm
+  rotate: true
+  xy: 1881, 3352
+  size: 283, 298
+  orig: 283, 298
+  offset: 0, 0
+  index: -1
+
+18_HCG_spine2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_Body
+  rotate: false
+  xy: 2, 2
+  size: 2050, 1422
+  orig: 2050, 1422
+  offset: 0, 0
+  index: -1
+pillow
+  rotate: true
+  xy: 2054, 144
+  size: 1280, 1615
+  orig: 1280, 1615
+  offset: 0, 0
+  index: -1

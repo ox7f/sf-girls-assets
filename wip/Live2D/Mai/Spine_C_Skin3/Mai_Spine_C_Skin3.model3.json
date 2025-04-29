@@ -1,0 +1,21 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Mai_Spine_C_Skin3.moc3",
+    "Textures": ["Mai_Spine_C_Skin3_Textures/texture_00.png"],
+    "Physics": "live2d.physics3.json",
+    "Motions": {
+      "Idle 1": [
+        {
+          "File": "Mai_Spine_C_Skin3_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 1": [
+        {
+          "File": "Mai_Spine_C_Skin3_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

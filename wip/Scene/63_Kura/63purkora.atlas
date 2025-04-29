@@ -1,0 +1,571 @@
+
+63purkora.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TR_ass_L
+  rotate: true
+  xy: 1106, 1091
+  size: 622, 1107
+  orig: 622, 1107
+  offset: 0, 0
+  index: -1
+TR_ass_L_2
+  rotate: true
+  xy: 2, 1331
+  size: 618, 1102
+  orig: 622, 1107
+  offset: 2, 3
+  index: -1
+TR_ass_L_new
+  rotate: true
+  xy: 2215, 964
+  size: 686, 1107
+  orig: 686, 1107
+  offset: 0, 0
+  index: -1
+TR_ass_L_new2
+  rotate: true
+  xy: 822, 403
+  size: 686, 1107
+  orig: 686, 1107
+  offset: 0, 0
+  index: -1
+TR_sperm_1
+  rotate: true
+  xy: 3053, 3079
+  size: 266, 639
+  orig: 266, 639
+  offset: 0, 0
+  index: -1
+TR_sperm_2
+  rotate: true
+  xy: 3407, 3563
+  size: 163, 590
+  orig: 163, 590
+  offset: 0, 0
+  index: -1
+TR_sperm_shadow
+  rotate: true
+  xy: 456, 2939
+  size: 266, 639
+  orig: 266, 639
+  offset: 0, 0
+  index: -1
+TR_sperm_shadow2
+  rotate: true
+  xy: 2, 3509
+  size: 163, 590
+  orig: 163, 590
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 3285, 2234
+  size: 487, 747
+  orig: 487, 747
+  offset: 0, 0
+  index: -1
+armor_R
+  rotate: true
+  xy: 3694, 2942
+  size: 403, 315
+  orig: 403, 315
+  offset: 0, 0
+  index: -1
+armor_R_s
+  rotate: false
+  xy: 1581, 2846
+  size: 403, 315
+  orig: 403, 315
+  offset: 0, 0
+  index: -1
+booba_L
+  rotate: true
+  xy: 657, 1951
+  size: 535, 616
+  orig: 535, 616
+  offset: 0, 0
+  index: -1
+booba_R
+  rotate: true
+  xy: 2098, 1715
+  size: 562, 686
+  orig: 562, 686
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: true
+  xy: 2786, 1652
+  size: 580, 693
+  orig: 580, 693
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: true
+  xy: 2170, 3137
+  size: 245, 881
+  orig: 245, 881
+  offset: 0, 0
+  index: -1
+eye_1_L
+  rotate: false
+  xy: 1238, 3632
+  size: 258, 94
+  orig: 258, 94
+  offset: 0, 0
+  index: -1
+eye_1_R
+  rotate: true
+  xy: 594, 3476
+  size: 182, 209
+  orig: 182, 209
+  offset: 0, 0
+  index: -1
+eye_1_brows
+  rotate: false
+  xy: 2572, 2757
+  size: 562, 320
+  orig: 562, 320
+  offset: 0, 0
+  index: -1
+eye_1_lid_L
+  rotate: false
+  xy: 387, 3675
+  size: 162, 51
+  orig: 162, 51
+  offset: 0, 0
+  index: -1
+eye_1_lid_R
+  rotate: true
+  xy: 1612, 3625
+  size: 101, 128
+  orig: 101, 128
+  offset: 0, 0
+  index: -1
+eye_2_L
+  rotate: false
+  xy: 2400, 3596
+  size: 263, 130
+  orig: 263, 130
+  offset: 0, 0
+  index: -1
+eye_2_R
+  rotate: true
+  xy: 3278, 3360
+  size: 201, 215
+  orig: 201, 215
+  offset: 0, 0
+  index: -1
+eye_2_brows
+  rotate: false
+  xy: 1986, 2818
+  size: 584, 317
+  orig: 584, 317
+  offset: 0, 0
+  index: -1
+face1
+  rotate: true
+  xy: 3324, 757
+  size: 749, 754
+  orig: 749, 754
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 1931, 213
+  size: 749, 754
+  orig: 749, 754
+  offset: 0, 0
+  index: -1
+foot_L
+  rotate: true
+  xy: 1897, 2350
+  size: 466, 673
+  orig: 466, 673
+  offset: 0, 0
+  index: -1
+hair_LL_1
+  rotate: true
+  xy: 890, 3207
+  size: 238, 518
+  orig: 238, 518
+  offset: 0, 0
+  index: -1
+hair_LL_2
+  rotate: true
+  xy: 2665, 3587
+  size: 139, 235
+  orig: 140, 235
+  offset: 0, 0
+  index: -1
+hair_LL_3
+  rotate: true
+  xy: 3060, 3580
+  size: 146, 345
+  orig: 146, 346
+  offset: 0, 1
+  index: -1
+hair_LL_4
+  rotate: true
+  xy: 2, 2614
+  size: 323, 842
+  orig: 336, 842
+  offset: 0, 0
+  index: -1
+hair_LL_5
+  rotate: true
+  xy: 1774, 3163
+  size: 247, 394
+  orig: 247, 394
+  offset: 0, 0
+  index: -1
+hair_LL_6
+  rotate: true
+  xy: 846, 2488
+  size: 423, 467
+  orig: 423, 467
+  offset: 0, 0
+  index: -1
+hair_L_1
+  rotate: true
+  xy: 805, 3462
+  size: 172, 362
+  orig: 172, 363
+  offset: 0, 1
+  index: -1
+hair_L_2
+  rotate: true
+  xy: 2807, 3384
+  size: 194, 469
+  orig: 194, 469
+  offset: 0, 0
+  index: -1
+hair_L_3
+  rotate: true
+  xy: 2408, 3394
+  size: 191, 397
+  orig: 191, 399
+  offset: 0, 2
+  index: -1
+hair_L_4
+  rotate: true
+  xy: 474, 3228
+  size: 232, 414
+  orig: 232, 414
+  offset: 0, 0
+  index: -1
+hair_M
+  rotate: true
+  xy: 3136, 2723
+  size: 354, 552
+  orig: 354, 552
+  offset: 0, 0
+  index: -1
+hair_R_1
+  rotate: true
+  xy: 1315, 2374
+  size: 470, 580
+  orig: 470, 580
+  offset: 0, 0
+  index: -1
+hair_R_2
+  rotate: true
+  xy: 2, 3006
+  size: 282, 452
+  orig: 282, 452
+  offset: 0, 0
+  index: -1
+hair_R_3
+  rotate: true
+  xy: 1275, 1789
+  size: 559, 821
+  orig: 559, 821
+  offset: 0, 0
+  index: -1
+hair_R_4
+  rotate: true
+  xy: 1887, 3412
+  size: 182, 519
+  orig: 182, 519
+  offset: 0, 0
+  index: -1
+hair_R_5
+  rotate: true
+  xy: 1169, 3447
+  size: 179, 333
+  orig: 181, 333
+  offset: 0, 0
+  index: -1
+hair_R_6
+  rotate: true
+  xy: 1410, 3185
+  size: 238, 362
+  orig: 238, 362
+  offset: 0, 0
+  index: -1
+hair_R_7
+  rotate: true
+  xy: 1504, 3425
+  size: 182, 381
+  orig: 183, 381
+  offset: 0, 0
+  index: -1
+hair_R_8
+  rotate: true
+  xy: 2, 3290
+  size: 217, 470
+  orig: 218, 470
+  offset: 0, 0
+  index: -1
+hair_base
+  rotate: false
+  xy: 2, 595
+  size: 818, 734
+  orig: 818, 734
+  offset: 0, 0
+  index: -1
+hair_shadow
+  rotate: false
+  xy: 2687, 2
+  size: 794, 753
+  orig: 794, 753
+  offset: 0, 0
+  index: -1
+head_ku
+  rotate: true
+  xy: 3481, 1508
+  size: 724, 612
+  orig: 724, 612
+  offset: 0, 0
+  index: -1
+man_arm_R
+  rotate: true
+  xy: 2572, 2279
+  size: 442, 711
+  orig: 442, 711
+  offset: 0, 0
+  index: -1
+man_foot
+  rotate: true
+  xy: 3495, 3347
+  size: 214, 404
+  orig: 214, 404
+  offset: 0, 0
+  index: -1
+man_hand_L
+  rotate: true
+  xy: 2, 2117
+  size: 495, 653
+  orig: 495, 696
+  offset: 0, 43
+  index: -1
+man_index
+  rotate: true
+  xy: 1498, 3628
+  size: 98, 112
+  orig: 98, 112
+  offset: 0, 0
+  index: -1
+man_index_rt
+  rotate: false
+  xy: 610, 3668
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+man_index_s
+  rotate: false
+  xy: 160, 3686
+  size: 103, 40
+  orig: 103, 40
+  offset: 0, 0
+  index: -1
+man_middle
+  rotate: true
+  xy: 1922, 3608
+  size: 118, 138
+  orig: 118, 138
+  offset: 0, 0
+  index: -1
+man_middle_rt
+  rotate: false
+  xy: 551, 3674
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+man_middle_s
+  rotate: true
+  xy: 697, 3660
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+man_noname
+  rotate: true
+  xy: 1097, 3636
+  size: 90, 139
+  orig: 90, 139
+  offset: 0, 0
+  index: -1
+man_noname_rt
+  rotate: false
+  xy: 108, 3687
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+man_noname_s
+  rotate: true
+  xy: 2, 3693
+  size: 33, 104
+  orig: 33, 104
+  offset: 0, 0
+  index: -1
+man_palm
+  rotate: false
+  xy: 1742, 3609
+  size: 178, 117
+  orig: 178, 117
+  offset: 0, 0
+  index: -1
+man_pinky
+  rotate: true
+  xy: 265, 3676
+  size: 50, 120
+  orig: 50, 120
+  offset: 0, 0
+  index: -1
+man_thumb
+  rotate: false
+  xy: 811, 3660
+  size: 107, 66
+  orig: 107, 66
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 2228, 3598
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 2902, 3584
+  size: 156, 142
+  orig: 156, 142
+  offset: 0, 0
+  index: -1
+mouth_4
+  rotate: false
+  xy: 2062, 3607
+  size: 164, 119
+  orig: 164, 119
+  offset: 0, 0
+  index: -1
+mouth_water
+  rotate: true
+  xy: 920, 3642
+  size: 84, 175
+  orig: 84, 175
+  offset: 0, 0
+  index: -1
+shoe_R
+  rotate: true
+  xy: 1097, 2913
+  size: 270, 482
+  orig: 270, 482
+  offset: 0, 0
+  index: -1
+
+63purkora2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TR_ass_R
+  rotate: true
+  xy: 2, 1807
+  size: 1109, 1196
+  orig: 1109, 1196
+  offset: 0, 0
+  index: -1
+TR_ass_R_4
+  rotate: true
+  xy: 2398, 1787
+  size: 1109, 1196
+  orig: 1109, 1196
+  offset: 0, 0
+  index: -1
+TR_boarder
+  rotate: true
+  xy: 2395, 2
+  size: 1783, 1366
+  orig: 1783, 1366
+  offset: 0, 0
+  index: -1
+TR_man
+  rotate: false
+  xy: 1200, 630
+  size: 1193, 1158
+  orig: 1193, 1158
+  offset: 0, 0
+  index: -1
+TR_west_base
+  rotate: true
+  xy: 1200, 1790
+  size: 1109, 1196
+  orig: 1109, 1196
+  offset: 0, 0
+  index: -1
+TR_west_upper
+  rotate: true
+  xy: 2, 696
+  size: 1109, 1196
+  orig: 1109, 1196
+  offset: 0, 0
+  index: -1
+body_base
+  rotate: false
+  xy: 2816, 2898
+  size: 1061, 902
+  orig: 1061, 902
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 1580, 2901
+  size: 899, 1234
+  orig: 899, 1234
+  offset: 0, 0
+  index: -1
+man_body
+  rotate: true
+  xy: 2, 2918
+  size: 882, 1576
+  orig: 882, 1576
+  offset: 0, 0
+  index: -1
+
+63purkora3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TR_upper_bg
+  rotate: false
+  xy: 2, 2
+  size: 1783, 1366
+  orig: 1783, 1366
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 2, 1370
+  size: 3973, 1398
+  orig: 3973, 1398
+  offset: 0, 0
+  index: -1

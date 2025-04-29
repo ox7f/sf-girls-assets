@@ -1,0 +1,474 @@
+
+11redpirate.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boob_L
+  rotate: false
+  xy: 2701, 1466
+  size: 687, 653
+  orig: 687, 653
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 3317, 3659
+  size: 251, 146
+  orig: 251, 146
+  offset: 0, 0
+  index: -1
+eye23
+  rotate: false
+  xy: 3086, 3667
+  size: 229, 138
+  orig: 229, 138
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1597, 2838
+  size: 368, 486
+  orig: 368, 486
+  offset: 0, 0
+  index: -1
+footer
+  rotate: false
+  xy: 2093, 3181
+  size: 384, 286
+  orig: 384, 286
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 1495, 3505
+  size: 424, 172
+  orig: 424, 172
+  offset: 0, 0
+  index: -1
+hair_FL
+  rotate: true
+  xy: 237, 3564
+  size: 150, 558
+  orig: 150, 558
+  offset: 0, 0
+  index: -1
+hair_ML
+  rotate: true
+  xy: 3486, 3071
+  size: 334, 451
+  orig: 334, 451
+  offset: 0, 0
+  index: -1
+hair_RB
+  rotate: true
+  xy: 2584, 2746
+  size: 374, 444
+  orig: 374, 444
+  offset: 0, 0
+  index: -1
+hair_RM
+  rotate: true
+  xy: 2479, 3139
+  size: 298, 458
+  orig: 298, 458
+  offset: 0, 0
+  index: -1
+hair_RT
+  rotate: true
+  xy: 3526, 3407
+  size: 246, 322
+  orig: 246, 322
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 1432, 1657
+  size: 611, 650
+  orig: 611, 650
+  offset: 0, 0
+  index: -1
+hair_pp
+  rotate: false
+  xy: 324, 3311
+  size: 266, 251
+  orig: 266, 251
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 801, 2898
+  size: 332, 794
+  orig: 332, 794
+  offset: 0, 0
+  index: -1
+hand_LThumb
+  rotate: true
+  xy: 1245, 3516
+  size: 166, 248
+  orig: 166, 248
+  offset: 0, 0
+  index: -1
+hand_LU
+  rotate: true
+  xy: 2677, 3672
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+hand_LUconnection
+  rotate: true
+  xy: 302, 3753
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 1379, 3684
+  size: 121, 286
+  orig: 121, 286
+  offset: 0, 0
+  index: -1
+hand_R_finger
+  rotate: false
+  xy: 2156, 3485
+  size: 244, 190
+  orig: 244, 190
+  offset: 0, 0
+  index: -1
+hand_R_palm
+  rotate: false
+  xy: 2, 3600
+  size: 233, 153
+  orig: 233, 153
+  offset: 0, 0
+  index: -1
+hand_R_thumb
+  rotate: false
+  xy: 1667, 3682
+  size: 138, 123
+  orig: 138, 123
+  offset: 0, 0
+  index: -1
+hat_B
+  rotate: false
+  xy: 2084, 1505
+  size: 615, 614
+  orig: 615, 614
+  offset: 0, 0
+  index: -1
+hat_F
+  rotate: false
+  xy: 758, 1803
+  size: 672, 588
+  orig: 672, 588
+  offset: 0, 0
+  index: -1
+manL
+  rotate: true
+  xy: 1923, 754
+  size: 710, 1989
+  orig: 710, 1989
+  offset: 0, 0
+  index: -1
+man_L2
+  rotate: true
+  xy: 1807, 2
+  size: 750, 1506
+  orig: 750, 1506
+  offset: 0, 0
+  index: -1
+man_L2_hand
+  rotate: false
+  xy: 2085, 2774
+  size: 497, 363
+  orig: 497, 363
+  offset: 0, 0
+  index: -1
+man_L2_pp
+  rotate: false
+  xy: 592, 3275
+  size: 515, 252
+  orig: 515, 252
+  offset: 0, 0
+  index: -1
+man_L2_pphead
+  rotate: true
+  xy: 3570, 3655
+  size: 150, 166
+  orig: 150, 166
+  offset: 0, 0
+  index: -1
+man_M_body
+  rotate: true
+  xy: 2, 2417
+  size: 497, 656
+  orig: 497, 656
+  offset: 0, 0
+  index: -1
+man_M_handL
+  rotate: true
+  xy: 2939, 3122
+  size: 299, 545
+  orig: 299, 545
+  offset: 0, 0
+  index: -1
+man_M_leg_L
+  rotate: false
+  xy: 2455, 2121
+  size: 1285, 520
+  orig: 1285, 520
+  offset: 0, 0
+  index: -1
+man_M_leg_R
+  rotate: false
+  xy: 2, 99
+  size: 1803, 734
+  orig: 1803, 734
+  offset: 0, 0
+  index: -1
+man_M_pp
+  rotate: true
+  xy: 1109, 3232
+  size: 271, 490
+  orig: 271, 490
+  offset: 0, 0
+  index: -1
+man_R1_pp
+  rotate: false
+  xy: 3004, 3423
+  size: 520, 234
+  orig: 547, 304
+  offset: 27, 0
+  index: -1
+man_R1_pphead
+  rotate: false
+  xy: 2241, 3677
+  size: 162, 128
+  orig: 162, 128
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 931, 3707
+  size: 98, 101
+  orig: 98, 101
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 479, 3719
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 1034, 3694
+  size: 111, 155
+  orig: 111, 155
+  offset: 0, 0
+  index: -1
+pat_L
+  rotate: false
+  xy: 2, 1809
+  size: 754, 582
+  orig: 754, 582
+  offset: 0, 0
+  index: -1
+pat_R
+  rotate: false
+  xy: 3030, 2643
+  size: 515, 426
+  orig: 515, 426
+  offset: 0, 0
+  index: -1
+penis_manL
+  rotate: false
+  xy: 660, 2393
+  size: 778, 503
+  orig: 778, 503
+  offset: 0, 0
+  index: -1
+pp_bottom_right
+  rotate: true
+  xy: 1055, 835
+  size: 820, 866
+  orig: 820, 894
+  offset: 0, 0
+  index: -1
+serpm_booba
+  rotate: false
+  xy: 2402, 3469
+  size: 216, 202
+  orig: 216, 202
+  offset: 0, 0
+  index: -1
+sperm_L1
+  rotate: false
+  xy: 590, 3716
+  size: 339, 89
+  orig: 339, 89
+  offset: 0, 0
+  index: -1
+sperm_L2
+  rotate: false
+  xy: 2, 3755
+  size: 298, 50
+  orig: 298, 50
+  offset: 0, 0
+  index: -1
+sperm_L2pp
+  rotate: false
+  xy: 359, 3750
+  size: 118, 55
+  orig: 118, 55
+  offset: 0, 0
+  index: -1
+sperm_M1
+  rotate: false
+  xy: 1921, 3493
+  size: 233, 184
+  orig: 233, 184
+  offset: 0, 0
+  index: -1
+sperm_M2
+  rotate: true
+  xy: 2, 2954
+  size: 355, 374
+  orig: 355, 374
+  offset: 0, 0
+  index: -1
+sperm_R1
+  rotate: false
+  xy: 2, 3312
+  size: 320, 250
+  orig: 320, 250
+  offset: 0, 0
+  index: -1
+sperm_R1out
+  rotate: true
+  xy: 2405, 3673
+  size: 132, 270
+  orig: 132, 270
+  offset: 0, 0
+  index: -1
+sperm_R2
+  rotate: false
+  xy: 1807, 3679
+  size: 432, 126
+  orig: 432, 126
+  offset: 0, 0
+  index: -1
+sperm_R2out
+  rotate: false
+  xy: 2620, 3439
+  size: 382, 230
+  orig: 382, 230
+  offset: 0, 0
+  index: -1
+sperm_R3
+  rotate: true
+  xy: 1601, 3208
+  size: 283, 490
+  orig: 283, 490
+  offset: 0, 0
+  index: -1
+sperm_R3out
+  rotate: true
+  xy: 378, 2916
+  size: 357, 421
+  orig: 357, 421
+  offset: 0, 0
+  index: -1
+sperm_head
+  rotate: false
+  xy: 797, 3529
+  size: 446, 163
+  orig: 446, 163
+  offset: 0, 0
+  index: -1
+sperm_thigh_L
+  rotate: true
+  xy: 3738, 3655
+  size: 150, 273
+  orig: 150, 273
+  offset: 0, 0
+  index: -1
+sperm_thigh_R
+  rotate: true
+  xy: 1191, 3694
+  size: 111, 186
+  orig: 111, 186
+  offset: 0, 0
+  index: -1
+thigh_L
+  rotate: true
+  xy: 2, 1099
+  size: 702, 1051
+  orig: 702, 1051
+  offset: 0, 0
+  index: -1
+thigh_R
+  rotate: true
+  xy: 1440, 2270
+  size: 502, 1013
+  orig: 502, 1013
+  offset: 0, 0
+  index: -1
+west
+  rotate: true
+  xy: 2814, 3671
+  size: 134, 270
+  orig: 134, 270
+  offset: 0, 0
+  index: -1
+
+11redpirate2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2974, 2705
+  size: 842, 1125
+  orig: 842, 1125
+  offset: 0, 0
+  index: -1
+booba_R
+  rotate: false
+  xy: 1774, 2
+  size: 1713, 1503
+  orig: 1713, 1503
+  offset: 0, 0
+  index: -1
+cusion
+  rotate: false
+  xy: 2, 3164
+  size: 2970, 666
+  orig: 2970, 666
+  offset: 0, 0
+  index: -1
+foots
+  rotate: false
+  xy: 2, 1968
+  size: 1370, 1194
+  orig: 1370, 1194
+  offset: 0, 0
+  index: -1
+man_R1
+  rotate: true
+  xy: 2, 96
+  size: 1409, 1770
+  orig: 1409, 1770
+  offset: 0, 0
+  index: -1
+man_Rmost
+  rotate: true
+  xy: 1374, 1507
+  size: 1196, 1989
+  orig: 1196, 1989
+  offset: 0, 0
+  index: -1

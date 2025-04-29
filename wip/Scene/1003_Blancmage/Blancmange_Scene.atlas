@@ -1,0 +1,257 @@
+
+Blancmange_Scene.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: true
+  xy: 2936, 1202
+  size: 1394, 953
+  orig: 1394, 953
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 1347, 1136
+  size: 1394, 953
+  orig: 1394, 953
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 2, 181
+  size: 1394, 953
+  orig: 1394, 953
+  offset: 0, 0
+  index: -1
+brows
+  rotate: true
+  xy: 171, 3360
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+cum1
+  rotate: false
+  xy: 1283, 3266
+  size: 306, 152
+  orig: 306, 152
+  offset: 0, 0
+  index: -1
+cum2
+  rotate: false
+  xy: 313, 3330
+  size: 428, 88
+  orig: 428, 88
+  offset: 0, 0
+  index: -1
+cum3
+  rotate: false
+  xy: 2, 2981
+  size: 529, 347
+  orig: 529, 347
+  offset: 0, 0
+  index: -1
+cum4
+  rotate: false
+  xy: 533, 2939
+  size: 506, 373
+  orig: 506, 373
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 989, 3314
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 743, 3318
+  size: 121, 100
+  orig: 121, 100
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 866, 3318
+  size: 121, 100
+  orig: 121, 100
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 112, 3365
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1041, 2880
+  size: 385, 384
+  orig: 385, 384
+  offset: 0, 0
+  index: -1
+facered
+  rotate: false
+  xy: 2374, 3161
+  size: 341, 257
+  orig: 341, 257
+  offset: 0, 0
+  index: -1
+hairL
+  rotate: true
+  xy: 1272, 2220
+  size: 518, 845
+  orig: 518, 845
+  offset: 0, 0
+  index: -1
+hairM
+  rotate: false
+  xy: 1808, 3233
+  size: 281, 185
+  orig: 281, 185
+  offset: 0, 0
+  index: -1
+hairR
+  rotate: false
+  xy: 2, 2454
+  size: 633, 483
+  orig: 633, 483
+  offset: 0, 0
+  index: -1
+hair_shadow
+  rotate: true
+  xy: 2119, 2091
+  size: 523, 815
+  orig: 523, 815
+  offset: 0, 0
+  index: -1
+hairtop
+  rotate: true
+  xy: 1428, 2839
+  size: 392, 635
+  orig: 392, 635
+  offset: 0, 0
+  index: -1
+handL
+  rotate: false
+  xy: 637, 2393
+  size: 633, 485
+  orig: 645, 485
+  offset: 12, 0
+  index: -1
+handR
+  rotate: true
+  xy: 2065, 2740
+  size: 419, 451
+  orig: 419, 451
+  offset: 0, 0
+  index: -1
+legL
+  rotate: false
+  xy: 2, 1269
+  size: 1343, 949
+  orig: 1343, 949
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 1398, 2
+  size: 1618, 1132
+  orig: 1618, 1132
+  offset: 0, 0
+  index: -1
+manhandL
+  rotate: true
+  xy: 3210, 2598
+  size: 472, 769
+  orig: 472, 769
+  offset: 0, 0
+  index: -1
+manhandR
+  rotate: false
+  xy: 3048, 3072
+  size: 820, 346
+  orig: 820, 346
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 27, 3391
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 57, 3371
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 240, 3357
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 2, 3396
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+pp
+  rotate: true
+  xy: 2518, 2616
+  size: 454, 690
+  orig: 454, 690
+  offset: 0, 0
+  index: -1
+sperm_body1
+  rotate: true
+  xy: 2717, 3160
+  size: 258, 329
+  orig: 258, 329
+  offset: 0, 0
+  index: -1
+sperm_body2
+  rotate: false
+  xy: 1591, 3260
+  size: 215, 158
+  orig: 215, 158
+  offset: 0, 0
+  index: -1
+sperm_legL
+  rotate: false
+  xy: 1112, 3279
+  size: 169, 139
+  orig: 169, 139
+  offset: 0, 0
+  index: -1
+sperm_legR
+  rotate: false
+  xy: 2091, 3219
+  size: 281, 199
+  orig: 281, 199
+  offset: 0, 0
+  index: -1
+
+Blancmange_Scene_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hairB
+  rotate: false
+  xy: 2, 2
+  size: 2461, 2104
+  orig: 2461, 2104
+  offset: 0, 0
+  index: -1

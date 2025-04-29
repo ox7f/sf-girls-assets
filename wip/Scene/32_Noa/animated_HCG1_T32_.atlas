@@ -1,0 +1,431 @@
+
+animated_HCG1_T32_.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackCover
+  rotate: false
+  xy: 3132, 3119
+  size: 644, 430
+  orig: 644, 430
+  offset: 0, 0
+  index: -1
+chain_1
+  rotate: false
+  xy: 2650, 2185
+  size: 667, 500
+  orig: 667, 500
+  offset: 0, 0
+  index: -1
+chain_2
+  rotate: true
+  xy: 1009, 611
+  size: 578, 861
+  orig: 578, 861
+  offset: 0, 0
+  index: -1
+chain_3
+  rotate: false
+  xy: 2910, 1612
+  size: 639, 526
+  orig: 639, 526
+  offset: 0, 0
+  index: -1
+cum_3
+  rotate: false
+  xy: 2098, 1676
+  size: 810, 507
+  orig: 810, 507
+  offset: 0, 0
+  index: -1
+cum_4
+  rotate: false
+  xy: 2632, 2687
+  size: 834, 430
+  orig: 834, 430
+  offset: 0, 0
+  index: -1
+effect_2
+  rotate: false
+  xy: 451, 2883
+  size: 1102, 388
+  orig: 1102, 388
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 2793, 3595
+  size: 432, 333
+  orig: 432, 333
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 494, 3307
+  size: 440, 380
+  orig: 440, 380
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 2242, 3194
+  size: 443, 429
+  orig: 443, 429
+  offset: 0, 0
+  index: -1
+face4
+  rotate: false
+  xy: 2687, 3164
+  size: 443, 429
+  orig: 443, 429
+  offset: 0, 0
+  index: -1
+girl_L_LowArm
+  rotate: true
+  xy: 2, 1926
+  size: 481, 905
+  orig: 481, 905
+  offset: 0, 0
+  index: -1
+girl_L_UpperArm1
+  rotate: false
+  xy: 2, 2927
+  size: 447, 491
+  orig: 447, 491
+  offset: 0, 0
+  index: -1
+girl_L_UpperArm2
+  rotate: true
+  xy: 2139, 2745
+  size: 447, 491
+  orig: 447, 491
+  offset: 0, 0
+  index: -1
+girl_L_butt_1
+  rotate: false
+  xy: 1809, 3625
+  size: 490, 303
+  orig: 490, 303
+  offset: 0, 0
+  index: -1
+girl_L_butt_2
+  rotate: false
+  xy: 2301, 3625
+  size: 490, 303
+  orig: 490, 303
+  offset: 0, 0
+  index: -1
+girl_L_thigh_1
+  rotate: true
+  xy: 2474, 1048
+  size: 562, 1005
+  orig: 562, 1005
+  offset: 0, 0
+  index: -1
+girl_L_thigh_2
+  rotate: true
+  xy: 2, 800
+  size: 562, 1005
+  orig: 562, 1005
+  offset: 0, 0
+  index: -1
+girl_R_LowArm
+  rotate: true
+  xy: 1872, 460
+  size: 586, 818
+  orig: 586, 818
+  offset: 0, 0
+  index: -1
+girl_R_UpperArm1
+  rotate: true
+  xy: 3227, 3551
+  size: 377, 490
+  orig: 377, 490
+  offset: 0, 0
+  index: -1
+girl_R_UpperArm2
+  rotate: true
+  xy: 2, 3420
+  size: 377, 490
+  orig: 377, 490
+  offset: 0, 0
+  index: -1
+girl_R_calf
+  rotate: true
+  xy: 2692, 441
+  size: 605, 650
+  orig: 605, 650
+  offset: 0, 0
+  index: -1
+girl_R_thigh_1
+  rotate: false
+  xy: 2, 1364
+  size: 1234, 483
+  orig: 1234, 483
+  offset: 0, 0
+  index: -1
+girl_R_thigh_2
+  rotate: false
+  xy: 1238, 1191
+  size: 1234, 483
+  orig: 1234, 483
+  offset: 0, 0
+  index: -1
+girl_VG1
+  rotate: false
+  xy: 557, 2409
+  size: 530, 472
+  orig: 530, 472
+  offset: 0, 0
+  index: -1
+girl_VG2
+  rotate: false
+  xy: 1089, 2361
+  size: 530, 472
+  orig: 530, 472
+  offset: 0, 0
+  index: -1
+girl_chest_L1
+  rotate: true
+  xy: 3319, 2140
+  size: 510, 584
+  orig: 510, 584
+  offset: 0, 0
+  index: -1
+girl_chest_L2
+  rotate: true
+  xy: 909, 1849
+  size: 510, 584
+  orig: 510, 584
+  offset: 0, 0
+  index: -1
+girl_chest_R1
+  rotate: false
+  xy: 1621, 2283
+  size: 475, 550
+  orig: 475, 550
+  offset: 0, 0
+  index: -1
+girl_chest_R2
+  rotate: true
+  xy: 2098, 2210
+  size: 475, 550
+  orig: 475, 550
+  offset: 0, 0
+  index: -1
+girl_hairBang1
+  rotate: true
+  xy: 1389, 3644
+  size: 284, 418
+  orig: 284, 418
+  offset: 0, 0
+  index: -1
+girl_hairBang2
+  rotate: false
+  xy: 3481, 897
+  size: 580, 638
+  orig: 580, 638
+  offset: 0, 0
+  index: -1
+girl_hairBang3
+  rotate: true
+  xy: 333, 3799
+  size: 129, 437
+  orig: 129, 437
+  offset: 0, 0
+  index: -1
+girl_hairTail
+  rotate: true
+  xy: 936, 3273
+  size: 350, 1304
+  orig: 350, 1304
+  offset: 0, 0
+  index: -1
+girl_hairTail2
+  rotate: true
+  xy: 2, 210
+  size: 588, 958
+  orig: 588, 958
+  offset: 0, 0
+  index: -1
+girl_hairTail4
+  rotate: true
+  xy: 2, 2413
+  size: 468, 553
+  orig: 468, 553
+  offset: 0, 0
+  index: -1
+girl_head1
+  rotate: false
+  xy: 1495, 1745
+  size: 601, 536
+  orig: 601, 536
+  offset: 0, 0
+  index: -1
+girl_head2
+  rotate: true
+  xy: 3551, 1537
+  size: 601, 536
+  orig: 601, 536
+  offset: 0, 0
+  index: -1
+girl_skirt
+  rotate: false
+  xy: 3344, 277
+  size: 734, 618
+  orig: 734, 618
+  offset: 0, 0
+  index: -1
+man_JJ
+  rotate: true
+  xy: 1093, 3687
+  size: 241, 294
+  orig: 241, 294
+  offset: 0, 0
+  index: -1
+man_body
+  rotate: false
+  xy: 962, 2
+  size: 2061, 437
+  orig: 2061, 437
+  offset: 0, 0
+  index: -1
+moutch5_saliva
+  rotate: true
+  xy: 2, 3816
+  size: 112, 329
+  orig: 112, 329
+  offset: 0, 0
+  index: -1
+smoke_Down
+  rotate: false
+  xy: 1555, 2835
+  size: 582, 436
+  orig: 582, 436
+  offset: 0, 0
+  index: -1
+smoke_Down2
+  rotate: false
+  xy: 3468, 2652
+  size: 586, 465
+  orig: 586, 465
+  offset: 0, 0
+  index: -1
+smoke_up
+  rotate: false
+  xy: 772, 3689
+  size: 319, 239
+  orig: 319, 239
+  offset: 0, 0
+  index: -1
+
+animated_HCG1_T32_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cum_4_2
+  rotate: true
+  xy: 2, 1814
+  size: 753, 1044
+  orig: 753, 1044
+  offset: 0, 0
+  index: -1
+cum_5
+  rotate: false
+  xy: 2, 40
+  size: 1499, 873
+  orig: 1499, 873
+  offset: 0, 0
+  index: -1
+effect_4_brest
+  rotate: false
+  xy: 2476, 2537
+  size: 1071, 690
+  orig: 1071, 690
+  offset: 0, 0
+  index: -1
+girl_L_calf_1
+  rotate: true
+  xy: 1514, 689
+  size: 1042, 1370
+  orig: 1042, 1370
+  offset: 0, 0
+  index: -1
+girl_L_calf_2
+  rotate: false
+  xy: 2886, 2
+  size: 1042, 1370
+  orig: 1042, 1370
+  offset: 0, 0
+  index: -1
+girl_hairBack
+  rotate: true
+  xy: 2, 2603
+  size: 624, 698
+  orig: 624, 698
+  offset: 0, 0
+  index: -1
+girl_hairTail3
+  rotate: true
+  xy: 2974, 1374
+  size: 1161, 1042
+  orig: 1161, 1042
+  offset: 0, 0
+  index: -1
+girl_hairTail5
+  rotate: true
+  xy: 702, 2569
+  size: 658, 767
+  orig: 658, 767
+  offset: 0, 0
+  index: -1
+girl_skirt1
+  rotate: false
+  xy: 1471, 2564
+  size: 1003, 663
+  orig: 1003, 663
+  offset: 0, 0
+  index: -1
+girl_skirt2
+  rotate: false
+  xy: 2, 915
+  size: 1510, 843
+  orig: 1510, 843
+  offset: 0, 0
+  index: -1
+girl_upperBody1
+  rotate: false
+  xy: 1048, 1760
+  size: 961, 802
+  orig: 961, 802
+  offset: 0, 0
+  index: -1
+girl_upperBody2
+  rotate: false
+  xy: 2011, 1733
+  size: 961, 802
+  orig: 961, 802
+  offset: 0, 0
+  index: -1
+
+animated_HCG1_T32_3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+man_arm
+  rotate: true
+  xy: 2397, 2
+  size: 1718, 1045
+  orig: 1718, 1045
+  offset: 0, 0
+  index: -1
+man_front
+  rotate: false
+  xy: 2, 454
+  size: 2393, 1266
+  orig: 2393, 1266
+  offset: 0, 0
+  index: -1

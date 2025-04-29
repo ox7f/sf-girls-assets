@@ -1,0 +1,229 @@
+
+HCG_.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_Hair1
+  rotate: true
+  xy: 2802, 1201
+  size: 753, 825
+  orig: 753, 825
+  offset: 0, 0
+  index: -1
+Back_Hair2
+  rotate: true
+  xy: 2603, 2901
+  size: 446, 870
+  orig: 446, 870
+  offset: 0, 0
+  index: -1
+Back_Hair_end
+  rotate: true
+  xy: 553, 3103
+  size: 308, 530
+  orig: 309, 530
+  offset: 1, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 1780, 3352
+  size: 645, 285
+  orig: 706, 285
+  offset: 61, 0
+  index: -1
+Eye2_Filter
+  rotate: false
+  xy: 1290, 3412
+  size: 488, 225
+  orig: 488, 226
+  offset: 0, 1
+  index: -1
+Eye3
+  rotate: false
+  xy: 2427, 3352
+  size: 648, 285
+  orig: 648, 285
+  offset: 0, 0
+  index: -1
+F_LBreast_parts
+  rotate: false
+  xy: 736, 3413
+  size: 552, 224
+  orig: 553, 224
+  offset: 0, 0
+  index: -1
+F_L_Breast
+  rotate: false
+  xy: 1809, 1633
+  size: 991, 704
+  orig: 991, 709
+  offset: 0, 0
+  index: -1
+F_RNipple
+  rotate: true
+  xy: 3592, 3311
+  size: 326, 401
+  orig: 326, 411
+  offset: 0, 0
+  index: -1
+F_R_Breast
+  rotate: true
+  xy: 2, 2
+  size: 1043, 1098
+  orig: 1136, 1299
+  offset: 93, 0
+  index: -1
+Female_L_Hand
+  rotate: true
+  xy: 665, 2431
+  size: 511, 664
+  orig: 511, 664
+  offset: 0, 0
+  index: -1
+Female_R_Arm
+  rotate: false
+  xy: 2, 1047
+  size: 1341, 770
+  orig: 1395, 776
+  offset: 0, 6
+  index: -1
+Female_R_Hand
+  rotate: true
+  xy: 1710, 2933
+  size: 417, 891
+  orig: 417, 892
+  offset: 0, 1
+  index: -1
+Glasses
+  rotate: false
+  xy: 2, 2620
+  size: 661, 481
+  orig: 688, 591
+  offset: 0, 0
+  index: -1
+HairShadow
+  rotate: false
+  xy: 2422, 2339
+  size: 718, 560
+  orig: 788, 566
+  offset: 69, 5
+  index: -1
+Hair_Bang1
+  rotate: true
+  xy: 1085, 2944
+  size: 466, 623
+  orig: 466, 623
+  offset: 0, 0
+  index: -1
+Hair_Bang2
+  rotate: true
+  xy: 3077, 3349
+  size: 288, 513
+  orig: 288, 513
+  offset: 0, 0
+  index: -1
+Hair_Bang3
+  rotate: true
+  xy: 1331, 2387
+  size: 544, 1089
+  orig: 544, 1089
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 3142, 1956
+  size: 922, 728
+  orig: 922, 728
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1345, 716
+  size: 915, 1073
+  orig: 915, 1073
+  offset: 0, 0
+  index: -1
+Male_L_Hand
+  rotate: false
+  xy: 2420, 215
+  size: 1207, 984
+  orig: 1207, 1189
+  offset: 0, 205
+  index: -1
+face
+  rotate: true
+  xy: 3475, 2686
+  size: 623, 477
+  orig: 623, 477
+  offset: 0, 0
+  index: -1
+juices
+  rotate: false
+  xy: 2, 1819
+  size: 1805, 566
+  orig: 2075, 650
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 2, 3487
+  size: 222, 150
+  orig: 224, 155
+  offset: 0, 5
+  index: -1
+mouth_2
+  rotate: false
+  xy: 226, 3454
+  size: 256, 183
+  orig: 268, 190
+  offset: 4, 6
+  index: -1
+mouth_3
+  rotate: false
+  xy: 484, 3438
+  size: 250, 199
+  orig: 366, 209
+  offset: 5, 8
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 3136
+  size: 549, 300
+  orig: 556, 302
+  offset: 6, 0
+  index: -1
+
+HCG_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Female_Leg_1
+  rotate: true
+  xy: 2, 292
+  size: 1973, 1433
+  orig: 2078, 1668
+  offset: 105, 230
+  index: -1
+Female_UpperBody
+  rotate: false
+  xy: 2436, 1049
+  size: 1508, 1216
+  orig: 1508, 1314
+  offset: 0, 0
+  index: -1
+Male_Body
+  rotate: false
+  xy: 2, 2267
+  size: 3785, 1709
+  orig: 3785, 1709
+  offset: 0, 0
+  index: -1
+Male_R_Hand
+  rotate: true
+  xy: 1437, 2
+  size: 2263, 997
+  orig: 2263, 997
+  offset: 0, 0
+  index: -1

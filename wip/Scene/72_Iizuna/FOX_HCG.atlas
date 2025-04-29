@@ -1,0 +1,389 @@
+
+FOX_HCG.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_B
+  rotate: true
+  xy: 1920, 1044
+  size: 740, 812
+  orig: 740, 812
+  offset: 0, 0
+  index: -1
+arm_U
+  rotate: false
+  xy: 2, 626
+  size: 1373, 667
+  orig: 1373, 667
+  offset: 0, 0
+  index: -1
+booba_B
+  rotate: false
+  xy: 2039, 1864
+  size: 595, 571
+  orig: 595, 571
+  offset: 0, 0
+  index: -1
+booba_Bsweat
+  rotate: false
+  xy: 2636, 1786
+  size: 595, 571
+  orig: 595, 571
+  offset: 0, 0
+  index: -1
+booba_U
+  rotate: true
+  xy: 3563, 2205
+  size: 590, 488
+  orig: 590, 488
+  offset: 0, 0
+  index: -1
+booba_Usweat
+  rotate: false
+  xy: 2, 2169
+  size: 590, 488
+  orig: 590, 488
+  offset: 0, 0
+  index: -1
+ear_B
+  rotate: true
+  xy: 3613, 2797
+  size: 361, 375
+  orig: 361, 375
+  offset: 0, 0
+  index: -1
+ear_Bmomo
+  rotate: true
+  xy: 2701, 3182
+  size: 241, 323
+  orig: 241, 323
+  offset: 0, 0
+  index: -1
+ear_U
+  rotate: false
+  xy: 2, 2659
+  size: 616, 380
+  orig: 616, 380
+  offset: 0, 0
+  index: -1
+ear_Umomo
+  rotate: false
+  xy: 1822, 3250
+  size: 253, 173
+  orig: 253, 173
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 3233, 1568
+  size: 689, 635
+  orig: 689, 635
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 3109, 2359
+  size: 452, 451
+  orig: 452, 451
+  offset: 0, 0
+  index: -1
+face1r
+  rotate: true
+  xy: 3161, 2812
+  size: 355, 450
+  orig: 364, 458
+  offset: 9, 8
+  index: -1
+face2
+  rotate: true
+  xy: 2104, 2463
+  size: 424, 467
+  orig: 424, 467
+  offset: 0, 0
+  index: -1
+face2r
+  rotate: true
+  xy: 1131, 2947
+  size: 312, 452
+  orig: 312, 452
+  offset: 0, 0
+  index: -1
+face2tear
+  rotate: true
+  xy: 2, 3054
+  size: 263, 406
+  orig: 263, 406
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 1131, 2515
+  size: 431, 430
+  orig: 431, 430
+  offset: 0, 0
+  index: -1
+face3r
+  rotate: true
+  xy: 735, 3000
+  size: 263, 394
+  orig: 263, 394
+  offset: 0, 0
+  index: -1
+face4
+  rotate: true
+  xy: 620, 2586
+  size: 412, 509
+  orig: 412, 509
+  offset: 0, 0
+  index: -1
+face4r
+  rotate: true
+  xy: 1585, 2908
+  size: 340, 460
+  orig: 340, 460
+  offset: 0, 0
+  index: -1
+hair_base
+  rotate: false
+  xy: 981, 1295
+  size: 937, 682
+  orig: 937, 682
+  offset: 0, 0
+  index: -1
+hair_blue1
+  rotate: true
+  xy: 953, 3265
+  size: 158, 235
+  orig: 158, 235
+  offset: 0, 0
+  index: -1
+hair_blue2
+  rotate: false
+  xy: 2047, 2889
+  size: 542, 332
+  orig: 542, 332
+  offset: 0, 0
+  index: -1
+hair_blue3
+  rotate: false
+  xy: 381, 3319
+  size: 190, 104
+  orig: 190, 104
+  offset: 0, 0
+  index: -1
+hair_blue3shadow
+  rotate: false
+  xy: 573, 3310
+  size: 164, 113
+  orig: 164, 113
+  offset: 0, 0
+  index: -1
+hair_faceB
+  rotate: true
+  xy: 2278, 3228
+  size: 195, 199
+  orig: 195, 199
+  offset: 0, 0
+  index: -1
+hair_pink1
+  rotate: true
+  xy: 3711, 3160
+  size: 263, 302
+  orig: 263, 302
+  offset: 0, 0
+  index: -1
+hair_pink2
+  rotate: false
+  xy: 3026, 3172
+  size: 396, 251
+  orig: 396, 251
+  offset: 0, 0
+  index: -1
+hair_pink3
+  rotate: true
+  xy: 1629, 3257
+  size: 166, 191
+  orig: 185, 191
+  offset: 0, 0
+  index: -1
+hair_pink4
+  rotate: true
+  xy: 2479, 3223
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+hair_shadow
+  rotate: false
+  xy: 1564, 2496
+  size: 538, 391
+  orig: 538, 391
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 1377, 2
+  size: 1709, 785
+  orig: 1709, 785
+  offset: 0, 0
+  index: -1
+manhand
+  rotate: true
+  xy: 594, 2030
+  size: 483, 733
+  orig: 483, 733
+  offset: 0, 0
+  index: -1
+pee1
+  rotate: true
+  xy: 2, 3384
+  size: 39, 143
+  orig: 39, 143
+  offset: 0, 0
+  index: -1
+pee2
+  rotate: true
+  xy: 2077, 3236
+  size: 187, 199
+  orig: 187, 199
+  offset: 0, 0
+  index: -1
+pee3
+  rotate: false
+  xy: 1190, 3261
+  size: 437, 162
+  orig: 437, 162
+  offset: 0, 0
+  index: -1
+pp
+  rotate: true
+  xy: 2573, 2437
+  size: 391, 534
+  orig: 391, 534
+  offset: 0, 0
+  index: -1
+pussy
+  rotate: true
+  xy: 410, 3041
+  size: 267, 323
+  orig: 267, 323
+  offset: 0, 0
+  index: -1
+pussy_juice
+  rotate: false
+  xy: 1329, 1979
+  size: 708, 515
+  orig: 708, 515
+  offset: 0, 0
+  index: -1
+sperm1
+  rotate: false
+  xy: 2, 1387
+  size: 977, 641
+  orig: 977, 641
+  offset: 0, 0
+  index: -1
+sperm2
+  rotate: false
+  xy: 3424, 3169
+  size: 285, 254
+  orig: 285, 254
+  offset: 0, 0
+  index: -1
+sperm3
+  rotate: false
+  xy: 2734, 789
+  size: 794, 777
+  orig: 794, 777
+  offset: 0, 0
+  index: -1
+sweat_armB
+  rotate: false
+  xy: 257, 3323
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1
+sweat_armU
+  rotate: false
+  xy: 739, 3286
+  size: 212, 137
+  orig: 212, 137
+  offset: 0, 0
+  index: -1
+sweat_body
+  rotate: true
+  xy: 2591, 2830
+  size: 340, 568
+  orig: 340, 568
+  offset: 0, 0
+  index: -1
+sweat_pussy
+  rotate: true
+  xy: 147, 3348
+  size: 75, 108
+  orig: 75, 108
+  offset: 0, 0
+  index: -1
+
+FOX_HCG2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_main
+  rotate: false
+  xy: 2533, 480
+  size: 1554, 1576
+  orig: 1554, 1576
+  offset: 0, 0
+  index: -1
+hair_BB
+  rotate: false
+  xy: 2291, 2058
+  size: 1726, 1335
+  orig: 1726, 1335
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 1587, 71
+  size: 944, 1936
+  orig: 944, 1936
+  offset: 0, 0
+  index: -1
+tailB
+  rotate: false
+  xy: 2, 2
+  size: 1583, 2005
+  orig: 1583, 2005
+  offset: 0, 0
+  index: -1
+tailU
+  rotate: false
+  xy: 2, 2009
+  size: 2287, 1384
+  orig: 2287, 1384
+  offset: 0, 0
+  index: -1
+
+FOX_HCG3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leg_Ls
+  rotate: false
+  xy: 2, 2
+  size: 944, 1936
+  orig: 944, 1936
+  offset: 0, 0
+  index: -1
+leg_Rs
+  rotate: true
+  xy: 948, 229
+  size: 1709, 785
+  orig: 1709, 785
+  offset: 0, 0
+  index: -1

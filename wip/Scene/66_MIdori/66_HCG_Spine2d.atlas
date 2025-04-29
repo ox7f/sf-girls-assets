@@ -1,0 +1,271 @@
+
+66_HCG_Spine2d.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body sweat
+  rotate: true
+  xy: 213, 3948
+  size: 87, 138
+  orig: 87, 138
+  offset: 0, 0
+  index: -1
+Boobs L
+  rotate: true
+  xy: 1954, 1996
+  size: 705, 983
+  orig: 705, 983
+  offset: 0, 0
+  index: -1
+Boobs L 2
+  rotate: true
+  xy: 2939, 1823
+  size: 705, 983
+  orig: 705, 983
+  offset: 0, 0
+  index: -1
+Boobs R
+  rotate: true
+  xy: 2, 2262
+  size: 696, 974
+  orig: 696, 974
+  offset: 0, 0
+  index: -1
+Boobs R 2
+  rotate: true
+  xy: 978, 2087
+  size: 696, 974
+  orig: 696, 974
+  offset: 0, 0
+  index: -1
+Eye_Cover
+  rotate: true
+  xy: 2, 3634
+  size: 305, 427
+  orig: 305, 427
+  offset: 0, 0
+  index: -1
+Girl_R_Arm
+  rotate: true
+  xy: 2933, 493
+  size: 1328, 786
+  orig: 1328, 786
+  offset: 0, 0
+  index: -1
+Hair Tail
+  rotate: true
+  xy: 353, 3941
+  size: 94, 278
+  orig: 94, 278
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: false
+  xy: 745, 1266
+  size: 1286, 728
+  orig: 1286, 728
+  offset: 0, 0
+  index: -1
+Hair_Back_tail
+  rotate: true
+  xy: 2, 1550
+  size: 710, 741
+  orig: 710, 741
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 3103, 3194
+  size: 658, 513
+  orig: 658, 513
+  offset: 0, 0
+  index: -1
+Head 2
+  rotate: false
+  xy: 2, 3088
+  size: 658, 513
+  orig: 658, 513
+  offset: 0, 0
+  index: -1
+JJ smoke
+  rotate: false
+  xy: 2966, 2530
+  size: 863, 662
+  orig: 863, 662
+  offset: 0, 0
+  index: -1
+Leg L sweat
+  rotate: true
+  xy: 2, 3970
+  size: 65, 209
+  orig: 65, 209
+  offset: 0, 0
+  index: -1
+Leg R sweat
+  rotate: true
+  xy: 633, 3921
+  size: 114, 273
+  orig: 114, 273
+  offset: 0, 0
+  index: -1
+Man JJ
+  rotate: true
+  xy: 2033, 1156
+  size: 838, 898
+  orig: 838, 898
+  offset: 0, 0
+  index: -1
+Man hand R
+  rotate: true
+  xy: 2254, 2703
+  size: 676, 710
+  orig: 676, 710
+  offset: 0, 0
+  index: -1
+Man hand copy
+  rotate: false
+  xy: 662, 2960
+  size: 638, 560
+  orig: 638, 560
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 1302, 2785
+  size: 950, 650
+  orig: 950, 650
+  offset: 0, 0
+  index: -1
+VG 1
+  rotate: false
+  xy: 880, 3522
+  size: 573, 338
+  orig: 573, 338
+  offset: 0, 0
+  index: -1
+VG 2 1
+  rotate: false
+  xy: 1876, 3437
+  size: 604, 342
+  orig: 604, 342
+  offset: 0, 0
+  index: -1
+VG 2 2
+  rotate: false
+  xy: 2537, 3775
+  size: 463, 260
+  orig: 463, 260
+  offset: 0, 0
+  index: -1
+face 1
+  rotate: false
+  xy: 3332, 3747
+  size: 362, 288
+  orig: 362, 288
+  offset: 0, 0
+  index: -1
+face 2
+  rotate: false
+  xy: 3002, 3769
+  size: 328, 266
+  orig: 328, 266
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1503, 3791
+  size: 244, 548
+  orig: 244, 548
+  offset: 0, 0
+  index: -1
+hair bang
+  rotate: true
+  xy: 3696, 3709
+  size: 326, 390
+  orig: 326, 390
+  offset: 0, 0
+  index: -1
+juices 1
+  rotate: false
+  xy: 2053, 3781
+  size: 482, 254
+  orig: 482, 254
+  offset: 0, 0
+  index: -1
+juices 2
+  rotate: false
+  xy: 1455, 3440
+  size: 419, 349
+  orig: 419, 349
+  offset: 0, 0
+  index: -1
+juices 3
+  rotate: false
+  xy: 431, 3603
+  size: 447, 316
+  orig: 447, 316
+  offset: 0, 0
+  index: -1
+smoke 1
+  rotate: true
+  xy: 2482, 3381
+  size: 386, 619
+  orig: 386, 619
+  offset: 0, 0
+  index: -1
+sperm 2
+  rotate: false
+  xy: 2, 2
+  size: 1295, 1262
+  orig: 1295, 1262
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 1203, 3862
+  size: 173, 298
+  orig: 173, 298
+  offset: 0, 0
+  index: -1
+tail 2
+  rotate: true
+  xy: 908, 3865
+  size: 170, 293
+  orig: 170, 293
+  offset: 0, 0
+  index: -1
+
+66_HCG_Spine2d2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_Body
+  rotate: true
+  xy: 2, 373
+  size: 2262, 1250
+  orig: 2262, 1250
+  offset: 0, 0
+  index: -1
+Leg L
+  rotate: true
+  xy: 1254, 2
+  size: 1351, 1921
+  orig: 1351, 1921
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 1254, 1355
+  size: 2106, 1280
+  orig: 2106, 1280
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 2, 2637
+  size: 3006, 1074
+  orig: 3006, 1074
+  offset: 0, 0
+  index: -1

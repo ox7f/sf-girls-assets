@@ -1,0 +1,389 @@
+
+animated_HCG_T59.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face 1
+  rotate: true
+  xy: 1334, 2627
+  size: 485, 630
+  orig: 525, 705
+  offset: 40, 19
+  index: -1
+face 2
+  rotate: true
+  xy: 2670, 2504
+  size: 522, 612
+  orig: 574, 637
+  offset: 30, 25
+  index: -1
+face 3
+  rotate: true
+  xy: 966, 2094
+  size: 531, 600
+  orig: 536, 611
+  offset: 5, 11
+  index: -1
+face 4
+  rotate: true
+  xy: 1568, 2054
+  size: 534, 602
+  orig: 558, 602
+  offset: 0, 0
+  index: -1
+girl L Rabbin 1
+  rotate: false
+  xy: 144, 3947
+  size: 281, 109
+  orig: 281, 110
+  offset: 0, 1
+  index: -1
+girl L Rabbin 2
+  rotate: false
+  xy: 1034, 3920
+  size: 266, 136
+  orig: 266, 136
+  offset: 0, 0
+  index: -1
+girl R Rabbin 1
+  rotate: false
+  xy: 845, 3934
+  size: 187, 122
+  orig: 188, 123
+  offset: 1, 0
+  index: -1
+girl R Rabbin 2
+  rotate: true
+  xy: 2, 3960
+  size: 96, 140
+  orig: 99, 142
+  offset: 2, 1
+  index: -1
+girl butt bubble
+  rotate: true
+  xy: 2, 3682
+  size: 263, 353
+  orig: 286, 375
+  offset: 22, 22
+  index: -1
+girl butt bubble 2
+  rotate: true
+  xy: 2172, 1926
+  size: 505, 1140
+  orig: 505, 1140
+  offset: 0, 0
+  index: -1
+girl_L_finger
+  rotate: false
+  xy: 596, 3938
+  size: 247, 118
+  orig: 247, 118
+  offset: 0, 0
+  index: -1
+girl_L_hairBun 1
+  rotate: false
+  xy: 1966, 2590
+  size: 702, 502
+  orig: 702, 502
+  offset: 0, 0
+  index: -1
+girl_L_hairBun 2
+  rotate: true
+  xy: 3033, 3818
+  size: 238, 356
+  orig: 238, 356
+  offset: 0, 0
+  index: -1
+girl_L_hairBun_3
+  rotate: true
+  xy: 3488, 2965
+  size: 467, 598
+  orig: 467, 598
+  offset: 0, 0
+  index: -1
+girl_L_hairBun_4
+  rotate: true
+  xy: 2281, 3490
+  size: 328, 519
+  orig: 331, 519
+  offset: 3, 0
+  index: -1
+girl_L_hairBun_5
+  rotate: true
+  xy: 1748, 3114
+  size: 391, 458
+  orig: 392, 458
+  offset: 1, 0
+  index: -1
+girl_L_hairTail
+  rotate: false
+  xy: 2, 2
+  size: 1627, 707
+  orig: 1627, 707
+  offset: 0, 0
+  index: -1
+girl_L_leg
+  rotate: true
+  xy: 2, 2252
+  size: 479, 962
+  orig: 479, 962
+  offset: 0, 0
+  index: -1
+girl_R_arm
+  rotate: true
+  xy: 2, 1628
+  size: 622, 801
+  orig: 622, 801
+  offset: 0, 0
+  index: -1
+girl_R_hairBun
+  rotate: false
+  xy: 1763, 3507
+  size: 516, 327
+  orig: 517, 327
+  offset: 1, 0
+  index: -1
+girl_R_hairBun1
+  rotate: false
+  xy: 2208, 3094
+  size: 561, 394
+  orig: 562, 394
+  offset: 1, 0
+  index: -1
+girl_R_hairBun2
+  rotate: false
+  xy: 1547, 3878
+  size: 426, 178
+  orig: 426, 178
+  offset: 0, 0
+  index: -1
+girl_R_hairBun3
+  rotate: true
+  xy: 2, 3279
+  size: 381, 584
+  orig: 384, 607
+  offset: 0, 22
+  index: -1
+girl_R_hairBun4
+  rotate: true
+  xy: 3391, 3818
+  size: 238, 364
+  orig: 240, 365
+  offset: 0, 1
+  index: -1
+girl_R_hairTail
+  rotate: false
+  xy: 2, 792
+  size: 1530, 608
+  orig: 1530, 611
+  offset: 0, 0
+  index: -1
+girl_R_leg
+  rotate: false
+  xy: 805, 1402
+  size: 1750, 522
+  orig: 1750, 522
+  offset: 0, 0
+  index: -1
+girl_R_leg bubble
+  rotate: false
+  xy: 2557, 1194
+  size: 1446, 582
+  orig: 1446, 605
+  offset: 0, 23
+  index: -1
+girl_R_thumb
+  rotate: true
+  xy: 427, 3942
+  size: 114, 167
+  orig: 114, 167
+  offset: 0, 0
+  index: -1
+girl_bang1
+  rotate: false
+  xy: 588, 3210
+  size: 730, 381
+  orig: 730, 382
+  offset: 0, 0
+  index: -1
+girl_bang2
+  rotate: false
+  xy: 627, 2733
+  size: 705, 458
+  orig: 705, 458
+  offset: 0, 0
+  index: -1
+girl_bang3
+  rotate: false
+  xy: 1027, 3593
+  size: 734, 283
+  orig: 734, 283
+  offset: 0, 0
+  index: -1
+girl_body bubble
+  rotate: true
+  xy: 3284, 2433
+  size: 530, 718
+  orig: 530, 732
+  offset: 0, 14
+  index: -1
+girl_boobs L
+  rotate: false
+  xy: 357, 3662
+  size: 284, 274
+  orig: 284, 274
+  offset: 0, 0
+  index: -1
+girl_boobs R
+  rotate: true
+  xy: 2544, 3835
+  size: 221, 222
+  orig: 221, 222
+  offset: 0, 0
+  index: -1
+girl_hand bubble
+  rotate: false
+  xy: 1302, 3890
+  size: 243, 166
+  orig: 243, 175
+  offset: 0, 9
+  index: -1
+girl_head
+  rotate: false
+  xy: 3314, 1778
+  size: 715, 653
+  orig: 715, 683
+  offset: 0, 0
+  index: -1
+glesses
+  rotate: true
+  xy: 2771, 3028
+  size: 404, 715
+  orig: 404, 715
+  offset: 0, 0
+  index: -1
+head bubble
+  rotate: true
+  xy: 1975, 3851
+  size: 205, 301
+  orig: 227, 318
+  offset: 0, 0
+  index: -1
+man_JJ_1
+  rotate: false
+  xy: 1534, 711
+  size: 978, 689
+  orig: 998, 815
+  offset: 0, 0
+  index: -1
+man_JJ_2
+  rotate: false
+  xy: 2, 2774
+  size: 623, 434
+  orig: 623, 434
+  offset: 0, 0
+  index: -1
+pussy 1 - 1
+  rotate: true
+  xy: 643, 3609
+  size: 323, 382
+  orig: 323, 384
+  offset: 0, 0
+  index: -1
+pussy 1 - 2
+  rotate: true
+  xy: 2768, 3820
+  size: 236, 263
+  orig: 237, 263
+  offset: 1, 0
+  index: -1
+sperm 1
+  rotate: false
+  xy: 3757, 3794
+  size: 270, 262
+  orig: 273, 262
+  offset: 3, 0
+  index: -1
+sperm 2
+  rotate: false
+  xy: 1320, 3193
+  size: 426, 398
+  orig: 426, 398
+  offset: 0, 0
+  index: -1
+sperm 3
+  rotate: false
+  xy: 2278, 3836
+  size: 264, 220
+  orig: 302, 269
+  offset: 10, 16
+  index: -1
+sperm 4
+  rotate: true
+  xy: 3263, 3434
+  size: 358, 493
+  orig: 359, 493
+  offset: 1, 0
+  index: -1
+towel
+  rotate: true
+  xy: 2802, 3462
+  size: 354, 459
+  orig: 354, 459
+  offset: 0, 0
+  index: -1
+wave
+  rotate: true
+  xy: 2514, 315
+  size: 877, 1157
+  orig: 939, 1194
+  offset: 7, 29
+  index: -1
+
+animated_HCG_T592.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background top
+  rotate: false
+  xy: 2, 1577
+  size: 3111, 2381
+  orig: 3111, 2381
+  offset: 0, 0
+  index: -1
+girl_butt
+  rotate: true
+  xy: 2, 2
+  size: 1573, 1747
+  orig: 1573, 1747
+  offset: 0, 0
+  index: -1
+wave 2
+  rotate: true
+  xy: 1751, 163
+  size: 1412, 1245
+  orig: 1427, 1307
+  offset: 0, 18
+  index: -1
+
+animated_HCG_T593.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl_body
+  rotate: true
+  xy: 2386, 2
+  size: 1830, 1089
+  orig: 1830, 1089
+  offset: 0, 0
+  index: -1
+man body
+  rotate: true
+  xy: 2, 50
+  size: 1782, 2382
+  orig: 1785, 2402
+  offset: 3, 20
+  index: -1

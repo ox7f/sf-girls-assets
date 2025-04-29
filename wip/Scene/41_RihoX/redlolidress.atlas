@@ -1,0 +1,488 @@
+
+redlolidress.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 2493, 3228
+  size: 172, 497
+  orig: 172, 497
+  offset: 0, 0
+  index: -1
+arm_L2
+  rotate: true
+  xy: 1784, 2777
+  size: 286, 396
+  orig: 286, 396
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 1212, 2816
+  size: 258, 570
+  orig: 258, 570
+  offset: 0, 0
+  index: -1
+arm_mL2
+  rotate: true
+  xy: 2992, 3227
+  size: 173, 363
+  orig: 173, 363
+  offset: 0, 0
+  index: -1
+blackback
+  rotate: true
+  xy: 1160, 88
+  size: 712, 1014
+  orig: 716, 1018
+  offset: 2, 2
+  index: -1
+body_lower
+  rotate: false
+  xy: 1122, 1549
+  size: 585, 459
+  orig: 585, 459
+  offset: 0, 0
+  index: -1
+body_lower2
+  rotate: false
+  xy: 1709, 1470
+  size: 585, 459
+  orig: 585, 459
+  offset: 0, 0
+  index: -1
+body_m
+  rotate: true
+  xy: 2182, 2713
+  size: 278, 738
+  orig: 278, 738
+  offset: 0, 0
+  index: -1
+body_uppper
+  rotate: true
+  xy: 2, 1754
+  size: 454, 605
+  orig: 454, 605
+  offset: 0, 0
+  index: -1
+booba_L
+  rotate: true
+  xy: 346, 3133
+  size: 195, 225
+  orig: 195, 225
+  offset: 0, 0
+  index: -1
+booba_R
+  rotate: true
+  xy: 778, 3082
+  size: 208, 241
+  orig: 208, 241
+  offset: 0, 0
+  index: -1
+booba_R2
+  rotate: true
+  xy: 1021, 3079
+  size: 208, 241
+  orig: 208, 241
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 3357, 3210
+  size: 354, 190
+  orig: 354, 190
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 3713, 3210
+  size: 354, 190
+  orig: 354, 190
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 641, 2148
+  size: 386, 518
+  orig: 386, 518
+  offset: 0, 0
+  index: -1
+face_sweat
+  rotate: true
+  xy: 2, 3366
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+foot_L
+  rotate: true
+  xy: 1549, 802
+  size: 624, 1305
+  orig: 624, 1305
+  offset: 0, 0
+  index: -1
+foot_R
+  rotate: true
+  xy: 1175, 2467
+  size: 308, 946
+  orig: 308, 946
+  offset: 0, 0
+  index: -1
+foot_R2
+  rotate: true
+  xy: 2123, 2370
+  size: 308, 946
+  orig: 308, 946
+  offset: 0, 0
+  index: -1
+fuckedup
+  rotate: true
+  xy: 1565, 3288
+  size: 112, 117
+  orig: 112, 117
+  offset: 0, 0
+  index: -1
+hair_BB
+  rotate: true
+  xy: 2, 353
+  size: 666, 1156
+  orig: 666, 1156
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 3157, 2976
+  size: 232, 919
+  orig: 232, 919
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 2099, 1931
+  size: 383, 1007
+  orig: 383, 1007
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 2296, 1428
+  size: 501, 663
+  orig: 501, 663
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 3229, 2677
+  size: 297, 526
+  orig: 297, 526
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 3108, 1832
+  size: 482, 542
+  orig: 482, 542
+  offset: 0, 0
+  index: -1
+hand_L3
+  rotate: true
+  xy: 2, 2578
+  size: 297, 655
+  orig: 297, 655
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 1264, 3076
+  size: 210, 689
+  orig: 210, 689
+  offset: 0, 0
+  index: -1
+hand_mL
+  rotate: false
+  xy: 707, 3315
+  size: 106, 85
+  orig: 106, 85
+  offset: 0, 0
+  index: -1
+hand_mR
+  rotate: true
+  xy: 2731, 2993
+  size: 232, 424
+  orig: 232, 424
+  offset: 0, 0
+  index: -1
+heart_L1
+  rotate: true
+  xy: 982, 3292
+  size: 108, 125
+  orig: 108, 125
+  offset: 0, 0
+  index: -1
+heart_L2
+  rotate: true
+  xy: 461, 3341
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+heart_R
+  rotate: true
+  xy: 385, 3342
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+heart_R2
+  rotate: true
+  xy: 538, 3330
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+impact
+  rotate: true
+  xy: 2, 2917
+  size: 249, 292
+  orig: 249, 292
+  offset: 0, 0
+  index: -1
+impact2
+  rotate: false
+  xy: 1684, 3288
+  size: 123, 112
+  orig: 123, 112
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 2961, 1304
+  size: 526, 982
+  orig: 526, 982
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 565, 1021
+  size: 526, 982
+  orig: 526, 982
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 2210
+  size: 366, 637
+  orig: 366, 637
+  offset: 0, 0
+  index: -1
+man_base
+  rotate: false
+  xy: 2176, 2
+  size: 1771, 663
+  orig: 1790, 663
+  offset: 0, 0
+  index: -1
+mist
+  rotate: true
+  xy: 609, 1643
+  size: 503, 511
+  orig: 503, 511
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 303, 3360
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 615, 3327
+  size: 90, 73
+  orig: 90, 74
+  offset: 0, 1
+  index: -1
+palm_mL
+  rotate: true
+  xy: 2, 3168
+  size: 190, 342
+  orig: 190, 342
+  offset: 0, 0
+  index: -1
+palm_mR
+  rotate: true
+  xy: 2399, 2998
+  size: 228, 330
+  orig: 228, 330
+  offset: 0, 0
+  index: -1
+penis_B
+  rotate: true
+  xy: 1955, 3065
+  size: 221, 442
+  orig: 221, 442
+  offset: 0, 0
+  index: -1
+penis_U
+  rotate: true
+  xy: 3071, 2316
+  size: 359, 581
+  orig: 359, 581
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 1161, 2052
+  size: 413, 434
+  orig: 413, 434
+  offset: 0, 0
+  index: -1
+speed
+  rotate: false
+  xy: 3654, 2273
+  size: 435, 402
+  orig: 435, 402
+  offset: 0, 0
+  index: -1
+speed_upper
+  rotate: true
+  xy: 2856, 667
+  size: 635, 1114
+  orig: 635, 1114
+  offset: 0, 0
+  index: -1
+sperm
+  rotate: true
+  xy: 2, 1218
+  size: 534, 561
+  orig: 534, 561
+  offset: 0, 0
+  index: -1
+sperm_out_B
+  rotate: true
+  xy: 573, 3113
+  size: 200, 203
+  orig: 200, 203
+  offset: 0, 0
+  index: -1
+sperm_out_U
+  rotate: false
+  xy: 1109, 3289
+  size: 454, 111
+  orig: 454, 111
+  offset: 0, 0
+  index: -1
+sperm_out_base
+  rotate: true
+  xy: 1809, 3288
+  size: 112, 340
+  orig: 112, 340
+  offset: 0, 0
+  index: -1
+sperm_out_base2
+  rotate: true
+  xy: 2151, 3288
+  size: 112, 340
+  orig: 112, 340
+  offset: 0, 0
+  index: -1
+tape_B
+  rotate: true
+  xy: 296, 2877
+  size: 234, 466
+  orig: 234, 466
+  offset: 0, 0
+  index: -1
+tape_U
+  rotate: true
+  xy: 1597, 2010
+  size: 455, 500
+  orig: 455, 500
+  offset: 0, 0
+  index: -1
+tear_23
+  rotate: false
+  xy: 75, 3362
+  size: 226, 38
+  orig: 226, 38
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2922, 2680
+  size: 305, 294
+  orig: 305, 294
+  offset: 0, 0
+  index: -1
+water_penis
+  rotate: true
+  xy: 659, 2536
+  size: 302, 514
+  orig: 302, 514
+  offset: 0, 0
+  index: -1
+west_base
+  rotate: true
+  xy: 764, 2840
+  size: 237, 446
+  orig: 237, 446
+  offset: 0, 0
+  index: -1
+west_cover
+  rotate: true
+  xy: 815, 3305
+  size: 95, 165
+  orig: 97, 165
+  offset: 1, 0
+  index: -1
+
+redlolidress2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust
+  rotate: false
+  xy: 2, 2
+  size: 2607, 1940
+  orig: 2607, 1940
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 1944
+  size: 2843, 1989
+  orig: 2843, 1989
+  offset: 0, 0
+  index: -1
+meatwall
+  rotate: true
+  xy: 2847, 3131
+  size: 802, 1186
+  orig: 802, 1186
+  offset: 0, 0
+  index: -1
+meatwall2
+  rotate: true
+  xy: 2847, 2327
+  size: 802, 1186
+  orig: 802, 1186
+  offset: 0, 0
+  index: -1
+meatwall3
+  rotate: true
+  xy: 2847, 1523
+  size: 802, 1186
+  orig: 802, 1186
+  offset: 0, 0
+  index: -1
+tunnel
+  rotate: true
+  xy: 2611, 719
+  size: 802, 1164
+  orig: 802, 1164
+  offset: 0, 0
+  index: -1

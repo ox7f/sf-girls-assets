@@ -1,0 +1,21 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Iizuna_Spine_A_Skin1.moc3",
+    "Textures": ["Iizuna_Spine_A_Skin1_Textures/texture_00.png"],
+    "Physics": "live2d.physics3.json",
+    "Motions": {
+      "Idle 1": [
+        {
+          "File": "Iizuna_Spine_A_Skin1_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 1": [
+        {
+          "File": "Iizuna_Spine_A_Skin1_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

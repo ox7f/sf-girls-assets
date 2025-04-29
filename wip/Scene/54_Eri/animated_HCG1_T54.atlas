@@ -1,0 +1,515 @@
+
+animated_HCG1_T54.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JJ 3
+  rotate: false
+  xy: 1277, 3197
+  size: 724, 340
+  orig: 724, 340
+  offset: 0, 0
+  index: -1
+JJ 4
+  rotate: true
+  xy: 2, 3299
+  size: 295, 538
+  orig: 295, 538
+  offset: 0, 0
+  index: -1
+L  nipple
+  rotate: false
+  xy: 614, 3807
+  size: 158, 78
+  orig: 158, 78
+  offset: 0, 0
+  index: -1
+butt 2
+  rotate: true
+  xy: 3000, 2
+  size: 1201, 1065
+  orig: 1201, 1065
+  offset: 0, 0
+  index: -1
+eye 3 ~ 4
+  rotate: false
+  xy: 3029, 3716
+  size: 281, 169
+  orig: 281, 169
+  offset: 0, 0
+  index: -1
+eye brown 1
+  rotate: false
+  xy: 1398, 3551
+  size: 302, 216
+  orig: 302, 216
+  offset: 0, 0
+  index: -1
+eye brown 2
+  rotate: false
+  xy: 2909, 3470
+  size: 323, 244
+  orig: 323, 244
+  offset: 0, 0
+  index: -1
+eye brown 3
+  rotate: false
+  xy: 2151, 3519
+  size: 298, 227
+  orig: 298, 227
+  offset: 0, 0
+  index: -1
+eyes 1
+  rotate: false
+  xy: 3792, 3683
+  size: 298, 202
+  orig: 298, 202
+  offset: 0, 0
+  index: -1
+eyes 2
+  rotate: false
+  xy: 856, 3576
+  size: 310, 213
+  orig: 310, 213
+  offset: 0, 0
+  index: -1
+finger 1 - 1
+  rotate: true
+  xy: 86, 3828
+  size: 57, 112
+  orig: 57, 112
+  offset: 0, 0
+  index: -1
+finger 1 - 1.2
+  rotate: true
+  xy: 2, 3839
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+finger 1 - 2
+  rotate: false
+  xy: 2336, 3748
+  size: 161, 137
+  orig: 161, 137
+  offset: 0, 0
+  index: -1
+finger 1 - 3
+  rotate: false
+  xy: 1267, 3790
+  size: 186, 95
+  orig: 186, 95
+  offset: 0, 0
+  index: -1
+girl hand 4
+  rotate: true
+  xy: 1742, 3768
+  size: 117, 139
+  orig: 117, 139
+  offset: 0, 0
+  index: -1
+girl_L_Arm
+  rotate: false
+  xy: 2438, 3110
+  size: 487, 358
+  orig: 487, 358
+  offset: 0, 0
+  index: -1
+girl_L_Arm - 2 addded
+  rotate: false
+  xy: 413, 3596
+  size: 213, 209
+  orig: 213, 209
+  offset: 0, 0
+  index: -1
+girl_L_FrontArm 1
+  rotate: false
+  xy: 2451, 3478
+  size: 456, 238
+  orig: 456, 238
+  offset: 0, 0
+  index: -1
+girl_L_FrontArm 2
+  rotate: false
+  xy: 1047, 2760
+  size: 536, 435
+  orig: 536, 435
+  offset: 0, 0
+  index: -1
+girl_L_FrontArm 4 - 2
+  rotate: false
+  xy: 3234, 3408
+  size: 373, 289
+  orig: 373, 289
+  offset: 0, 0
+  index: -1
+girl_L_FrontArm 4 -1
+  rotate: true
+  xy: 470, 2806
+  size: 419, 575
+  orig: 419, 575
+  offset: 0, 0
+  index: -1
+girl_L_hand
+  rotate: true
+  xy: 2499, 3718
+  size: 167, 528
+  orig: 167, 528
+  offset: 0, 0
+  index: -1
+girl_L_thigh
+  rotate: true
+  xy: 585, 2153
+  size: 605, 925
+  orig: 605, 925
+  offset: 0, 0
+  index: -1
+girl_R_arm 1-1
+  rotate: true
+  xy: 2927, 3043
+  size: 363, 489
+  orig: 363, 489
+  offset: 0, 0
+  index: -1
+girl_R_arm 1-2
+  rotate: true
+  xy: 1020, 1403
+  size: 634, 905
+  orig: 634, 905
+  offset: 0, 0
+  index: -1
+girl_R_cap
+  rotate: true
+  xy: 2, 1521
+  size: 630, 1016
+  orig: 630, 1016
+  offset: 0, 0
+  index: -1
+girl_R_thigh
+  rotate: false
+  xy: 2624, 1205
+  size: 991, 680
+  orig: 991, 680
+  offset: 0, 0
+  index: -1
+girl_body
+  rotate: false
+  xy: 1895, 372
+  size: 1103, 831
+  orig: 1103, 831
+  offset: 0, 0
+  index: -1
+girl_chest_L
+  rotate: false
+  xy: 3418, 3010
+  size: 463, 368
+  orig: 463, 368
+  offset: 0, 0
+  index: -1
+girl_chest_R
+  rotate: false
+  xy: 2, 2891
+  size: 466, 406
+  orig: 466, 406
+  offset: 0, 0
+  index: -1
+girl_finger
+  rotate: true
+  xy: 332, 3816
+  size: 69, 169
+  orig: 69, 169
+  offset: 0, 0
+  index: -1
+girl_head
+  rotate: true
+  xy: 1585, 2678
+  size: 460, 484
+  orig: 460, 484
+  offset: 0, 0
+  index: -1
+girl_head 2
+  rotate: true
+  xy: 2071, 2648
+  size: 460, 484
+  orig: 460, 484
+  offset: 0, 0
+  index: -1
+girl_head 3
+  rotate: true
+  xy: 2557, 2581
+  size: 460, 484
+  orig: 460, 484
+  offset: 0, 0
+  index: -1
+girl_head 4 - 1
+  rotate: false
+  xy: 933, 3227
+  size: 342, 340
+  orig: 342, 340
+  offset: 0, 0
+  index: -1
+girl_head 4 - 2
+  rotate: true
+  xy: 3043, 2548
+  size: 460, 484
+  orig: 460, 484
+  offset: 0, 0
+  index: -1
+girl_thumb
+  rotate: true
+  xy: 1883, 3758
+  size: 127, 305
+  orig: 127, 305
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 2, 747
+  size: 818, 772
+  orig: 818, 772
+  offset: 0, 0
+  index: -1
+glasses 1 - 1
+  rotate: true
+  xy: 2664, 1887
+  size: 659, 772
+  orig: 659, 772
+  offset: 0, 0
+  index: -1
+glasses 1 - 2
+  rotate: false
+  xy: 1702, 3539
+  size: 447, 217
+  orig: 447, 217
+  offset: 0, 0
+  index: -1
+hair Bang 1
+  rotate: false
+  xy: 628, 3586
+  size: 226, 218
+  orig: 226, 218
+  offset: 0, 0
+  index: -1
+hair Bang 2
+  rotate: true
+  xy: 1065, 3791
+  size: 94, 200
+  orig: 94, 200
+  offset: 0, 0
+  index: -1
+hair Bang 3
+  rotate: false
+  xy: 1594, 3769
+  size: 146, 116
+  orig: 146, 116
+  offset: 0, 0
+  index: -1
+hair Bun 1
+  rotate: true
+  xy: 1168, 3569
+  size: 219, 228
+  orig: 219, 228
+  offset: 0, 0
+  index: -1
+hair Bun 2
+  rotate: true
+  xy: 3312, 3712
+  size: 173, 193
+  orig: 173, 193
+  offset: 0, 0
+  index: -1
+hair crystal 1-1
+  rotate: true
+  xy: 200, 3822
+  size: 63, 130
+  orig: 63, 130
+  offset: 0, 0
+  index: -1
+hair crystal 1-2
+  rotate: true
+  xy: 2190, 3754
+  size: 131, 144
+  orig: 131, 144
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 542, 3242
+  size: 332, 389
+  orig: 332, 389
+  offset: 0, 0
+  index: -1
+hand 2 shdaow
+  rotate: false
+  xy: 3609, 3380
+  size: 361, 301
+  orig: 361, 301
+  offset: 0, 0
+  index: -1
+hari
+  rotate: true
+  xy: 2, 2233
+  size: 571, 581
+  orig: 571, 581
+  offset: 0, 0
+  index: -1
+mouth 1
+  rotate: false
+  xy: 774, 3806
+  size: 102, 79
+  orig: 102, 79
+  offset: 0, 0
+  index: -1
+mouth 2
+  rotate: false
+  xy: 972, 3794
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+mouth 3
+  rotate: false
+  xy: 878, 3797
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+nipple R
+  rotate: true
+  xy: 1455, 3776
+  size: 109, 137
+  orig: 109, 137
+  offset: 0, 0
+  index: -1
+pussy 1 - 1
+  rotate: true
+  xy: 3507, 3699
+  size: 186, 283
+  orig: 186, 283
+  offset: 0, 0
+  index: -1
+pussy 1 - 2
+  rotate: false
+  xy: 503, 3813
+  size: 109, 72
+  orig: 109, 72
+  offset: 0, 0
+  index: -1
+sperm 1
+  rotate: true
+  xy: 2003, 3140
+  size: 377, 433
+  orig: 377, 433
+  offset: 0, 0
+  index: -1
+sperm 2
+  rotate: false
+  xy: 1927, 1371
+  size: 695, 666
+  orig: 695, 666
+  offset: 0, 0
+  index: -1
+tail 1
+  rotate: true
+  xy: 3529, 2288
+  size: 720, 522
+  orig: 720, 522
+  offset: 0, 0
+  index: -1
+tail 2
+  rotate: false
+  xy: 1512, 2039
+  size: 1150, 540
+  orig: 1150, 540
+  offset: 0, 0
+  index: -1
+tail 3
+  rotate: true
+  xy: 822, 651
+  size: 750, 1071
+  orig: 750, 1071
+  offset: 0, 0
+  index: -1
+tail4
+  rotate: false
+  xy: 2, 3615
+  size: 409, 199
+  orig: 409, 199
+  offset: 0, 0
+  index: -1
+
+animated_HCG1_T542.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butt 3
+  rotate: true
+  xy: 2, 2
+  size: 1845, 1065
+  orig: 1845, 1065
+  offset: 0, 0
+  index: -1
+butt 4
+  rotate: true
+  xy: 1069, 2
+  size: 1845, 1065
+  orig: 1845, 1065
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 2136, 174
+  size: 1253, 1166
+  orig: 1253, 1166
+  offset: 0, 0
+  index: -1
+man body  2
+  rotate: false
+  xy: 2248, 1429
+  size: 1448, 2386
+  orig: 1448, 2386
+  offset: 0, 0
+  index: -1
+sit
+  rotate: false
+  xy: 2, 1849
+  size: 2244, 1966
+  orig: 2244, 1966
+  offset: 0, 0
+  index: -1
+
+animated_HCG1_T543.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JJ 2
+  rotate: false
+  xy: 1446, 1590
+  size: 1478, 906
+  orig: 1478, 906
+  offset: 0, 0
+  index: -1
+butt 1
+  rotate: true
+  xy: 1446, 2498
+  size: 1261, 1065
+  orig: 1261, 1065
+  offset: 0, 0
+  index: -1
+man body  3
+  rotate: false
+  xy: 2, 1373
+  size: 1442, 2386
+  orig: 1442, 2386
+  offset: 0, 0
+  index: -1
+man body 1
+  rotate: true
+  xy: 2, 2
+  size: 1369, 2386
+  orig: 1369, 2386
+  offset: 0, 0
+  index: -1
