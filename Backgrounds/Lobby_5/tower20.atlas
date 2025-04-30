@@ -1,0 +1,104 @@
+
+tower20.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firework_1_A
+  rotate: true
+  xy: 1846, 1292
+  size: 162, 147
+  orig: 162, 147
+  offset: 0, 0
+  index: -1
+firework_1_B
+  rotate: false
+  xy: 754, 52
+  size: 650, 449
+  orig: 650, 449
+  offset: 0, 0
+  index: -1
+firework_2_A
+  rotate: false
+  xy: 825, 1123
+  size: 431, 303
+  orig: 431, 303
+  offset: 0, 0
+  index: -1
+firework_2_B
+  rotate: false
+  xy: 825, 1428
+  size: 608, 594
+  orig: 608, 594
+  offset: 0, 0
+  index: -1
+firework_3_A
+  rotate: false
+  xy: 1846, 1151
+  size: 163, 139
+  orig: 163, 139
+  offset: 0, 0
+  index: -1
+firework_3_B
+  rotate: true
+  xy: 754, 503
+  size: 600, 653
+  orig: 600, 653
+  offset: 0, 0
+  index: -1
+firework_4_A
+  rotate: false
+  xy: 1258, 1147
+  size: 307, 279
+  orig: 307, 279
+  offset: 0, 0
+  index: -1
+firework_4_B
+  rotate: false
+  xy: 1409, 503
+  size: 534, 642
+  orig: 534, 642
+  offset: 0, 0
+  index: -1
+firework_5_A
+  rotate: false
+  xy: 1435, 1456
+  size: 587, 566
+  orig: 587, 566
+  offset: 0, 0
+  index: -1
+firework_5_B
+  rotate: false
+  xy: 2, 1105
+  size: 821, 917
+  orig: 821, 917
+  offset: 0, 0
+  index: -1
+firework_6_A
+  rotate: false
+  xy: 1406, 139
+  size: 415, 362
+  orig: 415, 362
+  offset: 0, 0
+  index: -1
+firework_6_B
+  rotate: false
+  xy: 2, 402
+  size: 750, 701
+  orig: 750, 701
+  offset: 0, 0
+  index: -1
+firework_7_A
+  rotate: true
+  xy: 1567, 1201
+  size: 253, 277
+  orig: 253, 277
+  offset: 0, 0
+  index: -1
+firework_8_A
+  rotate: false
+  xy: 1823, 343
+  size: 131, 158
+  orig: 131, 158
+  offset: 0, 0
+  index: -1

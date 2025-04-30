@@ -1,0 +1,104 @@
+
+CAT_Lobby.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_Leg_L_Fornt
+  rotate: false
+  xy: 1749, 104
+  size: 321, 427
+  orig: 321, 427
+  offset: 0, 0
+  index: -1
+1_Leg_R_Back
+  rotate: false
+  xy: 1249, 311
+  size: 413, 703
+  orig: 413, 703
+  offset: 0, 0
+  index: -1
+1_Leg_R_Fornt
+  rotate: false
+  xy: 1664, 533
+  size: 361, 481
+  orig: 361, 481
+  offset: 0, 0
+  index: -1
+1_Tail
+  rotate: true
+  xy: 849, 305
+  size: 709, 398
+  orig: 709, 398
+  offset: 0, 0
+  index: -1
+1_ear_L
+  rotate: false
+  xy: 318, 23
+  size: 91, 136
+  orig: 91, 136
+  offset: 0, 0
+  index: -1
+1_eyelid
+  rotate: false
+  xy: 411, 43
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+1_head
+  rotate: false
+  xy: 2027, 613
+  size: 318, 401
+  orig: 318, 401
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 161
+  size: 845, 853
+  orig: 845, 853
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: true
+  xy: 1137, 81
+  size: 222, 200
+  orig: 222, 200
+  offset: 0, 0
+  index: -1
+scarf1
+  rotate: true
+  xy: 1339, 89
+  size: 220, 408
+  orig: 220, 408
+  offset: 0, 0
+  index: -1
+scarf2
+  rotate: true
+  xy: 645, 56
+  size: 103, 292
+  orig: 103, 292
+  offset: 0, 0
+  index: -1
+scarf3
+  rotate: false
+  xy: 2, 2
+  size: 314, 157
+  orig: 314, 157
+  offset: 0, 0
+  index: -1
+scarf4
+  rotate: true
+  xy: 939, 57
+  size: 246, 196
+  orig: 246, 196
+  offset: 0, 0
+  index: -1
+scarf5
+  rotate: false
+  xy: 849, 221
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
