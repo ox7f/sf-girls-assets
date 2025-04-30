@@ -1,0 +1,21 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Sizuko_Spine_C_Skin2.moc3",
+    "Textures": ["Sizuko_Spine_C_Skin2_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 1": [
+        {
+          "File": "Sizuko_Spine_C_Skin2_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 1": [
+        {
+          "File": "Sizuko_Spine_C_Skin2_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

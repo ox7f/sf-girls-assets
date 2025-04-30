@@ -1,0 +1,291 @@
+
+tower25_hcg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ToolStar
+  rotate: false
+  xy: 1307, 3848
+  size: 303, 230
+  orig: 310, 230
+  offset: 7, 0
+  index: -1
+breast
+  rotate: false
+  xy: 3024, 2414
+  size: 1026, 792
+  orig: 1026, 795
+  offset: 0, 0
+  index: -1
+female_LArm
+  rotate: false
+  xy: 2412, 3775
+  size: 553, 303
+  orig: 554, 316
+  offset: 1, 13
+  index: -1
+female_LFingers
+  rotate: false
+  xy: 1106, 3882
+  size: 199, 196
+  orig: 203, 223
+  offset: 4, 0
+  index: -1
+female_LFirstFinger
+  rotate: true
+  xy: 271, 3993
+  size: 85, 197
+  orig: 86, 197
+  offset: 1, 0
+  index: -1
+female_L_Leg
+  rotate: true
+  xy: 2658, 532
+  size: 1010, 1142
+  orig: 1012, 1142
+  offset: 0, 0
+  index: -1
+female_RArm
+  rotate: true
+  xy: 2908, 3269
+  size: 489, 627
+  orig: 489, 635
+  offset: 0, 0
+  index: -1
+female_RFingers
+  rotate: false
+  xy: 470, 3971
+  size: 129, 107
+  orig: 134, 113
+  offset: 5, 0
+  index: -1
+female_RFnger2
+  rotate: true
+  xy: 2, 4017
+  size: 61, 145
+  orig: 73, 145
+  offset: 12, 0
+  index: -1
+female_R_Leg
+  rotate: false
+  xy: 1692, 1712
+  size: 1179, 866
+  orig: 1179, 866
+  offset: 0, 0
+  index: -1
+female_body
+  rotate: false
+  xy: 2873, 1544
+  size: 915, 868
+  orig: 1053, 868
+  offset: 23, 0
+  index: -1
+female_butt
+  rotate: true
+  xy: 2275, 2580
+  size: 687, 747
+  orig: 687, 750
+  offset: 0, 0
+  index: -1
+female_face
+  rotate: true
+  xy: 1304, 3401
+  size: 437, 452
+  orig: 437, 452
+  offset: 0, 0
+  index: -1
+female_face1
+  rotate: true
+  xy: 3568, 3740
+  size: 338, 353
+  orig: 338, 354
+  offset: 0, 1
+  index: -1
+female_face2
+  rotate: true
+  xy: 397, 3581
+  size: 355, 393
+  orig: 358, 394
+  offset: 3, 0
+  index: -1
+female_face3
+  rotate: true
+  xy: 2, 3638
+  size: 353, 393
+  orig: 358, 394
+  offset: 4, 0
+  index: -1
+female_frontHair1
+  rotate: false
+  xy: 1592, 778
+  size: 1064, 932
+  orig: 1074, 1131
+  offset: 0, 199
+  index: -1
+female_frontHair2
+  rotate: true
+  xy: 3537, 3208
+  size: 530, 555
+  orig: 540, 558
+  offset: 0, 0
+  index: -1
+female_hand
+  rotate: false
+  xy: 1612, 3840
+  size: 283, 238
+  orig: 283, 238
+  offset: 0, 0
+  index: -1
+female_moisture1
+  rotate: false
+  xy: 2, 1158
+  size: 1588, 831
+  orig: 1886, 832
+  offset: 0, 1
+  index: -1
+female_skirt
+  rotate: true
+  xy: 1260, 2669
+  size: 633, 1013
+  orig: 730, 1013
+  offset: 29, 0
+  index: -1
+female_skirtBackhind
+  rotate: true
+  xy: 149, 3994
+  size: 84, 120
+  orig: 84, 120
+  offset: 0, 0
+  index: -1
+female_skirtStrap
+  rotate: false
+  xy: 598, 2804
+  size: 660, 722
+  orig: 694, 722
+  offset: 0, 0
+  index: -1
+female_tool
+  rotate: false
+  xy: 2241, 3304
+  size: 665, 469
+  orig: 665, 472
+  offset: 0, 3
+  index: -1
+hair
+  rotate: true
+  xy: 1758, 3326
+  size: 458, 481
+  orig: 458, 481
+  offset: 0, 0
+  index: -1
+male_Arm
+  rotate: true
+  xy: 2, 2
+  size: 1154, 1336
+  orig: 1154, 1520
+  offset: 0, 0
+  index: -1
+male_RHand
+  rotate: false
+  xy: 792, 3528
+  size: 510, 352
+  orig: 510, 352
+  offset: 0, 0
+  index: -1
+male_body
+  rotate: false
+  xy: 2, 3029
+  size: 594, 550
+  orig: 594, 550
+  offset: 0, 0
+  index: -1
+male_handRoot
+  rotate: false
+  xy: 601, 3938
+  size: 252, 140
+  orig: 252, 142
+  offset: 0, 2
+  index: -1
+male_head
+  rotate: false
+  xy: 2967, 3760
+  size: 599, 318
+  orig: 599, 318
+  offset: 0, 0
+  index: -1
+male_thumbAll
+  rotate: false
+  xy: 855, 3888
+  size: 249, 190
+  orig: 263, 190
+  offset: 0, 0
+  index: -1
+male_ＪＪ
+  rotate: false
+  xy: 1897, 3786
+  size: 513, 292
+  orig: 513, 306
+  offset: 0, 0
+  index: -1
+steam
+  rotate: false
+  xy: 2, 1991
+  size: 1688, 676
+  orig: 1695, 676
+  offset: 5, 0
+  index: -1
+
+tower25_hcg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo
+  rotate: false
+  xy: 2, 1743
+  size: 3283, 1986
+  orig: 3321, 1986
+  offset: 38, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 3253, 1739
+  orig: 3253, 1739
+  offset: 0, 0
+  index: -1
+
+tower25_hcg3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+female_hairTail
+  rotate: true
+  xy: 1638, 2
+  size: 2550, 2033
+  orig: 2550, 2037
+  offset: 0, 4
+  index: -1
+female_moisture2
+  rotate: false
+  xy: 2, 2971
+  size: 1860, 1050
+  orig: 1917, 1050
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 2, 966
+  size: 1634, 2003
+  orig: 1634, 2003
+  offset: 0, 0
+  index: -1
+male_arn&leg
+  rotate: false
+  xy: 1864, 2554
+  size: 1468, 1467
+  orig: 2150, 1658
+  offset: 682, 0
+  index: -1

@@ -1,0 +1,676 @@
+
+51tentacleOUT.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 2, 2858
+  size: 813, 330
+  orig: 813, 338
+  offset: 0, 8
+  index: -1
+belly_in
+  rotate: true
+  xy: 936, 3944
+  size: 64, 112
+  orig: 64, 112
+  offset: 0, 0
+  index: -1
+booba_L
+  rotate: true
+  xy: 2300, 376
+  size: 638, 742
+  orig: 638, 742
+  offset: 0, 0
+  index: -1
+cg1_brows
+  rotate: false
+  xy: 2475, 3928
+  size: 315, 80
+  orig: 315, 80
+  offset: 0, 0
+  index: -1
+cg1_eye_L
+  rotate: false
+  xy: 262, 3951
+  size: 112, 57
+  orig: 114, 58
+  offset: 0, 1
+  index: -1
+cg1_eye_R
+  rotate: false
+  xy: 2053, 3934
+  size: 215, 74
+  orig: 215, 75
+  offset: 0, 0
+  index: -1
+cg1_mouth
+  rotate: true
+  xy: 641, 3818
+  size: 130, 145
+  orig: 201, 174
+  offset: 33, 11
+  index: -1
+cg1_tongue
+  rotate: true
+  xy: 453, 3822
+  size: 127, 186
+  orig: 128, 187
+  offset: 1, 1
+  index: -1
+cg2_brows
+  rotate: false
+  xy: 376, 3951
+  size: 334, 57
+  orig: 334, 57
+  offset: 0, 0
+  index: -1
+cg2_eye_L
+  rotate: false
+  xy: 712, 3950
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+cg2_eye_R
+  rotate: false
+  xy: 1841, 3935
+  size: 210, 73
+  orig: 210, 73
+  offset: 0, 0
+  index: -1
+cg2_lip_bottom
+  rotate: false
+  xy: 2792, 3928
+  size: 105, 80
+  orig: 105, 80
+  offset: 0, 0
+  index: -1
+cg2_lip_upper
+  rotate: false
+  xy: 827, 3945
+  size: 107, 63
+  orig: 109, 63
+  offset: 2, 0
+  index: -1
+cg2_mouth
+  rotate: false
+  xy: 2, 3954
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+cg3_brows
+  rotate: false
+  xy: 1521, 3943
+  size: 318, 65
+  orig: 318, 65
+  offset: 0, 0
+  index: -1
+cg3_mouth
+  rotate: true
+  xy: 2, 3829
+  size: 123, 126
+  orig: 123, 126
+  offset: 0, 0
+  index: -1
+cg3_sperm_head
+  rotate: false
+  xy: 1322, 2712
+  size: 545, 397
+  orig: 545, 397
+  offset: 0, 0
+  index: -1
+cg3_sperm_head2
+  rotate: false
+  xy: 1869, 2645
+  size: 545, 397
+  orig: 545, 397
+  offset: 0, 0
+  index: -1
+cg3_sperm_pp
+  rotate: true
+  xy: 3164, 2073
+  size: 464, 465
+  orig: 464, 675
+  offset: 0, 210
+  index: -1
+cg3_sperm_pp2
+  rotate: true
+  xy: 3363, 3330
+  size: 330, 639
+  orig: 464, 675
+  offset: 96, 0
+  index: -1
+cg3_sperm_west
+  rotate: true
+  xy: 2, 1327
+  size: 503, 698
+  orig: 503, 698
+  offset: 0, 0
+  index: -1
+cg3_teeth
+  rotate: false
+  xy: 68, 3954
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+cg4_brows
+  rotate: false
+  xy: 1050, 3944
+  size: 322, 64
+  orig: 322, 64
+  offset: 0, 0
+  index: -1
+cg4_eye_L
+  rotate: false
+  xy: 170, 3954
+  size: 90, 54
+  orig: 91, 54
+  offset: 0, 0
+  index: -1
+cg4_eye_R
+  rotate: false
+  xy: 2270, 3933
+  size: 203, 75
+  orig: 210, 75
+  offset: 4, 0
+  index: -1
+cg4_mouth
+  rotate: true
+  xy: 3611, 3887
+  size: 121, 170
+  orig: 121, 202
+  offset: 0, 32
+  index: -1
+cg4_sperm_mouth
+  rotate: true
+  xy: 2129, 3727
+  size: 199, 360
+  orig: 199, 360
+  offset: 0, 0
+  index: -1
+cg4_sperm_west
+  rotate: false
+  xy: 3044, 359
+  size: 734, 655
+  orig: 734, 655
+  offset: 0, 0
+  index: -1
+cg4_tongue
+  rotate: true
+  xy: 2899, 3915
+  size: 93, 107
+  orig: 94, 108
+  offset: 1, 0
+  index: -1
+cg4_west
+  rotate: false
+  xy: 2, 3554
+  size: 330, 270
+  orig: 330, 270
+  offset: 0, 0
+  index: -1
+face_base1
+  rotate: true
+  xy: 2, 1832
+  size: 474, 531
+  orig: 474, 531
+  offset: 0, 0
+  index: -1
+face_base2
+  rotate: true
+  xy: 535, 1832
+  size: 474, 531
+  orig: 474, 531
+  offset: 0, 0
+  index: -1
+face_base3
+  rotate: true
+  xy: 1068, 1815
+  size: 474, 531
+  orig: 474, 531
+  offset: 0, 0
+  index: -1
+face_base4
+  rotate: true
+  xy: 1601, 1710
+  size: 474, 531
+  orig: 474, 531
+  offset: 0, 0
+  index: -1
+front_tentacle_M
+  rotate: true
+  xy: 2, 3190
+  size: 307, 872
+  orig: 314, 872
+  offset: 0, 0
+  index: -1
+front_tentacle_R
+  rotate: false
+  xy: 1265, 547
+  size: 1033, 571
+  orig: 1070, 571
+  offset: 37, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 876, 3111
+  size: 1175, 311
+  orig: 1175, 311
+  offset: 0, 0
+  index: -1
+hair_back_B
+  rotate: true
+  xy: 2788, 3696
+  size: 204, 463
+  orig: 204, 463
+  offset: 0, 0
+  index: -1
+hair_back_B2
+  rotate: true
+  xy: 2107, 3408
+  size: 309, 675
+  orig: 309, 675
+  offset: 0, 0
+  index: -1
+hair_back_B3
+  rotate: true
+  xy: 3277, 2539
+  size: 406, 640
+  orig: 406, 640
+  offset: 0, 0
+  index: -1
+hair_back_B4
+  rotate: true
+  xy: 702, 1291
+  size: 522, 620
+  orig: 522, 630
+  offset: 0, 10
+  index: -1
+hair_front_LB
+  rotate: false
+  xy: 1266, 3789
+  size: 159, 153
+  orig: 159, 153
+  offset: 0, 0
+  index: -1
+hair_front_LF
+  rotate: true
+  xy: 1681, 3762
+  size: 170, 446
+  orig: 170, 446
+  offset: 0, 0
+  index: -1
+hair_headphone
+  rotate: true
+  xy: 3519, 3662
+  size: 222, 372
+  orig: 222, 372
+  offset: 0, 0
+  index: -1
+hair_side_L
+  rotate: true
+  xy: 1583, 3424
+  size: 336, 522
+  orig: 336, 522
+  offset: 0, 0
+  index: -1
+hair_side_R
+  rotate: true
+  xy: 450, 2308
+  size: 417, 617
+  orig: 417, 617
+  offset: 0, 0
+  index: -1
+hair_top_B
+  rotate: true
+  xy: 590, 667
+  size: 622, 673
+  orig: 622, 673
+  offset: 0, 0
+  index: -1
+hair_top_F
+  rotate: false
+  xy: 2784, 3363
+  size: 577, 317
+  orig: 577, 317
+  offset: 0, 0
+  index: -1
+hand_L_index
+  rotate: true
+  xy: 3478, 3901
+  size: 107, 131
+  orig: 107, 134
+  offset: 0, 3
+  index: -1
+hand_L_middle
+  rotate: true
+  xy: 3008, 3911
+  size: 97, 171
+  orig: 99, 173
+  offset: 1, 2
+  index: -1
+hand_L_noname
+  rotate: true
+  xy: 3181, 3902
+  size: 106, 166
+  orig: 106, 166
+  offset: 0, 0
+  index: -1
+hand_L_pinky
+  rotate: true
+  xy: 3349, 3902
+  size: 106, 127
+  orig: 106, 127
+  offset: 0, 0
+  index: -1
+hand_L_thumb
+  rotate: false
+  xy: 2491, 3719
+  size: 295, 207
+  orig: 295, 213
+  offset: 0, 6
+  index: -1
+hand_R_arm
+  rotate: true
+  xy: 2309, 2172
+  size: 449, 853
+  orig: 449, 853
+  offset: 0, 0
+  index: -1
+hand_R_hand
+  rotate: true
+  xy: 817, 2727
+  size: 382, 503
+  orig: 382, 503
+  offset: 0, 0
+  index: -1
+hand_R_index
+  rotate: true
+  xy: 130, 3826
+  size: 123, 137
+  orig: 126, 137
+  offset: 0, 0
+  index: -1
+hand_R_middle
+  rotate: true
+  xy: 269, 3826
+  size: 123, 182
+  orig: 123, 182
+  offset: 0, 0
+  index: -1
+hand_R_noname
+  rotate: true
+  xy: 3783, 3886
+  size: 122, 218
+  orig: 122, 218
+  offset: 0, 0
+  index: -1
+hand_R_palm
+  rotate: true
+  xy: 2, 2449
+  size: 407, 446
+  orig: 407, 453
+  offset: 0, 7
+  index: -1
+hand_R_pinky
+  rotate: true
+  xy: 1374, 3944
+  size: 64, 145
+  orig: 64, 145
+  offset: 0, 0
+  index: -1
+hand_R_thumb
+  rotate: true
+  xy: 1427, 3786
+  size: 155, 252
+  orig: 155, 252
+  offset: 0, 0
+  index: -1
+headhpone_R
+  rotate: true
+  xy: 1012, 3800
+  size: 142, 252
+  orig: 142, 252
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1229, 3464
+  size: 320, 352
+  orig: 320, 352
+  offset: 0, 0
+  index: -1
+pp
+  rotate: false
+  xy: 1767, 2186
+  size: 540, 457
+  orig: 673, 534
+  offset: 0, 0
+  index: -1
+ppR_in
+  rotate: false
+  xy: 788, 3801
+  size: 222, 141
+  orig: 222, 141
+  offset: 0, 0
+  index: -1
+pp_hand_L
+  rotate: true
+  xy: 2053, 3044
+  size: 362, 544
+  orig: 372, 544
+  offset: 0, 0
+  index: -1
+ten_L1
+  rotate: true
+  xy: 2416, 2623
+  size: 386, 859
+  orig: 407, 874
+  offset: 0, 0
+  index: -1
+ten_L10
+  rotate: true
+  xy: 2637, 1016
+  size: 570, 986
+  orig: 570, 986
+  offset: 0, 0
+  index: -1
+ten_L2
+  rotate: false
+  xy: 3142, 1588
+  size: 832, 483
+  orig: 832, 483
+  offset: 0, 0
+  index: -1
+ten_L3
+  rotate: false
+  xy: 2, 2
+  size: 850, 663
+  orig: 850, 663
+  offset: 0, 0
+  index: -1
+ten_L4
+  rotate: false
+  xy: 1324, 1177
+  size: 583, 531
+  orig: 583, 531
+  offset: 0, 0
+  index: -1
+ten_L5
+  rotate: true
+  xy: 3403, 2947
+  size: 381, 504
+  orig: 381, 504
+  offset: 0, 0
+  index: -1
+ten_L6
+  rotate: true
+  xy: 1069, 2291
+  size: 419, 696
+  orig: 419, 696
+  offset: 0, 0
+  index: -1
+ten_L7
+  rotate: false
+  xy: 1909, 1120
+  size: 726, 569
+  orig: 726, 663
+  offset: 0, 94
+  index: -1
+ten_L8
+  rotate: true
+  xy: 2599, 3011
+  size: 317, 802
+  orig: 317, 802
+  offset: 0, 0
+  index: -1
+ten_L9
+  rotate: true
+  xy: 677, 3499
+  size: 299, 550
+  orig: 309, 550
+  offset: 10, 0
+  index: -1
+ten_ball
+  rotate: true
+  xy: 2, 751
+  size: 574, 586
+  orig: 574, 586
+  offset: 0, 0
+  index: -1
+tenbelly_up
+  rotate: false
+  xy: 2134, 1691
+  size: 525, 479
+  orig: 528, 479
+  offset: 0, 0
+  index: -1
+tentacle_belly
+  rotate: true
+  xy: 2661, 1645
+  size: 525, 479
+  orig: 528, 479
+  offset: 0, 0
+  index: -1
+west2
+  rotate: false
+  xy: 3253, 3682
+  size: 264, 217
+  orig: 264, 217
+  offset: 0, 0
+  index: -1
+west_1
+  rotate: false
+  xy: 334, 3541
+  size: 341, 275
+  orig: 341, 275
+  offset: 0, 0
+  index: -1
+
+51tentacleOUT2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belly
+  rotate: false
+  xy: 1342, 2395
+  size: 825, 822
+  orig: 825, 822
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2430, 3187
+  size: 960, 810
+  orig: 960, 810
+  offset: 0, 0
+  index: -1
+booba_R
+  rotate: false
+  xy: 2, 3331
+  size: 732, 666
+  orig: 738, 678
+  offset: 0, 7
+  index: -1
+booba_tentacle_LB
+  rotate: false
+  xy: 736, 3219
+  size: 845, 778
+  orig: 845, 778
+  offset: 0, 0
+  index: -1
+booba_tentacle_LF
+  rotate: false
+  xy: 1583, 3219
+  size: 845, 778
+  orig: 845, 778
+  offset: 0, 0
+  index: -1
+foot_L
+  rotate: true
+  xy: 2, 2
+  size: 1367, 1447
+  orig: 1367, 1447
+  offset: 0, 0
+  index: -1
+foot_R
+  rotate: true
+  xy: 2, 2402
+  size: 815, 1338
+  orig: 815, 1452
+  offset: 0, 114
+  index: -1
+front_tentacle_L
+  rotate: false
+  xy: 2, 1371
+  size: 1691, 1022
+  orig: 1691, 1022
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 2169, 2260
+  size: 982, 925
+  orig: 982, 925
+  offset: 0, 0
+  index: -1
+tenloop1
+  rotate: false
+  xy: 1695, 1037
+  size: 1260, 1221
+  orig: 1260, 1221
+  offset: 0, 0
+  index: -1
+
+51tentacleOUT3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom
+  rotate: false
+  xy: 2, 1031
+  size: 2610, 2749
+  orig: 2646, 2763
+  offset: 0, 14
+  index: -1
+foot_up
+  rotate: true
+  xy: 2614, 2
+  size: 1367, 1447
+  orig: 1367, 1447
+  offset: 0, 0
+  index: -1
+man_R
+  rotate: false
+  xy: 2614, 1371
+  size: 1439, 2409
+  orig: 1439, 2409
+  offset: 0, 0
+  index: -1

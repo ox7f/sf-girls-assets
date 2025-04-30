@@ -1,0 +1,243 @@
+
+17radiation.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+air
+  rotate: false
+  xy: 3125, 3152
+  size: 455, 421
+  orig: 455, 421
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 2438, 3185
+  size: 685, 388
+  orig: 685, 388
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2686, 2005
+  size: 1208, 636
+  orig: 1208, 636
+  offset: 0, 0
+  index: -1
+booba_B
+  rotate: false
+  xy: 1772, 3252
+  size: 664, 358
+  orig: 664, 358
+  offset: 0, 0
+  index: -1
+booba_U
+  rotate: false
+  xy: 2162, 3612
+  size: 309, 250
+  orig: 309, 250
+  offset: 0, 0
+  index: -1
+bra
+  rotate: true
+  xy: 3632, 3553
+  size: 309, 417
+  orig: 309, 417
+  offset: 0, 0
+  index: -1
+face1
+  rotate: true
+  xy: 3582, 2901
+  size: 650, 471
+  orig: 650, 471
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 2087, 2676
+  size: 697, 507
+  orig: 2138, 698
+  offset: 1441, 0
+  index: -1
+face3
+  rotate: false
+  xy: 2786, 2643
+  size: 690, 507
+  orig: 690, 507
+  offset: 0, 0
+  index: -1
+facered1
+  rotate: false
+  xy: 1367, 2756
+  size: 718, 494
+  orig: 718, 494
+  offset: 0, 0
+  index: -1
+hair_BL1
+  rotate: true
+  xy: 2, 2286
+  size: 666, 606
+  orig: 666, 606
+  offset: 0, 0
+  index: -1
+hair_BL2
+  rotate: true
+  xy: 3105, 3575
+  size: 287, 525
+  orig: 287, 525
+  offset: 0, 0
+  index: -1
+hair_BR
+  rotate: true
+  xy: 610, 2199
+  size: 555, 949
+  orig: 555, 949
+  offset: 0, 0
+  index: -1
+hair_L1
+  rotate: true
+  xy: 325, 3374
+  size: 329, 374
+  orig: 329, 374
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: true
+  xy: 1280, 3269
+  size: 351, 490
+  orig: 351, 490
+  offset: 0, 0
+  index: -1
+hair_M
+  rotate: true
+  xy: 701, 3316
+  size: 307, 577
+  orig: 307, 577
+  offset: 0, 0
+  index: -1
+hair_R1
+  rotate: true
+  xy: 2473, 3601
+  size: 261, 630
+  orig: 261, 630
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: true
+  xy: 1561, 2055
+  size: 619, 1123
+  orig: 619, 1123
+  offset: 0, 0
+  index: -1
+hair_R2top
+  rotate: true
+  xy: 1447, 3622
+  size: 240, 713
+  orig: 240, 713
+  offset: 0, 0
+  index: -1
+hair_ribbon
+  rotate: true
+  xy: 747, 3633
+  size: 229, 258
+  orig: 229, 258
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 627, 2783
+  size: 484, 738
+  orig: 484, 738
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 1519
+  size: 678, 771
+  orig: 678, 771
+  offset: 0, 0
+  index: -1
+heartheart
+  rotate: false
+  xy: 166, 3719
+  size: 332, 143
+  orig: 332, 143
+  offset: 0, 0
+  index: -1
+juicer
+  rotate: true
+  xy: 2, 3404
+  size: 313, 321
+  orig: 313, 321
+  offset: 0, 0
+  index: -1
+leg_B
+  rotate: false
+  xy: 1514, 1290
+  size: 1969, 713
+  orig: 1969, 734
+  offset: 0, 0
+  index: -1
+leg_U
+  rotate: false
+  xy: 775, 1360
+  size: 737, 837
+  orig: 765, 889
+  offset: 0, 0
+  index: -1
+poolbin
+  rotate: false
+  xy: 2, 2
+  size: 3969, 1286
+  orig: 3973, 1290
+  offset: 2, 2
+  index: -1
+sperm
+  rotate: true
+  xy: 2, 3730
+  size: 132, 162
+  orig: 132, 162
+  offset: 0, 0
+  index: -1
+whale_body
+  rotate: false
+  xy: 2, 2954
+  size: 623, 418
+  orig: 623, 418
+  offset: 0, 0
+  index: -1
+whale_mouth
+  rotate: false
+  xy: 1007, 3625
+  size: 438, 237
+  orig: 438, 237
+  offset: 0, 0
+  index: -1
+whale_ribbon
+  rotate: false
+  xy: 500, 3705
+  size: 245, 157
+  orig: 245, 157
+  offset: 0, 0
+  index: -1
+
+17radiation2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgmove
+  rotate: false
+  xy: 2, 1982
+  size: 3973, 1989
+  orig: 3973, 1989
+  offset: 0, 0
+  index: -1
+man
+  rotate: false
+  xy: 2, 2
+  size: 3408, 1978
+  orig: 3408, 1978
+  offset: 0, 0
+  index: -1

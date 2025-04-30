@@ -1,0 +1,718 @@
+
+52kaja.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ballz
+  rotate: false
+  xy: 2, 3691
+  size: 153, 152
+  orig: 153, 152
+  offset: 0, 0
+  index: -1
+bodyb
+  rotate: false
+  xy: 1129, 542
+  size: 842, 621
+  orig: 842, 621
+  offset: 0, 0
+  index: -1
+bodytop
+  rotate: true
+  xy: 502, 1890
+  size: 477, 620
+  orig: 477, 620
+  offset: 0, 0
+  index: -1
+bodyu
+  rotate: true
+  xy: 2, 716
+  size: 522, 1125
+  orig: 522, 1125
+  offset: 0, 0
+  index: -1
+booba1
+  rotate: false
+  xy: 2399, 1621
+  size: 556, 494
+  orig: 556, 494
+  offset: 0, 0
+  index: -1
+catmanarmL
+  rotate: true
+  xy: 831, 2759
+  size: 360, 466
+  orig: 360, 466
+  offset: 0, 0
+  index: -1
+catmanarmR
+  rotate: true
+  xy: 1124, 1783
+  size: 483, 525
+  orig: 483, 525
+  offset: 0, 0
+  index: -1
+catmanbeer
+  rotate: false
+  xy: 2645, 3593
+  size: 274, 182
+  orig: 274, 182
+  offset: 0, 0
+  index: -1
+catmanear
+  rotate: true
+  xy: 2417, 2131
+  size: 435, 490
+  orig: 435, 490
+  offset: 0, 0
+  index: -1
+catmanfinger
+  rotate: true
+  xy: 1161, 3643
+  size: 163, 165
+  orig: 163, 165
+  offset: 0, 0
+  index: -1
+catmanhair
+  rotate: false
+  xy: 2412, 3341
+  size: 671, 248
+  orig: 671, 248
+  offset: 0, 0
+  index: -1
+catmanhandL
+  rotate: true
+  xy: 1409, 3104
+  size: 267, 555
+  orig: 269, 555
+  offset: 0, 0
+  index: -1
+catmanhandR
+  rotate: false
+  xy: 2, 2835
+  size: 827, 312
+  orig: 827, 312
+  offset: 0, 0
+  index: -1
+earL
+  rotate: true
+  xy: 1117, 3121
+  size: 277, 290
+  orig: 277, 290
+  offset: 0, 0
+  index: -1
+earR
+  rotate: false
+  xy: 2016, 3363
+  size: 394, 244
+  orig: 394, 244
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2957, 1596
+  size: 519, 530
+  orig: 519, 530
+  offset: 0, 0
+  index: -1
+face1_brows
+  rotate: false
+  xy: 3331, 3562
+  size: 379, 190
+  orig: 379, 190
+  offset: 0, 0
+  index: -1
+face1_eye
+  rotate: false
+  xy: 3085, 3306
+  size: 398, 254
+  orig: 398, 254
+  offset: 0, 0
+  index: -1
+face1_mouth
+  rotate: false
+  xy: 169, 3829
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+face2_brows
+  rotate: false
+  xy: 294, 3453
+  size: 401, 214
+  orig: 401, 214
+  offset: 0, 0
+  index: -1
+face2_eye
+  rotate: false
+  xy: 3485, 3279
+  size: 400, 257
+  orig: 400, 257
+  offset: 0, 0
+  index: -1
+face2_mouth
+  rotate: false
+  xy: 542, 3825
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+fingerL
+  rotate: false
+  xy: 2690, 3777
+  size: 142, 114
+  orig: 142, 114
+  offset: 0, 0
+  index: -1
+footL
+  rotate: false
+  xy: 3489, 1479
+  size: 594, 555
+  orig: 610, 578
+  offset: 16, 23
+  index: -1
+hair1
+  rotate: true
+  xy: 1706, 3784
+  size: 107, 242
+  orig: 108, 242
+  offset: 0, 0
+  index: -1
+hair10
+  rotate: false
+  xy: 1572, 3800
+  size: 132, 91
+  orig: 133, 91
+  offset: 1, 0
+  index: -1
+hair11
+  rotate: true
+  xy: 3712, 3538
+  size: 210, 333
+  orig: 210, 333
+  offset: 0, 0
+  index: -1
+hair12
+  rotate: true
+  xy: 2, 3211
+  size: 262, 281
+  orig: 262, 281
+  offset: 0, 0
+  index: -1
+hair13
+  rotate: false
+  xy: 2921, 3591
+  size: 408, 182
+  orig: 408, 182
+  offset: 0, 0
+  index: -1
+hair15
+  rotate: true
+  xy: 3401, 2942
+  size: 335, 414
+  orig: 335, 414
+  offset: 0, 0
+  index: -1
+hair16
+  rotate: true
+  xy: 3240, 3775
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 157, 3687
+  size: 139, 266
+  orig: 139, 266
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 2432, 3605
+  size: 175, 211
+  orig: 175, 211
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 1314, 3400
+  size: 230, 246
+  orig: 230, 246
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: true
+  xy: 699, 3649
+  size: 159, 198
+  orig: 159, 198
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: true
+  xy: 1589, 3609
+  size: 173, 221
+  orig: 173, 221
+  offset: 0, 0
+  index: -1
+hair7
+  rotate: true
+  xy: 1328, 3632
+  size: 166, 259
+  orig: 166, 259
+  offset: 0, 0
+  index: -1
+hair8
+  rotate: false
+  xy: 3897, 3750
+  size: 143, 141
+  orig: 143, 141
+  offset: 0, 0
+  index: -1
+hair9
+  rotate: true
+  xy: 2078, 3782
+  size: 109, 147
+  orig: 109, 147
+  offset: 0, 0
+  index: -1
+hair_ribL
+  rotate: false
+  xy: 1950, 3784
+  size: 126, 107
+  orig: 126, 107
+  offset: 0, 0
+  index: -1
+hairshadow
+  rotate: true
+  xy: 3621, 2036
+  size: 530, 451
+  orig: 530, 451
+  offset: 0, 0
+  index: -1
+hornL
+  rotate: false
+  xy: 2, 1897
+  size: 498, 523
+  orig: 498, 523
+  offset: 0, 0
+  index: -1
+legLcg1
+  rotate: false
+  xy: 2367, 1008
+  size: 1026, 586
+  orig: 1026, 586
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 1973, 385
+  size: 978, 621
+  orig: 978, 621
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 2953, 260
+  size: 978, 621
+  orig: 978, 621
+  offset: 0, 0
+  index: -1
+man2ballz
+  rotate: true
+  xy: 1925, 2183
+  size: 429, 490
+  orig: 429, 490
+  offset: 0, 0
+  index: -1
+man2hand
+  rotate: true
+  xy: 2885, 2568
+  size: 372, 1006
+  orig: 372, 1006
+  offset: 0, 0
+  index: -1
+man2pp
+  rotate: true
+  xy: 2, 1389
+  size: 499, 748
+  orig: 499, 748
+  offset: 0, 0
+  index: -1
+man_Lpp
+  rotate: false
+  xy: 1430, 1165
+  size: 935, 528
+  orig: 1286, 1427
+  offset: 351, 0
+  index: -1
+man_Lthumb
+  rotate: false
+  xy: 899, 3646
+  size: 260, 160
+  orig: 260, 160
+  offset: 0, 0
+  index: -1
+man_R_balll
+  rotate: true
+  xy: 1958, 2643
+  size: 382, 425
+  orig: 382, 425
+  offset: 0, 0
+  index: -1
+man_R_pp
+  rotate: false
+  xy: 502, 2369
+  size: 986, 372
+  orig: 986, 372
+  offset: 0, 0
+  index: -1
+man_Rpp
+  rotate: false
+  xy: 2, 2
+  size: 1017, 712
+  orig: 1027, 723
+  offset: 10, 0
+  index: -1
+palmL
+  rotate: false
+  xy: 637, 3817
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+ppcg1
+  rotate: true
+  xy: 1651, 1695
+  size: 486, 746
+  orig: 486, 746
+  offset: 0, 0
+  index: -1
+ppcg2
+  rotate: true
+  xy: 3395, 883
+  size: 594, 634
+  orig: 594, 634
+  offset: 0, 0
+  index: -1
+rero
+  rotate: false
+  xy: 589, 3149
+  size: 526, 266
+  orig: 526, 266
+  offset: 0, 0
+  index: -1
+rib1
+  rotate: false
+  xy: 1299, 2743
+  size: 657, 359
+  orig: 657, 359
+  offset: 0, 0
+  index: -1
+sperm1
+  rotate: true
+  xy: 697, 3417
+  size: 224, 615
+  orig: 224, 615
+  offset: 0, 0
+  index: -1
+sperm10
+  rotate: true
+  xy: 1490, 2268
+  size: 473, 433
+  orig: 473, 433
+  offset: 0, 0
+  index: -1
+sperm12
+  rotate: false
+  xy: 2227, 3782
+  size: 461, 109
+  orig: 461, 109
+  offset: 0, 0
+  index: -1
+sperm13
+  rotate: false
+  xy: 3368, 3759
+  size: 222, 132
+  orig: 222, 132
+  offset: 0, 0
+  index: -1
+sperm14
+  rotate: false
+  xy: 752, 1240
+  size: 676, 541
+  orig: 676, 541
+  offset: 0, 0
+  index: -1
+sperm15
+  rotate: false
+  xy: 2293, 3027
+  size: 617, 312
+  orig: 617, 312
+  offset: 0, 0
+  index: -1
+sperm16
+  rotate: true
+  xy: 2, 3850
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+sperm17
+  rotate: true
+  xy: 3022, 3777
+  size: 114, 216
+  orig: 114, 216
+  offset: 0, 0
+  index: -1
+sperm18
+  rotate: true
+  xy: 2, 3475
+  size: 210, 290
+  orig: 210, 290
+  offset: 0, 0
+  index: -1
+sperm19
+  rotate: true
+  xy: 2909, 2117
+  size: 449, 710
+  orig: 449, 710
+  offset: 0, 0
+  index: -1
+sperm2
+  rotate: false
+  xy: 425, 3669
+  size: 272, 146
+  orig: 272, 146
+  offset: 0, 0
+  index: -1
+sperm20
+  rotate: false
+  xy: 1562, 3373
+  size: 452, 234
+  orig: 452, 234
+  offset: 0, 0
+  index: -1
+sperm21
+  rotate: false
+  xy: 285, 3188
+  size: 302, 263
+  orig: 302, 263
+  offset: 0, 0
+  index: -1
+sperm22
+  rotate: false
+  xy: 408, 3828
+  size: 132, 63
+  orig: 132, 63
+  offset: 0, 0
+  index: -1
+sperm23
+  rotate: true
+  xy: 1448, 3801
+  size: 90, 122
+  orig: 90, 122
+  offset: 0, 0
+  index: -1
+sperm24
+  rotate: true
+  xy: 723, 3816
+  size: 75, 115
+  orig: 75, 115
+  offset: 0, 0
+  index: -1
+sperm25
+  rotate: true
+  xy: 840, 3810
+  size: 81, 126
+  orig: 81, 126
+  offset: 0, 0
+  index: -1
+sperm26
+  rotate: true
+  xy: 85, 3845
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+sperm27
+  rotate: true
+  xy: 1812, 3609
+  size: 171, 618
+  orig: 171, 618
+  offset: 0, 0
+  index: -1
+sperm3
+  rotate: true
+  xy: 968, 3809
+  size: 82, 108
+  orig: 84, 108
+  offset: 2, 0
+  index: -1
+sperm4
+  rotate: true
+  xy: 1078, 3808
+  size: 83, 264
+  orig: 83, 264
+  offset: 0, 0
+  index: -1
+sperm5
+  rotate: true
+  xy: 3592, 3754
+  size: 137, 303
+  orig: 137, 303
+  offset: 0, 0
+  index: -1
+sperm6
+  rotate: true
+  xy: 2834, 3777
+  size: 114, 186
+  orig: 114, 186
+  offset: 0, 0
+  index: -1
+sperm7
+  rotate: true
+  xy: 265, 3829
+  size: 62, 141
+  orig: 62, 141
+  offset: 0, 0
+  index: -1
+sperm8
+  rotate: false
+  xy: 1344, 3805
+  size: 102, 86
+  orig: 102, 86
+  offset: 0, 0
+  index: -1
+sperm9
+  rotate: true
+  xy: 1966, 3071
+  size: 290, 325
+  orig: 290, 325
+  offset: 0, 0
+  index: -1
+thumbL
+  rotate: true
+  xy: 2912, 2977
+  size: 327, 487
+  orig: 329, 487
+  offset: 2, 0
+  index: -1
+west2
+  rotate: false
+  xy: 2385, 2614
+  size: 498, 411
+  orig: 498, 411
+  offset: 0, 0
+  index: -1
+west2_top
+  rotate: false
+  xy: 2, 2422
+  size: 498, 411
+  orig: 498, 411
+  offset: 0, 0
+  index: -1
+
+52kaja2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cg3spermFR
+  rotate: false
+  xy: 2, 1758
+  size: 2012, 1955
+  orig: 2012, 1955
+  offset: 0, 0
+  index: -1
+fence
+  rotate: false
+  xy: 2, 165
+  size: 3392, 510
+  orig: 3392, 510
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 1574, 685
+  size: 789, 750
+  orig: 789, 750
+  offset: 0, 0
+  index: -1
+man2body
+  rotate: true
+  xy: 2016, 1437
+  size: 1078, 1783
+  orig: 1078, 1783
+  offset: 0, 0
+  index: -1
+man_Lhand
+  rotate: false
+  xy: 3396, 2
+  size: 692, 1433
+  orig: 698, 1433
+  offset: 0, 0
+  index: -1
+man_Lhand2
+  rotate: true
+  xy: 2, 677
+  size: 1079, 1570
+  orig: 1114, 1570
+  offset: 35, 0
+  index: -1
+man_R
+  rotate: true
+  xy: 2016, 2517
+  size: 1196, 1989
+  orig: 1196, 1989
+  offset: 0, 0
+  index: -1
+
+52kaja3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+catmanbase
+  rotate: false
+  xy: 2, 1715
+  size: 2420, 650
+  orig: 2420, 650
+  offset: 0, 0
+  index: -1
+catmanbody
+  rotate: false
+  xy: 2, 2
+  size: 1159, 926
+  orig: 1159, 926
+  offset: 0, 0
+  index: -1
+catmanface
+  rotate: true
+  xy: 3213, 346
+  size: 1189, 868
+  orig: 1189, 868
+  offset: 0, 0
+  index: -1
+cg3spermFL
+  rotate: false
+  xy: 1993, 675
+  size: 1218, 860
+  orig: 1218, 860
+  offset: 0, 0
+  index: -1
+man_L
+  rotate: true
+  xy: 2, 930
+  size: 783, 1989
+  orig: 783, 1989
+  offset: 0, 0
+  index: -1
+sperm11
+  rotate: false
+  xy: 2424, 1537
+  size: 1302, 828
+  orig: 1302, 828
+  offset: 0, 0
+  index: -1

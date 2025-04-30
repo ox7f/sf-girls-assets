@@ -1,0 +1,21 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Sora_Spine_B.moc3",
+    "Textures": ["Sora_Spine_B_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 1": [
+        {
+          "File": "Sora_Spine_B_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 1": [
+        {
+          "File": "Sora_Spine_B_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

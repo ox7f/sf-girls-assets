@@ -1,0 +1,404 @@
+
+blackDragon.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2894, 744
+  size: 701, 654
+  orig: 701, 654
+  offset: 0, 0
+  index: -1
+bodynew_upper
+  rotate: false
+  xy: 2, 908
+  size: 754, 630
+  orig: 754, 706
+  offset: 0, 53
+  index: -1
+booba_L
+  rotate: true
+  xy: 743, 116
+  size: 658, 873
+  orig: 658, 873
+  offset: 0, 0
+  index: -1
+cg2_boobaup_R
+  rotate: true
+  xy: 1618, 44
+  size: 714, 803
+  orig: 714, 803
+  offset: 0, 0
+  index: -1
+cg3_sperm
+  rotate: false
+  xy: 2423, 16
+  size: 879, 726
+  orig: 962, 726
+  offset: 83, 0
+  index: -1
+cg3_sperm2
+  rotate: false
+  xy: 846, 2107
+  size: 769, 555
+  orig: 891, 555
+  offset: 122, 0
+  index: -1
+cg3_sperm_legL
+  rotate: false
+  xy: 140, 3544
+  size: 146, 106
+  orig: 146, 106
+  offset: 0, 0
+  index: -1
+clothes2
+  rotate: false
+  xy: 2, 216
+  size: 739, 690
+  orig: 739, 690
+  offset: 0, 0
+  index: -1
+cum
+  rotate: false
+  xy: 1653, 3433
+  size: 222, 217
+  orig: 222, 217
+  offset: 0, 0
+  index: -1
+earhorn_L
+  rotate: false
+  xy: 2, 2813
+  size: 562, 440
+  orig: 562, 440
+  offset: 0, 0
+  index: -1
+earhorn_R
+  rotate: true
+  xy: 2437, 3425
+  size: 225, 620
+  orig: 225, 620
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 687, 3137
+  size: 436, 305
+  orig: 436, 311
+  offset: 0, 6
+  index: -1
+eye2
+  rotate: false
+  xy: 1536, 3117
+  size: 433, 307
+  orig: 433, 314
+  offset: 0, 7
+  index: -1
+eye3
+  rotate: false
+  xy: 1125, 3136
+  size: 409, 305
+  orig: 409, 305
+  offset: 0, 0
+  index: -1
+face1
+  rotate: true
+  xy: 2, 1621
+  size: 563, 643
+  orig: 563, 643
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 1617, 2023
+  size: 555, 638
+  orig: 555, 638
+  offset: 0, 0
+  index: -1
+face3
+  rotate: true
+  xy: 2257, 1987
+  size: 555, 638
+  orig: 555, 638
+  offset: 0, 0
+  index: -1
+float_horn_L
+  rotate: false
+  xy: 2683, 2544
+  size: 1021, 504
+  orig: 1021, 504
+  offset: 0, 0
+  index: -1
+float_horn_R
+  rotate: true
+  xy: 2, 2186
+  size: 528, 842
+  orig: 528, 842
+  offset: 0, 0
+  index: -1
+foot_L
+  rotate: true
+  xy: 2897, 1984
+  size: 558, 921
+  orig: 558, 921
+  offset: 0, 0
+  index: -1
+hair_back_L
+  rotate: true
+  xy: 1889, 2580
+  size: 506, 792
+  orig: 506, 792
+  offset: 0, 0
+  index: -1
+hair_back_L_top
+  rotate: true
+  xy: 2369, 3088
+  size: 335, 349
+  orig: 335, 349
+  offset: 0, 0
+  index: -1
+hair_back_R
+  rotate: true
+  xy: 3304, 2
+  size: 740, 745
+  orig: 740, 745
+  offset: 0, 0
+  index: -1
+hair_front_L
+  rotate: true
+  xy: 566, 2716
+  size: 418, 781
+  orig: 418, 781
+  offset: 0, 0
+  index: -1
+hair_front_L_B
+  rotate: false
+  xy: 288, 3496
+  size: 331, 154
+  orig: 331, 154
+  offset: 0, 0
+  index: -1
+hair_front_L_L
+  rotate: true
+  xy: 281, 3255
+  size: 231, 404
+  orig: 231, 404
+  offset: 0, 0
+  index: -1
+hair_front_L_mid
+  rotate: false
+  xy: 793, 3451
+  size: 237, 199
+  orig: 237, 199
+  offset: 0, 0
+  index: -1
+hair_front_L_top
+  rotate: true
+  xy: 3059, 3424
+  size: 226, 594
+  orig: 226, 594
+  offset: 0, 0
+  index: -1
+hair_front_M_M
+  rotate: true
+  xy: 2720, 3076
+  size: 346, 450
+  orig: 346, 450
+  offset: 0, 0
+  index: -1
+hair_front_M_sideL
+  rotate: true
+  xy: 1032, 3444
+  size: 206, 410
+  orig: 206, 410
+  offset: 0, 0
+  index: -1
+hair_front_M_sideR
+  rotate: true
+  xy: 3596, 3050
+  size: 369, 386
+  orig: 369, 386
+  offset: 0, 0
+  index: -1
+hair_front_M_top
+  rotate: true
+  xy: 3655, 3421
+  size: 229, 295
+  orig: 229, 295
+  offset: 0, 0
+  index: -1
+hair_front_M_top2
+  rotate: false
+  xy: 2, 3304
+  size: 277, 238
+  orig: 277, 238
+  offset: 0, 0
+  index: -1
+hair_front_R
+  rotate: true
+  xy: 3172, 3060
+  size: 362, 422
+  orig: 362, 422
+  offset: 0, 0
+  index: -1
+hair_shadow
+  rotate: false
+  xy: 647, 1540
+  size: 573, 565
+  orig: 573, 610
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 1830, 1400
+  size: 1071, 582
+  orig: 1071, 582
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 2903, 1400
+  size: 1071, 582
+  orig: 1071, 582
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 758, 776
+  size: 638, 1066
+  orig: 638, 1066
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 1826, 760
+  size: 638, 1066
+  orig: 638, 1066
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 1349, 2664
+  size: 538, 451
+  orig: 538, 451
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 2, 3548
+  size: 102, 136
+  orig: 102, 136
+  offset: 0, 0
+  index: -1
+pp
+  rotate: false
+  xy: 1877, 3426
+  size: 278, 224
+  orig: 278, 224
+  offset: 0, 0
+  index: -1
+pp2
+  rotate: true
+  xy: 1971, 3092
+  size: 332, 396
+  orig: 332, 396
+  offset: 0, 0
+  index: -1
+pp_top
+  rotate: false
+  xy: 2157, 3426
+  size: 278, 224
+  orig: 278, 224
+  offset: 0, 0
+  index: -1
+ppjuice
+  rotate: false
+  xy: 621, 3488
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1
+west2_top
+  rotate: false
+  xy: 1444, 3443
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+west_base
+  rotate: false
+  xy: 1222, 1416
+  size: 606, 605
+  orig: 606, 605
+  offset: 0, 0
+  index: -1
+
+blackDragon2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+booba_R
+  rotate: false
+  xy: 1250, 2
+  size: 810, 757
+  orig: 810, 757
+  offset: 0, 0
+  index: -1
+cg2_boobaup_L
+  rotate: false
+  xy: 2062, 252
+  size: 780, 786
+  orig: 793, 786
+  offset: 0, 0
+  index: -1
+cg2_boobaup_L2
+  rotate: false
+  xy: 2844, 560
+  size: 780, 786
+  orig: 793, 786
+  offset: 0, 0
+  index: -1
+foot_R
+  rotate: false
+  xy: 2, 30
+  size: 1246, 729
+  orig: 1246, 729
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 2353, 2138
+  size: 1922, 1578
+  orig: 1922, 1578
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 2, 2581
+  size: 2349, 1479
+  orig: 2349, 1479
+  offset: 0, 0
+  index: -1
+man
+  rotate: false
+  xy: 2, 761
+  size: 1834, 1818
+  orig: 1834, 1818
+  offset: 0, 0
+  index: -1
+mist
+  rotate: false
+  xy: 2802, 1348
+  size: 1103, 788
+  orig: 1103, 788
+  offset: 0, 0
+  index: -1
+west_base2
+  rotate: false
+  xy: 1838, 1040
+  size: 962, 1096
+  orig: 962, 1096
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,21 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Irina_Spine_C_Wedding.moc3",
+    "Textures": ["Irina_Spine_C_Wedding_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 1": [
+        {
+          "File": "Irina_Spine_C_Wedding_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 1": [
+        {
+          "File": "Irina_Spine_C_Wedding_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

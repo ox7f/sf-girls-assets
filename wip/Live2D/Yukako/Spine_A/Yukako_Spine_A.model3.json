@@ -1,0 +1,21 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Yukako_Spine_A.moc3",
+    "Textures": ["Yukako_Spine_A_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 1": [
+        {
+          "File": "Yukako_Spine_A_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 1": [
+        {
+          "File": "Yukako_Spine_A_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

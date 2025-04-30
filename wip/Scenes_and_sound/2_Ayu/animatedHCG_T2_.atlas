@@ -1,0 +1,312 @@
+
+animatedHCG_T2_.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JJ_liquit
+  rotate: true
+  xy: 2, 3320
+  size: 337, 409
+  orig: 337, 409
+  offset: 0, 0
+  index: -1
+Wall2
+  rotate: false
+  xy: 3111, 3016
+  size: 923, 442
+  orig: 923, 442
+  offset: 0, 0
+  index: -1
+earring
+  rotate: true
+  xy: 2, 3694
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+eyes 1
+  rotate: false
+  xy: 1287, 3556
+  size: 350, 212
+  orig: 350, 212
+  offset: 0, 0
+  index: -1
+eyes 2
+  rotate: false
+  xy: 1639, 3556
+  size: 350, 212
+  orig: 350, 212
+  offset: 0, 0
+  index: -1
+eyes 3
+  rotate: false
+  xy: 1991, 3552
+  size: 351, 216
+  orig: 351, 216
+  offset: 0, 0
+  index: -1
+girl_L_LpwArm
+  rotate: true
+  xy: 1470, 3131
+  size: 396, 1042
+  orig: 396, 1042
+  offset: 0, 0
+  index: -1
+girl_L_UpArm
+  rotate: false
+  xy: 413, 3261
+  size: 495, 349
+  orig: 495, 349
+  offset: 0, 0
+  index: -1
+girl_L_calf
+  rotate: false
+  xy: 2, 2
+  size: 1996, 756
+  orig: 1996, 756
+  offset: 0, 0
+  index: -1
+girl_L_chest
+  rotate: true
+  xy: 2514, 3064
+  size: 439, 595
+  orig: 439, 595
+  offset: 0, 0
+  index: -1
+girl_L_thrith
+  rotate: true
+  xy: 2104, 365
+  size: 692, 1847
+  orig: 692, 1847
+  offset: 0, 0
+  index: -1
+girl_R_LowArm
+  rotate: false
+  xy: 2, 2807
+  size: 516, 452
+  orig: 516, 452
+  offset: 0, 0
+  index: -1
+girl_R_UpArm
+  rotate: false
+  xy: 2, 1613
+  size: 778, 598
+  orig: 778, 598
+  offset: 0, 0
+  index: -1
+girl_R_calf
+  rotate: true
+  xy: 520, 2710
+  size: 419, 1901
+  orig: 419, 1901
+  offset: 0, 0
+  index: -1
+girl_R_chest
+  rotate: true
+  xy: 2, 2311
+  size: 494, 501
+  orig: 494, 501
+  offset: 0, 0
+  index: -1
+girl_VG
+  rotate: true
+  xy: 505, 2213
+  size: 495, 507
+  orig: 495, 507
+  offset: 0, 0
+  index: -1
+girl_face_sweat
+  rotate: true
+  xy: 3161, 3502
+  size: 266, 274
+  orig: 266, 274
+  offset: 0, 0
+  index: -1
+girl_head
+  rotate: false
+  xy: 2221, 2070
+  size: 579, 516
+  orig: 579, 516
+  offset: 0, 0
+  index: -1
+girl_liquid
+  rotate: false
+  xy: 910, 3163
+  size: 558, 391
+  orig: 558, 391
+  offset: 0, 0
+  index: -1
+hair_Tail
+  rotate: true
+  xy: 2889, 3505
+  size: 263, 270
+  orig: 263, 270
+  offset: 0, 0
+  index: -1
+hair_Tail2
+  rotate: false
+  xy: 2606, 3528
+  size: 281, 240
+  orig: 281, 240
+  offset: 0, 0
+  index: -1
+hair_Tail3
+  rotate: true
+  xy: 2, 760
+  size: 644, 2100
+  orig: 644, 2100
+  offset: 0, 0
+  index: -1
+hairs_Bang1
+  rotate: true
+  xy: 3437, 3460
+  size: 308, 555
+  orig: 308, 555
+  offset: 0, 0
+  index: -1
+hairs_Bang2
+  rotate: true
+  xy: 1069, 3595
+  size: 173, 216
+  orig: 173, 216
+  offset: 0, 0
+  index: -1
+hairs_Bang3
+  rotate: true
+  xy: 2344, 3529
+  size: 239, 260
+  orig: 239, 260
+  offset: 0, 0
+  index: -1
+hairs_Bang4
+  rotate: true
+  xy: 81, 3659
+  size: 109, 485
+  orig: 109, 485
+  offset: 0, 0
+  index: -1
+hairs_Bang5
+  rotate: false
+  xy: 881, 3612
+  size: 186, 156
+  orig: 186, 156
+  offset: 0, 0
+  index: -1
+hairs_RT
+  rotate: false
+  xy: 2802, 2046
+  size: 771, 540
+  orig: 771, 540
+  offset: 0, 0
+  index: -1
+male_JJ
+  rotate: true
+  xy: 1499, 1406
+  size: 662, 866
+  orig: 662, 866
+  offset: 0, 0
+  index: -1
+male_JJ_2
+  rotate: true
+  xy: 1014, 2199
+  size: 509, 632
+  orig: 509, 632
+  offset: 0, 0
+  index: -1
+man_L_arm
+  rotate: false
+  xy: 2423, 2588
+  size: 1379, 426
+  orig: 1379, 426
+  offset: 0, 0
+  index: -1
+man_R_arm
+  rotate: false
+  xy: 2367, 1059
+  size: 1140, 985
+  orig: 1140, 985
+  offset: 0, 0
+  index: -1
+man_head
+  rotate: true
+  xy: 782, 1556
+  size: 641, 715
+  orig: 641, 715
+  offset: 0, 0
+  index: -1
+mouth 1
+  rotate: false
+  xy: 568, 3634
+  size: 157, 134
+  orig: 157, 134
+  offset: 0, 0
+  index: -1
+mouth 2
+  rotate: false
+  xy: 727, 3634
+  size: 152, 134
+  orig: 152, 134
+  offset: 0, 0
+  index: -1
+semen
+  rotate: true
+  xy: 1648, 2197
+  size: 511, 571
+  orig: 511, 571
+  offset: 0, 0
+  index: -1
+
+animatedHCG_T2_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wall1
+  rotate: false
+  xy: 2, 1578
+  size: 2955, 1521
+  orig: 2955, 1521
+  offset: 0, 0
+  index: -1
+girl_R_thrith
+  rotate: true
+  xy: 2114, 2
+  size: 1574, 1509
+  orig: 1574, 1509
+  offset: 0, 0
+  index: -1
+man_body
+  rotate: false
+  xy: 2, 41
+  size: 2110, 1535
+  orig: 2110, 1535
+  offset: 0, 0
+  index: -1
+
+animatedHCG_T2_3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl_body
+  rotate: true
+  xy: 1961, 1180
+  size: 1465, 1517
+  orig: 1465, 1517
+  offset: 0, 0
+  index: -1
+hair_Tail4
+  rotate: false
+  xy: 2, 2
+  size: 1937, 1225
+  orig: 1937, 1225
+  offset: 0, 0
+  index: -1
+male_down
+  rotate: false
+  xy: 2, 1229
+  size: 1957, 1416
+  orig: 1957, 1416
+  offset: 0, 0
+  index: -1

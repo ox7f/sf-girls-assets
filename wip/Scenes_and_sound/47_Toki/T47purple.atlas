@@ -1,0 +1,480 @@
+
+T47purple.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_R
+  rotate: true
+  xy: 317, 1090
+  size: 212, 751
+  orig: 212, 751
+  offset: 0, 0
+  index: -1
+arm_cum
+  rotate: true
+  xy: 2, 1633
+  size: 151, 600
+  orig: 151, 600
+  offset: 0, 0
+  index: -1
+belly_cum
+  rotate: true
+  xy: 574, 1356
+  size: 212, 420
+  orig: 212, 420
+  offset: 0, 0
+  index: -1
+belly_juice
+  rotate: false
+  xy: 976, 1759
+  size: 190, 133
+  orig: 190, 133
+  offset: 0, 0
+  index: -1
+body_mid
+  rotate: false
+  xy: 440, 315
+  size: 509, 351
+  orig: 509, 351
+  offset: 0, 0
+  index: -1
+breast_L
+  rotate: true
+  xy: 401, 783
+  size: 305, 382
+  orig: 308, 382
+  offset: 3, 0
+  index: -1
+breast_R
+  rotate: true
+  xy: 2, 2
+  size: 437, 436
+  orig: 437, 436
+  offset: 0, 0
+  index: -1
+breast_cum
+  rotate: false
+  xy: 785, 668
+  size: 352, 322
+  orig: 352, 322
+  offset: 0, 0
+  index: -1
+breast_juice
+  rotate: false
+  xy: 1524, 587
+  size: 414, 340
+  orig: 414, 340
+  offset: 0, 0
+  index: -1
+brows_L
+  rotate: false
+  xy: 48, 1936
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+brows_R
+  rotate: false
+  xy: 790, 1903
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+bubble_L1
+  rotate: true
+  xy: 826, 1776
+  size: 125, 148
+  orig: 125, 148
+  offset: 0, 0
+  index: -1
+bubble_L2
+  rotate: true
+  xy: 1357, 1731
+  size: 148, 173
+  orig: 148, 173
+  offset: 0, 0
+  index: -1
+bubble_L3
+  rotate: false
+  xy: 1083, 1894
+  size: 88, 86
+  orig: 88, 86
+  offset: 0, 0
+  index: -1
+bubble_R1
+  rotate: false
+  xy: 427, 1928
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+bubble_R2
+  rotate: true
+  xy: 1413, 1886
+  size: 94, 106
+  orig: 94, 106
+  offset: 0, 0
+  index: -1
+butt_cum
+  rotate: false
+  xy: 902, 1903
+  size: 179, 77
+  orig: 179, 77
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 627, 1908
+  size: 72, 161
+  orig: 73, 161
+  offset: 1, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 316, 1805
+  size: 121, 129
+  orig: 121, 129
+  offset: 0, 0
+  index: -1
+eye_L3
+  rotate: true
+  xy: 177, 1816
+  size: 117, 137
+  orig: 117, 137
+  offset: 0, 0
+  index: -1
+eye_L4
+  rotate: false
+  xy: 447, 1793
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+eye_L_2
+  rotate: false
+  xy: 1883, 1876
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 1719, 1877
+  size: 162, 103
+  orig: 169, 103
+  offset: 0, 0
+  index: -1
+eye_R3
+  rotate: false
+  xy: 2, 1828
+  size: 173, 106
+  orig: 174, 107
+  offset: 0, 0
+  index: -1
+eye_R4
+  rotate: false
+  xy: 1521, 1881
+  size: 196, 99
+  orig: 199, 104
+  offset: 0, 3
+  index: -1
+eye_R_2
+  rotate: false
+  xy: 1168, 1748
+  size: 187, 137
+  orig: 187, 137
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 1456, 1507
+  size: 190, 302
+  orig: 190, 305
+  offset: 0, 3
+  index: -1
+hair_L_back
+  rotate: false
+  xy: 2, 1422
+  size: 295, 209
+  orig: 295, 209
+  offset: 0, 0
+  index: -1
+hair_L_front
+  rotate: true
+  xy: 1431, 929
+  size: 281, 521
+  orig: 281, 521
+  offset: 0, 0
+  index: -1
+hair_R_back
+  rotate: false
+  xy: 1734, 1212
+  size: 277, 277
+  orig: 277, 277
+  offset: 0, 0
+  index: -1
+hair_R_base
+  rotate: true
+  xy: 1760, 1491
+  size: 206, 277
+  orig: 206, 277
+  offset: 0, 0
+  index: -1
+hair_R_mid
+  rotate: false
+  xy: 865, 1570
+  size: 294, 187
+  orig: 294, 187
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 1161, 1541
+  size: 188, 293
+  orig: 188, 293
+  offset: 0, 0
+  index: -1
+hand_L_cum
+  rotate: false
+  xy: 299, 1400
+  size: 273, 231
+  orig: 273, 240
+  offset: 0, 0
+  index: -1
+hand_finger
+  rotate: false
+  xy: 2, 1953
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+hand_finger_thumb
+  rotate: true
+  xy: 1532, 1723
+  size: 152, 188
+  orig: 152, 188
+  offset: 0, 0
+  index: -1
+hand_juice
+  rotate: true
+  xy: 556, 1919
+  size: 61, 69
+  orig: 61, 218
+  offset: 0, 0
+  index: -1
+hand_male_L
+  rotate: true
+  xy: 951, 205
+  size: 380, 787
+  orig: 380, 814
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 996, 1304
+  size: 235, 429
+  orig: 236, 431
+  offset: 1, 2
+  index: -1
+male_leg
+  rotate: true
+  xy: 1139, 592
+  size: 335, 383
+  orig: 342, 383
+  offset: 7, 0
+  index: -1
+male_leg_cum
+  rotate: true
+  xy: 278, 1935
+  size: 45, 147
+  orig: 45, 147
+  offset: 0, 0
+  index: -1
+milk_L
+  rotate: false
+  xy: 2, 796
+  size: 397, 292
+  orig: 397, 292
+  offset: 0, 0
+  index: -1
+misc
+  rotate: true
+  xy: 1070, 992
+  size: 276, 359
+  orig: 610, 395
+  offset: 0, 0
+  index: -1
+misc_front
+  rotate: false
+  xy: 2, 441
+  size: 436, 340
+  orig: 565, 347
+  offset: 129, 7
+  index: -1
+mouth
+  rotate: true
+  xy: 1269, 1887
+  size: 93, 142
+  orig: 93, 142
+  offset: 0, 0
+  index: -1
+on_breast_cum
+  rotate: true
+  xy: 1722, 1699
+  size: 175, 278
+  orig: 175, 278
+  offset: 0, 0
+  index: -1
+penis
+  rotate: false
+  xy: 574, 1786
+  size: 250, 115
+  orig: 250, 115
+  offset: 0, 0
+  index: -1
+penis_cjuice
+  rotate: false
+  xy: 1173, 1891
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+penis_cum
+  rotate: true
+  xy: 152, 1936
+  size: 44, 124
+  orig: 44, 124
+  offset: 0, 0
+  index: -1
+penis_in
+  rotate: true
+  xy: 1427, 1270
+  size: 235, 305
+  orig: 235, 305
+  offset: 0, 0
+  index: -1
+penis_juice
+  rotate: true
+  xy: 604, 1588
+  size: 186, 259
+  orig: 186, 259
+  offset: 0, 0
+  index: -1
+thigh_cum
+  rotate: false
+  xy: 2, 1155
+  size: 313, 243
+  orig: 318, 299
+  offset: 5, 56
+  index: -1
+thigh_juice
+  rotate: true
+  xy: 484, 1927
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+
+T47purple2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_2
+  rotate: false
+  xy: 1075, 1217
+  size: 941, 675
+  orig: 1023, 776
+  offset: 41, 25
+  index: -1
+face_cum
+  rotate: true
+  xy: 806, 26
+  size: 625, 617
+  orig: 625, 973
+  offset: 0, 356
+  index: -1
+hand_male_R
+  rotate: false
+  xy: 2, 1102
+  size: 1071, 790
+  orig: 1100, 790
+  offset: 7, 0
+  index: -1
+head_male
+  rotate: false
+  xy: 2, 564
+  size: 802, 536
+  orig: 802, 536
+  offset: 0, 0
+  index: -1
+male_belly_cum
+  rotate: true
+  xy: 1425, 189
+  size: 462, 525
+  orig: 462, 525
+  offset: 0, 0
+  index: -1
+milk_R
+  rotate: true
+  xy: 2, 2
+  size: 560, 423
+  orig: 560, 423
+  offset: 0, 0
+  index: -1
+thigh
+  rotate: true
+  xy: 1075, 653
+  size: 562, 824
+  orig: 647, 878
+  offset: 0, 0
+  index: -1
+
+T47purple3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_back
+  rotate: false
+  xy: 478, 23
+  size: 466, 441
+  orig: 466, 441
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: false
+  xy: 828, 466
+  size: 550, 398
+  orig: 550, 398
+  offset: 0, 0
+  index: -1
+butt
+  rotate: false
+  xy: 2, 468
+  size: 824, 396
+  orig: 824, 397
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 41
+  size: 425, 474
+  orig: 426, 491
+  offset: 0, 17
+  index: -1
+hair_R_front
+  rotate: true
+  xy: 946, 2
+  size: 451, 506
+  orig: 668, 506
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 1380, 455
+  size: 409, 467
+  orig: 409, 467
+  offset: 0, 0
+  index: -1

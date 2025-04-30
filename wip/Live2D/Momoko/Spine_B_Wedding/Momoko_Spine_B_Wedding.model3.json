@@ -1,0 +1,21 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Momoko_Spine_B_Wedding.moc3",
+    "Textures": ["Momoko_Spine_B_Wedding_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 1": [
+        {
+          "File": "Momoko_Spine_B_Wedding_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 1": [
+        {
+          "File": "Momoko_Spine_B_Wedding_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

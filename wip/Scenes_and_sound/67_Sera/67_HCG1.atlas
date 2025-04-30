@@ -1,0 +1,572 @@
+
+67_HCG1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Hair
+  rotate: true
+  xy: 1134, 2863
+  size: 133, 309
+  orig: 133, 309
+  offset: 0, 0
+  index: -1
+Arm Hair 2
+  rotate: true
+  xy: 2240, 2975
+  size: 77, 272
+  orig: 77, 272
+  offset: 0, 0
+  index: -1
+Arm Hair 2 _ shaodw
+  rotate: true
+  xy: 1278, 2998
+  size: 54, 238
+  orig: 54, 238
+  offset: 0, 0
+  index: -1
+Arm Hair 3
+  rotate: true
+  xy: 3161, 2949
+  size: 103, 314
+  orig: 103, 314
+  offset: 0, 0
+  index: -1
+Arm Hair 3 _ shaodw
+  rotate: true
+  xy: 2514, 2972
+  size: 80, 221
+  orig: 80, 221
+  offset: 0, 0
+  index: -1
+Arm Hair _ shaodw
+  rotate: true
+  xy: 1518, 2997
+  size: 55, 241
+  orig: 55, 241
+  offset: 0, 0
+  index: -1
+Chest L Milk 1
+  rotate: true
+  xy: 191, 3016
+  size: 36, 222
+  orig: 36, 222
+  offset: 0, 0
+  index: -1
+Chest L Milk 2
+  rotate: true
+  xy: 1066, 2999
+  size: 53, 210
+  orig: 53, 210
+  offset: 0, 0
+  index: -1
+Chest L Milk 3
+  rotate: true
+  xy: 2737, 2966
+  size: 86, 147
+  orig: 86, 147
+  offset: 0, 0
+  index: -1
+Chest L Milk 4
+  rotate: true
+  xy: 2, 2730
+  size: 168, 175
+  orig: 168, 175
+  offset: 0, 0
+  index: -1
+Chest L Milk 5
+  rotate: true
+  xy: 2160, 2979
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+Chest L Milk 6
+  rotate: true
+  xy: 415, 3011
+  size: 41, 108
+  orig: 41, 108
+  offset: 0, 0
+  index: -1
+Chest R Milk 1
+  rotate: false
+  xy: 3015, 2961
+  size: 144, 91
+  orig: 144, 91
+  offset: 0, 0
+  index: -1
+Chest R Milk 2
+  rotate: false
+  xy: 1761, 2994
+  size: 207, 58
+  orig: 207, 58
+  offset: 0, 0
+  index: -1
+Chest R Milk 3
+  rotate: false
+  xy: 2, 3018
+  size: 187, 34
+  orig: 187, 34
+  offset: 0, 0
+  index: -1
+Chest R Milk 4
+  rotate: true
+  xy: 3847, 2494
+  size: 286, 231
+  orig: 286, 231
+  offset: 0, 0
+  index: -1
+Chest R Milk 5
+  rotate: false
+  xy: 3856, 2946
+  size: 151, 106
+  orig: 151, 106
+  offset: 0, 0
+  index: -1
+Chest R Milk 6
+  rotate: false
+  xy: 303, 2894
+  size: 150, 115
+  orig: 150, 115
+  offset: 0, 0
+  index: -1
+Chest R Milk 7
+  rotate: false
+  xy: 162, 2900
+  size: 139, 114
+  orig: 139, 114
+  offset: 0, 0
+  index: -1
+GIrl_Fingers_L
+  rotate: false
+  xy: 1970, 2994
+  size: 188, 58
+  orig: 188, 58
+  offset: 0, 0
+  index: -1
+GIrl_Hand_L
+  rotate: true
+  xy: 397, 2466
+  size: 211, 714
+  orig: 211, 714
+  offset: 0, 0
+  index: -1
+GIrl_Thrumb_L
+  rotate: true
+  xy: 3477, 2949
+  size: 103, 173
+  orig: 103, 173
+  offset: 0, 0
+  index: -1
+Girl _head
+  rotate: true
+  xy: 2, 1267
+  size: 479, 554
+  orig: 479, 554
+  offset: 0, 0
+  index: -1
+Girl_Body
+  rotate: false
+  xy: 2410, 2
+  size: 1013, 731
+  orig: 1013, 731
+  offset: 0, 0
+  index: -1
+Girl_Chest_L
+  rotate: false
+  xy: 2904, 2314
+  size: 327, 268
+  orig: 327, 268
+  offset: 0, 0
+  index: -1
+Girl_Chest_R
+  rotate: true
+  xy: 1102, 2064
+  size: 320, 334
+  orig: 320, 334
+  offset: 0, 0
+  index: -1
+Girl_Hand_R
+  rotate: false
+  xy: 1636, 980
+  size: 572, 556
+  orig: 572, 556
+  offset: 0, 0
+  index: -1
+Girl_Nick
+  rotate: false
+  xy: 2, 2907
+  size: 158, 109
+  orig: 158, 109
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: true
+  xy: 2210, 904
+  size: 598, 869
+  orig: 598, 869
+  offset: 0, 0
+  index: -1
+Hair Back 2
+  rotate: false
+  xy: 3319, 1822
+  size: 402, 395
+  orig: 402, 395
+  offset: 0, 0
+  index: -1
+Hair Back 3
+  rotate: false
+  xy: 2035, 2827
+  size: 385, 146
+  orig: 385, 146
+  offset: 0, 0
+  index: -1
+Hair Back 4
+  rotate: false
+  xy: 1438, 2047
+  size: 391, 337
+  orig: 391, 337
+  offset: 0, 0
+  index: -1
+Hair Bang 1
+  rotate: true
+  xy: 1686, 2848
+  size: 144, 347
+  orig: 144, 347
+  offset: 0, 0
+  index: -1
+Hair Bang 2
+  rotate: true
+  xy: 1421, 2386
+  size: 257, 445
+  orig: 257, 445
+  offset: 0, 0
+  index: -1
+Hair Bang 3
+  rotate: true
+  xy: 430, 1748
+  size: 407, 563
+  orig: 407, 563
+  offset: 0, 0
+  index: -1
+Hair Bang 4
+  rotate: true
+  xy: 3229, 1387
+  size: 433, 666
+  orig: 433, 666
+  offset: 0, 0
+  index: -1
+Hair Bang 4 _ shaodw
+  rotate: true
+  xy: 845, 2865
+  size: 132, 287
+  orig: 132, 287
+  offset: 0, 0
+  index: -1
+Hair Bang 5
+  rotate: true
+  xy: 2950, 2798
+  size: 149, 383
+  orig: 149, 383
+  offset: 0, 0
+  index: -1
+Hair Bang 6
+  rotate: true
+  xy: 3233, 2298
+  size: 270, 363
+  orig: 270, 363
+  offset: 0, 0
+  index: -1
+Hair hat
+  rotate: false
+  xy: 3081, 735
+  size: 1011, 650
+  orig: 1011, 650
+  offset: 0, 0
+  index: -1
+Hiar Star
+  rotate: true
+  xy: 707, 2869
+  size: 130, 136
+  orig: 130, 136
+  offset: 0, 0
+  index: -1
+JJ 1 sperm
+  rotate: false
+  xy: 1563, 236
+  size: 845, 666
+  orig: 845, 666
+  offset: 0, 0
+  index: -1
+JJ 1-2
+  rotate: false
+  xy: 2324, 1950
+  size: 462, 370
+  orig: 462, 370
+  offset: 0, 0
+  index: -1
+JJ 2 sperm 3
+  rotate: true
+  xy: 2886, 2966
+  size: 86, 127
+  orig: 86, 127
+  offset: 0, 0
+  index: -1
+JJ 2 sperm 4
+  rotate: false
+  xy: 2, 2484
+  size: 393, 234
+  orig: 393, 234
+  offset: 0, 0
+  index: -1
+JJ 2 sperm 5
+  rotate: false
+  xy: 1831, 2036
+  size: 491, 341
+  orig: 491, 341
+  offset: 0, 0
+  index: -1
+Man_Background_JJ - 1
+  rotate: false
+  xy: 1433, 2645
+  size: 464, 201
+  orig: 464, 201
+  offset: 0, 0
+  index: -1
+Man_Background_JJ - 2
+  rotate: false
+  xy: 3335, 2788
+  size: 210, 159
+  orig: 210, 159
+  offset: 0, 0
+  index: -1
+Man_Background_cap
+  rotate: false
+  xy: 558, 1149
+  size: 1076, 473
+  orig: 1076, 473
+  offset: 0, 0
+  index: -1
+Pee 1
+  rotate: true
+  xy: 1868, 2379
+  size: 246, 736
+  orig: 246, 736
+  offset: 0, 0
+  index: -1
+Pee 3
+  rotate: true
+  xy: 691, 2692
+  size: 171, 328
+  orig: 171, 328
+  offset: 0, 0
+  index: -1
+Pee 4
+  rotate: false
+  xy: 1021, 2679
+  size: 410, 182
+  orig: 410, 182
+  offset: 0, 0
+  index: -1
+Pee 5
+  rotate: true
+  xy: 1113, 2419
+  size: 258, 306
+  orig: 258, 306
+  offset: 0, 0
+  index: -1
+Sperm 3 - 1
+  rotate: true
+  xy: 1417, 1624
+  size: 410, 626
+  orig: 410, 626
+  offset: 0, 0
+  index: -1
+Sperm 4 - 1
+  rotate: true
+  xy: 2690, 2813
+  size: 151, 258
+  orig: 151, 258
+  offset: 0, 0
+  index: -1
+Sperm 4 - 2
+  rotate: true
+  xy: 798, 3001
+  size: 51, 266
+  orig: 51, 266
+  offset: 0, 0
+  index: -1
+Sperm 4 - 3
+  rotate: true
+  xy: 525, 3008
+  size: 44, 271
+  orig: 44, 271
+  offset: 0, 0
+  index: -1
+Sperm 5 - 1
+  rotate: true
+  xy: 3547, 2782
+  size: 162, 515
+  orig: 162, 515
+  offset: 0, 0
+  index: -1
+Sperm 5 - 2
+  rotate: true
+  xy: 2506, 1504
+  size: 414, 721
+  orig: 414, 721
+  offset: 0, 0
+  index: -1
+Sperm Face
+  rotate: true
+  xy: 2422, 2824
+  size: 146, 266
+  orig: 146, 266
+  offset: 0, 0
+  index: -1
+Sperm Hair Back
+  rotate: true
+  xy: 179, 2720
+  size: 172, 255
+  orig: 172, 255
+  offset: 0, 0
+  index: -1
+Sperm Hat 1
+  rotate: true
+  xy: 3598, 2219
+  size: 273, 374
+  orig: 273, 374
+  offset: 0, 0
+  index: -1
+Sperm Hat 2
+  rotate: true
+  xy: 455, 2891
+  size: 115, 250
+  orig: 115, 250
+  offset: 0, 0
+  index: -1
+Sperm Mouth
+  rotate: true
+  xy: 1445, 2853
+  size: 142, 239
+  orig: 142, 239
+  offset: 0, 0
+  index: -1
+Toy 2
+  rotate: false
+  xy: 2788, 1920
+  size: 529, 376
+  orig: 529, 376
+  offset: 0, 0
+  index: -1
+Toy 2 Sperm
+  rotate: false
+  xy: 436, 2710
+  size: 253, 179
+  orig: 253, 179
+  offset: 0, 0
+  index: -1
+VG 2 - 1
+  rotate: false
+  xy: 995, 1649
+  size: 420, 413
+  orig: 420, 413
+  offset: 0, 0
+  index: -1
+VG 2 - 2
+  rotate: false
+  xy: 2606, 2322
+  size: 296, 260
+  orig: 296, 260
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 2635, 2589
+  size: 226, 222
+  orig: 226, 222
+  offset: 0, 0
+  index: -1
+face 1
+  rotate: false
+  xy: 2, 1780
+  size: 426, 410
+  orig: 426, 410
+  offset: 0, 0
+  index: -1
+face 2
+  rotate: false
+  xy: 2045, 1538
+  size: 459, 410
+  orig: 459, 410
+  offset: 0, 0
+  index: -1
+hair back 5
+  rotate: true
+  xy: 1899, 2627
+  size: 195, 734
+  orig: 195, 734
+  offset: 0, 0
+  index: -1
+hair back 6
+  rotate: true
+  xy: 3310, 2570
+  size: 210, 535
+  orig: 210, 535
+  offset: 0, 0
+  index: -1
+hair back 7
+  rotate: true
+  xy: 2863, 2584
+  size: 212, 445
+  orig: 212, 445
+  offset: 0, 0
+  index: -1
+man_JJ 1
+  rotate: false
+  xy: 2, 482
+  size: 1559, 665
+  orig: 1559, 665
+  offset: 0, 0
+  index: -1
+pee 2
+  rotate: true
+  xy: 2, 2192
+  size: 272, 510
+  orig: 272, 510
+  offset: 0, 0
+  index: -1
+sperm 1
+  rotate: true
+  xy: 3652, 2947
+  size: 105, 202
+  orig: 105, 202
+  offset: 0, 0
+  index: -1
+sperm 2
+  rotate: true
+  xy: 514, 2157
+  size: 307, 586
+  orig: 307, 586
+  offset: 0, 0
+  index: -1
+
+67_HCG12.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Man_Background_body
+  rotate: false
+  xy: 2, 2
+  size: 1675, 1458
+  orig: 1675, 1458
+  offset: 0, 0
+  index: -1
+girl_butt
+  rotate: false
+  xy: 2, 1462
+  size: 2843, 2394
+  orig: 2843, 2394
+  offset: 0, 0
+  index: -1

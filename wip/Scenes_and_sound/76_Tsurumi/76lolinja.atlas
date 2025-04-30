@@ -1,0 +1,488 @@
+
+76lolinja.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+air1
+  rotate: false
+  xy: 2032, 3277
+  size: 374, 310
+  orig: 374, 310
+  offset: 0, 0
+  index: -1
+bed
+  rotate: false
+  xy: 2, 1025
+  size: 2612, 462
+  orig: 2612, 462
+  offset: 0, 0
+  index: -1
+browsL1
+  rotate: false
+  xy: 377, 3848
+  size: 126, 59
+  orig: 126, 59
+  offset: 0, 0
+  index: -1
+browsL2
+  rotate: false
+  xy: 661, 3834
+  size: 142, 73
+  orig: 142, 73
+  offset: 0, 0
+  index: -1
+browsR1
+  rotate: true
+  xy: 2, 3887
+  size: 20, 104
+  orig: 20, 104
+  offset: 0, 0
+  index: -1
+browsR2
+  rotate: true
+  xy: 108, 3883
+  size: 24, 111
+  orig: 24, 111
+  offset: 0, 0
+  index: -1
+cg1_man_finger
+  rotate: true
+  xy: 597, 3011
+  size: 371, 511
+  orig: 371, 511
+  offset: 0, 0
+  index: -1
+cg2_man_hand
+  rotate: true
+  xy: 3453, 3151
+  size: 323, 490
+  orig: 323, 490
+  offset: 0, 0
+  index: -1
+cg2_pp1
+  rotate: true
+  xy: 2816, 3569
+  size: 212, 353
+  orig: 212, 353
+  offset: 0, 0
+  index: -1
+cg3_hand
+  rotate: true
+  xy: 2941, 3243
+  size: 312, 510
+  orig: 312, 510
+  offset: 0, 0
+  index: -1
+cg3_pp
+  rotate: true
+  xy: 3399, 3771
+  size: 136, 222
+  orig: 136, 222
+  offset: 0, 0
+  index: -1
+cg4_sweat_body
+  rotate: false
+  xy: 316, 3857
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+cg4_sweat_body2
+  rotate: true
+  xy: 1498, 3801
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+cg4_sweat_foot
+  rotate: true
+  xy: 505, 3845
+  size: 62, 154
+  orig: 62, 154
+  offset: 0, 0
+  index: -1
+cg4_sweat_leg
+  rotate: true
+  xy: 221, 3873
+  size: 34, 93
+  orig: 34, 93
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: false
+  xy: 2328, 3788
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+eyeL2
+  rotate: false
+  xy: 1610, 3796
+  size: 144, 111
+  orig: 144, 111
+  offset: 0, 0
+  index: -1
+eyeL3
+  rotate: false
+  xy: 1756, 3796
+  size: 144, 111
+  orig: 144, 111
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: true
+  xy: 1367, 3818
+  size: 89, 129
+  orig: 89, 129
+  offset: 0, 0
+  index: -1
+eyeR2
+  rotate: true
+  xy: 882, 3832
+  size: 75, 126
+  orig: 75, 126
+  offset: 0, 0
+  index: -1
+eyeR3
+  rotate: true
+  xy: 1010, 3832
+  size: 75, 126
+  orig: 75, 126
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2708, 2760
+  size: 481, 493
+  orig: 481, 493
+  offset: 0, 0
+  index: -1
+face_red1
+  rotate: false
+  xy: 3848, 3476
+  size: 242, 280
+  orig: 242, 280
+  offset: 0, 0
+  index: -1
+face_red2
+  rotate: true
+  xy: 817, 3384
+  size: 266, 345
+  orig: 266, 345
+  offset: 0, 0
+  index: -1
+foot_L
+  rotate: true
+  xy: 2616, 929
+  size: 880, 1096
+  orig: 880, 1096
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 1110, 2966
+  size: 476, 374
+  orig: 476, 374
+  offset: 0, 0
+  index: -1
+hair_L1
+  rotate: false
+  xy: 3171, 3557
+  size: 364, 212
+  orig: 364, 212
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 940, 3652
+  size: 246, 174
+  orig: 246, 174
+  offset: 0, 0
+  index: -1
+hair_LB
+  rotate: true
+  xy: 2220, 3589
+  size: 195, 331
+  orig: 195, 331
+  offset: 0, 0
+  index: -1
+hair_LB2
+  rotate: true
+  xy: 3090, 3783
+  size: 124, 307
+  orig: 124, 307
+  offset: 0, 0
+  index: -1
+hair_LB_ass1
+  rotate: true
+  xy: 1138, 3828
+  size: 79, 125
+  orig: 79, 125
+  offset: 0, 0
+  index: -1
+hair_LB_ass2
+  rotate: true
+  xy: 1265, 3823
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+hair_LL
+  rotate: false
+  xy: 2, 3104
+  size: 593, 337
+  orig: 593, 337
+  offset: 0, 0
+  index: -1
+hair_LL_ass
+  rotate: true
+  xy: 1902, 3793
+  size: 114, 126
+  orig: 114, 126
+  offset: 0, 0
+  index: -1
+hair_M
+  rotate: true
+  xy: 3537, 3540
+  size: 216, 309
+  orig: 216, 309
+  offset: 0, 0
+  index: -1
+hair_R1
+  rotate: true
+  xy: 1759, 3598
+  size: 193, 459
+  orig: 193, 459
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: true
+  xy: 2030, 3793
+  size: 114, 296
+  orig: 114, 296
+  offset: 0, 0
+  index: -1
+hair_RB
+  rotate: true
+  xy: 1188, 3612
+  size: 182, 569
+  orig: 182, 569
+  offset: 0, 0
+  index: -1
+hair_RB_ass
+  rotate: false
+  xy: 2473, 3786
+  size: 143, 121
+  orig: 143, 121
+  offset: 0, 0
+  index: -1
+hair_ass
+  rotate: true
+  xy: 2258, 2825
+  size: 441, 448
+  orig: 441, 448
+  offset: 0, 0
+  index: -1
+hair_mo
+  rotate: true
+  xy: 2, 3479
+  size: 217, 368
+  orig: 217, 368
+  offset: 0, 0
+  index: -1
+hand_B
+  rotate: true
+  xy: 1545, 3342
+  size: 254, 485
+  orig: 254, 485
+  offset: 0, 0
+  index: -1
+hand_B_clothes
+  rotate: true
+  xy: 3040, 1811
+  size: 787, 1037
+  orig: 787, 1037
+  offset: 0, 0
+  index: -1
+hand_B_clothesB
+  rotate: true
+  xy: 3203, 2600
+  size: 549, 712
+  orig: 549, 712
+  offset: 0, 0
+  index: -1
+hand_B_clothesT
+  rotate: true
+  xy: 165, 3698
+  size: 148, 323
+  orig: 148, 323
+  offset: 0, 0
+  index: -1
+hand_F
+  rotate: true
+  xy: 887, 1489
+  size: 687, 1308
+  orig: 687, 1308
+  offset: 0, 0
+  index: -1
+hand_F2
+  rotate: true
+  xy: 1021, 2178
+  size: 645, 1242
+  orig: 645, 1242
+  offset: 0, 0
+  index: -1
+juice1
+  rotate: true
+  xy: 2747, 3785
+  size: 122, 341
+  orig: 122, 341
+  offset: 0, 0
+  index: -1
+juice2
+  rotate: true
+  xy: 1164, 3377
+  size: 233, 379
+  orig: 233, 379
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 2, 2591
+  size: 418, 1017
+  orig: 418, 1017
+  offset: 0, 0
+  index: -1
+man_head
+  rotate: true
+  xy: 2, 1769
+  size: 820, 883
+  orig: 820, 883
+  offset: 0, 0
+  index: -1
+month3
+  rotate: true
+  xy: 3798, 3758
+  size: 149, 261
+  orig: 149, 261
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 805, 3833
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 2618, 3786
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1
+mouth2_water
+  rotate: false
+  xy: 2, 3725
+  size: 161, 156
+  orig: 161, 156
+  offset: 0, 0
+  index: -1
+pants
+  rotate: true
+  xy: 1588, 2896
+  size: 379, 668
+  orig: 379, 668
+  offset: 0, 0
+  index: -1
+pillow
+  rotate: true
+  xy: 2265, 2007
+  size: 751, 773
+  orig: 751, 773
+  offset: 0, 0
+  index: -1
+sperm_body
+  rotate: true
+  xy: 372, 3443
+  size: 218, 443
+  orig: 218, 443
+  offset: 0, 0
+  index: -1
+sperm_leg
+  rotate: false
+  xy: 2553, 3575
+  size: 261, 208
+  orig: 261, 208
+  offset: 0, 0
+  index: -1
+sperm_out
+  rotate: true
+  xy: 2408, 3268
+  size: 299, 531
+  orig: 299, 531
+  offset: 0, 0
+  index: -1
+sperm_pool
+  rotate: false
+  xy: 490, 3663
+  size: 448, 167
+  orig: 448, 167
+  offset: 0, 0
+  index: -1
+sperm_underwear
+  rotate: false
+  xy: 3623, 3769
+  size: 173, 138
+  orig: 173, 138
+  offset: 0, 0
+  index: -1
+wing_L
+  rotate: true
+  xy: 2, 108
+  size: 915, 1241
+  orig: 915, 1241
+  offset: 0, 0
+  index: -1
+wing_R
+  rotate: true
+  xy: 1245, 2
+  size: 1021, 1125
+  orig: 1021, 1125
+  offset: 0, 0
+  index: -1
+
+76lolinja2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 1199, 1434
+  orig: 1199, 1434
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 1203, 2
+  size: 1199, 1434
+  orig: 1199, 1434
+  offset: 0, 0
+  index: -1
+body_clothes
+  rotate: true
+  xy: 2404, 77
+  size: 1359, 1142
+  orig: 1359, 1142
+  offset: 0, 0
+  index: -1
+lights
+  rotate: false
+  xy: 2, 1438
+  size: 3336, 2437
+  orig: 3336, 2437
+  offset: 0, 0
+  index: -1

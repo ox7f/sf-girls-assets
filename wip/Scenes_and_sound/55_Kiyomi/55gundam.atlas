@@ -1,0 +1,439 @@
+
+55gundam.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ankle
+  rotate: false
+  xy: 2516, 3177
+  size: 418, 344
+  orig: 418, 344
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: true
+  xy: 964, 2842
+  size: 428, 471
+  orig: 428, 471
+  offset: 0, 0
+  index: -1
+arm_L2
+  rotate: true
+  xy: 1437, 2834
+  size: 428, 471
+  orig: 428, 471
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1742, 1777
+  size: 1264, 813
+  orig: 1264, 813
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2, 1383
+  size: 1264, 813
+  orig: 1264, 813
+  offset: 0, 0
+  index: -1
+body_sha
+  rotate: true
+  xy: 2, 2
+  size: 1379, 1120
+  orig: 1379, 1120
+  offset: 0, 0
+  index: -1
+booba_L
+  rotate: true
+  xy: 2617, 3523
+  size: 282, 368
+  orig: 282, 368
+  offset: 0, 0
+  index: -1
+booba_L2
+  rotate: true
+  xy: 2987, 3514
+  size: 282, 368
+  orig: 282, 368
+  offset: 0, 0
+  index: -1
+booba_R1
+  rotate: false
+  xy: 1266, 3272
+  size: 384, 309
+  orig: 384, 309
+  offset: 0, 0
+  index: -1
+booba_R2
+  rotate: false
+  xy: 1652, 3264
+  size: 384, 309
+  orig: 384, 309
+  offset: 0, 0
+  index: -1
+bottom2
+  rotate: false
+  xy: 2, 3416
+  size: 334, 291
+  orig: 334, 295
+  offset: 0, 4
+  index: -1
+bottomup2
+  rotate: false
+  xy: 338, 3400
+  size: 334, 291
+  orig: 334, 295
+  offset: 0, 4
+  index: -1
+cg1_eye
+  rotate: false
+  xy: 2988, 3801
+  size: 257, 167
+  orig: 257, 167
+  offset: 0, 0
+  index: -1
+cg1_mouth
+  rotate: true
+  xy: 248, 3915
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+cg2_mouth
+  rotate: false
+  xy: 309, 3915
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+cg2_tongue
+  rotate: true
+  xy: 130, 3923
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+cg3_eye
+  rotate: false
+  xy: 2550, 3811
+  size: 244, 157
+  orig: 244, 157
+  offset: 0, 0
+  index: -1
+cg3_mouth
+  rotate: false
+  xy: 179, 3918
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+cg3_mouthwater
+  rotate: true
+  xy: 2, 3942
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2936, 3160
+  size: 352, 363
+  orig: 352, 363
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: true
+  xy: 3301, 3134
+  size: 352, 363
+  orig: 352, 363
+  offset: 0, 0
+  index: -1
+face_3
+  rotate: true
+  xy: 3666, 3134
+  size: 352, 363
+  orig: 352, 363
+  offset: 0, 0
+  index: -1
+face_shadow
+  rotate: true
+  xy: 494, 2968
+  size: 371, 468
+  orig: 374, 510
+  offset: 0, 42
+  index: -1
+foot_L
+  rotate: false
+  xy: 3320, 2282
+  size: 634, 850
+  orig: 634, 856
+  offset: 0, 6
+  index: -1
+foot_L2
+  rotate: true
+  xy: 890, 2198
+  size: 634, 850
+  orig: 634, 856
+  offset: 0, 6
+  index: -1
+foot_R
+  rotate: false
+  xy: 2432, 2592
+  size: 886, 540
+  orig: 886, 540
+  offset: 0, 0
+  index: -1
+foot_R2
+  rotate: false
+  xy: 2, 2426
+  size: 886, 540
+  orig: 886, 540
+  offset: 0, 0
+  index: -1
+hair_L1
+  rotate: true
+  xy: 2, 3042
+  size: 356, 490
+  orig: 356, 490
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: true
+  xy: 2038, 3228
+  size: 326, 476
+  orig: 326, 476
+  offset: 0, 0
+  index: -1
+hair_L3
+  rotate: true
+  xy: 373, 3914
+  size: 54, 251
+  orig: 54, 251
+  offset: 0, 0
+  index: -1
+hair_L4
+  rotate: true
+  xy: 626, 3905
+  size: 63, 219
+  orig: 64, 220
+  offset: 1, 1
+  index: -1
+hair_L5
+  rotate: true
+  xy: 977, 3891
+  size: 77, 197
+  orig: 77, 197
+  offset: 0, 0
+  index: -1
+hair_LL1
+  rotate: true
+  xy: 2171, 3818
+  size: 150, 206
+  orig: 150, 206
+  offset: 0, 0
+  index: -1
+hair_LL2
+  rotate: true
+  xy: 680, 3676
+  size: 227, 233
+  orig: 227, 233
+  offset: 0, 0
+  index: -1
+hair_R1
+  rotate: true
+  xy: 3650, 3769
+  size: 199, 204
+  orig: 200, 204
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 3856, 3769
+  size: 215, 199
+  orig: 215, 199
+  offset: 0, 0
+  index: -1
+hair_R3
+  rotate: true
+  xy: 3449, 3795
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: -1
+hair_R4
+  rotate: false
+  xy: 3247, 3798
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+hair_R5
+  rotate: false
+  xy: 2796, 3807
+  size: 190, 161
+  orig: 190, 161
+  offset: 0, 0
+  index: -1
+hair_R6
+  rotate: false
+  xy: 2379, 3815
+  size: 169, 153
+  orig: 169, 153
+  offset: 0, 0
+  index: -1
+hair_R7
+  rotate: false
+  xy: 1539, 3841
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+hair_RR1
+  rotate: true
+  xy: 915, 3627
+  size: 262, 227
+  orig: 262, 227
+  offset: 0, 0
+  index: -1
+hair_RR2
+  rotate: false
+  xy: 1911, 3575
+  size: 331, 241
+  orig: 331, 241
+  offset: 0, 0
+  index: -1
+hair_RR3
+  rotate: false
+  xy: 1144, 3622
+  size: 310, 226
+  orig: 310, 226
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 847, 3905
+  size: 128, 63
+  orig: 128, 63
+  offset: 0, 0
+  index: -1
+hair_base
+  rotate: true
+  xy: 1670, 3823
+  size: 145, 319
+  orig: 145, 340
+  offset: 0, 21
+  index: -1
+hair_tail1
+  rotate: false
+  xy: 2, 3709
+  size: 432, 203
+  orig: 432, 203
+  offset: 0, 0
+  index: -1
+hair_tail2
+  rotate: false
+  xy: 1176, 3850
+  size: 361, 118
+  orig: 361, 118
+  offset: 0, 0
+  index: -1
+hair_tail3
+  rotate: true
+  xy: 1910, 2709
+  size: 517, 520
+  orig: 524, 523
+  offset: 7, 0
+  index: -1
+hair_tail4
+  rotate: true
+  xy: 1456, 3583
+  size: 238, 453
+  orig: 245, 463
+  offset: 0, 10
+  index: -1
+hair_tail5
+  rotate: true
+  xy: 50, 3932
+  size: 36, 78
+  orig: 37, 80
+  offset: 1, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 3357, 3488
+  size: 590, 279
+  orig: 590, 279
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 674, 3341
+  size: 590, 279
+  orig: 590, 279
+  offset: 0, 0
+  index: -1
+man
+  rotate: true
+  xy: 2746, 646
+  size: 1129, 1192
+  orig: 1129, 1192
+  offset: 0, 0
+  index: -1
+man_back
+  rotate: false
+  xy: 1268, 811
+  size: 1476, 964
+  orig: 1476, 964
+  offset: 0, 0
+  index: -1
+pp1
+  rotate: true
+  xy: 2244, 3556
+  size: 253, 371
+  orig: 253, 371
+  offset: 0, 0
+  index: -1
+pp2
+  rotate: false
+  xy: 436, 3693
+  size: 242, 210
+  orig: 242, 210
+  offset: 0, 0
+  index: -1
+sperm
+  rotate: true
+  xy: 1991, 3819
+  size: 149, 178
+  orig: 149, 178
+  offset: 0, 0
+  index: -1
+
+55gundam2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand_R
+  rotate: false
+  xy: 2, 1896
+  size: 2488, 1892
+  orig: 2488, 1892
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 2, 2
+  size: 2488, 1892
+  orig: 2488, 1892
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 2492, 1317
+  size: 2471, 1340
+  orig: 2471, 1340
+  offset: 0, 0
+  index: -1

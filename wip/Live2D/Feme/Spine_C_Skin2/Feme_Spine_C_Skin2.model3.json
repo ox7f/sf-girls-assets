@@ -1,0 +1,27 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Feme_Spine_C_Skin2.moc3",
+    "Textures": ["Feme_Spine_C_Skin2_Textures/texture_00.png"],
+    "Physics": null,
+    "Motions": {
+      "Idle 1": [
+        {
+          "File": "Feme_Spine_C_Skin2_Motions/Idle.motion3.json"
+        }
+      ],
+      "Touch 1": [
+        {
+          "File": "Feme_Spine_C_Skin2_Motions/Touch.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": ["ParamEyeROpen", "ParamEyeLOpen"]
+    }
+  ]
+}

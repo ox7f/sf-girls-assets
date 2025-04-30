@@ -1,0 +1,333 @@
+
+HCG_yellowDrill.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2286, 2
+  size: 1240, 1084
+  orig: 1240, 1084
+  offset: 0, 0
+  index: -1
+duck_base
+  rotate: false
+  xy: 614, 2165
+  size: 678, 530
+  orig: 678, 530
+  offset: 0, 0
+  index: -1
+duck_hand_B
+  rotate: true
+  xy: 2, 3147
+  size: 277, 378
+  orig: 277, 378
+  offset: 0, 0
+  index: -1
+duck_hand_U
+  rotate: true
+  xy: 2245, 3302
+  size: 210, 222
+  orig: 210, 222
+  offset: 0, 0
+  index: -1
+duck_head
+  rotate: false
+  xy: 1290, 211
+  size: 994, 908
+  orig: 994, 908
+  offset: 0, 0
+  index: -1
+duck_leg_B
+  rotate: false
+  xy: 2977, 2496
+  size: 619, 482
+  orig: 619, 482
+  offset: 0, 0
+  index: -1
+duck_leg_U
+  rotate: false
+  xy: 2, 2273
+  size: 610, 527
+  orig: 610, 527
+  offset: 0, 0
+  index: -1
+duck_stomach
+  rotate: true
+  xy: 774, 1230
+  size: 736, 849
+  orig: 736, 849
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 3360, 3281
+  size: 231, 509
+  orig: 231, 509
+  offset: 0, 0
+  index: -1
+eyes2
+  rotate: true
+  xy: 382, 3133
+  size: 232, 526
+  orig: 232, 526
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1294, 1968
+  size: 749, 653
+  orig: 749, 653
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 2045, 1918
+  size: 749, 653
+  orig: 749, 653
+  offset: 0, 0
+  index: -1
+hair_B_mid
+  rotate: false
+  xy: 910, 3123
+  size: 515, 235
+  orig: 515, 235
+  offset: 0, 0
+  index: -1
+hair_B_top
+  rotate: true
+  xy: 2304, 3002
+  size: 287, 670
+  orig: 287, 670
+  offset: 0, 0
+  index: -1
+hair_B_top2
+  rotate: true
+  xy: 1413, 2623
+  size: 405, 754
+  orig: 405, 754
+  offset: 0, 0
+  index: -1
+hair_Back
+  rotate: false
+  xy: 1625, 1121
+  size: 811, 795
+  orig: 811, 810
+  offset: 0, 0
+  index: -1
+hair_MID
+  rotate: false
+  xy: 3283, 2980
+  size: 414, 299
+  orig: 414, 299
+  offset: 0, 0
+  index: -1
+hair_U_mid
+  rotate: false
+  xy: 2961, 3291
+  size: 397, 221
+  orig: 397, 221
+  offset: 0, 0
+  index: -1
+hair_U_top
+  rotate: false
+  xy: 2469, 3300
+  size: 490, 212
+  orig: 490, 212
+  offset: 0, 0
+  index: -1
+leg_U
+  rotate: true
+  xy: 2438, 1088
+  size: 731, 1286
+  orig: 760, 1286
+  offset: 29, 0
+  index: -1
+leg_U2
+  rotate: true
+  xy: 2, 493
+  size: 735, 1286
+  orig: 764, 1286
+  offset: 29, 0
+  index: -1
+penis
+  rotate: true
+  xy: 795, 2697
+  size: 424, 616
+  orig: 424, 616
+  offset: 0, 0
+  index: -1
+semen_B
+  rotate: false
+  xy: 1540, 3346
+  size: 195, 166
+  orig: 195, 166
+  offset: 0, 0
+  index: -1
+semen_B2
+  rotate: false
+  xy: 2, 3433
+  size: 282, 79
+  orig: 282, 79
+  offset: 0, 0
+  index: -1
+semen_U
+  rotate: false
+  xy: 1737, 3346
+  size: 217, 166
+  orig: 217, 166
+  offset: 0, 0
+  index: -1
+semen_U2
+  rotate: true
+  xy: 925, 3366
+  size: 146, 422
+  orig: 146, 422
+  offset: 0, 0
+  index: -1
+semen_arm
+  rotate: true
+  xy: 1427, 3091
+  size: 253, 434
+  orig: 253, 434
+  offset: 0, 0
+  index: -1
+semen_base
+  rotate: false
+  xy: 2976, 2991
+  size: 305, 298
+  orig: 352, 327
+  offset: 0, 0
+  index: -1
+semen_duckhead
+  rotate: false
+  xy: 434, 3367
+  size: 298, 145
+  orig: 298, 145
+  offset: 0, 0
+  index: -1
+semen_face1
+  rotate: false
+  xy: 286, 3426
+  size: 146, 86
+  orig: 146, 86
+  offset: 0, 0
+  index: -1
+semen_face2
+  rotate: true
+  xy: 1956, 3313
+  size: 199, 287
+  orig: 199, 287
+  offset: 0, 0
+  index: -1
+semen_face3
+  rotate: true
+  xy: 2, 2818
+  size: 313, 422
+  orig: 313, 422
+  offset: 0, 0
+  index: -1
+semen_west
+  rotate: false
+  xy: 1349, 3360
+  size: 189, 152
+  orig: 189, 158
+  offset: 0, 0
+  index: -1
+semen_west2
+  rotate: false
+  xy: 734, 3367
+  size: 189, 145
+  orig: 189, 158
+  offset: 0, 0
+  index: -1
+semen_westpool
+  rotate: true
+  xy: 1863, 3030
+  size: 270, 439
+  orig: 357, 502
+  offset: 87, 0
+  index: -1
+semenpool
+  rotate: true
+  xy: 2169, 2573
+  size: 416, 806
+  orig: 416, 806
+  offset: 0, 0
+  index: -1
+west2
+  rotate: false
+  xy: 3699, 2957
+  size: 389, 322
+  orig: 389, 322
+  offset: 0, 0
+  index: -1
+west_base
+  rotate: false
+  xy: 426, 2802
+  size: 367, 329
+  orig: 698, 770
+  offset: 0, 36
+  index: -1
+west_upper
+  rotate: true
+  xy: 2796, 1821
+  size: 673, 770
+  orig: 673, 770
+  offset: 0, 0
+  index: -1
+west_upper2
+  rotate: true
+  xy: 2, 1490
+  size: 673, 770
+  orig: 673, 770
+  offset: 0, 0
+  index: -1
+
+HCG_yellowDrill2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leg_B
+  rotate: false
+  xy: 2383, 2042
+  size: 1246, 1192
+  orig: 1351, 1192
+  offset: 105, 0
+  index: -1
+leg_B2
+  rotate: false
+  xy: 1135, 2042
+  size: 1246, 1192
+  orig: 1351, 1192
+  offset: 105, 0
+  index: -1
+lower_body
+  rotate: false
+  xy: 2, 2120
+  size: 1131, 1114
+  orig: 1131, 1114
+  offset: 0, 0
+  index: -1
+man
+  rotate: true
+  xy: 2, 2
+  size: 2038, 2837
+  orig: 2038, 2861
+  offset: 0, 24
+  index: -1
+
+HCG_yellowDrill3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 3973, 2051
+  orig: 3973, 2051
+  offset: 0, 0
+  index: -1

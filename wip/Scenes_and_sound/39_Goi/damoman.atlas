@@ -1,0 +1,438 @@
+
+damoman.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: true
+  xy: 749, 1108
+  size: 266, 519
+  orig: 266, 519
+  offset: 0, 0
+  index: -1
+black_cg5
+  rotate: true
+  xy: 807, 1617
+  size: 144, 145
+  orig: 144, 145
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: true
+  xy: 1613, 555
+  size: 454, 423
+  orig: 463, 423
+  offset: 9, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 431, 1631
+  size: 167, 142
+  orig: 170, 144
+  offset: 0, 0
+  index: -1
+boob_L
+  rotate: true
+  xy: 1270, 1038
+  size: 292, 306
+  orig: 292, 306
+  offset: 0, 0
+  index: -1
+boob_R
+  rotate: false
+  xy: 857, 1407
+  size: 188, 184
+  orig: 188, 223
+  offset: 0, 39
+  index: -1
+boob_clothes
+  rotate: false
+  xy: 1532, 1332
+  size: 412, 224
+  orig: 412, 224
+  offset: 0, 0
+  index: -1
+eye_cg1
+  rotate: true
+  xy: 958, 1752
+  size: 93, 125
+  orig: 93, 125
+  offset: 0, 0
+  index: -1
+eye_cg2
+  rotate: true
+  xy: 830, 1763
+  size: 82, 126
+  orig: 82, 126
+  offset: 0, 0
+  index: -1
+eye_cg4
+  rotate: false
+  xy: 1195, 1748
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+eye_cg5
+  rotate: true
+  xy: 501, 1775
+  size: 70, 111
+  orig: 70, 111
+  offset: 0, 0
+  index: -1
+eyecon_cg1
+  rotate: false
+  xy: 74, 1813
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+eyecon_cg2
+  rotate: false
+  xy: 2, 1826
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+eyecon_cg4
+  rotate: true
+  xy: 112, 1813
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+face1
+  rotate: true
+  xy: 779, 733
+  size: 373, 415
+  orig: 373, 421
+  offset: 0, 6
+  index: -1
+face2
+  rotate: true
+  xy: 1196, 636
+  size: 373, 415
+  orig: 373, 421
+  offset: 0, 6
+  index: -1
+face_red
+  rotate: false
+  xy: 727, 1764
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+finger_back
+  rotate: true
+  xy: 245, 1790
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+hair_L1
+  rotate: true
+  xy: 614, 1768
+  size: 77, 111
+  orig: 77, 111
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 1444, 1731
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+hair_base
+  rotate: true
+  xy: 2, 1220
+  size: 238, 291
+  orig: 238, 329
+  offset: 0, 38
+  index: -1
+hair_mid
+  rotate: true
+  xy: 485, 1438
+  size: 177, 370
+  orig: 177, 370
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 1104, 230
+  size: 404, 500
+  orig: 404, 500
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 433, 764
+  size: 342, 344
+  orig: 342, 344
+  offset: 0, 0
+  index: -1
+juice_cg3
+  rotate: true
+  xy: 248, 1460
+  size: 169, 235
+  orig: 169, 235
+  offset: 0, 0
+  index: -1
+juice_cg4
+  rotate: true
+  xy: 194, 1649
+  size: 134, 235
+  orig: 236, 299
+  offset: 68, 40
+  index: -1
+juice_font_cg5
+  rotate: true
+  xy: 1200, 1581
+  size: 147, 618
+  orig: 187, 618
+  offset: 0, 0
+  index: -1
+juice_move_cg3
+  rotate: false
+  xy: 1085, 1749
+  size: 108, 96
+  orig: 108, 96
+  offset: 0, 0
+  index: -1
+juicem_1_cg4
+  rotate: true
+  xy: 27, 1814
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+juicem_2_cg4
+  rotate: true
+  xy: 1296, 1748
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+juicem_3_cg4
+  rotate: true
+  xy: 400, 1785
+  size: 60, 99
+  orig: 60, 99
+  offset: 0, 0
+  index: -1
+mouth_cg2
+  rotate: true
+  xy: 147, 1808
+  size: 37, 47
+  orig: 37, 48
+  offset: 0, 1
+  index: -1
+mouth_cg4
+  rotate: false
+  xy: 196, 1798
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+pants2
+  rotate: false
+  xy: 2, 449
+  size: 1100, 282
+  orig: 1100, 282
+  offset: 0, 0
+  index: -1
+penis_cg2
+  rotate: false
+  xy: 295, 1174
+  size: 452, 262
+  orig: 452, 262
+  offset: 0, 0
+  index: -1
+sock_L
+  rotate: false
+  xy: 2, 17
+  size: 568, 430
+  orig: 626, 430
+  offset: 0, 0
+  index: -1
+sock_R
+  rotate: false
+  xy: 572, 2
+  size: 499, 445
+  orig: 535, 501
+  offset: 29, 0
+  index: -1
+top
+  rotate: true
+  xy: 1560, 1730
+  size: 115, 198
+  orig: 115, 198
+  offset: 0, 0
+  index: -1
+top2
+  rotate: true
+  xy: 2, 851
+  size: 321, 429
+  orig: 321, 429
+  offset: 0, 0
+  index: -1
+top3
+  rotate: true
+  xy: 1820, 1558
+  size: 170, 180
+  orig: 170, 180
+  offset: 0, 0
+  index: -1
+top4
+  rotate: true
+  xy: 307, 1790
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+top5
+  rotate: true
+  xy: 1578, 1011
+  size: 319, 336
+  orig: 319, 336
+  offset: 0, 0
+  index: -1
+top6
+  rotate: true
+  xy: 600, 1619
+  size: 143, 205
+  orig: 145, 205
+  offset: 0, 0
+  index: -1
+top7
+  rotate: false
+  xy: 1311, 1370
+  size: 219, 209
+  orig: 219, 209
+  offset: 0, 0
+  index: -1
+top8
+  rotate: true
+  xy: 2, 1679
+  size: 127, 190
+  orig: 127, 190
+  offset: 0, 0
+  index: -1
+top9
+  rotate: false
+  xy: 1047, 1376
+  size: 262, 203
+  orig: 262, 203
+  offset: 0, 0
+  index: -1
+west
+  rotate: true
+  xy: 954, 1593
+  size: 153, 244
+  orig: 153, 244
+  offset: 0, 0
+  index: -1
+west_cg3
+  rotate: true
+  xy: 2, 1494
+  size: 153, 244
+  orig: 153, 244
+  offset: 0, 0
+  index: -1
+westfront_cg3
+  rotate: true
+  xy: 1760, 1730
+  size: 115, 244
+  orig: 123, 244
+  offset: 0, 0
+  index: -1
+
+damoman2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_cg2
+  rotate: true
+  xy: 756, 2
+  size: 531, 1241
+  orig: 531, 1241
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 1107, 1102
+  size: 546, 730
+  orig: 546, 764
+  offset: 0, 0
+  index: -1
+hand_cg3
+  rotate: false
+  xy: 2, 118
+  size: 752, 678
+  orig: 754, 678
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 798
+  size: 565, 896
+  orig: 595, 896
+  offset: 0, 0
+  index: -1
+leg_R3
+  rotate: true
+  xy: 900, 535
+  size: 565, 896
+  orig: 595, 896
+  offset: 0, 0
+  index: -1
+pants2back
+  rotate: false
+  xy: 2, 1365
+  size: 1103, 283
+  orig: 1103, 283
+  offset: 0, 0
+  index: -1
+
+damoman3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_cg3
+  rotate: false
+  xy: 2, 724
+  size: 842, 1242
+  orig: 842, 1242
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 846, 1274
+  size: 692, 917
+  orig: 692, 917
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 2, 30
+  size: 692, 923
+  orig: 692, 929
+  offset: 0, 6
+  index: -1
+leg_L3
+  rotate: true
+  xy: 927, 580
+  size: 692, 917
+  orig: 692, 917
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 927, 2
+  size: 576, 897
+  orig: 809, 898
+  offset: 209, 1
+  index: -1

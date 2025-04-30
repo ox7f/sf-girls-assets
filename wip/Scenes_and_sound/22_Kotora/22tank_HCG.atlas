@@ -1,0 +1,320 @@
+
+22tank_HCG.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+air
+  rotate: false
+  xy: 2, 2801
+  size: 504, 341
+  orig: 504, 341
+  offset: 0, 0
+  index: -1
+booba_L
+  rotate: true
+  xy: 2253, 1865
+  size: 632, 804
+  orig: 632, 804
+  offset: 0, 0
+  index: -1
+booba_L_sperm
+  rotate: true
+  xy: 629, 2160
+  size: 517, 928
+  orig: 517, 928
+  offset: 0, 0
+  index: -1
+booba_R
+  rotate: true
+  xy: 3059, 1779
+  size: 644, 842
+  orig: 644, 842
+  offset: 0, 0
+  index: -1
+bottom_sperm
+  rotate: false
+  xy: 2, 3144
+  size: 730, 234
+  orig: 730, 234
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: true
+  xy: 508, 2755
+  size: 349, 354
+  orig: 349, 354
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: true
+  xy: 2040, 3062
+  size: 284, 371
+  orig: 284, 371
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 1323, 3366
+  size: 166, 256
+  orig: 166, 258
+  offset: 0, 2
+  index: -1
+eye2
+  rotate: true
+  xy: 1581, 3366
+  size: 166, 256
+  orig: 166, 258
+  offset: 0, 2
+  index: -1
+eye3
+  rotate: true
+  xy: 1839, 3366
+  size: 166, 256
+  orig: 166, 258
+  offset: 0, 2
+  index: -1
+face
+  rotate: false
+  xy: 1559, 1953
+  size: 692, 618
+  orig: 692, 618
+  offset: 0, 0
+  index: -1
+hair2_F
+  rotate: true
+  xy: 3395, 2425
+  size: 500, 566
+  orig: 500, 566
+  offset: 0, 0
+  index: -1
+hair2_handback
+  rotate: false
+  xy: 2, 2253
+  size: 625, 500
+  orig: 625, 500
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 2176, 1060
+  size: 928, 717
+  orig: 928, 717
+  offset: 0, 0
+  index: -1
+hair_LB
+  rotate: true
+  xy: 2911, 2993
+  size: 325, 700
+  orig: 325, 700
+  offset: 0, 0
+  index: -1
+hair_LF
+  rotate: true
+  xy: 3329, 3320
+  size: 212, 358
+  orig: 212, 358
+  offset: 0, 0
+  index: -1
+hair_RF
+  rotate: true
+  xy: 1467, 1246
+  size: 705, 707
+  orig: 705, 707
+  offset: 0, 0
+  index: -1
+hair_little
+  rotate: true
+  xy: 734, 3106
+  size: 266, 332
+  orig: 266, 332
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 2413, 3005
+  size: 337, 496
+  orig: 343, 496
+  offset: 3, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 3613, 2927
+  size: 342, 447
+  orig: 342, 447
+  offset: 0, 0
+  index: -1
+hand_sperm
+  rotate: true
+  xy: 564, 3380
+  size: 152, 223
+  orig: 152, 223
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 465
+  size: 779, 1740
+  orig: 779, 1740
+  offset: 0, 0
+  index: -1
+man_handL1
+  rotate: false
+  xy: 2357, 2499
+  size: 1036, 492
+  orig: 1315, 616
+  offset: 0, 124
+  index: -1
+man_hand_B
+  rotate: true
+  xy: 2, 1494
+  size: 664, 1463
+  orig: 1361, 1463
+  offset: 480, 0
+  index: -1
+man_hand_P
+  rotate: false
+  xy: 3689, 3271
+  size: 320, 261
+  orig: 320, 261
+  offset: 0, 0
+  index: -1
+man_hand_Palt
+  rotate: true
+  xy: 2880, 3344
+  size: 188, 230
+  orig: 188, 230
+  offset: 0, 0
+  index: -1
+man_hand_R1
+  rotate: false
+  xy: 3106, 1017
+  size: 981, 760
+  orig: 981, 760
+  offset: 0, 0
+  index: -1
+man_hand_R2
+  rotate: true
+  xy: 1744, 2
+  size: 1013, 1736
+  orig: 1013, 1736
+  offset: 0, 0
+  index: -1
+milk_L
+  rotate: true
+  xy: 2097, 3355
+  size: 177, 295
+  orig: 177, 295
+  offset: 0, 0
+  index: -1
+milk_R
+  rotate: true
+  xy: 864, 2696
+  size: 403, 502
+  orig: 403, 502
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 3112, 3328
+  size: 204, 215
+  orig: 204, 215
+  offset: 0, 0
+  index: -1
+mouth_sperm
+  rotate: true
+  xy: 1827, 2573
+  size: 487, 528
+  orig: 487, 528
+  offset: 0, 0
+  index: -1
+penis
+  rotate: false
+  xy: 1068, 3101
+  size: 970, 263
+  orig: 970, 263
+  offset: 0, 0
+  index: -1
+ppface
+  rotate: true
+  xy: 789, 3374
+  size: 158, 324
+  orig: 158, 324
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: true
+  xy: 141, 3382
+  size: 150, 421
+  orig: 150, 421
+  offset: 0, 0
+  index: -1
+tonguebase
+  rotate: false
+  xy: 2, 3443
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+water2
+  rotate: true
+  xy: 2614, 3347
+  size: 185, 264
+  orig: 236, 264
+  offset: 0, 0
+  index: -1
+west2
+  rotate: false
+  xy: 2394, 3348
+  size: 218, 184
+  orig: 218, 184
+  offset: 0, 0
+  index: -1
+west2_base
+  rotate: false
+  xy: 1115, 3368
+  size: 206, 164
+  orig: 206, 164
+  offset: 0, 0
+  index: -1
+west_sperm
+  rotate: true
+  xy: 1368, 2679
+  size: 420, 457
+  orig: 420, 457
+  offset: 0, 0
+  index: -1
+
+22tank_HCG2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_base
+  rotate: true
+  xy: 2096, 2635
+  size: 1314, 1125
+  orig: 1314, 1125
+  offset: 0, 0
+  index: -1
+bottom_base
+  rotate: false
+  xy: 2, 2
+  size: 2235, 1459
+  orig: 2235, 1459
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 2096, 1576
+  size: 1146, 1057
+  orig: 1146, 1057
+  offset: 0, 0
+  index: -1
+man
+  rotate: false
+  xy: 2, 1463
+  size: 2092, 2486
+  orig: 2092, 2486
+  offset: 0, 0
+  index: -1

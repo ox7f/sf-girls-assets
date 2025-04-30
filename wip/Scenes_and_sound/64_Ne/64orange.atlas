@@ -1,0 +1,389 @@
+
+64orange.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 1788, 1801
+  size: 627, 726
+  orig: 635, 726
+  offset: 8, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 3275, 350
+  size: 1277, 815
+  orig: 1277, 815
+  offset: 0, 0
+  index: -1
+boarder_mask
+  rotate: true
+  xy: 2, 214
+  size: 871, 1815
+  orig: 876, 1820
+  offset: 3, 3
+  index: -1
+booba_L
+  rotate: true
+  xy: 2554, 2892
+  size: 438, 572
+  orig: 438, 608
+  offset: 0, 34
+  index: -1
+booba_R
+  rotate: false
+  xy: 1757, 2981
+  size: 795, 418
+  orig: 795, 418
+  offset: 0, 0
+  index: -1
+butt_L
+  rotate: true
+  xy: 2, 2614
+  size: 516, 869
+  orig: 516, 869
+  offset: 0, 0
+  index: -1
+butt_R
+  rotate: false
+  xy: 1819, 2
+  size: 1294, 882
+  orig: 1294, 882
+  offset: 0, 0
+  index: -1
+cape_under
+  rotate: false
+  xy: 2516, 1676
+  size: 663, 629
+  orig: 663, 629
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: false
+  xy: 900, 3491
+  size: 523, 274
+  orig: 523, 274
+  offset: 0, 0
+  index: -1
+effect2
+  rotate: false
+  xy: 278, 3793
+  size: 240, 147
+  orig: 240, 147
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 3389, 3324
+  size: 353, 386
+  orig: 355, 386
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 3041, 3332
+  size: 345, 346
+  orig: 345, 346
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: true
+  xy: 2273, 3401
+  size: 331, 372
+  orig: 331, 372
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 873, 2496
+  size: 549, 550
+  orig: 549, 550
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 1425, 2430
+  size: 549, 550
+  orig: 549, 550
+  offset: 0, 0
+  index: -1
+face3
+  rotate: true
+  xy: 1977, 2430
+  size: 549, 550
+  orig: 549, 550
+  offset: 0, 0
+  index: -1
+hair_L1
+  rotate: true
+  xy: 2475, 3734
+  size: 206, 582
+  orig: 206, 582
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: true
+  xy: 1537, 3760
+  size: 180, 511
+  orig: 180, 511
+  offset: 0, 0
+  index: -1
+hair_L3
+  rotate: true
+  xy: 2050, 3752
+  size: 188, 423
+  orig: 188, 423
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 3181, 1629
+  size: 846, 676
+  orig: 846, 676
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 971, 1087
+  size: 1136, 712
+  orig: 1136, 712
+  offset: 0, 0
+  index: -1
+hair_line
+  rotate: false
+  xy: 1346, 3047
+  size: 409, 397
+  orig: 409, 397
+  offset: 0, 0
+  index: -1
+hair_shadow
+  rotate: true
+  xy: 3347, 3679
+  size: 261, 439
+  orig: 261, 439
+  offset: 0, 0
+  index: -1
+in_juicer
+  rotate: true
+  xy: 2529, 2307
+  size: 543, 1128
+  orig: 543, 1128
+  offset: 0, 0
+  index: -1
+in_juicer2
+  rotate: true
+  xy: 2, 1241
+  size: 642, 967
+  orig: 642, 967
+  offset: 0, 0
+  index: -1
+in_juicerS
+  rotate: true
+  xy: 658, 1885
+  size: 543, 1128
+  orig: 543, 1128
+  offset: 0, 0
+  index: -1
+in_pp
+  rotate: true
+  xy: 2109, 886
+  size: 741, 1164
+  orig: 741, 1164
+  offset: 0, 0
+  index: -1
+in_shooting
+  rotate: true
+  xy: 3059, 3724
+  size: 216, 286
+  orig: 216, 286
+  offset: 0, 0
+  index: -1
+in_sperm_B
+  rotate: true
+  xy: 412, 3502
+  size: 274, 486
+  orig: 274, 486
+  offset: 0, 0
+  index: -1
+in_sperm_M1
+  rotate: true
+  xy: 2, 3800
+  size: 140, 274
+  orig: 140, 274
+  offset: 0, 0
+  index: -1
+in_sperm_M2
+  rotate: true
+  xy: 918, 3771
+  size: 169, 401
+  orig: 169, 401
+  offset: 0, 0
+  index: -1
+in_sperm_T
+  rotate: false
+  xy: 2647, 3394
+  size: 392, 338
+  orig: 392, 338
+  offset: 0, 0
+  index: -1
+in_sperm_shoot_L
+  rotate: false
+  xy: 2, 3132
+  size: 446, 368
+  orig: 446, 368
+  offset: 0, 0
+  index: -1
+in_sperm_shoot_L2
+  rotate: false
+  xy: 450, 3132
+  size: 446, 368
+  orig: 446, 368
+  offset: 0, 0
+  index: -1
+in_sperm_shoot_R
+  rotate: true
+  xy: 3788, 3625
+  size: 315, 288
+  orig: 315, 288
+  offset: 0, 0
+  index: -1
+in_sperm_shoot_done
+  rotate: false
+  xy: 898, 3121
+  size: 446, 368
+  orig: 446, 368
+  offset: 0, 0
+  index: -1
+man_head
+  rotate: true
+  xy: 2, 2051
+  size: 561, 654
+  orig: 561, 654
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 520, 3790
+  size: 155, 150
+  orig: 155, 150
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 677, 3778
+  size: 239, 162
+  orig: 239, 162
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 1321, 3767
+  size: 214, 173
+  orig: 214, 173
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: true
+  xy: 3128, 2852
+  size: 470, 638
+  orig: 470, 638
+  offset: 0, 0
+  index: -1
+scraf_leg
+  rotate: true
+  xy: 1425, 3446
+  size: 312, 441
+  orig: 312, 441
+  offset: 0, 0
+  index: -1
+semen
+  rotate: false
+  xy: 2, 3523
+  size: 408, 268
+  orig: 408, 268
+  offset: 0, 0
+  index: -1
+tear3
+  rotate: true
+  xy: 1868, 3438
+  size: 312, 403
+  orig: 312, 403
+  offset: 0, 0
+  index: -1
+
+64orange2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boarder
+  rotate: true
+  xy: 2, 2320
+  size: 890, 1834
+  orig: 890, 1834
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 2
+  size: 1958, 1256
+  orig: 1962, 1260
+  offset: 2, 2
+  index: -1
+cape
+  rotate: true
+  xy: 2, 1289
+  size: 1029, 1379
+  orig: 1029, 1379
+  offset: 0, 0
+  index: -1
+in_pussy_in
+  rotate: false
+  xy: 2580, 447
+  size: 1103, 1630
+  orig: 1103, 1630
+  offset: 0, 0
+  index: -1
+in_pussy_shadow
+  rotate: false
+  xy: 1383, 1260
+  size: 1195, 1052
+  orig: 1443, 2246
+  offset: 224, 105
+  index: -1
+in_pussyring
+  rotate: true
+  xy: 3084, 2079
+  size: 1131, 997
+  orig: 1131, 1104
+  offset: 0, 0
+  index: -1
+man_arm_R
+  rotate: true
+  xy: 1838, 2314
+  size: 896, 1244
+  orig: 925, 1244
+  offset: 0, 0
+  index: -1
+
+64orange3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in_pussy
+  rotate: true
+  xy: 2252, 251
+  size: 1774, 1560
+  orig: 1774, 1632
+  offset: 0, 0
+  index: -1
+man_body
+  rotate: true
+  xy: 2, 2
+  size: 2023, 2248
+  orig: 2023, 2391
+  offset: 0, 143
+  index: -1
