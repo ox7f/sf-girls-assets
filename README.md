@@ -17,7 +17,7 @@ Git LFS is required to download large assets like images, animations, and metada
 - Visit: https://git-lfs.github.com
 - Or install via command line (if supported):
 
-``` bash
+```bash
 git lfs install
 ```
 
@@ -25,7 +25,7 @@ git lfs install
 
 Use the following command to clone the project and download all files:
 
-``` bash
+```bash
 git clone https://github.com/ox7f/sf-girls-assets.git
 cd sf-girls-assets
 git lfs pull
